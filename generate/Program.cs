@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections;
 using System.Collections.Specialized;
 using System.IO;
@@ -9,6 +9,7 @@ using System.CodeDom;
 using YamlDotNet.Core;
 using YamlDotNet.Core.Events;
 using System.CodeDom.Compiler;
+using System.Collections.Generic;
 
 
 class Program
@@ -118,40 +119,29 @@ class Program
         }
     }
 
-    private static string PrintData(bool indent, int nesting, object data)
-    {
+    private static string PrintData(bool indent, int nesting, object data) {
         var s = new StringBuilder();
 
-        if (indent)
-        {
-            for (int i = 0; i < nesting; i++)
-            {
+        if (indent) {
+            for (int i = 0; i < nesting; i++) {
                 s.Append("\t");
             }
         }
 
-        if (data == null)
-        {
+        if (data == null) {
             s.Append("null");
-        }
-        else if (data is string)
-        {
+        } else if (data is string) {
             s.Append(ToLiteral((string)data));
-        }
-        else if (data is Array)
-        {
+        } else if (data is Array) {
             s.Append("new string[]\n");
-            for (int i = 0; i < nesting; i++)
-            {
+            for (int i = 0; i < nesting; i++) {
                 s.Append("\t");
             }
             s.Append("{\n");
 
             bool comma = false;
-            foreach (object o in (object[])data)
-            {
-                if (comma)
-                {
+            foreach (object o in (object[])data) {
+                if (comma) {
                     s.Append(",\n");
                 }
                 s.Append(PrintData(true, nesting + 1, o));
@@ -159,31 +149,24 @@ class Program
             }
 
             s.Append("\n");
-            for (int i = 0; i < nesting; i++)
-            {
+            for (int i = 0; i < nesting; i++) {
                 s.Append("\t");
             }
             s.Append("}");
-        }
-        else if (data is OrderedDictionary)
-        {
+        } else if (data is OrderedDictionary) {
             s.Append("new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)\n");
-            for (int i = 0; i < nesting; i++)
-            {
+            for (int i = 0; i < nesting; i++) {
                 s.Append("\t");
             }
             s.Append("{\n");
 
             bool comma = false;
-            foreach (DictionaryEntry entry in (OrderedDictionary)data)
-            {
-                if (comma)
-                {
+            foreach (DictionaryEntry entry in (OrderedDictionary)data) {
+                if (comma) {
                     s.Append(",\n");
                 }
 
-                for (int i = 0; i < nesting + 1; i++)
-                {
+                for (int i = 0; i < nesting + 1; i++) {
                     s.Append("\t");
                 }
                 s.Append("{\n ");
@@ -195,8 +178,7 @@ class Program
                 s.Append(PrintData(true, nesting + 2, entry.Value));
 
                 s.Append("\n");
-                for (int i = 0; i < nesting + 1; i++)
-                {
+                for (int i = 0; i < nesting + 1; i++) {
                     s.Append("\t");
                 }
                 s.Append("}");
@@ -205,14 +187,42 @@ class Program
             }
 
             s.Append("\n");
-            for (int i = 0; i < nesting; i++)
-            {
+            for (int i = 0; i < nesting; i++) {
                 s.Append("\t");
             }
             s.Append("}");
+
+        } else if (data is Dictionary<string, HashSet<string>> dict) {
+            s.Append("new Dictionary<string, HashSet<string>>()\n");
+            for (int i = 0; i < nesting; i++) {
+                s.Append("\t");
         }
-        else
-        {
+            s.Append("{\n");
+
+            bool comma = false;
+            foreach (var entry in dict) {
+                if (comma) {
+                    s.Append(",\n");
+                }
+
+                for (int i = 0; i < nesting + 1; i++) {
+                    s.Append("\t");
+                }
+                s.Append("{ ");
+                s.Append(ToLiteral(entry.Key).Trim());
+                s.Append(",new HashSet<string>( new string[] { ");
+                s.Append(string.Join(", ", entry.Value.Select(a=>ToLiteral(a).Trim())));
+                s.Append(" } ) }");
+
+                comma = true;
+            }
+
+            s.Append("\n");
+            for (int i = 0; i < nesting; i++) {
+                s.Append("\t");
+            }
+            s.Append("}");
+        } else {
             throw new ArgumentException();
         }
 
@@ -257,7 +267,8 @@ class Program
             er.Expect<DocumentEnd>();
             er.Expect<StreamEnd>();
         
-
+		var modelsets = (zones["modelsets"] as OrderedDictionary).Cast<DictionaryEntry>().ToDictionary(entry => entry.Key.ToString(),entry=>(entry.Value as object[]).Cast<string>().ToHashSet());
+		//Dictionary<string,string[]> modelSets=new(.Select());
         // Remove modelsets key, not a real zone
         zones.Remove("modelsets");
 
@@ -288,7 +299,8 @@ class Program
                     OrderedDictionary newValueData = new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
                     {
                         { "name", valueData["name"] },
-                        { "description", valueData["description"] }
+                        { "description", valueData["description"] },
+						{ "models", valueData["models"] }
                     };
 
                     newValues.Add(value, newValueData);
@@ -349,6 +361,7 @@ class Program
 
         Console.Write(
             "using System.Collections;\n" +
+			"using System.Collections.Generic;\n" +
             "using System.Collections.Specialized;\n\n" +
             "namespace Eiscp.Core\n" +
             "{\n" +
@@ -359,10 +372,12 @@ class Program
             $"\t\tpublic static readonly OrderedDictionary CommandMappings = {PrintData(false, 2, commandMappings)};\n" +
             "\n" +
             $"\t\tpublic static readonly OrderedDictionary ValueMappings = {PrintData(false, 2, valueMappings)};\n" +
+			"\n" +
+            $"\t\tpublic static readonly Dictionary<string,HashSet<string>> ModelSets = {PrintData(false, 2, modelsets)};\n" +
             "\t}\n" +
             "}\n"
         );
-        Console.Flush();
+        Console.Flush(); //modelsets
     }
 }
 

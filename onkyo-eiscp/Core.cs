@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.IO;
 using System.Net;
 using System.Net.Sockets;
@@ -186,6 +186,35 @@ namespace Eiscp.Core {
     public static class Utils
     {
         /// <summary>
+		public class CommandOption{
+			public string[] names;
+			public string raw_value;
+			public string description;
+			public string models_group;
+			public string FirstName => names.FirstOrDefault();
+		}
+		public static IEnumerable<CommandOption> GetCommandOptions(string command, string zone="main") {
+			var info = GetCommandInfo(command,zone);
+			var values = info.cmdInfo["values"] as OrderedDictionary;
+			var ret = new List<CommandOption>();
+			foreach (DictionaryEntry kvp in values){
+				Console.WriteLine(kvp);
+				var valDict = kvp.Value as IDictionary;
+				var names  = valDict["name"];
+
+					
+				var add = new CommandOption{raw_value=kvp.Key.ToString(),models_group=valDict["models"]?.ToString(),description=valDict["description"]?.ToString() };
+				if (names is string)
+					add.names = [names as string];
+				else
+					add.names = names as string[];
+				ret.Add(add);
+			}
+			return ret;
+		}
+		public static HashSet<string> ReceiverModelGroups(String receiver_model){
+			return EiscpCommands.ModelSets.Where(a=>a.Value.Contains(receiver_model)).Select(a => a.Key).ToHashSet();
+		}
         /// Convert an ascii command like (PVR00) to the binary data we
         /// need to send to the receiver.
         /// </summary>        
@@ -285,12 +314,11 @@ namespace Eiscp.Core {
         ///     Command("zone2.volume=66");
         /// </code>
         /// </example>
-        public static string CommandToIscp(string command, string arguments = null, string zone = null)
-        {
+        public static string CommandToIscp(string command, string arguments = null, string zone = null) {
 			if (String.IsNullOrWhiteSpace(zone))
 				zone = "main";
             List<string> argumentsList = null;
-            string defaultZone = "main";
+
             char[] commandSep = new char[] { '.', ' ' };
             Func<string, string> norm = s => s.Trim().ToLower();
 
@@ -308,14 +336,10 @@ namespace Eiscp.Core {
                         select norm(c)
                     );
 
-                    if (parts.Count == 2)
-                    {
+					if (parts.Count == 2) {
                         zone = parts[0];
                         command = parts[1];
-                    }
-                    else
-                    {
-                        zone = defaultZone;
+					} else {
                         command = parts[0];
                     }
 
@@ -324,54 +348,34 @@ namespace Eiscp.Core {
                         from a in commandArguments.Split(',', ' ')
                         select norm(a)
                     );
-                }
-                else
-                {
+				} else {
                     // Split command part by space or dot
                     var parts = new List<string>(
                         from c in command.Split(commandSep)
                         select norm(c)
                     );
 
-                    if (parts.Count >= 3)
-                    {
+					if (parts.Count >= 3) {
                         zone = parts[0];
                         command = parts[1];
                         argumentsList = parts.GetRange(2, parts.Count - 2);
-                    }
-                    else if (parts.Count == 2)
-                    {
-                        zone = defaultZone;
+					} else if (parts.Count == 2) {
                         command = parts[0];
                         argumentsList = parts.GetRange(1, 1);
-                    }
-                    else
-                    {
+					} else {
                         throw new ArgumentException("Need at least command and argument");
                     }
                 }
 			} else
 				argumentsList = arguments.Split(new[] { " " }, StringSplitOptions.RemoveEmptyEntries).ToList();
-			if (command.Length == 3)//if they gave a direct cmd we tolowered it already
-				command = command.ToUpper();
-            // Find the command in our database, resolve to internal eISCP command
-			if (!EiscpCommands.Commands.Contains(zone)) {
-				throw new ArgumentException(String.Format("\"{0}\" is not a valid zone", zone));
-            }
-
-			if (!TryNav<string>(EiscpCommands.CommandMappings, out var cmdPrefix, zone, command))
-				cmdPrefix = command;
-			var cmdInfo = Nav<IDictionary>(EiscpCommands.Commands, zone, cmdPrefix);
-			if (cmdInfo == null) {
-                throw new ArgumentException(String.Format("\"{0}\" is not a valid command in zone \"{1}\"", command, zone));
-            }
+			var cmdInfo = GetCommandInfo(command, zone);
 
             // TODO: For now, only support one; though some rare commands would
             // need multiple.
             string argument = argumentsList[0];
 
-			if (!TryNav<string>(EiscpCommands.ValueMappings, out var sendValue, zone, cmdPrefix, argument)) {
-				var dict = Nav<IDictionary>(EiscpCommands.ValueMappings, zone, cmdPrefix);//right now we are not validating against the dict we prolly should
+			if (!TryNav<string>(EiscpCommands.ValueMappings, out var sendValue, zone, cmdInfo.actualCmdPrefix, argument)) {
+				var dict = Nav<IDictionary>(EiscpCommands.ValueMappings, zone, cmdInfo.actualCmdPrefix);//right now we are not validating against the dict we prolly should
 				if (Int32.TryParse(argument, out var intVal))
 					sendValue = Convert.ToString(intVal, 16);
 				else
@@ -384,7 +388,25 @@ namespace Eiscp.Core {
                     "for command \"{1}\" in zone \"{2}\"", argument, command, zone));
             }
 
-			return (string)cmdPrefix + sendValue;
+			return (string)cmdInfo.actualCmdPrefix + sendValue;
+		}
+
+		private static (string actualCmdPrefix, IDictionary cmdInfo) GetCommandInfo(string command, string zone) {
+			if (command.Length == 3)//if they gave a direct cmd we tolowered it already
+				command = command.ToUpper();
+			// Find the command in our database, resolve to internal eISCP command
+			if (!EiscpCommands.Commands.Contains(zone)) {
+				throw new ArgumentException(String.Format("\"{0}\" is not a valid zone", zone));
+			}
+
+			if (!TryNav<string>(EiscpCommands.CommandMappings, out var cmdPrefix, zone, command))
+				cmdPrefix = command;
+			var cmdInfo = Nav<IDictionary>(EiscpCommands.Commands, zone, cmdPrefix);
+			if (cmdInfo == null) {
+				throw new ArgumentException(String.Format("\"{0}\" is not a valid command in zone \"{1}\"", command, zone));
+			}
+
+			return (cmdPrefix,cmdInfo);
         }
 
 		public static Tuple<string, string> IscpToCommand(string iscpMessage) {
