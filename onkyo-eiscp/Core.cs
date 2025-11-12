@@ -16,6 +16,9 @@ using Eiscp.Core;
 using System.Reflection.Emit;
 using kvp = System.Collections.Generic.KeyValuePair<string, string>;
 namespace Eiscp.Core {
+	public record RangedKey(int MinVal, int MaxVal){
+		public override string ToString() => $"min: {MinVal} max: {MaxVal}";
+	}
 	public class CmdDetailedResult {
 		public string CommandName;
 		public string CommandDescription;
@@ -185,13 +188,16 @@ namespace Eiscp.Core {
 
     public static class Utils
     {
-        /// <summary>
+		public class RangedCommandOption : CommandOption {
+			public int MinVal;
+			public int MaxVal;
+		}
 		public class CommandOption{
-			public string[] names;
+			public string[] names=[];
 			public string raw_value;
 			public string description;
 			public string models_group;
-			public string FirstName => names.FirstOrDefault();
+			public string FirstName => names?.FirstOrDefault();
 		}
 		public static IEnumerable<CommandOption> GetCommandOptions(string command, string zone="main") {
 			var info = GetCommandInfo(command,zone);
@@ -201,9 +207,14 @@ namespace Eiscp.Core {
 				Console.WriteLine(kvp);
 				var valDict = kvp.Value as IDictionary;
 				var names  = valDict["name"];
+				var rangeKey = kvp.Key as RangedKey;
 
+				var add = rangeKey == null ? new CommandOption() : new RangedCommandOption(){MinVal=rangeKey.MinVal,MaxVal=rangeKey.MaxVal };
+
+				add.raw_value=kvp.Key.ToString();
+				add.models_group=valDict["models"].ToString();
+				add.description=valDict["description"]?.ToString();
 					
-				var add = new CommandOption{raw_value=kvp.Key.ToString(),models_group=valDict["models"]?.ToString(),description=valDict["description"]?.ToString() };
 				if (names is string)
 					add.names = [names as string];
 				else
@@ -388,10 +399,21 @@ namespace Eiscp.Core {
             string argument = argumentsList[0];
 
 			if (!TryNav<string>(EiscpCommands.ValueMappings, out var sendValue, zone, cmdInfo.actualCmdPrefix, argument)) {
-				var dict = Nav<IDictionary>(EiscpCommands.ValueMappings, zone, cmdInfo.actualCmdPrefix);//right now we are not validating against the dict we prolly should
-				if (Int32.TryParse(argument, out var intVal))
-					sendValue = Convert.ToString(intVal, 16);
-				else
+				var options = receiver.GetCommandOptions(command,zone);
+				if (options.FirstOrDefault() is RangedCommandOption ro && int.TryParse(argument, out var intVal)) {
+					var signAdd="";
+					if (ro.MinVal < 0) {
+						if (intVal == 0)
+							signAdd="0";
+						else if (intVal > 0)
+							signAdd = "+";
+						else  {
+							signAdd = "-";
+							intVal *= -1;
+						}
+					}
+					sendValue = signAdd + intVal.ToString("X2");
+				} else
 					sendValue = null;
 			}
 			//var value = Nav<string>(cmdInfo, "values", actualValueName, "name");
