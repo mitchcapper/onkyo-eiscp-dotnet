@@ -314,7 +314,20 @@ namespace Eiscp.Core {
         ///     Command("zone2.volume=66");
         /// </code>
         /// </example>
-        public static string CommandToIscp(string command, string arguments = null, string zone = null) {
+        public static string CommandToIscp(string command, string arguments = null, string zone = null) => CommandToIscp(null, command, arguments, zone);
+
+		/// <summary>
+		/// Like CommandToIscp but with receiver for model specific command filtering
+		/// </summary>
+		/// <param name="receiver"></param>
+		/// <param name="command"></param>
+		/// <param name="arguments"></param>
+		/// <param name="zone"></param>
+		/// <returns></returns>
+		/// <exception cref="ArgumentException"></exception>
+		public static string CommandToIscp(IReceiver receiver, string command, string arguments = null, string zone = null) {
+
+
 			if (String.IsNullOrWhiteSpace(zone))
 				zone = "main";
             List<string> argumentsList = null;
@@ -536,6 +549,7 @@ namespace Eiscp.Core {
         string Model { get; }
         IPAddress Host { get; }
         int Port { get; }
+		public IEnumerable<Utils.CommandOption> GetCommandOptions(string command, string zone="main",bool filterForModel=true,bool notJapan=true);
     }
 
     /// <summary>
@@ -787,7 +801,7 @@ namespace Eiscp.Core {
 			return new(res.CommandName, res.ValueName);
 		}
 		public CmdDetailedResult CommandDetailed(string command, string arguments = null, string zone = null) {
-            var iscpMessage = Utils.CommandToIscp(command, arguments, zone);
+            var iscpMessage = Utils.CommandToIscp(this, command, arguments, zone);
             var response = Raw(iscpMessage);
             if (response != null)
             {
@@ -815,6 +829,17 @@ namespace Eiscp.Core {
         {
             Command("power", "off");
         }
+		protected HashSet<string> ModelGroups  => field ??= Utils.ReceiverModelGroups(Model);
+
+		public IEnumerable<Utils.CommandOption> GetCommandOptions(string command, string zone = "main", bool filterForModel = true, bool notJapan = true) {
+			var opts = Utils.GetCommandOptions(command,zone);
+			if (notJapan)
+				opts = opts.Where(a => a.description.Contains("japan", StringComparison.CurrentCultureIgnoreCase) == false);
+			if (filterForModel && !String.IsNullOrWhiteSpace(Model))
+				opts = opts.Where(a=> ModelGroups.Contains(a.models_group)).ToArray();
+
+			return opts;
+		}
     }
 
     /// <summary>
