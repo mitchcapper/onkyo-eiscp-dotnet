@@ -665,8 +665,9 @@ namespace Eiscp.Core
 		/// </summary>
 		/// Waits for <paramref name="timeout"/> seconds, then returns all devices found,
 		/// in form of a list of <see cref="IReceiver"/>s.        
-		public static List<IReceiver> Discover(double timeout, Func<IPAddress, int, string, IReceiver> constructor)
+		public static List<IReceiver> Discover(double timeout, Func<IPAddress, int, string, IReceiver> constructor, IPAddress onlyBroadcastTo=null)
 		{
+			onlyBroadcastTo ??= IPAddress.Broadcast;
 			int onkyoPort = 60128;
 			byte[] onkyoMagic = (new EiscpPacket("!xECNQSTN")).Bytes;
 
@@ -680,7 +681,7 @@ namespace Eiscp.Core
 				socket.Blocking = false; // So we can use Poll
 				socket.EnableBroadcast = true;
 				socket.Bind(new IPEndPoint(IPAddress.Any, 0));
-				socket.SendTo(onkyoMagic, new IPEndPoint(IPAddress.Broadcast, onkyoPort));
+				socket.SendTo(onkyoMagic, new IPEndPoint(onlyBroadcastTo, onkyoPort));
 
 				EndPoint addr = new IPEndPoint(IPAddress.Broadcast, onkyoPort);
 				byte[] data = new byte[1024];
@@ -726,9 +727,9 @@ namespace Eiscp.Core
 			return foundReceivers;
 		}
 
-		public static List<IReceiver> Discover(double timeout = 5)
+		public static List<IReceiver> Discover(double timeout = 5, IPAddress onlyBroadcastTo=null)
 		{
-			return Discover(timeout, EiscpClient.Create);
+			return Discover(timeout, EiscpClient.Create, onlyBroadcastTo);
 		}
 
 		public static EiscpClient Create(IPAddress address, int port, string model)
@@ -979,9 +980,9 @@ namespace Eiscp.Core
 			return new Receiver(address, port, model);
 		}
 
-		public static new List<IReceiver> Discover(double timeout = 5)
+		public static new List<IReceiver> Discover(double timeout = 5, IPAddress onlyBroadcastTo=null)
 		{
-			return EiscpClient.Discover(timeout, Receiver.Create);
+			return EiscpClient.Discover(timeout, Receiver.Create, onlyBroadcastTo);
 		}
 
 		private void EnsureThreadRunning()
