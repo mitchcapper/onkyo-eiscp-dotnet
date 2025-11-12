@@ -32,7 +32,7 @@ Selecting the receiver:
 If none of these options is given, the program searches for receivers,
 and uses the first one found.
 
-  --discover            List all discoverable receivers
+  --discover            List all discoverable receivers, can limit to a specific host with --host
   --help-commands       List available commands.
 
 Examples:
@@ -54,19 +54,23 @@ Examples:
 			bool all = false;
 			bool discover = false;
 			bool commandHelp = false;
+			bool modelHelp = false;
 			bool help = false;
 			string name = null;
 			string host = null;
+			string model = null;
 			string port = null;
 
 			var optionSet = new OptionSet()
 			{
 				{ "t|host=", "Connect to this host", v => { host = v; } },
+				{ "m|model=", "Specify receiver model if not using discovery (useful for some commands)", v => { model = v; } },
 				{ "p|port=", "Connect to this port [default: 60128]", v => { port = v; } },
 				{ "a|all", "Discover receivers, send to all found", v => { all = v != null; } },
 				{ "n|name=", "Discover receivers, send to those matching name", v => { name = v; } },
 				{ "discover", "List all discoverable receivers", v => { discover = v != null; } },
 				{ "help-commands", "List available commands", v => { commandHelp = v != null; } },
+				{ "help-models", "List known models", v => { modelHelp = v != null; } },
 				{ "h|help", "Print help", v => { help = v != null; } }
 			};
 
@@ -90,10 +94,10 @@ Examples:
 				return 0;
 			}
 
-			// List commands
 			if (discover)
 			{
-				foreach (var receiver in EiscpClient.Discover(timeout: 1))
+				var broadcastLimit = String.IsNullOrWhiteSpace(host) == false ?  Dns.GetHostAddresses(host).FirstOrDefault() : null;
+				foreach (var receiver in EiscpClient.Discover(timeout: 1,broadcastLimit))
 				{
 					Console.WriteLine("{0} {1}:{2}", receiver.Model, receiver.Host, receiver.Port);
 				}
@@ -101,6 +105,15 @@ Examples:
 				return 0;
 			}
 
+			if (modelHelp)
+			{
+				Console.WriteLine("Known models:");
+				
+				foreach (var modelKey in Core.Utils.ReceiverModels())
+					Console.WriteLine("\t" + modelKey);
+
+				return 0;
+			}
 			// List available commands
 			if (commandHelp)
 			{
@@ -124,7 +137,7 @@ Examples:
 					Console.WriteLine("No such zone: " + selectedZone);
 					return 1;
 				}
-
+				var fakeReceiver = new EiscpClient(IPAddress.Loopback, 60128, model);
 				if (command.Count == 1) // zone specified, command not
 				{
 					Console.WriteLine("Available commands for this zone:");
@@ -132,6 +145,11 @@ Examples:
 					IDictionary commandsInZone = (IDictionary) EiscpCommands.Commands[selectedZone];
 					foreach (IDictionary commandInfo in commandsInZone.Values)
 					{
+						if (! String.IsNullOrWhiteSpace(model)){
+							var cmdOpts = fakeReceiver.GetCommandOptions(commandInfo["name"].ToString(),selectedZone);
+							if (! cmdOpts.Any())
+								continue;
+						}
 						Console.WriteLine("  {0} - {1}", commandInfo["name"], commandInfo["description"]);
 					}
 
@@ -150,10 +168,11 @@ Examples:
 				}
 
 				Console.WriteLine("Possible values for this command:");
-				IDictionary valuesForCommandDict = Utils.Nav<IDictionary>(EiscpCommands.Commands, selectedZone, selectedCommand, "values");
-				foreach (IDictionary valueInfo in valuesForCommandDict.Values)
+				var filteredOpts = fakeReceiver.GetCommandOptions( selectedCommand, selectedZone);
+				//IDictionary valuesForCommandDict = Utils.Nav<IDictionary>(EiscpCommands.Commands, selectedZone, selectedCommand, "values");
+				foreach (var opt in filteredOpts)
 				{
-					Console.WriteLine("  {0} - {1}", valueInfo["name"], valueInfo["description"]);
+					Console.WriteLine("  {0} - {1}", opt.FirstName, opt.description.Replace("\n"," "));
 				}
 
 				return 0;
@@ -163,7 +182,7 @@ Examples:
 
 			var receivers = new List<IReceiver>();
 
-			if (host != null)
+			if (host != null && ! discover)
 			{
 				IPAddress[] addresses = new IPAddress[0];
 				try
@@ -190,11 +209,12 @@ Examples:
 					return 1;
 				}
 
-				receivers.Add(new EiscpClient(addresses[0], portNum));
+				receivers.Add(new EiscpClient(addresses[0], portNum, model));
 			}
 			else
 			{
-				receivers = EiscpClient.Discover(timeout: 1);
+				var broadcastLimit = String.IsNullOrWhiteSpace(host) == false ?  Dns.GetHostAddresses(host).FirstOrDefault() : null;
+				receivers = EiscpClient.Discover(timeout: 1, broadcastLimit);
 
 				if (!all)
 				{
