@@ -211,7 +211,6 @@ namespace Eiscp.Core
 			var ret = new List<CommandOption>();
 			foreach (DictionaryEntry kvp in values)
 			{
-				Console.WriteLine(kvp);
 				var valDict = kvp.Value as IDictionary;
 				var names = valDict["name"];
 				var rangeKey = kvp.Key as RangedKey;
@@ -234,6 +233,7 @@ namespace Eiscp.Core
 		{
 			return EiscpCommands.ModelSets.Where(a => a.Value.Contains(receiver_model)).Select(a => a.Key).ToHashSet();
 		}
+		public static string[] ReceiverModels() => EiscpCommands.ModelSets.SelectMany(a => a.Value).Distinct().OrderBy(a=>a).ToArray();
 		/// Convert an ascii command like (PVR00) to the binary data we
 		/// need to send to the receiver.
 		/// </summary>        
@@ -672,7 +672,7 @@ namespace Eiscp.Core
 
 			var foundReceivers = new List<IReceiver>();
 
-
+			var knownModels = Utils.ReceiverModels().ToHashSet();
 			// Broadcast magic
 			Socket socket = new Socket(AddressFamily.InterNetwork, SocketType.Dgram, ProtocolType.Udp);
 			using (socket)
@@ -709,7 +709,13 @@ namespace Eiscp.Core
 
 					int port = Int32.Parse(info["iscp_port"].Value);
 					string model = info["model_name"].Value;
-
+					if (! knownModels.Contains(model))
+					{
+						var modelQuery = model.Replace("(ether)","",StringComparison.CurrentCultureIgnoreCase);
+						var newModelName = knownModels.FirstOrDefault(a=> a.Equals(modelQuery,StringComparison.CurrentCultureIgnoreCase) );
+						if (newModelName != null)
+							model = newModelName;
+					}
 					// Give the user a ready-made receiver instance. It will only
 					// connect on demand, when actually used.
 					IReceiver receiver = constructor((addr as IPEndPoint).Address, port, model);
