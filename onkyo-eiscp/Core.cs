@@ -709,7 +709,20 @@ namespace Eiscp.Core {
                 Header header = EiscpPacket.ParseHeader(headerBytes);
 
                 byte[] message = new byte[header.messageSize];
-                commandSocket.Receive(message);
+				Span<byte> empty = message;
+				var offset = 0;
+                
+				while (empty.Length > 0){
+					var received = commandSocket.Receive(empty);
+					if (received == 0)
+						break;
+					empty = empty.Slice(received);
+					if (empty.Length > 0) {
+						if (! commandSocket.Poll(microsecondTimeout, SelectMode.SelectRead))
+							break;
+					}
+				}
+
 
                 return IscpMessage.Parse(message);
             }
