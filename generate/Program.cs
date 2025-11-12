@@ -14,386 +14,418 @@ using System.Collections.Generic;
 
 class Program
 {
-    private static object GetData(EventReader r)
-    {
-        if(r.Accept<Scalar>())
-        {
-            return r.Expect<Scalar>().Value;
-        }
-        else if(r.Accept<SequenceStart>()) {                
-            var seq = new ArrayList();
+	private static object GetData(EventReader r)
+	{
+		if (r.Accept<Scalar>())
+		{
+			return r.Expect<Scalar>().Value;
+		}
+		else if (r.Accept<SequenceStart>())
+		{
+			var seq = new ArrayList();
 
-            r.Expect<SequenceStart>();
+			r.Expect<SequenceStart>();
 
-            while(!r.Accept<SequenceEnd>())
-            {
-                seq.Add(GetData(r));
-            }
+			while (!r.Accept<SequenceEnd>())
+			{
+				seq.Add(GetData(r));
+			}
 
-            r.Expect<SequenceEnd>();
+			r.Expect<SequenceEnd>();
 
-            // Arrays are IStructuralEquatable, ArrayLists are not.
-            return seq.ToArray();
-        }
-        else if(r.Accept<MappingStart>())
-        {
-            // Since we use sequences as keys...
-            var map = new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer);
+			// Arrays are IStructuralEquatable, ArrayLists are not.
+			return seq.ToArray();
+		}
+		else if (r.Accept<MappingStart>())
+		{
+			// Since we use sequences as keys...
+			var map = new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer);
 
-            r.Expect<MappingStart>();
+			r.Expect<MappingStart>();
 
-            while(!r.Accept<MappingEnd>())
-            {
-                object key = GetData(r);
-                object value = GetData(r);
-                map.Add(key, value);
-            }
+			while (!r.Accept<MappingEnd>())
+			{
+				object key = GetData(r);
+				object value = GetData(r);
+				map.Add(key, value);
+			}
 
-            r.Expect<MappingEnd>();
+			r.Expect<MappingEnd>();
 
-            return map;
-        }
-        else {
-            throw new YamlException();
-        }
-    }
+			return map;
+		}
+		else
+		{
+			throw new YamlException();
+		}
+	}
 
-    private static IEnumerable FindCommandAliases(OrderedDictionary commandList)
-    {
-        foreach (DictionaryEntry commandEntry in commandList)
-        {
-            object name = (commandEntry.Value as IDictionary)["name"];
-            var aliases = ((commandEntry.Value as IDictionary)["aliases"] as object[])?.Cast<string>().ToArray();
-            if (name is IEnumerable && !(name is string))
-            {
-                foreach (object item in (IEnumerable)name)
-                {
-                    yield return new DictionaryEntry(item, commandEntry.Key);
-                }
-            }
-            else
-            {
+	private static IEnumerable FindCommandAliases(OrderedDictionary commandList)
+	{
+		foreach (DictionaryEntry commandEntry in commandList)
+		{
+			object name = (commandEntry.Value as IDictionary)["name"];
+			var aliases = ((commandEntry.Value as IDictionary)["aliases"] as object[])?.Cast<string>().ToArray();
+			if (name is IEnumerable && !(name is string))
+			{
+				foreach (object item in (IEnumerable) name)
+				{
+					yield return new DictionaryEntry(item, commandEntry.Key);
+				}
+			}
+			else
+			{
 
-                yield return new DictionaryEntry(name, commandEntry.Key);
-                if (aliases?.Length > 0) {
-                    foreach (var alias in aliases)
-                        yield return new DictionaryEntry(alias, commandEntry.Key);
-                }
-                }
-            }
-        }
+				yield return new DictionaryEntry(name, commandEntry.Key);
+				if (aliases?.Length > 0)
+				{
+					foreach (var alias in aliases)
+						yield return new DictionaryEntry(alias, commandEntry.Key);
+				}
+			}
+		}
+	}
 
-    private static IEnumerable FindValueAliases(OrderedDictionary values)
-    {
-        foreach (DictionaryEntry valueEntry in values)
-        {
-            if ((valueEntry.Value as IDictionary).Contains("name"))
-            {
-                object name = (valueEntry.Value as IDictionary)["name"];
-                if (name is IEnumerable && !(name is string))
-                {
-                    foreach (object item in (IEnumerable)name)
-                    {
-                        yield return new DictionaryEntry(item, valueEntry.Key);
-                    }
-                }
-                else
-                {
-                    yield return new DictionaryEntry(name, valueEntry.Key);
-                }
-            }
-        }
-    }
+	private static IEnumerable FindValueAliases(OrderedDictionary values)
+	{
+		foreach (DictionaryEntry valueEntry in values)
+		{
+			if ((valueEntry.Value as IDictionary).Contains("name"))
+			{
+				object name = (valueEntry.Value as IDictionary)["name"];
+				if (name is IEnumerable && !(name is string))
+				{
+					foreach (object item in (IEnumerable) name)
+					{
+						yield return new DictionaryEntry(item, valueEntry.Key);
+					}
+				}
+				else
+				{
+					yield return new DictionaryEntry(name, valueEntry.Key);
+				}
+			}
+		}
+	}
 
-    // Taken straight from:
-    // http://stackoverflow.com/questions/323640/can-i-convert-a-c-sharp-string-value-to-an-escaped-string-literal
-    private static string ToLiteral(string input)
-    {
-        using (var writer = new StringWriter())
-        {
-            using (var provider = CodeDomProvider.CreateProvider("CSharp"))
-            {
-                provider.GenerateCodeFromExpression(new CodePrimitiveExpression(input), writer, null);
-                return writer.ToString();
-            }
-        }
-    }
+	// Taken straight from:
+	// http://stackoverflow.com/questions/323640/can-i-convert-a-c-sharp-string-value-to-an-escaped-string-literal
+	private static string ToLiteral(string input)
+	{
+		using (var writer = new StringWriter())
+		{
+			using (var provider = CodeDomProvider.CreateProvider("CSharp"))
+			{
+				provider.GenerateCodeFromExpression(new CodePrimitiveExpression(input), writer, null);
+				return writer.ToString();
+			}
+		}
+	}
 
-    private static string PrintData(bool indent, int nesting, object data) {
-        var s = new StringBuilder();
+	private static string PrintData(bool indent, int nesting, object data)
+	{
+		var s = new StringBuilder();
 
-        if (indent) {
-            for (int i = 0; i < nesting; i++) {
-                s.Append("\t");
-            }
-        }
+		if (indent)
+		{
+			for (int i = 0; i < nesting; i++)
+			{
+				s.Append("\t");
+			}
+		}
 
-        if (data == null) {
-            s.Append("null");
-        } else if (data is string) {
-            s.Append(ToLiteral((string)data));
-        } else if (data is Array) {
-            s.Append("new string[]\n");
-            for (int i = 0; i < nesting; i++) {
-                s.Append("\t");
-            }
-            s.Append("{\n");
+		if (data == null)
+		{
+			s.Append("null");
+		}
+		else if (data is string)
+		{
+			s.Append(ToLiteral((string) data));
+		}
+		else if (data is Array)
+		{
+			s.Append("new string[]\n");
+			for (int i = 0; i < nesting; i++)
+			{
+				s.Append("\t");
+			}
+			s.Append("{\n");
 
-            bool comma = false;
-            foreach (object o in (object[])data) {
-                if (comma) {
-                    s.Append(",\n");
-                }
-                s.Append(PrintData(true, nesting + 1, o));
-                comma = true;
-            }
+			bool comma = false;
+			foreach (object o in (object[]) data)
+			{
+				if (comma)
+				{
+					s.Append(",\n");
+				}
+				s.Append(PrintData(true, nesting + 1, o));
+				comma = true;
+			}
 
-            s.Append("\n");
-            for (int i = 0; i < nesting; i++) {
-                s.Append("\t");
-            }
-            s.Append("}");
-        } else if (data is OrderedDictionary) {
-            s.Append("new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)\n");
-            for (int i = 0; i < nesting; i++) {
-                s.Append("\t");
-            }
-            s.Append("{\n");
+			s.Append("\n");
+			for (int i = 0; i < nesting; i++)
+			{
+				s.Append("\t");
+			}
+			s.Append("}");
+		}
+		else if (data is OrderedDictionary)
+		{
+			s.Append("new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)\n");
+			for (int i = 0; i < nesting; i++)
+			{
+				s.Append("\t");
+			}
+			s.Append("{\n");
 
-            bool comma = false;
-            foreach (DictionaryEntry entry in (OrderedDictionary)data) {
-                if (comma) {
-                    s.Append(",\n");
-                }
+			bool comma = false;
+			foreach (DictionaryEntry entry in (OrderedDictionary) data)
+			{
+				if (comma)
+				{
+					s.Append(",\n");
+				}
 
-                for (int i = 0; i < nesting + 1; i++) {
-                    s.Append("\t");
-                }
-                s.Append("{\n ");
+				for (int i = 0; i < nesting + 1; i++)
+				{
+					s.Append("\t");
+				}
+				s.Append("{\n ");
 
-                s.Append(PrintData(true, nesting + 2, entry.Key));
+				s.Append(PrintData(true, nesting + 2, entry.Key));
 
-                s.Append(",\n");
+				s.Append(",\n");
 
-                s.Append(PrintData(true, nesting + 2, entry.Value));
+				s.Append(PrintData(true, nesting + 2, entry.Value));
 
-                s.Append("\n");
-                for (int i = 0; i < nesting + 1; i++) {
-                    s.Append("\t");
-                }
-                s.Append("}");
+				s.Append("\n");
+				for (int i = 0; i < nesting + 1; i++)
+				{
+					s.Append("\t");
+				}
+				s.Append("}");
 
-                comma = true;
-            }
+				comma = true;
+			}
 
-            s.Append("\n");
-            for (int i = 0; i < nesting; i++) {
-                s.Append("\t");
-            }
-            s.Append("}");
+			s.Append("\n");
+			for (int i = 0; i < nesting; i++)
+			{
+				s.Append("\t");
+			}
+			s.Append("}");
 
-        }
-        else if (data is RangedKey rk)
-        {
-            s.Append($"new RangedKey({rk.MinVal},{rk.MaxVal})");
-        }
-        else if (data is Dictionary<string, HashSet<string>> dict) {
+		}
+		else if (data is RangedKey rk)
+		{
+			s.Append($"new RangedKey({rk.MinVal},{rk.MaxVal})");
+		}
+		else if (data is Dictionary<string, HashSet<string>> dict)
+		{
 
-            s.Append("new Dictionary<string, HashSet<string>>()\n");
-            for (int i = 0; i < nesting; i++) {
-                s.Append("\t");
-        }
-            s.Append("{\n");
+			s.Append("new Dictionary<string, HashSet<string>>()\n");
+			for (int i = 0; i < nesting; i++)
+			{
+				s.Append("\t");
+			}
+			s.Append("{\n");
 
-            bool comma = false;
-            foreach (var entry in dict) {
-                if (comma) {
-                    s.Append(",\n");
-                }
+			bool comma = false;
+			foreach (var entry in dict)
+			{
+				if (comma)
+				{
+					s.Append(",\n");
+				}
 
-                for (int i = 0; i < nesting + 1; i++) {
-                    s.Append("\t");
-                }
-                s.Append("{ ");
-                s.Append(ToLiteral(entry.Key).Trim());
-                s.Append(",new HashSet<string>( new string[] { ");
-                s.Append(string.Join(", ", entry.Value.Select(a=>ToLiteral(a).Trim())));
-                s.Append(" } ) }");
+				for (int i = 0; i < nesting + 1; i++)
+				{
+					s.Append("\t");
+				}
+				s.Append("{ ");
+				s.Append(ToLiteral(entry.Key).Trim());
+				s.Append(",new HashSet<string>( new string[] { ");
+				s.Append(string.Join(", ", entry.Value.Select(a => ToLiteral(a).Trim())));
+				s.Append(" } ) }");
 
-                comma = true;
-            }
+				comma = true;
+			}
 
-            s.Append("\n");
-            for (int i = 0; i < nesting; i++) {
-                s.Append("\t");
-            }
-            s.Append("}");
-        } else {
-            throw new ArgumentException();
-        }
+			s.Append("\n");
+			for (int i = 0; i < nesting; i++)
+			{
+				s.Append("\t");
+			}
+			s.Append("}");
+		}
+		else
+		{
+			throw new ArgumentException();
+		}
 
-        return s.ToString();
-    }
+		return s.ToString();
+	}
 
-    private static OrderedDictionary Odict(IEnumerable e)
-    {
-        OrderedDictionary odict = new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer);
+	private static OrderedDictionary Odict(IEnumerable e)
+	{
+		OrderedDictionary odict = new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer);
 
-        foreach (DictionaryEntry entry in e)
-        {
-            odict[entry.Key] = entry.Value;
-        }
+		foreach (DictionaryEntry entry in e)
+		{
+			odict[entry.Key] = entry.Value;
+		}
 
-        return odict;
-    }
-    public static void Main(string[] args) {
-        if (args.Length == 0)
-            throw new Exception("Must provide atleast an input file and optionally an output file");
-        using var reader = new StreamReader(args[0]);
-        var writeTo = Console.Out;
-        if (args.Length > 1)
-            writeTo = new StreamWriter(args[1]);
+		return odict;
+	}
+	public static void Main(string[] args)
+	{
+		if (args.Length == 0)
+			throw new Exception("Must provide atleast an input file and optionally an output file");
+		using var reader = new StreamReader(args[0]);
+		var writeTo = Console.Out;
+		if (args.Length > 1)
+			writeTo = new StreamWriter(args[1]);
 
 
-        DoWork(reader, writeTo);
-    }
-    public record RangedKey(int MinVal, int MaxVal);
-    static void DoWork(StreamReader ReadFrom,TextWriter WriteTo)
-    {             
-        OrderedDictionary zones;
-        var sr = ReadFrom;
-        var Console = WriteTo;
-        
-            var parser = new Parser(sr);
-            var er = new EventReader(parser);
+		DoWork(reader, writeTo);
+	}
+	public record RangedKey(int MinVal, int MaxVal);
+	static void DoWork(StreamReader ReadFrom, TextWriter WriteTo)
+	{
+		OrderedDictionary zones;
+		var sr = ReadFrom;
+		var Console = WriteTo;
 
-            er.Expect<StreamStart>();
-            er.Expect<DocumentStart>();
-            zones = (OrderedDictionary)GetData(er);
-            er.Expect<DocumentEnd>();
-            er.Expect<StreamEnd>();
-        
-		var modelsets = (zones["modelsets"] as OrderedDictionary).Cast<DictionaryEntry>().ToDictionary(entry => entry.Key.ToString(),entry=>(entry.Value as object[]).Cast<string>().ToHashSet());
+		var parser = new Parser(sr);
+		var er = new EventReader(parser);
+
+		er.Expect<StreamStart>();
+		er.Expect<DocumentStart>();
+		zones = (OrderedDictionary) GetData(er);
+		er.Expect<DocumentEnd>();
+		er.Expect<StreamEnd>();
+
+		var modelsets = (zones["modelsets"] as OrderedDictionary).Cast<DictionaryEntry>().ToDictionary(entry => entry.Key.ToString(), entry => (entry.Value as object[]).Cast<string>().ToHashSet());
 		//Dictionary<string,string[]> modelSets=new(.Select());
-        // Remove modelsets key, not a real zone
-        zones.Remove("modelsets");
+		// Remove modelsets key, not a real zone
+		zones.Remove("modelsets");
 
-        // Generate the C# structures
-        //
-        // We want a command dictionary that does not include the model data, which we
-        // are not using.
-        var commands = new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer);
-        foreach (DictionaryEntry zoneEntry in zones)
-        {
-            object zone = zoneEntry.Key;
-            OrderedDictionary commandsInZone = (OrderedDictionary)zoneEntry.Value;
-            OrderedDictionary newCommands = new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer);
+		// Generate the C# structures
+		//
+		// We want a command dictionary that does not include the model data, which we
+		// are not using.
+		var commands = new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer);
+		foreach (DictionaryEntry zoneEntry in zones)
+		{
+			object zone = zoneEntry.Key;
+			OrderedDictionary commandsInZone = (OrderedDictionary) zoneEntry.Value;
+			OrderedDictionary newCommands = new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer);
 
-            foreach (DictionaryEntry commandEntry in commandsInZone)
-            {
-                object command = commandEntry.Key;
-                OrderedDictionary commandData = (OrderedDictionary)commandEntry.Value;
+			foreach (DictionaryEntry commandEntry in commandsInZone)
+			{
+				object command = commandEntry.Key;
+				OrderedDictionary commandData = (OrderedDictionary) commandEntry.Value;
 
-                OrderedDictionary values = (OrderedDictionary)commandData["values"];
+				OrderedDictionary values = (OrderedDictionary) commandData["values"];
 
-                OrderedDictionary newValues = new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer);
-                foreach (DictionaryEntry valueEntry in values)
-                {
-                    object value = valueEntry.Key;
-                    OrderedDictionary valueData = (OrderedDictionary)valueEntry.Value;
-                    //System.Diagnostics.Debug.WriteLine($"value is: {value} of type: {value.GetType()}");
-                    if (value is object[] arr)
-                    {
-                        if (arr.Length != 2)
-                        {
-                            throw new Exception("Unexpected a ranged key pair");
-                        }
-                        value = new RangedKey(Int32.Parse((string) arr[0]), Int32.Parse((string) arr[1]));
-                    }
+				OrderedDictionary newValues = new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer);
+				foreach (DictionaryEntry valueEntry in values)
+				{
+					object value = valueEntry.Key;
+					OrderedDictionary valueData = (OrderedDictionary) valueEntry.Value;
+					//System.Diagnostics.Debug.WriteLine($"value is: {value} of type: {value.GetType()}");
+					if (value is object[] arr)
+					{
+						if (arr.Length != 2)
+						{
+							throw new Exception("Unexpected a ranged key pair");
+						}
+						value = new RangedKey(Int32.Parse((string) arr[0]), Int32.Parse((string) arr[1]));
+					}
 
-                    OrderedDictionary newValueData = new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
-                    {
-                        { "name", valueData["name"] },
-                        { "description", valueData["description"] },
+					OrderedDictionary newValueData = new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+					{
+						{ "name", valueData["name"] },
+						{ "description", valueData["description"] },
 						{ "models", valueData["models"] }
-                    };
+					};
 
-                    newValues.Add(value, newValueData);
-                }
+					newValues.Add(value, newValueData);
+				}
 
-                OrderedDictionary newCommandData = new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
-                {
-                    { "name", commandData["name"] },
-                    { "description", commandData["description"] },
-                    { "aliases", commandData["aliases"] },
-                    { "values", newValues }
-                };
-                newCommands.Add(command, newCommandData);
-            }
-            commands.Add(zone, newCommands);
-        }
+				OrderedDictionary newCommandData = new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+				{
+					{ "name", commandData["name"] },
+					{ "description", commandData["description"] },
+					{ "aliases", commandData["aliases"] },
+					{ "values", newValues }
+				};
+				newCommands.Add(command, newCommandData);
+			}
+			commands.Add(zone, newCommands);
+		}
 
 
-        var commandMappings = Odict(
-            from DictionaryEntry zoneEntry in zones
-            select new DictionaryEntry
-            {
-                Key = zoneEntry.Key,
-                Value = Odict(FindCommandAliases((OrderedDictionary)zoneEntry.Value))
-            }
-        );
+		var commandMappings = Odict(
+			from DictionaryEntry zoneEntry in zones
+			select new DictionaryEntry
+			{
+				Key = zoneEntry.Key,
+				Value = Odict(FindCommandAliases((OrderedDictionary) zoneEntry.Value))
+			}
+		);
 
-        var valueMappings = Odict(
-            from DictionaryEntry zoneEntry in zones
-            let zone = zoneEntry.Key
-            let commands_ = zoneEntry.Value
-            select new DictionaryEntry
-            {
-                Key = zone,
-                Value = Odict(
-                    from DictionaryEntry commandEntry in (IEnumerable)commands_
-                    let command = commandEntry.Key
-                    let commandData = commandEntry.Value
-                    select new DictionaryEntry
-                    {
-                        Key = command,
-                        Value = Odict( FindValueAliases((OrderedDictionary)(commandData as IDictionary)["values"]) )
-                    }
-                )
-            }
-        );
+		var valueMappings = Odict(
+			from DictionaryEntry zoneEntry in zones
+			let zone = zoneEntry.Key
+			let commands_ = zoneEntry.Value
+			select new DictionaryEntry
+			{
+				Key = zone,
+				Value = Odict(
+					from DictionaryEntry commandEntry in (IEnumerable) commands_
+					let command = commandEntry.Key
+					let commandData = commandEntry.Value
+					select new DictionaryEntry
+					{
+						Key = command,
+						Value = Odict(FindValueAliases((OrderedDictionary) (commandData as IDictionary)["values"]))
+					}
+				)
+			}
+		);
 
-        
-        Console.Write(
-            "// Generated\n" +
-            "// by {0}\n" +
-            "// from {1}\n" +
-            "// at {2}\n\n",
-            Path.GetFileName(Environment.GetCommandLineArgs()[0]),
-            Path.GetFileName(Environment.GetCommandLineArgs()[1]),
-            DateTime.Now                
-        );
 
-        Console.Write(
-            "using System.Collections;\n" +
+		Console.Write(
+			"// Generated\n" +
+			"// by {0}\n" +
+			"// from {1}\n" +
+			"// at {2}\n\n",
+			Path.GetFileName(Environment.GetCommandLineArgs()[0]),
+			Path.GetFileName(Environment.GetCommandLineArgs()[1]),
+			DateTime.Now
+		);
+
+		Console.Write(
+			"using System.Collections;\n" +
 			"using System.Collections.Generic;\n" +
-            "using System.Collections.Specialized;\n\n" +
-            "namespace Eiscp.Core\n" +
-            "{\n" +
-            "\tpublic static class EiscpCommands\n" +
-            "\t{\n" +
-            $"\t\tpublic static readonly OrderedDictionary Commands = {PrintData(false, 2, commands)};\n" +
-            "\n" +
-            $"\t\tpublic static readonly OrderedDictionary CommandMappings = {PrintData(false, 2, commandMappings)};\n" +
-            "\n" +
-            $"\t\tpublic static readonly OrderedDictionary ValueMappings = {PrintData(false, 2, valueMappings)};\n" +
+			"using System.Collections.Specialized;\n\n" +
+			"namespace Eiscp.Core\n" +
+			"{\n" +
+			"\tpublic static class EiscpCommands\n" +
+			"\t{\n" +
+			$"\t\tpublic static readonly OrderedDictionary Commands = {PrintData(false, 2, commands)};\n" +
 			"\n" +
-            $"\t\tpublic static readonly Dictionary<string,HashSet<string>> ModelSets = {PrintData(false, 2, modelsets)};\n" +
-            "\t}\n" +
-            "}\n"
-        );
-        Console.Flush(); //modelsets
-    }
+			$"\t\tpublic static readonly OrderedDictionary CommandMappings = {PrintData(false, 2, commandMappings)};\n" +
+			"\n" +
+			$"\t\tpublic static readonly OrderedDictionary ValueMappings = {PrintData(false, 2, valueMappings)};\n" +
+			"\n" +
+			$"\t\tpublic static readonly Dictionary<string,HashSet<string>> ModelSets = {PrintData(false, 2, modelsets)};\n" +
+			"\t}\n" +
+			"}\n"
+		);
+		Console.Flush(); //modelsets
+	}
 }
 
 
