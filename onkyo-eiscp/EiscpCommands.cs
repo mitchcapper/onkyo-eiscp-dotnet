@@ -1,7 +1,7 @@
 // Generated
 // by generate.dll
 // from eiscp-commands.yaml
-// at 3/11/2025 11:38:28 PM
+// at 11/11/2025 9:58:55 PM
 
 using System.Collections;
 using System.Collections.Generic;
@@ -602,11 +602,7 @@ mm:Subwoofer 2"
 								new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 								{
 									{
- 										new string[]
-										{
-											"0",
-											"200"
-										},
+ 										new RangedKey(0,200),
 										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 										{
 											{
@@ -624,11 +620,7 @@ mm:Subwoofer 2"
 										}
 									},
 									{
- 										new string[]
-										{
-											"0",
-											"100"
-										},
+ 										new RangedKey(0,100),
 										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 										{
 											{
@@ -646,11 +638,7 @@ mm:Subwoofer 2"
 										}
 									},
 									{
- 										new string[]
-										{
-											"0",
-											"80"
-										},
+ 										new RangedKey(0,80),
 										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 										{
 											{
@@ -668,11 +656,7 @@ mm:Subwoofer 2"
 										}
 									},
 									{
- 										new string[]
-										{
-											"0",
-											"50"
-										},
+ 										new RangedKey(0,50),
 										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 										{
 											{
@@ -1896,12 +1880,12 @@ mm:Subwoofer 2"
 								new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 								{
 									{
- 										"“01”-“5A”",
+ 										new RangedKey(1,90),
 										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 										{
 											{
  												"name",
-												"time-1-90min"
+												null
 											},
 											{
  												"description",
@@ -1914,7 +1898,7 @@ mm:Subwoofer 2"
 										}
 									},
 									{
- 										"“OFF”",
+ 										"OFF",
 										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 										{
 											{
@@ -1932,7 +1916,7 @@ mm:Subwoofer 2"
 										}
 									},
 									{
- 										"“UP”",
+ 										"UP",
 										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 										{
 											{
@@ -1951,12 +1935,12 @@ mm:Subwoofer 2"
 										}
 									},
 									{
- 										"“QSTN”",
+ 										"QSTN",
 										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 										{
 											{
  												"name",
-												"qstn"
+												"query"
 											},
 											{
  												"description",
@@ -1993,7 +1977,7 @@ mm:Subwoofer 2"
 								new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 								{
 									{
- 										"“TEST”",
+ 										"TEST",
 										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 										{
 											{
@@ -2029,7 +2013,7 @@ mm:Subwoofer 2"
 										}
 									},
 									{
- 										"“CHSEL”",
+ 										"CHSEL",
 										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 										{
 											{
@@ -2047,7 +2031,7 @@ mm:Subwoofer 2"
 										}
 									},
 									{
- 										"“UP”",
+ 										"UP",
 										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 										{
 											{
@@ -2065,7 +2049,7 @@ mm:Subwoofer 2"
 										}
 									},
 									{
- 										"“DOWN”",
+ 										"DOWN",
 										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 										{
 											{
@@ -2107,11 +2091,7 @@ mm:Subwoofer 2"
 								new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 								{
 									{
- 										new string[]
-										{
-											"-30",
-											"24"
-										},
+ 										new RangedKey(-30,24),
 										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 										{
 											{
@@ -2129,11 +2109,7 @@ mm:Subwoofer 2"
 										}
 									},
 									{
- 										new string[]
-										{
-											"-15",
-											"12"
-										},
+ 										new RangedKey(-15,12),
 										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 										{
 											{
@@ -2151,7 +2127,7 @@ mm:Subwoofer 2"
 										}
 									},
 									{
- 										"“UP”",
+ 										"UP",
 										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 										{
 											{
@@ -2169,7 +2145,7 @@ mm:Subwoofer 2"
 										}
 									},
 									{
- 										"“DOWN”",
+ 										"DOWN",
 										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 										{
 											{
@@ -2229,11 +2205,7 @@ mm:Subwoofer 2"
 								new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 								{
 									{
- 										new string[]
-										{
-											"-30",
-											"24"
-										},
+ 										new RangedKey(-30,24),
 										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 										{
 											{
@@ -2251,11 +2223,7 @@ mm:Subwoofer 2"
 										}
 									},
 									{
- 										new string[]
-										{
-											"-15",
-											"12"
-										},
+ 										new RangedKey(-15,12),
 										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 										{
 											{
@@ -2273,7 +2241,7 @@ mm:Subwoofer 2"
 										}
 									},
 									{
- 										"“UP”",
+ 										"UP",
 										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 										{
 											{
@@ -2291,7 +2259,7 @@ mm:Subwoofer 2"
 										}
 									},
 									{
- 										"“DOWN”",
+ 										"DOWN",
 										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 										{
 											{
@@ -2351,11 +2319,7 @@ mm:Subwoofer 2"
 								new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 								{
 									{
- 										new string[]
-										{
-											"-24",
-											"24"
-										},
+ 										new RangedKey(-24,24),
 										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 										{
 											{
@@ -2373,11 +2337,7 @@ mm:Subwoofer 2"
 										}
 									},
 									{
- 										new string[]
-										{
-											"-12",
-											"12"
-										},
+ 										new RangedKey(-12,12),
 										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 										{
 											{
@@ -2395,7 +2355,7 @@ mm:Subwoofer 2"
 										}
 									},
 									{
- 										"“UP”",
+ 										"UP",
 										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 										{
 											{
@@ -2413,7 +2373,7 @@ mm:Subwoofer 2"
 										}
 									},
 									{
- 										"“DOWN”",
+ 										"DOWN",
 										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 										{
 											{
@@ -2550,12 +2510,12 @@ mmm:Subwoofer 2"
 								new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 								{
 									{
- 										"“00”-“05”",
+ 										new RangedKey(0,5),
 										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 										{
 											{
  												"name",
-												"0-5"
+												null
 											},
 											{
  												"description",
@@ -4038,7 +3998,7 @@ i...i: Picture Mode
 										}
 									},
 									{
- 										"“26”",
+ 										"26",
 										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 										{
 											{
@@ -6354,11 +6314,7 @@ i...i: Picture Mode
 								new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 								{
 									{
- 										new string[]
-										{
-											"0",
-											"3"
-										},
+ 										new RangedKey(0,3),
 										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 										{
 											{
@@ -10173,11 +10129,7 @@ i...i: Picture Mode
 								new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 								{
 									{
- 										new string[]
-										{
-											"0",
-											"16"
-										},
+ 										new RangedKey(0,16),
 										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 										{
 											{
@@ -11256,11 +11208,7 @@ i...i: Picture Mode
 								new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 								{
 									{
- 										new string[]
-										{
-											"1",
-											"7"
-										},
+ 										new RangedKey(1,7),
 										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 										{
 											{
@@ -11584,11 +11532,7 @@ i...i: Picture Mode
 										}
 									},
 									{
- 										new string[]
-										{
-											"2",
-											"5"
-										},
+ 										new RangedKey(2,5),
 										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 										{
 											{
@@ -11666,11 +11610,7 @@ i...i: Picture Mode
 								new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 								{
 									{
- 										new string[]
-										{
-											"1",
-											"1177"
-										},
+ 										new RangedKey(1,1177),
 										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 										{
 											{
@@ -12596,11 +12536,7 @@ mmm:Subwoofer 2"
 								new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 								{
 									{
- 										new string[]
-										{
-											"-24",
-											"24"
-										},
+ 										new RangedKey(-24,24),
 										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 										{
 											{
@@ -14356,11 +14292,7 @@ Reference Information:
 								new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 								{
 									{
- 										new string[]
-										{
-											"1",
-											"40"
-										},
+ 										new RangedKey(1,40),
 										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 										{
 											{
@@ -14378,11 +14310,7 @@ Reference Information:
 										}
 									},
 									{
- 										new string[]
-										{
-											"1",
-											"30"
-										},
+ 										new RangedKey(1,30),
 										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 										{
 											{
@@ -14478,11 +14406,7 @@ Reference Information:
 								new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 								{
 									{
- 										new string[]
-										{
-											"1",
-											"40"
-										},
+ 										new RangedKey(1,40),
 										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 										{
 											{
@@ -14500,11 +14424,7 @@ Reference Information:
 										}
 									},
 									{
- 										new string[]
-										{
-											"1",
-											"30"
-										},
+ 										new RangedKey(1,30),
 										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 										{
 											{
@@ -14546,12 +14466,12 @@ Reference Information:
 								new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 								{
 									{
- 										"“00”",
+ 										"00",
 										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 										{
 											{
  												"name",
-												"00"
+												"rt-information"
 											},
 											{
  												"description",
@@ -14564,12 +14484,12 @@ Reference Information:
 										}
 									},
 									{
- 										"“01”",
+ 										"01",
 										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 										{
 											{
  												"name",
-												"01"
+												"pty-information"
 											},
 											{
  												"description",
@@ -14582,12 +14502,12 @@ Reference Information:
 										}
 									},
 									{
- 										"“02”",
+ 										"02",
 										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 										{
 											{
  												"name",
-												"02"
+												"tp-information"
 											},
 											{
  												"description",
@@ -14600,7 +14520,7 @@ Reference Information:
 										}
 									},
 									{
- 										"“UP”",
+ 										"UP",
 										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 										{
 											{
@@ -14642,12 +14562,12 @@ Reference Information:
 								new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 								{
 									{
- 										"“01”-“1D”",
+ 										new RangedKey(1,29),
 										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 										{
 											{
  												"name",
-												"no-1-29"
+												null
 											},
 											{
  												"description",
@@ -14660,7 +14580,7 @@ Reference Information:
 										}
 									},
 									{
- 										"“ENTER”",
+ 										"ENTER",
 										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 										{
 											{
@@ -14702,7 +14622,7 @@ Reference Information:
 								new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 								{
 									{
- 										"“”",
+ 										"",
 										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 										{
 											{
@@ -14720,7 +14640,7 @@ Reference Information:
 										}
 									},
 									{
- 										"“ENTER”",
+ 										"ENTER",
 										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 										{
 											{
@@ -14942,11 +14862,7 @@ Reference Information:
 								new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 								{
 									{
- 										new string[]
-										{
-											"0",
-											"597"
-										},
+ 										new RangedKey(0,597),
 										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 										{
 											{
@@ -15318,11 +15234,7 @@ Reference Information:
 								new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 								{
 									{
- 										new string[]
-										{
-											"0",
-											"597"
-										},
+ 										new RangedKey(0,597),
 										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 										{
 											{
@@ -15832,11 +15744,7 @@ Reference Information:
 								new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 								{
 									{
- 										new string[]
-										{
-											"1",
-											"8"
-										},
+ 										new RangedKey(1,8),
 										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 										{
 											{
@@ -16494,11 +16402,7 @@ Reference Information:
 								new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 								{
 									{
- 										new string[]
-										{
-											"1",
-											"153"
-										},
+ 										new RangedKey(1,153),
 										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 										{
 											{
@@ -18145,11 +18049,7 @@ m: Microphone Status
 								new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 								{
 									{
- 										new string[]
-										{
-											"0",
-											"200"
-										},
+ 										new RangedKey(0,200),
 										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 										{
 											{
@@ -18167,11 +18067,7 @@ m: Microphone Status
 										}
 									},
 									{
- 										new string[]
-										{
-											"0",
-											"100"
-										},
+ 										new RangedKey(0,100),
 										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 										{
 											{
@@ -18189,11 +18085,7 @@ m: Microphone Status
 										}
 									},
 									{
- 										new string[]
-										{
-											"0",
-											"80"
-										},
+ 										new RangedKey(0,80),
 										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 										{
 											{
@@ -19816,11 +19708,7 @@ m: Microphone Status
 								new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 								{
 									{
- 										new string[]
-										{
-											"1",
-											"40"
-										},
+ 										new RangedKey(1,40),
 										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 										{
 											{
@@ -19838,11 +19726,7 @@ m: Microphone Status
 										}
 									},
 									{
- 										new string[]
-										{
-											"1",
-											"30"
-										},
+ 										new RangedKey(1,30),
 										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 										{
 											{
@@ -19938,11 +19822,7 @@ m: Microphone Status
 								new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 								{
 									{
- 										new string[]
-										{
-											"1",
-											"40"
-										},
+ 										new RangedKey(1,40),
 										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 										{
 											{
@@ -19960,11 +19840,7 @@ m: Microphone Status
 										}
 									},
 									{
- 										new string[]
-										{
-											"1",
-											"30"
-										},
+ 										new RangedKey(1,30),
 										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 										{
 											{
@@ -20594,11 +20470,7 @@ m: Microphone Status
 								new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 								{
 									{
- 										new string[]
-										{
-											"1",
-											"40"
-										},
+ 										new RangedKey(1,40),
 										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 										{
 											{
@@ -21432,11 +21304,7 @@ m: Microphone Status
 								new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 								{
 									{
- 										new string[]
-										{
-											"0",
-											"200"
-										},
+ 										new RangedKey(0,200),
 										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 										{
 											{
@@ -21454,11 +21322,7 @@ m: Microphone Status
 										}
 									},
 									{
- 										new string[]
-										{
-											"0",
-											"100"
-										},
+ 										new RangedKey(0,100),
 										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 										{
 											{
@@ -21476,11 +21340,7 @@ m: Microphone Status
 										}
 									},
 									{
- 										new string[]
-										{
-											"0",
-											"80"
-										},
+ 										new RangedKey(0,80),
 										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 										{
 											{
@@ -23022,11 +22882,7 @@ m: Microphone Status
 								new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 								{
 									{
- 										new string[]
-										{
-											"1",
-											"40"
-										},
+ 										new RangedKey(1,40),
 										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 										{
 											{
@@ -23044,11 +22900,7 @@ m: Microphone Status
 										}
 									},
 									{
- 										new string[]
-										{
-											"1",
-											"30"
-										},
+ 										new RangedKey(1,30),
 										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 										{
 											{
@@ -23144,11 +22996,7 @@ m: Microphone Status
 								new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 								{
 									{
- 										new string[]
-										{
-											"1",
-											"40"
-										},
+ 										new RangedKey(1,40),
 										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 										{
 											{
@@ -23166,11 +23014,7 @@ m: Microphone Status
 										}
 									},
 									{
- 										new string[]
-										{
-											"1",
-											"30"
-										},
+ 										new RangedKey(1,30),
 										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 										{
 											{
@@ -23782,11 +23626,7 @@ m: Microphone Status
 								new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 								{
 									{
- 										new string[]
-										{
-											"1",
-											"40"
-										},
+ 										new RangedKey(1,40),
 										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 										{
 											{
@@ -24008,11 +23848,7 @@ m: Microphone Status
 								new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 								{
 									{
- 										new string[]
-										{
-											"0",
-											"100"
-										},
+ 										new RangedKey(0,100),
 										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 										{
 											{
@@ -24030,11 +23866,7 @@ m: Microphone Status
 										}
 									},
 									{
- 										new string[]
-										{
-											"0",
-											"80"
-										},
+ 										new RangedKey(0,80),
 										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 										{
 											{
@@ -25250,11 +25082,7 @@ m: Microphone Status
 								new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 								{
 									{
- 										new string[]
-										{
-											"1",
-											"40"
-										},
+ 										new RangedKey(1,40),
 										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 										{
 											{
@@ -25272,11 +25100,7 @@ m: Microphone Status
 										}
 									},
 									{
- 										new string[]
-										{
-											"1",
-											"30"
-										},
+ 										new RangedKey(1,30),
 										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 										{
 											{
@@ -25372,11 +25196,7 @@ m: Microphone Status
 								new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 								{
 									{
- 										new string[]
-										{
-											"1",
-											"40"
-										},
+ 										new RangedKey(1,40),
 										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 										{
 											{
@@ -25394,11 +25214,7 @@ m: Microphone Status
 										}
 									},
 									{
- 										new string[]
-										{
-											"1",
-											"30"
-										},
+ 										new RangedKey(1,30),
 										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 										{
 											{
@@ -25920,11 +25736,7 @@ m: Microphone Status
 								new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 								{
 									{
- 										new string[]
-										{
-											"1",
-											"40"
-										},
+ 										new RangedKey(1,40),
 										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 										{
 											{
@@ -27530,11 +27342,7 @@ ii-> Service icon
 								new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 								{
 									{
- 										new string[]
-										{
-											"1",
-											"40"
-										},
+ 										new RangedKey(1,40),
 										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 										{
 											{
@@ -28988,11 +28796,7 @@ rrr-> reserved"
 								new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 								{
 									{
- 										new string[]
-										{
-											"1",
-											"40"
-										},
+ 										new RangedKey(1,40),
 										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 										{
 											{
@@ -29643,12 +29447,12 @@ ex.:MRM00       Flare Connet canceled"
 								new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 								{
 									{
- 										"”00”",
+ 										"00",
 										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 										{
 											{
  												"name",
-												"00"
+												"not-approval"
 											},
 											{
  												"description",
@@ -29661,12 +29465,12 @@ ex.:MRM00       Flare Connet canceled"
 										}
 									},
 									{
- 										"”01”",
+ 										"01",
 										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 										{
 											{
  												"name",
-												"01"
+												"operation-approval"
 											},
 											{
  												"description",
@@ -29721,7 +29525,7 @@ ex.:MRM00       Flare Connet canceled"
 								new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 								{
 									{
- 										"”CMP”",
+ 										"CMP",
 										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 										{
 											{
@@ -29836,7 +29640,7 @@ ex.:MRM00       Flare Connet canceled"
 								new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 								{
 									{
- 										"”CMP”",
+ 										"CMP",
 										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 										{
 											{
@@ -29987,12 +29791,12 @@ ex.:MRM00       Flare Connet canceled"
 								new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 								{
 									{
- 										"”xxxxxxxx”",
+ 										"{xx}{xx}{xx}{xx}",
 										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 										{
 											{
  												"name",
-												"xxxxxxxx"
+												"xx-xx-xx-xx"
 											},
 											{
  												"description",
@@ -30066,7 +29870,7 @@ ex.:MRM00       Flare Connet canceled"
 										}
 									},
 									{
- 										"”SALLnn”",
+ 										"SALLnn",
 										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 										{
 											{
@@ -30702,7 +30506,7 @@ y : Add Type
 								new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 								{
 									{
- 										"”00”",
+ 										"00",
 										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 										{
 											{
@@ -30720,7 +30524,7 @@ y : Add Type
 										}
 									},
 									{
- 										"”01”",
+ 										"01",
 										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 										{
 											{
@@ -31063,7 +30867,7 @@ y : Add Type
 								new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 								{
 									{
- 										"”00”",
+ 										"00",
 										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 										{
 											{
@@ -31081,7 +30885,7 @@ y : Add Type
 										}
 									},
 									{
- 										"”01”",
+ 										"01",
 										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 										{
 											{
@@ -32587,7 +32391,7 @@ y : Add Type
 										}
 									},
 									{
- 										"“REC”",
+ 										"REC",
 										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 										{
 											{
@@ -36691,11 +36495,7 @@ when t = C,
 								new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 								{
 									{
- 										new string[]
-										{
-											"1",
-											"40"
-										},
+ 										new RangedKey(1,40),
 										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 										{
 											{
@@ -36791,11 +36591,7 @@ when t = C,
 								new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 								{
 									{
- 										new string[]
-										{
-											"1",
-											"40"
-										},
+ 										new RangedKey(1,40),
 										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 										{
 											{
@@ -36837,11 +36633,7 @@ when t = C,
 								new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 								{
 									{
- 										new string[]
-										{
-											"1",
-											"8"
-										},
+ 										new RangedKey(1,8),
 										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 										{
 											{
@@ -40409,20 +40201,16 @@ when t = C,
 						new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 						{
 							{
- 								"time-1-90min",
-								"“01”-“5A”"
-							},
-							{
  								"time-off",
-								"“OFF”"
+								"OFF"
 							},
 							{
  								"up",
-								"“UP”"
+								"UP"
 							},
 							{
- 								"qstn",
-								"“QSTN”"
+ 								"query",
+								"QSTN"
 							}
 						}
 					},
@@ -40432,7 +40220,7 @@ when t = C,
 						{
 							{
  								"test",
-								"“TEST”"
+								"TEST"
 							},
 							{
  								"test-tone-off",
@@ -40440,15 +40228,15 @@ when t = C,
 							},
 							{
  								"chsel",
-								"“CHSEL”"
+								"CHSEL"
 							},
 							{
  								"up",
-								"“UP”"
+								"UP"
 							},
 							{
  								"down",
-								"“DOWN”"
+								"DOWN"
 							}
 						}
 					},
@@ -40458,11 +40246,11 @@ when t = C,
 						{
 							{
  								"up",
-								"“UP”"
+								"UP"
 							},
 							{
  								"down",
-								"“DOWN”"
+								"DOWN"
 							},
 							{
  								"query",
@@ -40476,11 +40264,11 @@ when t = C,
 						{
 							{
  								"up",
-								"“UP”"
+								"UP"
 							},
 							{
  								"down",
-								"“DOWN”"
+								"DOWN"
 							},
 							{
  								"query",
@@ -40494,11 +40282,11 @@ when t = C,
 						{
 							{
  								"up",
-								"“UP”"
+								"UP"
 							},
 							{
  								"down",
-								"“DOWN”"
+								"DOWN"
 							},
 							{
  								"query",
@@ -40520,10 +40308,6 @@ when t = C,
  						"VOC",
 						new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 						{
-							{
- 								"0-5",
-								"“00”-“05”"
-							},
 							{
  								"up",
 								"UP"
@@ -40894,7 +40678,7 @@ when t = C,
 							},
 							{
  								"tuner",
-								"“26”"
+								"26"
 							},
 							{
  								"music-server",
@@ -43292,20 +43076,20 @@ when t = C,
 						new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 						{
 							{
- 								"00",
-								"“00”"
+ 								"rt-information",
+								"00"
 							},
 							{
- 								"01",
-								"“01”"
+ 								"pty-information",
+								"01"
 							},
 							{
- 								"02",
-								"“02”"
+ 								"tp-information",
+								"02"
 							},
 							{
  								"up",
-								"“UP”"
+								"UP"
 							}
 						}
 					},
@@ -43314,12 +43098,8 @@ when t = C,
 						new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 						{
 							{
- 								"no-1-29",
-								"“01”-“1D”"
-							},
-							{
  								"enter",
-								"“ENTER”"
+								"ENTER"
 							}
 						}
 					},
@@ -43329,7 +43109,7 @@ when t = C,
 						{
 							{
  								"enter",
-								"“ENTER”"
+								"ENTER"
 							}
 						}
 					},
@@ -46558,12 +46338,12 @@ when t = C,
 						new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 						{
 							{
- 								"00",
-								"”00”"
+ 								"not-approval",
+								"00"
 							},
 							{
- 								"01",
-								"”01”"
+ 								"operation-approval",
+								"01"
 							},
 							{
  								"query",
@@ -46577,7 +46357,7 @@ when t = C,
 						{
 							{
  								"cmp",
-								"”CMP”"
+								"CMP"
 							},
 							{
  								"ezz",
@@ -46603,7 +46383,7 @@ when t = C,
 						{
 							{
  								"cmp",
-								"”CMP”"
+								"CMP"
 							},
 							{
  								"steady",
@@ -46636,8 +46416,8 @@ when t = C,
 						new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 						{
 							{
- 								"xxxxxxxx",
-								"”xxxxxxxx”"
+ 								"xx-xx-xx-xx",
+								"{xx}{xx}{xx}{xx}"
 							},
 							{
  								"query",
@@ -46655,7 +46435,7 @@ when t = C,
 							},
 							{
  								"sallnn",
-								"”SALLnn”"
+								"SALLnn"
 							},
 							{
  								"cmpall",
@@ -46787,11 +46567,11 @@ when t = C,
 						{
 							{
  								"off",
-								"”00”"
+								"00"
 							},
 							{
  								"on",
-								"”01”"
+								"01"
 							},
 							{
  								"query",
@@ -46863,11 +46643,11 @@ when t = C,
 						{
 							{
  								"function-off",
-								"”00”"
+								"00"
 							},
 							{
  								"function-on",
-								"”01”"
+								"01"
 							}
 						}
 					}
@@ -47193,7 +46973,7 @@ when t = C,
 							},
 							{
  								"rec",
-								"“REC”"
+								"REC"
 							}
 						}
 					},

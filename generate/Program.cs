@@ -192,7 +192,13 @@ class Program
             }
             s.Append("}");
 
-        } else if (data is Dictionary<string, HashSet<string>> dict) {
+        }
+        else if (data is RangedKey rk)
+        {
+            s.Append($"new RangedKey({rk.MinVal},{rk.MaxVal})");
+        }
+        else if (data is Dictionary<string, HashSet<string>> dict) {
+
             s.Append("new Dictionary<string, HashSet<string>>()\n");
             for (int i = 0; i < nesting; i++) {
                 s.Append("\t");
@@ -251,7 +257,7 @@ class Program
 
         DoWork(reader, writeTo);
     }
-
+    public record RangedKey(int MinVal, int MaxVal);
     static void DoWork(StreamReader ReadFrom,TextWriter WriteTo)
     {             
         OrderedDictionary zones;
@@ -295,6 +301,15 @@ class Program
                 {
                     object value = valueEntry.Key;
                     OrderedDictionary valueData = (OrderedDictionary)valueEntry.Value;
+                    //System.Diagnostics.Debug.WriteLine($"value is: {value} of type: {value.GetType()}");
+                    if (value is object[] arr)
+                    {
+                        if (arr.Length != 2)
+                        {
+                            throw new Exception("Unexpected a ranged key pair");
+                        }
+                        value = new RangedKey(Int32.Parse((string) arr[0]), Int32.Parse((string) arr[1]));
+                    }
 
                     OrderedDictionary newValueData = new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
                     {
