@@ -1,7 +1,7 @@
 // Generated
 // by generate.dll
 // from eiscp-commands.yaml
-// at 12/5/2025 12:45:02 PM
+// at 12/5/2025 2:19:31 PM
 
 using System.Collections;
 using System.Collections.Generic;
@@ -1925,8 +1925,8 @@ mm:Subwoofer 2"
 											},
 											{
  												"description",
-												"sets Sleep Time Wrap-Around UP(Only when the value is OFF, it is set to 30 min ev" +
-    "en if it is not displayed by front panel.)"
+												("sets Sleep Time Wrap-Around UP(Only when the value is OFF, it is set to 30 min ev" +
+    "en if it is not displayed by front panel.)")
 											},
 											{
  												"models",
@@ -3279,9 +3279,9 @@ mmm:Subwoofer 2"
 											},
 											{
  												"description",
-												"Information of Audio(Same Immediate Display \',\' is separator of information)\na..." +
+												("Information of Audio(Same Immediate Display \',\' is separator of information)\na..." +
     "a: Audio Input Port\nb...b: Input Signal Format\nc...c: Sampling Frequency\nd...d: " +
-    "Input Signal Channel\ne...e: Listening Mode\nf...f: Output Signal Channel"
+    "Input Signal Channel\ne...e: Listening Mode\nf...f: Output Signal Channel")
 											},
 											{
  												"models",
@@ -3476,8 +3476,8 @@ i...i: Picture Mode
 											},
 											{
  												"description",
-												"information of Network(Same Immediate Display \',\' is separator of informations)\na" +
-    "...a: MAC Address\nb...b: IP Address\nc...c: Host Name"
+												("information of Network(Same Immediate Display \',\' is separator of informations)\na" +
+    "...a: MAC Address\nb...b: IP Address\nc...c: Host Name")
 											},
 											{
  												"models",
@@ -6419,9 +6419,9 @@ i...i: Picture Mode
 											},
 											{
  												"description",
-												"HDMI Out Information State\na:HDMI Out MAIN 1:for Main Zone\nb:HDMI Out SUB 0:None(" +
+												("HDMI Out Information State\na:HDMI Out MAIN 1:for Main Zone\nb:HDMI Out SUB 0:None(" +
     "No terminal),1:for Main Zone(Zone2HDMI=Not Use or Zone2HDMI is not supported),2:" +
-    "for Zone 2(Zone2HDMI=Use)"
+    "for Zone 2(Zone2HDMI=Use)")
 											},
 											{
  												"models",
@@ -10288,8 +10288,8 @@ i...i: Picture Mode
 											},
 											{
  												"description",
-												"sets LFE Mute Level\n00:0dB\n01:-1dB\n02:-2dB\n03:-3dB\n04:-4dB\n05:-5dB\n0A:-10dB\n0F:-1" +
-    "5dB\n14:-20dB\nFF:-oodB"
+												("sets LFE Mute Level\n00:0dB\n01:-1dB\n02:-2dB\n03:-3dB\n04:-4dB\n05:-5dB\n0A:-10dB\n0F:-1" +
+    "5dB\n14:-20dB\nFF:-oodB")
 											},
 											{
  												"models",
@@ -10385,9 +10385,9 @@ i...i: Picture Mode
 											},
 											{
  												"description",
-												"sets All Channel EQ for Temporary Value\nxxx=-18(-12.0dB)~000(0.0dB)~+18(+12.0dB)\n" +
+												("sets All Channel EQ for Temporary Value\nxxx=-18(-12.0dB)~000(0.0dB)~+18(+12.0dB)\n" +
     "\naaa:63Hz\nbbb:125Hz\nccc:250Hz\nddd:500Hz\neee:1kHz\nfff:2kHz\nggg:4kHz\nhhh:8kHz\niii:" +
-    "16kHz"
+    "16kHz")
 											},
 											{
  												"models",
@@ -10699,9 +10699,9 @@ i...i: Picture Mode
 											},
 											{
  												"description",
-												"sets A/V Sync\n s: sign ( \"+\" or \"-\" or \"0\")\n If set minus value, s=\"-\". (only HDM" +
+												("sets A/V Sync\n s: sign ( \"+\" or \"-\" or \"0\")\n If set minus value, s=\"-\". (only HDM" +
     "I Lipsync is available)\n If set plus value, s=\"+\"\n If set zero value, s=\"0\"\nnnn " +
-    ": value; If set 100msec, nnn=\"100\""
+    ": value; If set 100msec, nnn=\"100\"")
 											},
 											{
  												"models",
@@ -12677,8 +12677,8 @@ mmm:Subwoofer 2"
 											},
 											{
  												"description",
-												"sets Input Selector Name (10 characters)\nii: Selector Number (the same as for SLI" +
-    " command)\nxxxxxxxxxx: Name(Max 10 characters)"
+												("sets Input Selector Name (10 characters)\nii: Selector Number (the same as for SLI" +
+    " command)\nxxxxxxxxxx: Name(Max 10 characters)")
 											},
 											{
  												"models",
@@ -13620,8 +13620,8 @@ mmm:Subwoofer 2"
 											},
 											{
  												"description",
-												"u:  USB Firmware Status\n    0: not exist USB firmware\n    1 : exist USB firmware\n" +
-    "r: reserve"
+												("u:  USB Firmware Status\n    0: not exist USB firmware\n    1 : exist USB firmware\n" +
+    "r: reserve")
 											},
 											{
  												"models",
@@ -13717,8 +13717,8 @@ mmm:Subwoofer 2"
 											},
 											{
  												"description",
-												"nn Progress (%)\n**=DL Downloading\n**=NT Arm writing\n**=D1 DSP1\n**=D2 DSP2\n**=D3 D" +
-    "SP3\n**=VM VMPU\n**=OS OSD\n**=MP MMPU\n\nProgress表示に対応していない場合は下記文字列固定とする\nxx-xx"
+												("nn Progress (%)\n**=DL Downloading\n**=NT Arm writing\n**=D1 DSP1\n**=D2 DSP2\n**=D3 D" +
+    "SP3\n**=VM VMPU\n**=OS OSD\n**=MP MMPU\n\nProgress表示に対応していない場合は下記文字列固定とする\nxx-xx")
 											},
 											{
  												"models",
@@ -13886,8 +13886,8 @@ mmm:Subwoofer 2"
 											},
 											{
  												"description",
-												"t -> message type \'X\' : XML\n---- -> reserved\n<.....> : XML data ( [CR] and [LF] a" +
-    "re removed )"
+												("t -> message type \'X\' : XML\n---- -> reserved\n<.....> : XML data ( [CR] and [LF] a" +
+    "re removed )")
 											},
 											{
  												"models",
@@ -13905,9 +13905,9 @@ mmm:Subwoofer 2"
 											},
 											{
  												"description",
-												"U : UI Type\n 0 : List, 1 : Menu, 2 : Playback, 3 : Popup, 4 : Keyboard, 5 : Menu " +
+												("U : UI Type\n 0 : List, 1 : Menu, 2 : Playback, 3 : Popup, 4 : Keyboard, 5 : Menu " +
     "List\nll -> number of layer (00-FF)\nt : Update Type\n 0 : All, 1 : Button, 2 : Tex" +
-    "tbox, 3 : Listbox\n<.....> : XML data ( [CR] and [LF] are removed )"
+    "tbox, 3 : Listbox\n<.....> : XML data ( [CR] and [LF] are removed )")
 											},
 											{
  												"models",
@@ -14041,8 +14041,8 @@ Reference Information:
 											},
 											{
  												"description",
-												"sets Directly Tuning Frequency (FM nnn.nn MHz / AM nnnnn kHz / SR nnnnn ch)\nput 0" +
-    " in the first two digits of nnnnn at SR"
+												("sets Directly Tuning Frequency (FM nnn.nn MHz / AM nnnnn kHz / SR nnnnn ch)\nput 0" +
+    " in the first two digits of nnnnn at SR")
 											},
 											{
  												"models",
@@ -15944,9 +15944,9 @@ Reference Information:
 											},
 											{
  												"description",
-												"HD Radio Tuner Status (3 bytes)\nmm -> \"00\" not HD, \"01\" HD\nnn -> current Program " +
+												("HD Radio Tuner Status (3 bytes)\nmm -> \"00\" not HD, \"01\" HD\nnn -> current Program " +
     "\"01\"-\"08\"\noo -> receivable Program (8 bits are represented in hexadecimal notati" +
-    "on. Each bit shows receivable or not.)"
+    "on. Each bit shows receivable or not.)")
 											},
 											{
  												"models",
@@ -16288,9 +16288,9 @@ Reference Information:
 											},
 											{
  												"description",
-												"CD Play Status (3 letters)\np -> Play Status: \"S\": STOP, \"P\": Play, \"p\": Pause, \"F" +
+												("CD Play Status (3 letters)\np -> Play Status: \"S\": STOP, \"P\": Play, \"p\": Pause, \"F" +
     "\": FF, \"R\": FR\nr -> Repeat Status: \"-\": Off, \"R\": All,  \"1\": Repeat 1\ns -> Shuff" +
-    "le(Random) Status: \"-\": Off, \"S\": All"
+    "le(Random) Status: \"-\": Off, \"S\": All")
 											},
 											{
  												"models",
@@ -16626,8 +16626,8 @@ Reference Information:
 											},
 											{
  												"description",
-												"xx...xx   : DAB Station Name (UTF-8)\n下記文字は特殊コードで送信する\n0x02  ： ←\n0x03  ： ↑\n0x04  ： " +
-    "→\n0x05  ： ↓\n0x06  ： ║\n上記以外の0x00~0x1F、0x80~0xA0はスペース表示とする"
+												("xx...xx   : DAB Station Name (UTF-8)\n下記文字は特殊コードで送信する\n0x02  ： ←\n0x03  ： ↑\n0x04  ： " +
+    "→\n0x05  ： ↓\n0x06  ： ║\n上記以外の0x00~0x1F、0x80~0xA0はスペース表示とする")
 											},
 											{
  												"models",
@@ -16687,8 +16687,8 @@ Reference Information:
 											},
 											{
  												"description",
-												"DAB Bit Rate and Stereo/Mono Status\n\"nnnn\" Bit Rate, \"kbps\" Unit, \"S\" Status (\"S\"" +
-    " Stereo, \"M\" Mono)\nEx: DBR080kbpsS"
+												("DAB Bit Rate and Stereo/Mono Status\n\"nnnn\" Bit Rate, \"kbps\" Unit, \"S\" Status (\"S\"" +
+    " Stereo, \"M\" Mono)\nEx: DBR080kbpsS")
 											},
 											{
  												"models",
@@ -16748,8 +16748,8 @@ Reference Information:
 											},
 											{
  												"description",
-												"DAB Bit Error Rate\n\"nnn\" Value (\"000\" - \"100\")\n\"xxxxxxxxx\" Rating (9 digits)\n 080" +
-    " or more: Excellent, 079~050: Good, 049 or less: Poor"
+												("DAB Bit Error Rate\n\"nnn\" Value (\"000\" - \"100\")\n\"xxxxxxxxx\" Rating (9 digits)\n 080" +
+    " or more: Excellent, 079~050: Good, 049 or less: Poor")
 											},
 											{
  												"models",
@@ -16905,9 +16905,9 @@ Reference Information:
 											},
 											{
  												"description",
-												"a: Personal Preset 1 setting not exist = 0 / exist = 1\nb: Personal Preset 2 setti" +
+												("a: Personal Preset 1 setting not exist = 0 / exist = 1\nb: Personal Preset 2 setti" +
     "ng not exist = 0 / exist = 1\nc: Personal Preset 3 setting not exist = 0 / exist " +
-    "= 1\nd: Personal Preset 4 setting not exist = 0 / exist = 1"
+    "= 1\nd: Personal Preset 4 setting not exist = 0 / exist = 1")
 											},
 											{
  												"models",
@@ -17375,9 +17375,9 @@ m: Microphone Status
 											},
 											{
  												"description",
-												"Transition to the specified display\nxxss: Device Status\n       SS--: Sound field " +
+												("Transition to the specified display\nxxss: Device Status\n       SS--: Sound field " +
     "correction system selection\n       DRMM: Dirac Mesurement\n       DRSP; Dirac Spe" +
-    "aker Setting\n       DRCA: Dirac Cancel \n       DRCM: Dirac Complete"
+    "aker Setting\n       DRCA: Dirac Cancel \n       DRCM: Dirac Complete")
 											},
 											{
  												"models",
@@ -18984,8 +18984,8 @@ m: Microphone Status
 											},
 											{
  												"description",
-												"sets Input Skip Setting\nii: Selector Number (the same as for SLI command)\nxx: 00 " +
-    "= Use, 01 = Skip"
+												("sets Input Skip Setting\nii: Selector Number (the same as for SLI command)\nxx: 00 " +
+    "= Use, 01 = Skip")
 											},
 											{
  												"models",
@@ -28526,8 +28526,8 @@ m: Microphone Status
 											},
 											{
  												"description",
-												"NET/USB Artist Name (variable-length, 64 Unicode letters [UTF-8 encoded] max , fo" +
-    "r Network Control only)"
+												("NET/USB Artist Name (variable-length, 64 Unicode letters [UTF-8 encoded] max , fo" +
+    "r Network Control only)")
 											},
 											{
  												"models",
@@ -28587,8 +28587,8 @@ m: Microphone Status
 											},
 											{
  												"description",
-												"NET/USB Album Name (variable-length, 64 Unicode letters [UTF-8 encoded] max , for" +
-    " Network Control only)"
+												("NET/USB Album Name (variable-length, 64 Unicode letters [UTF-8 encoded] max , for" +
+    " Network Control only)")
 											},
 											{
  												"models",
@@ -28648,8 +28648,8 @@ m: Microphone Status
 											},
 											{
  												"description",
-												"NET/USB Title Name (variable-length, 64 Unicode letters [UTF-8 encoded] max , for" +
-    " Network Control only)"
+												("NET/USB Title Name (variable-length, 64 Unicode letters [UTF-8 encoded] max , for" +
+    " Network Control only)")
 											},
 											{
  												"models",
@@ -28709,8 +28709,8 @@ m: Microphone Status
 											},
 											{
  												"description",
-												"NET/USB Time Info (Elapsed time/Track Time Max 99:59. If time is unknown, this re" +
-    "sponse is --:--)"
+												("NET/USB Time Info (Elapsed time/Track Time Max 99:59. If time is unknown, this re" +
+    "sponse is --:--)")
 											},
 											{
  												"models",
@@ -28728,8 +28728,8 @@ m: Microphone Status
 											},
 											{
  												"description",
-												"NET/USB Time Info (Elapsed time/Track Time Max 99:59:59. If time is unknown, this" +
-    " response is --:--)"
+												("NET/USB Time Info (Elapsed time/Track Time Max 99:59:59. If time is unknown, this" +
+    " response is --:--)")
 											},
 											{
  												"models",
@@ -28789,8 +28789,8 @@ m: Microphone Status
 											},
 											{
  												"description",
-												"NET/USB Track Info (Current Track/Total Track Max 9999. If Track is unknown, this" +
-    " response is ----)"
+												("NET/USB Track Info (Current Track/Total Track Max 9999. If Track is unknown, this" +
+    " response is ----)")
 											},
 											{
  												"models",
@@ -28850,9 +28850,9 @@ m: Microphone Status
 											},
 											{
  												"description",
-												"NET/USB Play Status (3 letters)\np -> Play Status: \"S\": STOP, \"P\": Play, \"p\": Paus" +
+												("NET/USB Play Status (3 letters)\np -> Play Status: \"S\": STOP, \"P\": Play, \"p\": Paus" +
     "e, \"F\": FF, \"R\": FR\nr -> Repeat Status: \"-\": Off, \"R\": All, \"F\": Folder, \"1\": Re" +
-    "peat 1,\ns -> Shuffle Status: \"-\": Off, \"S\": All , \"A\": Album, \"F\": Folder"
+    "peat 1,\ns -> Shuffle Status: \"-\": Off, \"S\": All , \"A\": Album, \"F\": Folder")
 											},
 											{
  												"models",
@@ -29014,8 +29014,8 @@ ii-> Service icon
 											},
 											{
  												"description",
-												"mm: minutes (00-99)\nss: seconds (00-59)\nThis command is only available when Time " +
-    "Seek is enable."
+												("mm: minutes (00-99)\nss: seconds (00-59)\nThis command is only available when Time " +
+    "Seek is enable.")
 											},
 											{
  												"models",
@@ -29033,8 +29033,8 @@ ii-> Service icon
 											},
 											{
  												"description",
-												"hh: hours(00-99)\nmm: minutes (00-59)\nss: seconds (00-59)\nThis command is only ava" +
-    "ilable when Time Seek is enable."
+												("hh: hours(00-99)\nmm: minutes (00-59)\nss: seconds (00-59)\nThis command is only ava" +
+    "ilable when Time Seek is enable.")
 											},
 											{
  												"models",
@@ -29241,9 +29241,9 @@ when t = U, (for Network Control Only)
 											},
 											{
  												"description",
-												"select the listed item\n t -> Index Type (L : Line, I : Index)\nwhen t = L,\n  i -> " +
+												("select the listed item\n t -> Index Type (L : Line, I : Index)\nwhen t = L,\n  i -> " +
     "Line number (0-9 : 1st to 10th Line [1 digit] )\nwhen t = I,\n  iiiii -> Index num" +
-    "ber (00001-99999 : 1st to 99999th Item [5 digits] )"
+    "ber (00001-99999 : 1st to 99999th Item [5 digits] )")
 											},
 											{
  												"models",
@@ -29355,9 +29355,9 @@ yyyy -> number of items (0000-FFFF : 1 to 65536 Items [4 HEX digits] )"
 											},
 											{
  												"description",
-												"select the listed item (from Network Control Only)\nzzzz -> sequence number (0000-" +
+												("select the listed item (from Network Control Only)\nzzzz -> sequence number (0000-" +
     "FFFF)\nll -> number of layer (00-FF)\nxxxx -> index number (0000-FFFF : 1st to 655" +
-    "36th Item [4 HEX digits] )\n---- -> not used"
+    "36th Item [4 HEX digits] )\n---- -> not used")
 											},
 											{
  												"models",
@@ -29399,9 +29399,9 @@ yyyy -> number of items (0000-FFFF : 1 to 65536 Items [4 HEX digits] )"
 											},
 											{
  												"description",
-												"NET/USB Jacket Art/Album Art Data\nt-> Image type 0:BMP, 1:JPEG, 2:URL, n:No Image" +
+												("NET/USB Jacket Art/Album Art Data\nt-> Image type 0:BMP, 1:JPEG, 2:URL, n:No Image" +
     "\np-> Packet flag 0:Start, 1:Next, 2:End, -:not used\nxxxxxxxxxxxxxx -> Jacket/Alb" +
-    "um Art Data (variable length, 1024 ASCII HEX letters max)"
+    "um Art Data (variable length, 1024 ASCII HEX letters max)")
 											},
 											{
  												"models",
@@ -29653,8 +29653,8 @@ ll -> category
 											},
 											{
  												"description",
-												"set Keyboard Input letter\n\"nnnnnnnn\" is variable-length, 128 Unicode letters [UTF" +
-    "-8 encoded] max"
+												("set Keyboard Input letter\n\"nnnnnnnn\" is variable-length, 128 Unicode letters [UTF" +
+    "-8 encoded] max")
 											},
 											{
  												"models",
@@ -29759,7 +29759,7 @@ bbb...bbb -> Text of Button
 											},
 											{
  												"description",
-												"NET/USB List Title Info\nxx : Service Type\n 00 : DLNA, 01 : Favorite, 02 : vTuner," +
+												("NET/USB List Title Info\nxx : Service Type\n 00 : DLNA, 01 : Favorite, 02 : vTuner," +
     " 03 : SiriusXM, 04 : Pandora, 05 : Rhapsody, 06 : Last.fm,\n 07 : Napster, 08 : S" +
     "lacker, 09 : Mediafly, 0A : Spotify, 0B : AUPEO!, 0C : radiko, 0D : e-onkyo,\n 0E" +
     " : TuneIn Radio, 0F : MP3tunes, 10 : Simfy, 11:Home Media, 12:Deezer, 13:iHeartR" +
@@ -29782,7 +29782,7 @@ bbb...bbb -> Text of Button
     "\n 08 : Server Start-up, 09 : Song rated as Favorite, 0A : Song banned from stati" +
     "on,\n 0B : Authentication Failed, 0C : Spotify Paused(max 1 device), 0D : Track N" +
     "ot Available, 0E : Cannot Skip\nnnn...nnn : Character of Title Bar (variable-leng" +
-    "th, 64 Unicode letters [UTF-8 encoded] max)"
+    "th, 64 Unicode letters [UTF-8 encoded] max)")
 											},
 											{
  												"models",
@@ -29800,7 +29800,7 @@ bbb...bbb -> Text of Button
 											},
 											{
  												"description",
-												"NET/USB List Title Info\nxx : Service Type\n 00 : Music Server (DLNA), 01 : Favorit" +
+												("NET/USB List Title Info\nxx : Service Type\n 00 : Music Server (DLNA), 01 : Favorit" +
     "e, 02 : vTuner, 03 : SiriusXM, 04 : Pandora, 05 : Rhapsody, 06 : Last.fm,\n 07 : " +
     "Napster, 08 : Slacker, 09 : Mediafly, 0A : Spotify, 0B : AUPEO!, 0C : radiko, 0D" +
     " : e-onkyo,\n 0E : TuneIn Radio, 0F : MP3tunes, 10 : Simfy, 11:Home Media, 12:Dee" +
@@ -29828,7 +29828,7 @@ bbb...bbb -> Text of Button
     "Operation disabled\n 08 : Server Start-up, 09 : Song rated as Favorite, 0A : Song" +
     " banned from station,\n 0B : Authentication Failed, 0C : Spotify Paused(max 1 dev" +
     "ice), 0D : Track Not Available, 0E : Cannot Skip\nnnn...nnn : Character of Title " +
-    "Bar (variable-length, 64 Unicode letters [UTF-8 encoded] max)"
+    "Bar (variable-length, 64 Unicode letters [UTF-8 encoded] max)")
 											},
 											{
  												"models",
@@ -29964,8 +29964,8 @@ bbb...bbb -> Text of Button
 							},
 							{
  								"description",
-								"Network Standby Settings (for Network Control Only and Available in AVR is PowerO" +
-    "n)"
+								("Network Standby Settings (for Network Control Only and Available in AVR is PowerO" +
+    "n)")
 							},
 							{
  								"aliases",
@@ -30123,8 +30123,8 @@ bbb...bbb -> Text of Button
 											},
 											{
  												"description",
-												"t -> message type \'X\' : XML\n---- -> reserved\n<.....> : XML data ( [CR] and [LF] a" +
-    "re removed )"
+												("t -> message type \'X\' : XML\n---- -> reserved\n<.....> : XML data ( [CR] and [LF] a" +
+    "re removed )")
 											},
 											{
  												"models",
@@ -30142,9 +30142,9 @@ bbb...bbb -> Text of Button
 											},
 											{
  												"description",
-												"U : UI Type\n 0 : List, 1 : Menu, 2 : Playback, 3 : Popup, 4 : Keyboard, 5 : Menu " +
+												("U : UI Type\n 0 : List, 1 : Menu, 2 : Playback, 3 : Popup, 4 : Keyboard, 5 : Menu " +
     "List\nll -> number of layer (00-FF)\nt : Update Type\n 0 : All, 1 : Button, 2 : Tex" +
-    "tbox, 3 : Listbox\n<.....> : XML data ( [CR] and [LF] are removed )"
+    "tbox, 3 : Listbox\n<.....> : XML data ( [CR] and [LF] are removed )")
 											},
 											{
  												"models",
@@ -30249,8 +30249,8 @@ nnn...nnn : Character of update information file path (variable-length, Unicode 
 											},
 											{
  												"description",
-												"AA : Update Information Type\n 00 : No update information, 01 : Has Update Informa" +
-    "tion, 02 : Should show information by automatic,"
+												("AA : Update Information Type\n 00 : No update information, 01 : Has Update Informa" +
+    "tion, 02 : Should show information by automatic,")
 											},
 											{
  												"models",
@@ -30352,8 +30352,8 @@ yyy...yyy : Character of device name for Alexa service (variable-length, Unicode
 							},
 							{
  								"description",
-								"NET/USB List Info (Update item, need processing XML data, for Network Control Onl" +
-    "y)"
+								("NET/USB List Info (Update item, need processing XML data, for Network Control Onl" +
+    "y)")
 							},
 							{
  								"aliases",
@@ -30373,8 +30373,8 @@ yyy...yyy : Character of device name for Alexa service (variable-length, Unicode
 											},
 											{
  												"description",
-												"xxxx -> index of update item (0000-FFFF : 1st to 65536th Item [4 HEX digits] )\nyy" +
-    "yy : number of items (0000-FFFF : 1 to 65536 Items [4 HEX digits] )"
+												("xxxx -> index of update item (0000-FFFF : 1st to 65536th Item [4 HEX digits] )\nyy" +
+    "yy : number of items (0000-FFFF : 1 to 65536 Items [4 HEX digits] )")
 											},
 											{
  												"models",
@@ -30487,8 +30487,8 @@ rrr-> reserved"
 											},
 											{
  												"description",
-												"Add Favorite List in List View (from Network Control Only)\nxxxx -> index number (" +
-    "0000-FFFF : 1st to 65536th Item [4 HEX digits] )"
+												("Add Favorite List in List View (from Network Control Only)\nxxxx -> index number (" +
+    "0000-FFFF : 1st to 65536th Item [4 HEX digits] )")
 											},
 											{
  												"models",
@@ -31278,8 +31278,8 @@ ex.:MRM00       Flare Connet canceled"
 											},
 											{
  												"description",
-												"Device Authentication Key Error\nzz : Error Code\n”05” : Device Authentication Key " +
-    "Error"
+												("Device Authentication Key Error\nzz : Error Code\n”05” : Device Authentication Key " +
+    "Error")
 											},
 											{
  												"models",
@@ -31429,8 +31429,8 @@ ex.:MRM00       Flare Connet canceled"
 											},
 											{
  												"description",
-												"zz : Error Code\n”01” : No Information\n”02” : Network Error\n”03” : File system Err" +
-    "or\n”04” : Storage Full Error\n”05” : Device Authentication Key Error"
+												("zz : Error Code\n”01” : No Information\n”02” : Network Error\n”03” : File system Err" +
+    "or\n”04” : Storage Full Error\n”05” : Device Authentication Key Error")
 											},
 											{
  												"models",
@@ -31526,8 +31526,8 @@ ex.:MRM00       Flare Connet canceled"
 											},
 											{
  												"description",
-												"zzzzzzzz : Free Space(Mbyte) (00000000-FFFFFFFF : 0 to 4,294,967,295Mbyte [8 HEX " +
-    "digits])"
+												("zzzzzzzz : Free Space(Mbyte) (00000000-FFFFFFFF : 0 to 4,294,967,295Mbyte [8 HEX " +
+    "digits])")
 											},
 											{
  												"models",
@@ -31831,9 +31831,9 @@ y : Add Type
 											},
 											{
  												"description",
-												"xxxx : The Index number in the PlayQueue of the item to be moved (0000-FFFF : 1st" +
+												("xxxx : The Index number in the PlayQueue of the item to be moved (0000-FFFF : 1st" +
     " to 65536th Item [4 HEX digits] )      \nyyyy : The Index number in the PlayQueue" +
-    " of destination.(0000-FFFF : 1st to 65536th Item [4 HEX digits] )"
+    " of destination.(0000-FFFF : 1st to 65536th Item [4 HEX digits] )")
 											},
 											{
  												"models",
@@ -31875,8 +31875,8 @@ y : Add Type
 											},
 											{
  												"description",
-												"NET/USB Artist Name (variable-length, 64 Unicode letters [UTF-8 encoded] max , fo" +
-    "r Network Control only)"
+												("NET/USB Artist Name (variable-length, 64 Unicode letters [UTF-8 encoded] max , fo" +
+    "r Network Control only)")
 											},
 											{
  												"models",
@@ -31936,8 +31936,8 @@ y : Add Type
 											},
 											{
  												"description",
-												"NET/USB Album Name (variable-length, 64 Unicode letters [UTF-8 encoded] max , for" +
-    " Network Control only)"
+												("NET/USB Album Name (variable-length, 64 Unicode letters [UTF-8 encoded] max , for" +
+    " Network Control only)")
 											},
 											{
  												"models",
@@ -31997,8 +31997,8 @@ y : Add Type
 											},
 											{
  												"description",
-												"NET/USB Title Name (variable-length, 64 Unicode letters [UTF-8 encoded] max , for" +
-    " Network Control only)"
+												("NET/USB Title Name (variable-length, 64 Unicode letters [UTF-8 encoded] max , for" +
+    " Network Control only)")
 											},
 											{
  												"models",
@@ -32118,8 +32118,8 @@ y : Add Type
 											},
 											{
  												"description",
-												"NET/USB Play Status (3 letters)\np -> Play Status: \"S\": STOP, \"P\": Play, \"p\": Paus" +
-    "e\nr -> Repeat Status: \"-\": Off\ns -> Shuffle Status: \"-\": Off"
+												("NET/USB Play Status (3 letters)\np -> Play Status: \"S\": STOP, \"P\": Play, \"p\": Paus" +
+    "e\nr -> Repeat Status: \"-\": Off\ns -> Shuffle Status: \"-\": Off")
 											},
 											{
  												"models",
@@ -32179,9 +32179,9 @@ y : Add Type
 											},
 											{
  												"description",
-												"a = Privacy Policy Status: \"0\" = Disagree / \"1\" = Agree\nb = Google Cast License: " +
+												("a = Privacy Policy Status: \"0\" = Disagree / \"1\" = Agree\nb = Google Cast License: " +
     "\"0\" = Disagree / \"1\" = Agree\nc = SUE - Privacy Policy: \"0\" = Disagree / \"1\" = Ag" +
-    "ree\nd = Usage Datga: \"0\" = Disagree / \"1\" = Agree"
+    "ree\nd = Usage Datga: \"0\" = Disagree / \"1\" = Agree")
 											},
 											{
  												"models",
@@ -32567,8 +32567,8 @@ b: Display Method
 											},
 											{
  												"description",
-												".                 Maker\nxxxx          FriendlyName ASCII Data (MAX 128)\nDirection" +
-    "   e-control -> NET MCU"
+												(".                 Maker\nxxxx          FriendlyName ASCII Data (MAX 128)\nDirection" +
+    "   e-control -> NET MCU")
 											},
 											{
  												"models",
@@ -37994,9 +37994,9 @@ b: Display Method
 											},
 											{
  												"description",
-												"iPod Play Status (3 letters)\np -> Play Status \"S\" STOP, \"P\" Play, \"p\" Pause, \"F\" " +
+												("iPod Play Status (3 letters)\np -> Play Status \"S\" STOP, \"P\" Play, \"p\" Pause, \"F\" " +
     "FF, \"R\" FR\nr -> Repeat Status \"-\" no Repeat, \"R\" All Repeat, \"1\" Repeat 1,\ns -> " +
-    "Shuffle Status \"-\" no Shuffle, \"S\" Shuffle, \"A\" Album Shuffle"
+    "Shuffle Status \"-\" no Shuffle, \"S\" Shuffle, \"A\" Album Shuffle")
 											},
 											{
  												"models",
@@ -38814,9 +38814,9 @@ when t = C,
 											},
 											{
  												"description",
-												"HD Radio Tuner Status (3 bytes)\nmm -> \"00\" not HD, \"01\" HD\nnn -> current Program " +
+												("HD Radio Tuner Status (3 bytes)\nmm -> \"00\" not HD, \"01\" HD\nnn -> current Program " +
     "\"01\"-\"08\"\noo -> receivable Program (8 bits are represented in hexadecimal notati" +
-    "on. Each bit shows receivable or not.)"
+    "on. Each bit shows receivable or not.)")
 											},
 											{
  												"models",
