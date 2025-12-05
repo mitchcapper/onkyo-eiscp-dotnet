@@ -1,7 +1,7 @@
 // Generated
 // by generate.dll
 // from eiscp-commands.yaml
-// at 11/12/2025 1:50:03 PM
+// at 12/5/2025 12:45:02 PM
 
 using System.Collections;
 using System.Collections.Generic;
@@ -1990,7 +1990,7 @@ mm:Subwoofer 2"
 											},
 											{
  												"models",
-												"set23"
+												"set24"
 											}
 										}
 									},
@@ -2008,7 +2008,7 @@ mm:Subwoofer 2"
 											},
 											{
  												"models",
-												"set24"
+												"set25"
 											}
 										}
 									},
@@ -2026,7 +2026,7 @@ mm:Subwoofer 2"
 											},
 											{
  												"models",
-												"set23"
+												"set24"
 											}
 										}
 									},
@@ -2044,7 +2044,7 @@ mm:Subwoofer 2"
 											},
 											{
  												"models",
-												"set23"
+												"set24"
 											}
 										}
 									},
@@ -2062,7 +2062,7 @@ mm:Subwoofer 2"
 											},
 											{
  												"models",
-												"set23"
+												"set24"
 											}
 										}
 									}
@@ -2104,7 +2104,7 @@ mm:Subwoofer 2"
 											},
 											{
  												"models",
-												"set25"
+												"set26"
 											}
 										}
 									},
@@ -2122,7 +2122,7 @@ mm:Subwoofer 2"
 											},
 											{
  												"models",
-												"set27"
+												"set28"
 											}
 										}
 									},
@@ -2140,7 +2140,7 @@ mm:Subwoofer 2"
 											},
 											{
  												"models",
-												"set28"
+												"set29"
 											}
 										}
 									},
@@ -2158,7 +2158,7 @@ mm:Subwoofer 2"
 											},
 											{
  												"models",
-												"set28"
+												"set29"
 											}
 										}
 									},
@@ -2176,7 +2176,7 @@ mm:Subwoofer 2"
 											},
 											{
  												"models",
-												"set28"
+												"set29"
 											}
 										}
 									}
@@ -2218,7 +2218,7 @@ mm:Subwoofer 2"
 											},
 											{
  												"models",
-												"set29"
+												"set30"
 											}
 										}
 									},
@@ -2236,7 +2236,7 @@ mm:Subwoofer 2"
 											},
 											{
  												"models",
-												"set30"
+												"set31"
 											}
 										}
 									},
@@ -2254,7 +2254,7 @@ mm:Subwoofer 2"
 											},
 											{
  												"models",
-												"set31"
+												"set32"
 											}
 										}
 									},
@@ -2272,7 +2272,7 @@ mm:Subwoofer 2"
 											},
 											{
  												"models",
-												"set31"
+												"set32"
 											}
 										}
 									},
@@ -2290,7 +2290,7 @@ mm:Subwoofer 2"
 											},
 											{
  												"models",
-												"set31"
+												"set32"
 											}
 										}
 									}
@@ -2332,7 +2332,7 @@ mm:Subwoofer 2"
 											},
 											{
  												"models",
-												"set25"
+												"set26"
 											}
 										}
 									},
@@ -2350,7 +2350,7 @@ mm:Subwoofer 2"
 											},
 											{
  												"models",
-												"set33"
+												"set34"
 											}
 										}
 									},
@@ -2368,7 +2368,7 @@ mm:Subwoofer 2"
 											},
 											{
  												"models",
-												"set34"
+												"set35"
 											}
 										}
 									},
@@ -2386,7 +2386,7 @@ mm:Subwoofer 2"
 											},
 											{
  												"models",
-												"set34"
+												"set35"
 											}
 										}
 									},
@@ -2400,11 +2400,11 @@ mm:Subwoofer 2"
 											},
 											{
  												"description",
-												"gets the Subwoofer Level"
+												"gets the Center Level"
 											},
 											{
  												"models",
-												"set34"
+												"set35"
 											}
 										}
 									}
@@ -2523,7 +2523,7 @@ mmm:Subwoofer 2"
 											},
 											{
  												"models",
-												"set35"
+												"set36"
 											}
 										}
 									},
@@ -2541,7 +2541,7 @@ mmm:Subwoofer 2"
 											},
 											{
  												"models",
-												"set35"
+												"set36"
 											}
 										}
 									},
@@ -2559,7 +2559,7 @@ mmm:Subwoofer 2"
 											},
 											{
  												"models",
-												"set35"
+												"set36"
 											}
 										}
 									},
@@ -2577,7 +2577,7 @@ mmm:Subwoofer 2"
 											},
 											{
  												"models",
-												"set35"
+												"set36"
 											}
 										}
 									}
@@ -2623,7 +2623,7 @@ mmm:Subwoofer 2"
 											},
 											{
  												"models",
-												"set37"
+												"set38"
 											}
 										}
 									},
@@ -2641,7 +2641,7 @@ mmm:Subwoofer 2"
 											},
 											{
  												"models",
-												"set38"
+												"set39"
 											}
 										}
 									},
@@ -2659,7 +2659,7 @@ mmm:Subwoofer 2"
 											},
 											{
  												"models",
-												"set39"
+												"set40"
 											}
 										}
 									},
@@ -2677,7 +2677,7 @@ mmm:Subwoofer 2"
 											},
 											{
  												"models",
-												"set40"
+												"set41"
 											}
 										}
 									},
@@ -2695,7 +2695,7 @@ mmm:Subwoofer 2"
 											},
 											{
  												"models",
-												"set41"
+												"set42"
 											}
 										}
 									},
@@ -2713,7 +2713,7 @@ mmm:Subwoofer 2"
 											},
 											{
  												"models",
-												"set41"
+												"set42"
 											}
 										}
 									}
@@ -2809,7 +2809,7 @@ mmm:Subwoofer 2"
 											},
 											{
  												"models",
-												"set42"
+												"set43"
 											}
 										}
 									},
@@ -2827,7 +2827,7 @@ mmm:Subwoofer 2"
 											},
 											{
  												"models",
-												"set43"
+												"set44"
 											}
 										}
 									},
@@ -3031,7 +3031,7 @@ mmm:Subwoofer 2"
 											},
 											{
  												"models",
-												"set44"
+												"set45"
 											}
 										}
 									},
@@ -3049,7 +3049,7 @@ mmm:Subwoofer 2"
 											},
 											{
  												"models",
-												"set45"
+												"set46"
 											}
 										}
 									},
@@ -3067,7 +3067,7 @@ mmm:Subwoofer 2"
 											},
 											{
  												"models",
-												"set46"
+												"set47"
 											}
 										}
 									},
@@ -3085,7 +3085,7 @@ mmm:Subwoofer 2"
 											},
 											{
  												"models",
-												"set24"
+												"set48"
 											}
 										}
 									},
@@ -3103,7 +3103,7 @@ mmm:Subwoofer 2"
 											},
 											{
  												"models",
-												"set47"
+												"set49"
 											}
 										}
 									}
@@ -3145,7 +3145,7 @@ mmm:Subwoofer 2"
 											},
 											{
  												"models",
-												"set48"
+												"set50"
 											}
 										}
 									},
@@ -3163,7 +3163,7 @@ mmm:Subwoofer 2"
 											},
 											{
  												"models",
-												"set48"
+												"set50"
 											}
 										}
 									},
@@ -3181,7 +3181,7 @@ mmm:Subwoofer 2"
 											},
 											{
  												"models",
-												"set49"
+												"set51"
 											}
 										}
 									},
@@ -3199,7 +3199,7 @@ mmm:Subwoofer 2"
 											},
 											{
  												"models",
-												"set49"
+												"set51"
 											}
 										}
 									}
@@ -3285,7 +3285,7 @@ mmm:Subwoofer 2"
 											},
 											{
  												"models",
-												"set50"
+												"set52"
 											}
 										}
 									},
@@ -3350,7 +3350,7 @@ k...k: Upmix Mode(No/PL2/PL2X/PL2Z/DolbySurround/Neo6/NeoX/NeuralX/THXS2/ADYDSX)
 											},
 											{
  												"models",
-												"set50"
+												"set52"
 											}
 										}
 									}
@@ -3402,7 +3402,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set40"
+												"set41"
 											}
 										}
 									},
@@ -3438,7 +3438,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set40"
+												"set41"
 											}
 										}
 									}
@@ -3481,7 +3481,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set51"
+												"set53"
 											}
 										}
 									},
@@ -3499,7 +3499,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set51"
+												"set53"
 											}
 										}
 									},
@@ -3517,7 +3517,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set51"
+												"set53"
 											}
 										}
 									}
@@ -3559,7 +3559,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set4"
+												"set53"
 											}
 										}
 									},
@@ -3577,7 +3577,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set4"
+												"set53"
 											}
 										}
 									}
@@ -3629,7 +3629,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set52"
+												"set54"
 											}
 										}
 									},
@@ -3699,7 +3699,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set53"
+												"set55"
 											}
 										}
 									},
@@ -3722,7 +3722,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set54"
+												"set56"
 											}
 										}
 									},
@@ -3744,7 +3744,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set55"
+												"set57"
 											}
 										}
 									},
@@ -3762,7 +3762,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set56"
+												"set58"
 											}
 										}
 									},
@@ -3780,7 +3780,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set57"
+												"set59"
 											}
 										}
 									},
@@ -3798,7 +3798,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set57"
+												"set59"
 											}
 										}
 									},
@@ -3816,7 +3816,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set58"
+												"set60"
 											}
 										}
 									},
@@ -3857,7 +3857,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set59"
+												"set61"
 											}
 										}
 									},
@@ -3875,7 +3875,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set59"
+												"set61"
 											}
 										}
 									},
@@ -3898,7 +3898,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set60"
+												"set62"
 											}
 										}
 									},
@@ -3916,7 +3916,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set42"
+												"set43"
 											}
 										}
 									},
@@ -3934,7 +3934,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set61"
+												"set63"
 											}
 										}
 									},
@@ -4034,7 +4034,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set62"
+												"set64"
 											}
 										}
 									},
@@ -4056,7 +4056,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set62"
+												"set64"
 											}
 										}
 									},
@@ -4078,7 +4078,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set63"
+												"set65"
 											}
 										}
 									},
@@ -4096,7 +4096,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set64"
+												"set66"
 											}
 										}
 									},
@@ -4118,7 +4118,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set65"
+												"set67"
 											}
 										}
 									},
@@ -4136,7 +4136,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set65"
+												"set67"
 											}
 										}
 									},
@@ -4154,7 +4154,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set66"
+												"set68"
 											}
 										}
 									},
@@ -4172,7 +4172,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set67"
+												"set69"
 											}
 										}
 									},
@@ -4280,7 +4280,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set68"
+												"set70"
 											}
 										}
 									},
@@ -4298,7 +4298,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set69"
+												"set71"
 											}
 										}
 									},
@@ -4316,7 +4316,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set70"
+												"set72"
 											}
 										}
 									},
@@ -4334,7 +4334,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set71"
+												"set73"
 											}
 										}
 									},
@@ -4352,7 +4352,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set72"
+												"set74"
 											}
 										}
 									},
@@ -4502,7 +4502,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set73"
+												"set75"
 											}
 										}
 									},
@@ -4520,7 +4520,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set73"
+												"set75"
 											}
 										}
 									},
@@ -4538,7 +4538,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set73"
+												"set75"
 											}
 										}
 									},
@@ -4556,7 +4556,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set74"
+												"set76"
 											}
 										}
 									},
@@ -4574,7 +4574,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set75"
+												"set77"
 											}
 										}
 									},
@@ -4592,7 +4592,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set56"
+												"set58"
 											}
 										}
 									},
@@ -4610,7 +4610,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set56"
+												"set58"
 											}
 										}
 									},
@@ -4628,7 +4628,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set73"
+												"set75"
 											}
 										}
 									},
@@ -4646,7 +4646,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set73"
+												"set75"
 											}
 										}
 									},
@@ -4664,7 +4664,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set42"
+												"set43"
 											}
 										}
 									},
@@ -4682,7 +4682,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set76"
+												"set78"
 											}
 										}
 									},
@@ -4700,7 +4700,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set73"
+												"set75"
 											}
 										}
 									},
@@ -4718,7 +4718,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set73"
+												"set75"
 											}
 										}
 									},
@@ -4736,7 +4736,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set73"
+												"set75"
 											}
 										}
 									},
@@ -4754,7 +4754,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set77"
+												"set79"
 											}
 										}
 									},
@@ -4772,7 +4772,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set78"
+												"set80"
 											}
 										}
 									},
@@ -4790,7 +4790,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set78"
+												"set80"
 											}
 										}
 									},
@@ -4808,7 +4808,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set79"
+												"set81"
 											}
 										}
 									},
@@ -4844,7 +4844,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set73"
+												"set75"
 											}
 										}
 									},
@@ -4862,7 +4862,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set73"
+												"set75"
 											}
 										}
 									},
@@ -4880,7 +4880,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set73"
+												"set75"
 											}
 										}
 									}
@@ -4922,7 +4922,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set80"
+												"set82"
 											}
 										}
 									},
@@ -4940,7 +4940,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set81"
+												"set83"
 											}
 										}
 									},
@@ -4958,7 +4958,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set82"
+												"set84"
 											}
 										}
 									},
@@ -4976,7 +4976,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set56"
+												"set58"
 											}
 										}
 									},
@@ -4994,7 +4994,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set83"
+												"set85"
 											}
 										}
 									},
@@ -5016,7 +5016,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set20"
+												"set86"
 											}
 										}
 									},
@@ -5034,7 +5034,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set84"
+												"set87"
 											}
 										}
 									},
@@ -5052,7 +5052,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set85"
+												"set88"
 											}
 										}
 									},
@@ -5070,7 +5070,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set86"
+												"set89"
 											}
 										}
 									},
@@ -5088,7 +5088,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set87"
+												"set90"
 											}
 										}
 									},
@@ -5106,7 +5106,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set87"
+												"set90"
 											}
 										}
 									}
@@ -5148,7 +5148,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set89"
+												"set92"
 											}
 										}
 									},
@@ -5166,7 +5166,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set89"
+												"set92"
 											}
 										}
 									},
@@ -5184,7 +5184,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set90"
+												"set93"
 											}
 										}
 									}
@@ -5226,7 +5226,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set92"
+												"set95"
 											}
 										}
 									},
@@ -5244,7 +5244,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set92"
+												"set95"
 											}
 										}
 									},
@@ -5262,7 +5262,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set93"
+												"set96"
 											}
 										}
 									}
@@ -5304,7 +5304,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set95"
+												"set98"
 											}
 										}
 									},
@@ -5322,7 +5322,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set95"
+												"set98"
 											}
 										}
 									},
@@ -5340,7 +5340,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set96"
+												"set99"
 											}
 										}
 									}
@@ -5382,7 +5382,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set97"
+												"set100"
 											}
 										}
 									},
@@ -5400,7 +5400,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set97"
+												"set100"
 											}
 										}
 									},
@@ -5418,7 +5418,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set97"
+												"set100"
 											}
 										}
 									}
@@ -5464,7 +5464,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set98"
+												"set101"
 											}
 										}
 									},
@@ -5486,7 +5486,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set99"
+												"set102"
 											}
 										}
 									},
@@ -5509,7 +5509,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set100"
+												"set103"
 											}
 										}
 									},
@@ -5531,7 +5531,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set101"
+												"set104"
 											}
 										}
 									},
@@ -5549,7 +5549,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set102"
+												"set105"
 											}
 										}
 									},
@@ -5567,7 +5567,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set102"
+												"set105"
 											}
 										}
 									},
@@ -5585,7 +5585,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set99"
+												"set102"
 											}
 										}
 									},
@@ -5603,7 +5603,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set99"
+												"set102"
 											}
 										}
 									}
@@ -5645,7 +5645,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set85"
+												"set88"
 											}
 										}
 									},
@@ -5663,7 +5663,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set85"
+												"set88"
 											}
 										}
 									},
@@ -5681,7 +5681,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set85"
+												"set88"
 											}
 										}
 									},
@@ -5699,7 +5699,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set85"
+												"set88"
 											}
 										}
 									},
@@ -5717,7 +5717,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set85"
+												"set88"
 											}
 										}
 									}
@@ -5759,7 +5759,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set103"
+												"set106"
 											}
 										}
 									},
@@ -5777,7 +5777,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set103"
+												"set106"
 											}
 										}
 									},
@@ -5795,7 +5795,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set103"
+												"set106"
 											}
 										}
 									},
@@ -5813,7 +5813,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set103"
+												"set106"
 											}
 										}
 									}
@@ -5855,7 +5855,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set104"
+												"set107"
 											}
 										}
 									},
@@ -5873,7 +5873,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set104"
+												"set107"
 											}
 										}
 									},
@@ -5891,7 +5891,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set104"
+												"set107"
 											}
 										}
 									},
@@ -5909,7 +5909,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set104"
+												"set107"
 											}
 										}
 									}
@@ -5951,7 +5951,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set105"
+												"set108"
 											}
 										}
 									},
@@ -5969,7 +5969,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set30"
+												"set31"
 											}
 										}
 									},
@@ -5987,7 +5987,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set106"
+												"set109"
 											}
 										}
 									},
@@ -6005,7 +6005,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set105"
+												"set108"
 											}
 										}
 									},
@@ -6023,7 +6023,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set105"
+												"set108"
 											}
 										}
 									}
@@ -6065,7 +6065,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set107"
+												"set110"
 											}
 										}
 									},
@@ -6083,7 +6083,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set107"
+												"set110"
 											}
 										}
 									},
@@ -6101,7 +6101,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set108"
+												"set111"
 											}
 										}
 									},
@@ -6119,7 +6119,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set108"
+												"set111"
 											}
 										}
 									},
@@ -6137,7 +6137,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set109"
+												"set112"
 											}
 										}
 									},
@@ -6155,7 +6155,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set108"
+												"set111"
 											}
 										}
 									},
@@ -6173,7 +6173,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set110"
+												"set113"
 											}
 										}
 									},
@@ -6195,7 +6195,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set111"
+												"set114"
 											}
 										}
 									},
@@ -6213,7 +6213,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set109"
+												"set112"
 											}
 										}
 									},
@@ -6231,7 +6231,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set112"
+												"set115"
 											}
 										}
 									},
@@ -6249,7 +6249,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set113"
+												"set116"
 											}
 										}
 									},
@@ -6267,7 +6267,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set107"
+												"set110"
 											}
 										}
 									},
@@ -6285,7 +6285,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set107"
+												"set110"
 											}
 										}
 									}
@@ -6425,7 +6425,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set114"
+												"set117"
 											}
 										}
 									},
@@ -6443,7 +6443,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set114"
+												"set117"
 											}
 										}
 									}
@@ -6485,7 +6485,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set115"
+												"set118"
 											}
 										}
 									},
@@ -6503,7 +6503,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set115"
+												"set118"
 											}
 										}
 									},
@@ -6521,7 +6521,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set115"
+												"set118"
 											}
 										}
 									},
@@ -6539,7 +6539,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set115"
+												"set118"
 											}
 										}
 									},
@@ -6557,7 +6557,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set115"
+												"set118"
 											}
 										}
 									}
@@ -6599,7 +6599,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set116"
+												"set119"
 											}
 										}
 									},
@@ -6617,7 +6617,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set117"
+												"set120"
 											}
 										}
 									},
@@ -6635,7 +6635,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set117"
+												"set120"
 											}
 										}
 									},
@@ -6653,7 +6653,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set117"
+												"set120"
 											}
 										}
 									},
@@ -6671,7 +6671,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set117"
+												"set120"
 											}
 										}
 									},
@@ -6689,7 +6689,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set118"
+												"set121"
 											}
 										}
 									},
@@ -6707,7 +6707,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set117"
+												"set120"
 											}
 										}
 									},
@@ -6725,7 +6725,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set117"
+												"set120"
 											}
 										}
 									}
@@ -6771,7 +6771,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set117"
+												"set120"
 											}
 										}
 									},
@@ -6789,7 +6789,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set117"
+												"set120"
 											}
 										}
 									},
@@ -6807,7 +6807,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set117"
+												"set120"
 											}
 										}
 									},
@@ -6825,7 +6825,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set117"
+												"set120"
 											}
 										}
 									},
@@ -6843,7 +6843,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set119"
+												"set122"
 											}
 										}
 									},
@@ -6861,7 +6861,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set119"
+												"set122"
 											}
 										}
 									},
@@ -6879,7 +6879,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set120"
+												"set123"
 											}
 										}
 									},
@@ -6901,7 +6901,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set112"
+												"set115"
 											}
 										}
 									},
@@ -6919,7 +6919,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set117"
+												"set120"
 											}
 										}
 									},
@@ -6937,7 +6937,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set117"
+												"set120"
 											}
 										}
 									}
@@ -7015,7 +7015,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set121"
+												"set124"
 											}
 										}
 									},
@@ -7038,7 +7038,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set122"
+												"set125"
 											}
 										}
 									},
@@ -7056,7 +7056,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set123"
+												"set126"
 											}
 										}
 									},
@@ -7079,7 +7079,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set122"
+												"set125"
 											}
 										}
 									},
@@ -7103,7 +7103,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set122"
+												"set125"
 											}
 										}
 									},
@@ -7121,7 +7121,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set124"
+												"set127"
 											}
 										}
 									},
@@ -7143,7 +7143,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set121"
+												"set124"
 											}
 										}
 									},
@@ -7161,7 +7161,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set121"
+												"set124"
 											}
 										}
 									},
@@ -7183,7 +7183,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set121"
+												"set124"
 											}
 										}
 									},
@@ -7205,7 +7205,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set121"
+												"set124"
 											}
 										}
 									},
@@ -7227,7 +7227,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set121"
+												"set124"
 											}
 										}
 									},
@@ -7249,7 +7249,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set125"
+												"set128"
 											}
 										}
 									},
@@ -7273,7 +7273,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set126"
+												"set129"
 											}
 										}
 									},
@@ -7291,7 +7291,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set127"
+												"set130"
 											}
 										}
 									},
@@ -7313,7 +7313,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set128"
+												"set131"
 											}
 										}
 									},
@@ -7331,7 +7331,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set56"
+												"set58"
 											}
 										}
 									},
@@ -7353,7 +7353,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set129"
+												"set132"
 											}
 										}
 									},
@@ -7375,7 +7375,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set56"
+												"set58"
 											}
 										}
 									},
@@ -7393,7 +7393,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set130"
+												"set133"
 											}
 										}
 									},
@@ -7411,7 +7411,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set131"
+												"set134"
 											}
 										}
 									},
@@ -7429,7 +7429,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set132"
+												"set135"
 											}
 										}
 									},
@@ -7447,7 +7447,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set133"
+												"set136"
 											}
 										}
 									},
@@ -7465,7 +7465,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set134"
+												"set137"
 											}
 										}
 									},
@@ -7483,7 +7483,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set134"
+												"set137"
 											}
 										}
 									},
@@ -7501,7 +7501,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set134"
+												"set137"
 											}
 										}
 									},
@@ -7519,7 +7519,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set134"
+												"set137"
 											}
 										}
 									},
@@ -7537,7 +7537,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set136"
+												"set139"
 											}
 										}
 									},
@@ -7555,7 +7555,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set138"
+												"set141"
 											}
 										}
 									},
@@ -7573,7 +7573,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set139"
+												"set142"
 											}
 										}
 									},
@@ -7591,7 +7591,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set140"
+												"set143"
 											}
 										}
 									},
@@ -7609,7 +7609,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set141"
+												"set144"
 											}
 										}
 									},
@@ -7627,7 +7627,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set141"
+												"set144"
 											}
 										}
 									},
@@ -7652,7 +7652,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set142"
+												"set145"
 											}
 										}
 									},
@@ -7677,7 +7677,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set142"
+												"set145"
 											}
 										}
 									},
@@ -7702,7 +7702,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set142"
+												"set145"
 											}
 										}
 									},
@@ -7726,7 +7726,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set143"
+												"set146"
 											}
 										}
 									},
@@ -7748,7 +7748,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set144"
+												"set147"
 											}
 										}
 									},
@@ -7772,7 +7772,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set145"
+												"set148"
 											}
 										}
 									},
@@ -7794,7 +7794,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set146"
+												"set149"
 											}
 										}
 									},
@@ -7817,7 +7817,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set147"
+												"set150"
 											}
 										}
 									},
@@ -7840,7 +7840,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set148"
+												"set151"
 											}
 										}
 									},
@@ -7862,7 +7862,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set149"
+												"set152"
 											}
 										}
 									},
@@ -7880,7 +7880,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set150"
+												"set153"
 											}
 										}
 									},
@@ -7902,7 +7902,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set151"
+												"set154"
 											}
 										}
 									},
@@ -7925,7 +7925,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set152"
+												"set155"
 											}
 										}
 									},
@@ -7948,7 +7948,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set153"
+												"set156"
 											}
 										}
 									},
@@ -7971,7 +7971,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set154"
+												"set157"
 											}
 										}
 									},
@@ -7994,7 +7994,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set141"
+												"set144"
 											}
 										}
 									},
@@ -8012,7 +8012,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set155"
+												"set158"
 											}
 										}
 									},
@@ -8030,7 +8030,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set155"
+												"set158"
 											}
 										}
 									},
@@ -8048,7 +8048,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set155"
+												"set158"
 											}
 										}
 									},
@@ -8066,7 +8066,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set156"
+												"set159"
 											}
 										}
 									},
@@ -8084,7 +8084,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set130"
+												"set133"
 											}
 										}
 									},
@@ -8102,7 +8102,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set130"
+												"set133"
 											}
 										}
 									},
@@ -8120,7 +8120,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set157"
+												"set160"
 											}
 										}
 									},
@@ -8138,7 +8138,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set158"
+												"set161"
 											}
 										}
 									},
@@ -8156,7 +8156,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set158"
+												"set161"
 											}
 										}
 									},
@@ -8174,7 +8174,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set158"
+												"set161"
 											}
 										}
 									},
@@ -8196,7 +8196,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set159"
+												"set162"
 											}
 										}
 									},
@@ -8218,7 +8218,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set159"
+												"set162"
 											}
 										}
 									},
@@ -8240,7 +8240,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set159"
+												"set162"
 											}
 										}
 									},
@@ -8258,7 +8258,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set160"
+												"set163"
 											}
 										}
 									},
@@ -8280,7 +8280,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set131"
+												"set134"
 											}
 										}
 									},
@@ -8302,7 +8302,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set131"
+												"set134"
 											}
 										}
 									},
@@ -8324,7 +8324,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set131"
+												"set134"
 											}
 										}
 									},
@@ -8342,7 +8342,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set161"
+												"set164"
 											}
 										}
 									},
@@ -8360,7 +8360,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set161"
+												"set164"
 											}
 										}
 									},
@@ -8414,7 +8414,43 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set159"
+												"set162"
+											}
+										}
+									},
+									{
+ 										"B0",
+										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+										{
+											{
+ 												"name",
+												"auro-3d"
+											},
+											{
+ 												"description",
+												"sets AURO-3D"
+											},
+											{
+ 												"models",
+												"set165"
+											}
+										}
+									},
+									{
+ 										"B1",
+										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+										{
+											{
+ 												"name",
+												"auro-surround"
+											},
+											{
+ 												"description",
+												"sets Auro Surround"
+											},
+											{
+ 												"models",
+												"set165"
 											}
 										}
 									},
@@ -8486,7 +8522,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set162"
+												"set166"
 											}
 										}
 									},
@@ -8504,7 +8540,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set162"
+												"set166"
 											}
 										}
 									},
@@ -8522,7 +8558,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set162"
+												"set166"
 											}
 										}
 									},
@@ -8750,7 +8786,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set121"
+												"set124"
 											}
 										}
 									},
@@ -8768,7 +8804,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set121"
+												"set124"
 											}
 										}
 									},
@@ -8786,7 +8822,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set163"
+												"set167"
 											}
 										}
 									},
@@ -8804,7 +8840,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set164"
+												"set168"
 											}
 										}
 									},
@@ -8822,7 +8858,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set121"
+												"set124"
 											}
 										}
 									},
@@ -8840,7 +8876,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set121"
+												"set124"
 											}
 										}
 									}
@@ -8882,7 +8918,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set167"
+												"set171"
 											}
 										}
 									},
@@ -8900,7 +8936,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set167"
+												"set171"
 											}
 										}
 									},
@@ -8918,7 +8954,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set167"
+												"set171"
 											}
 										}
 									},
@@ -8936,7 +8972,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set167"
+												"set171"
 											}
 										}
 									}
@@ -8978,7 +9014,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set168"
+												"set172"
 											}
 										}
 									},
@@ -9000,7 +9036,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set168"
+												"set172"
 											}
 										}
 									},
@@ -9018,7 +9054,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set169"
+												"set173"
 											}
 										}
 									},
@@ -9036,7 +9072,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set168"
+												"set172"
 											}
 										}
 									},
@@ -9054,7 +9090,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set168"
+												"set172"
 											}
 										}
 									}
@@ -9096,7 +9132,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set168"
+												"set172"
 											}
 										}
 									},
@@ -9114,7 +9150,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set168"
+												"set172"
 											}
 										}
 									},
@@ -9132,7 +9168,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set168"
+												"set172"
 											}
 										}
 									},
@@ -9150,7 +9186,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set168"
+												"set172"
 											}
 										}
 									}
@@ -9192,7 +9228,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set168"
+												"set172"
 											}
 										}
 									},
@@ -9210,7 +9246,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set168"
+												"set172"
 											}
 										}
 									},
@@ -9228,7 +9264,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set170"
+												"set174"
 											}
 										}
 									},
@@ -9246,7 +9282,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set168"
+												"set172"
 											}
 										}
 									},
@@ -9264,7 +9300,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set168"
+												"set172"
 											}
 										}
 									},
@@ -9282,7 +9318,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set168"
+												"set172"
 											}
 										}
 									}
@@ -9324,7 +9360,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set171"
+												"set175"
 											}
 										}
 									},
@@ -9346,7 +9382,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set171"
+												"set175"
 											}
 										}
 									},
@@ -9364,7 +9400,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set172"
+												"set176"
 											}
 										}
 									},
@@ -9382,7 +9418,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set172"
+												"set176"
 											}
 										}
 									},
@@ -9400,7 +9436,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set171"
+												"set175"
 											}
 										}
 									},
@@ -9418,7 +9454,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set171"
+												"set175"
 											}
 										}
 									}
@@ -9460,7 +9496,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set173"
+												"set177"
 											}
 										}
 									},
@@ -9482,7 +9518,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set173"
+												"set177"
 											}
 										}
 									},
@@ -9500,7 +9536,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set59"
+												"set61"
 											}
 										}
 									},
@@ -9518,7 +9554,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set174"
+												"set178"
 											}
 										}
 									},
@@ -9536,7 +9572,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set173"
+												"set177"
 											}
 										}
 									},
@@ -9554,7 +9590,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set173"
+												"set177"
 											}
 										}
 									}
@@ -9782,7 +9818,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set175"
+												"set179"
 											}
 										}
 									},
@@ -9800,7 +9836,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set175"
+												"set179"
 											}
 										}
 									},
@@ -9818,7 +9854,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set175"
+												"set179"
 											}
 										}
 									},
@@ -9836,7 +9872,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set175"
+												"set179"
 											}
 										}
 									},
@@ -9854,7 +9890,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set175"
+												"set179"
 											}
 										}
 									},
@@ -9872,7 +9908,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set175"
+												"set179"
 											}
 										}
 									},
@@ -9890,7 +9926,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set175"
+												"set179"
 											}
 										}
 									}
@@ -9932,7 +9968,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set176"
+												"set180"
 											}
 										}
 									},
@@ -9950,7 +9986,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set176"
+												"set180"
 											}
 										}
 									},
@@ -9968,7 +10004,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set176"
+												"set180"
 											}
 										}
 									},
@@ -9986,7 +10022,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set176"
+												"set180"
 											}
 										}
 									}
@@ -10571,7 +10607,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set20"
+												"set86"
 											}
 										}
 									},
@@ -10589,7 +10625,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set20"
+												"set86"
 											}
 										}
 									},
@@ -10607,7 +10643,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set20"
+												"set86"
 											}
 										}
 									},
@@ -10625,7 +10661,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set20"
+												"set86"
 											}
 										}
 									}
@@ -10669,7 +10705,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set24"
+												"set25"
 											}
 										}
 									},
@@ -10687,7 +10723,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set24"
+												"set25"
 											}
 										}
 									},
@@ -10705,7 +10741,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set24"
+												"set25"
 											}
 										}
 									},
@@ -10723,7 +10759,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set24"
+												"set25"
 											}
 										}
 									}
@@ -10861,7 +10897,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set177"
+												"set181"
 											}
 										}
 									},
@@ -10879,7 +10915,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set177"
+												"set181"
 											}
 										}
 									},
@@ -10897,7 +10933,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set177"
+												"set181"
 											}
 										}
 									},
@@ -10933,7 +10969,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set177"
+												"set181"
 											}
 										}
 									},
@@ -10951,7 +10987,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set177"
+												"set181"
 											}
 										}
 									}
@@ -11089,7 +11125,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set51"
+												"set182"
 											}
 										}
 									},
@@ -11107,7 +11143,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set51"
+												"set182"
 											}
 										}
 									},
@@ -11125,7 +11161,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set51"
+												"set182"
 											}
 										}
 									},
@@ -11143,7 +11179,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set51"
+												"set182"
 											}
 										}
 									},
@@ -11161,7 +11197,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set51"
+												"set182"
 											}
 										}
 									},
@@ -11179,7 +11215,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set51"
+												"set182"
 											}
 										}
 									}
@@ -11509,7 +11545,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set29"
+												"set183"
 											}
 										}
 									},
@@ -11545,7 +11581,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set29"
+												"set183"
 											}
 										}
 									},
@@ -11563,7 +11599,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set29"
+												"set183"
 											}
 										}
 									},
@@ -11581,7 +11617,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set29"
+												"set183"
 											}
 										}
 									}
@@ -11683,7 +11719,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set179"
+												"set185"
 											}
 										}
 									},
@@ -11701,7 +11737,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set179"
+												"set185"
 											}
 										}
 									},
@@ -11719,7 +11755,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set179"
+												"set185"
 											}
 										}
 									},
@@ -11737,7 +11773,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set179"
+												"set185"
 											}
 										}
 									}
@@ -11779,7 +11815,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set179"
+												"set185"
 											}
 										}
 									},
@@ -11797,7 +11833,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set179"
+												"set185"
 											}
 										}
 									},
@@ -11815,7 +11851,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set179"
+												"set185"
 											}
 										}
 									},
@@ -11833,7 +11869,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set179"
+												"set185"
 											}
 										}
 									}
@@ -11875,7 +11911,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set179"
+												"set185"
 											}
 										}
 									},
@@ -11893,7 +11929,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set179"
+												"set185"
 											}
 										}
 									},
@@ -11911,7 +11947,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set179"
+												"set185"
 											}
 										}
 									},
@@ -11929,7 +11965,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set179"
+												"set185"
 											}
 										}
 									}
@@ -11971,7 +12007,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set180"
+												"set186"
 											}
 										}
 									},
@@ -11989,7 +12025,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set180"
+												"set186"
 											}
 										}
 									},
@@ -12007,7 +12043,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set180"
+												"set186"
 											}
 										}
 									},
@@ -12025,7 +12061,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set180"
+												"set186"
 											}
 										}
 									}
@@ -12067,7 +12103,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set181"
+												"set187"
 											}
 										}
 									},
@@ -12085,7 +12121,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set181"
+												"set187"
 											}
 										}
 									},
@@ -12103,7 +12139,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set181"
+												"set187"
 											}
 										}
 									},
@@ -12121,7 +12157,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set181"
+												"set187"
 											}
 										}
 									}
@@ -12163,7 +12199,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set181"
+												"set187"
 											}
 										}
 									},
@@ -12181,7 +12217,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set181"
+												"set187"
 											}
 										}
 									},
@@ -12199,7 +12235,7 @@ i...i: Picture Mode
 											},
 											{
  												"models",
-												"set181"
+												"set187"
 											}
 										}
 									}
@@ -12253,7 +12289,7 @@ k:Bi-Amp 0:No,1:F,3:F+C,5:F+S,6:C+S,7:F+C+S"
 											},
 											{
  												"models",
-												"set19"
+												"set188"
 											}
 										}
 									},
@@ -12271,7 +12307,7 @@ k:Bi-Amp 0:No,1:F,3:F+C,5:F+S,6:C+S,7:F+C+S"
 											},
 											{
  												"models",
-												"set19"
+												"set188"
 											}
 										}
 									}
@@ -13030,7 +13066,7 @@ mmm:Subwoofer 2"
 											},
 											{
  												"models",
-												"set182"
+												"set189"
 											}
 										}
 									},
@@ -13048,7 +13084,7 @@ mmm:Subwoofer 2"
 											},
 											{
  												"models",
-												"set182"
+												"set189"
 											}
 										}
 									},
@@ -13066,7 +13102,7 @@ mmm:Subwoofer 2"
 											},
 											{
  												"models",
-												"set182"
+												"set189"
 											}
 										}
 									},
@@ -13084,7 +13120,7 @@ mmm:Subwoofer 2"
 											},
 											{
  												"models",
-												"set182"
+												"set189"
 											}
 										}
 									}
@@ -13318,7 +13354,7 @@ mmm:Subwoofer 2"
 											},
 											{
  												"models",
-												"set183"
+												"set190"
 											}
 										}
 									},
@@ -13336,7 +13372,7 @@ mmm:Subwoofer 2"
 											},
 											{
  												"models",
-												"set183"
+												"set190"
 											}
 										}
 									},
@@ -13354,7 +13390,7 @@ mmm:Subwoofer 2"
 											},
 											{
  												"models",
-												"set183"
+												"set191"
 											}
 										}
 									},
@@ -13372,7 +13408,7 @@ mmm:Subwoofer 2"
 											},
 											{
  												"models",
-												"set183"
+												"set190"
 											}
 										}
 									},
@@ -13390,7 +13426,7 @@ mmm:Subwoofer 2"
 											},
 											{
  												"models",
-												"set183"
+												"set190"
 											}
 										}
 									},
@@ -13408,7 +13444,7 @@ mmm:Subwoofer 2"
 											},
 											{
  												"models",
-												"set183"
+												"set190"
 											}
 										}
 									}
@@ -13450,7 +13486,7 @@ mmm:Subwoofer 2"
 											},
 											{
  												"models",
-												"set24"
+												"set48"
 											}
 										}
 									},
@@ -13468,7 +13504,7 @@ mmm:Subwoofer 2"
 											},
 											{
  												"models",
-												"set24"
+												"set48"
 											}
 										}
 									},
@@ -13486,7 +13522,7 @@ mmm:Subwoofer 2"
 											},
 											{
  												"models",
-												"set24"
+												"set48"
 											}
 										}
 									}
@@ -13528,7 +13564,7 @@ mmm:Subwoofer 2"
 											},
 											{
  												"models",
-												"set184"
+												"set192"
 											}
 										}
 									},
@@ -13546,7 +13582,7 @@ mmm:Subwoofer 2"
 											},
 											{
  												"models",
-												"set184"
+												"set192"
 											}
 										}
 									}
@@ -13575,22 +13611,21 @@ mmm:Subwoofer 2"
 								new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 								{
 									{
- 										"urxyy",
+ 										"urrrr",
 										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 										{
 											{
  												"name",
-												"urxyy"
+												"urrrr"
 											},
 											{
  												"description",
 												"u:  USB Firmware Status\n    0: not exist USB firmware\n    1 : exist USB firmware\n" +
-    "r: reserve\nx: USB Firmware Package Major Version\nyy: USB Firmware Package Minor " +
-    "Version"
+    "r: reserve"
 											},
 											{
  												"models",
-												"set4"
+												"set53"
 											}
 										}
 									},
@@ -13608,7 +13643,7 @@ mmm:Subwoofer 2"
 											},
 											{
  												"models",
-												"set4"
+												"set53"
 											}
 										}
 									}
@@ -13668,7 +13703,7 @@ mmm:Subwoofer 2"
 											},
 											{
  												"models",
-												"set4"
+												"set53"
 											}
 										}
 									},
@@ -13856,7 +13891,7 @@ mmm:Subwoofer 2"
 											},
 											{
  												"models",
-												"set185"
+												"set193"
 											}
 										}
 									},
@@ -13876,7 +13911,7 @@ mmm:Subwoofer 2"
 											},
 											{
  												"models",
-												"set185"
+												"set193"
 											}
 										}
 									}
@@ -13932,7 +13967,25 @@ Reference Information:
 											},
 											{
  												"models",
-												"set186"
+												"set194"
+											}
+										}
+									},
+									{
+ 										"{xx}",
+										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+										{
+											{
+ 												"name",
+												"xx"
+											},
+											{
+ 												"description",
+												"GR: Green Zone\nYE: Yellow Zone\nRD: Red Zone"
+											},
+											{
+ 												"models",
+												"set195"
 											}
 										}
 									},
@@ -13950,7 +14003,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set186"
+												"set196"
 											}
 										}
 									}
@@ -14029,7 +14082,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set85"
+												"set197"
 											}
 										}
 									},
@@ -14047,7 +14100,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set85"
+												"set197"
 											}
 										}
 									},
@@ -14065,7 +14118,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set85"
+												"set197"
 											}
 										}
 									},
@@ -14083,7 +14136,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set85"
+												"set197"
 											}
 										}
 									},
@@ -14101,7 +14154,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set85"
+												"set197"
 											}
 										}
 									},
@@ -14119,7 +14172,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set85"
+												"set197"
 											}
 										}
 									},
@@ -14137,7 +14190,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set85"
+												"set197"
 											}
 										}
 									},
@@ -14155,7 +14208,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set85"
+												"set197"
 											}
 										}
 									},
@@ -14173,7 +14226,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set85"
+												"set197"
 											}
 										}
 									},
@@ -14191,7 +14244,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set85"
+												"set197"
 											}
 										}
 									},
@@ -14209,7 +14262,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set85"
+												"set197"
 											}
 										}
 									},
@@ -14263,7 +14316,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set41"
+												"set42"
 											}
 										}
 									}
@@ -14305,7 +14358,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set187"
+												"set198"
 											}
 										}
 									},
@@ -14323,7 +14376,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set188"
+												"set199"
 											}
 										}
 									},
@@ -14419,7 +14472,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set189"
+												"set200"
 											}
 										}
 									},
@@ -14479,7 +14532,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set190"
+												"set201"
 											}
 										}
 									},
@@ -14497,7 +14550,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set190"
+												"set201"
 											}
 										}
 									},
@@ -14515,7 +14568,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set191"
+												"set202"
 											}
 										}
 									},
@@ -14533,7 +14586,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set190"
+												"set201"
 											}
 										}
 									}
@@ -14575,7 +14628,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set190"
+												"set201"
 											}
 										}
 									},
@@ -14593,7 +14646,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set192"
+												"set203"
 											}
 										}
 									}
@@ -14635,7 +14688,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set191"
+												"set202"
 											}
 										}
 									},
@@ -14653,7 +14706,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set193"
+												"set204"
 											}
 										}
 									}
@@ -14695,7 +14748,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set70"
+												"set72"
 											}
 										}
 									},
@@ -14713,7 +14766,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set70"
+												"set72"
 											}
 										}
 									}
@@ -14755,7 +14808,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set70"
+												"set72"
 											}
 										}
 									},
@@ -14773,7 +14826,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set70"
+												"set72"
 											}
 										}
 									}
@@ -14815,7 +14868,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set70"
+												"set72"
 											}
 										}
 									},
@@ -14833,7 +14886,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set70"
+												"set72"
 											}
 										}
 									}
@@ -14875,7 +14928,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set70"
+												"set72"
 											}
 										}
 									},
@@ -14893,7 +14946,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set70"
+												"set72"
 											}
 										}
 									},
@@ -14911,7 +14964,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set70"
+												"set72"
 											}
 										}
 									},
@@ -14929,7 +14982,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set70"
+												"set72"
 											}
 										}
 									}
@@ -14971,7 +15024,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set194"
+												"set205"
 											}
 										}
 									},
@@ -14989,7 +15042,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set194"
+												"set205"
 											}
 										}
 									},
@@ -15007,7 +15060,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set194"
+												"set205"
 											}
 										}
 									},
@@ -15025,7 +15078,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set194"
+												"set205"
 											}
 										}
 									}
@@ -15067,7 +15120,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set71"
+												"set73"
 											}
 										}
 									},
@@ -15085,7 +15138,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set71"
+												"set73"
 											}
 										}
 									}
@@ -15127,7 +15180,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set71"
+												"set73"
 											}
 										}
 									},
@@ -15145,7 +15198,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set71"
+												"set73"
 											}
 										}
 									}
@@ -15187,7 +15240,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set71"
+												"set73"
 											}
 										}
 									},
@@ -15205,7 +15258,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set71"
+												"set73"
 											}
 										}
 									}
@@ -15247,7 +15300,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set71"
+												"set73"
 											}
 										}
 									},
@@ -15265,7 +15318,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set71"
+												"set73"
 											}
 										}
 									},
@@ -15283,7 +15336,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set71"
+												"set73"
 											}
 										}
 									},
@@ -15301,7 +15354,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set71"
+												"set73"
 											}
 										}
 									}
@@ -15343,7 +15396,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set71"
+												"set73"
 											}
 										}
 									},
@@ -15361,7 +15414,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set71"
+												"set73"
 											}
 										}
 									},
@@ -15379,7 +15432,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set71"
+												"set73"
 											}
 										}
 									},
@@ -15397,7 +15450,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set71"
+												"set73"
 											}
 										}
 									}
@@ -15439,7 +15492,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set71"
+												"set73"
 											}
 										}
 									},
@@ -15457,7 +15510,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set71"
+												"set73"
 											}
 										}
 									},
@@ -15475,7 +15528,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set71"
+												"set73"
 											}
 										}
 									}
@@ -15517,7 +15570,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set195"
+												"set206"
 											}
 										}
 									},
@@ -15535,7 +15588,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set195"
+												"set206"
 											}
 										}
 									}
@@ -15577,7 +15630,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set195"
+												"set206"
 											}
 										}
 									},
@@ -15595,7 +15648,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set195"
+												"set206"
 											}
 										}
 									}
@@ -15637,7 +15690,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set195"
+												"set206"
 											}
 										}
 									},
@@ -15655,7 +15708,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set195"
+												"set206"
 											}
 										}
 									}
@@ -15697,7 +15750,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set195"
+												"set206"
 											}
 										}
 									},
@@ -15715,7 +15768,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set195"
+												"set206"
 											}
 										}
 									}
@@ -15757,7 +15810,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set195"
+												"set206"
 											}
 										}
 									},
@@ -15775,7 +15828,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set195"
+												"set206"
 											}
 										}
 									}
@@ -15817,7 +15870,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set195"
+												"set206"
 											}
 										}
 									},
@@ -15835,7 +15888,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set195"
+												"set206"
 											}
 										}
 									},
@@ -15853,7 +15906,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set195"
+												"set206"
 											}
 										}
 									}
@@ -15897,7 +15950,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set195"
+												"set206"
 											}
 										}
 									},
@@ -15915,7 +15968,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set195"
+												"set206"
 											}
 										}
 									}
@@ -15957,7 +16010,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set196"
+												"set207"
 											}
 										}
 									},
@@ -15975,7 +16028,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set196"
+												"set207"
 											}
 										}
 									},
@@ -15993,7 +16046,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set196"
+												"set207"
 											}
 										}
 									},
@@ -16578,7 +16631,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set197"
+												"set208"
 											}
 										}
 									},
@@ -16596,7 +16649,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set197"
+												"set208"
 											}
 										}
 									}
@@ -16820,7 +16873,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set198"
+												"set209"
 											}
 										}
 									},
@@ -16838,7 +16891,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set198"
+												"set209"
 											}
 										}
 									},
@@ -16858,7 +16911,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set198"
+												"set209"
 											}
 										}
 									},
@@ -16876,7 +16929,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set198"
+												"set209"
 											}
 										}
 									}
@@ -16918,7 +16971,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set199"
+												"set210"
 											}
 										}
 									},
@@ -16936,7 +16989,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set199"
+												"set210"
 											}
 										}
 									},
@@ -16954,7 +17007,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set199"
+												"set210"
 											}
 										}
 									},
@@ -16972,7 +17025,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set199"
+												"set210"
 											}
 										}
 									},
@@ -16990,7 +17043,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set200"
+												"set211"
 											}
 										}
 									},
@@ -17008,7 +17061,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set199"
+												"set210"
 											}
 										}
 									},
@@ -17026,7 +17079,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set199"
+												"set210"
 											}
 										}
 									}
@@ -17068,7 +17121,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set174"
+												"set178"
 											}
 										}
 									},
@@ -17086,7 +17139,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set174"
+												"set178"
 											}
 										}
 									},
@@ -17104,7 +17157,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set174"
+												"set178"
 											}
 										}
 									},
@@ -17122,7 +17175,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set174"
+												"set178"
 											}
 										}
 									}
@@ -17164,7 +17217,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set184"
+												"set192"
 											}
 										}
 									},
@@ -17182,7 +17235,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set184"
+												"set192"
 											}
 										}
 									},
@@ -17200,7 +17253,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set51"
+												"set53"
 											}
 										}
 									},
@@ -17218,7 +17271,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set51"
+												"set53"
 											}
 										}
 									},
@@ -17236,7 +17289,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set184"
+												"set192"
 											}
 										}
 									},
@@ -17254,7 +17307,7 @@ Reference Information:
 											},
 											{
  												"models",
-												"set184"
+												"set192"
 											}
 										}
 									}
@@ -17308,7 +17361,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set51"
+												"set53"
 											}
 										}
 									},
@@ -17328,7 +17381,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set201"
+												"set212"
 											}
 										}
 									},
@@ -17346,7 +17399,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set51"
+												"set53"
 											}
 										}
 									}
@@ -17384,13 +17437,18 @@ m: Microphone Status
 											},
 											{
  												"description",
-												"x: Slot status\n    0: No data exists\n    1 : Data exists\n    2: Currently selecte" +
-    "d\n\n(Each character corresponds to one slot, and if there are 3 slots, it will be" +
-    " 3 characters)"
+												@"x: Slot status
+    0: No data exists
+    1 : Data exists
+    2: Currently selected
+    3: Data exists(Dirac Live Bass Control)
+    4: Currently selected(Dirac Live Bass Control)
+
+(Each character corresponds to one slot, and if there are 3 slots, it will be 3 characters)"
 											},
 											{
  												"models",
-												"set201"
+												"set213"
 											}
 										}
 									},
@@ -17408,7 +17466,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set201"
+												"set213"
 											}
 										}
 									},
@@ -17426,7 +17484,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set201"
+												"set213"
 											}
 										}
 									},
@@ -17444,7 +17502,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set201"
+												"set213"
 											}
 										}
 									},
@@ -17462,7 +17520,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set201"
+												"set213"
 											}
 										}
 									},
@@ -17480,7 +17538,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set201"
+												"set213"
 											}
 										}
 									},
@@ -17498,7 +17556,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set201"
+												"set213"
 											}
 										}
 									},
@@ -17516,7 +17574,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set201"
+												"set213"
 											}
 										}
 									},
@@ -17534,7 +17592,25 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set201"
+												"set213"
+											}
+										}
+									},
+									{
+ 										"TG",
+										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+										{
+											{
+ 												"name",
+												"toggle"
+											},
+											{
+ 												"description",
+												"Dirac slot selectsets Wrap-Around"
+											},
+											{
+ 												"models",
+												"set213"
 											}
 										}
 									},
@@ -17552,7 +17628,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set201"
+												"set213"
 											}
 										}
 									}
@@ -17594,7 +17670,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set51"
+												"set53"
 											}
 										}
 									},
@@ -17612,7 +17688,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set51"
+												"set53"
 											}
 										}
 									},
@@ -17630,7 +17706,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set51"
+												"set53"
 											}
 										}
 									},
@@ -17648,7 +17724,1656 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set51"
+												"set53"
+											}
+										}
+									}
+								}
+							}
+						}
+					},
+					{
+ 						"HCA",
+						new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+						{
+							{
+ 								"name",
+								"hdmi-diagnostic-cable-test"
+							},
+							{
+ 								"description",
+								"HDMI Diagnostic Cable Test"
+							},
+							{
+ 								"aliases",
+								null
+							},
+							{
+ 								"values",
+								new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+								{
+									{
+ 										"T00",
+										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+										{
+											{
+ 												"name",
+												"t00"
+											},
+											{
+ 												"description",
+												"HDMI Diagnostic Cable Test Stop"
+											},
+											{
+ 												"models",
+												"set53"
+											}
+										}
+									},
+									{
+ 										"T01",
+										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+										{
+											{
+ 												"name",
+												"t01"
+											},
+											{
+ 												"description",
+												"HDMI Diagnostic Cable Test Ready"
+											},
+											{
+ 												"models",
+												"set53"
+											}
+										}
+									},
+									{
+ 										"T02",
+										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+										{
+											{
+ 												"name",
+												"t02"
+											},
+											{
+ 												"description",
+												"HDMI Diagnostic Cable Test Start"
+											},
+											{
+ 												"models",
+												"set53"
+											}
+										}
+									},
+									{
+ 										"R00",
+										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+										{
+											{
+ 												"name",
+												"r00"
+											},
+											{
+ 												"description",
+												"Cable Connection Error"
+											},
+											{
+ 												"models",
+												"set53"
+											}
+										}
+									},
+									{
+ 										"R01",
+										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+										{
+											{
+ 												"name",
+												"r01"
+											},
+											{
+ 												"description",
+												"480p Failed"
+											},
+											{
+ 												"models",
+												"set53"
+											}
+										}
+									},
+									{
+ 										"R02",
+										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+										{
+											{
+ 												"name",
+												"r02"
+											},
+											{
+ 												"description",
+												"720p Failed"
+											},
+											{
+ 												"models",
+												"set53"
+											}
+										}
+									},
+									{
+ 										"R03",
+										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+										{
+											{
+ 												"name",
+												"r03"
+											},
+											{
+ 												"description",
+												"1080p Failed"
+											},
+											{
+ 												"models",
+												"set53"
+											}
+										}
+									},
+									{
+ 										"R04",
+										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+										{
+											{
+ 												"name",
+												"r04"
+											},
+											{
+ 												"description",
+												"4K24p Failed"
+											},
+											{
+ 												"models",
+												"set53"
+											}
+										}
+									},
+									{
+ 										"R05",
+										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+										{
+											{
+ 												"name",
+												"r05"
+											},
+											{
+ 												"description",
+												"4K60p Failed"
+											},
+											{
+ 												"models",
+												"set53"
+											}
+										}
+									},
+									{
+ 										"R06",
+										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+										{
+											{
+ 												"name",
+												"r06"
+											},
+											{
+ 												"description",
+												"8K24p Failed"
+											},
+											{
+ 												"models",
+												"set214"
+											}
+										}
+									},
+									{
+ 										"R07",
+										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+										{
+											{
+ 												"name",
+												"r07"
+											},
+											{
+ 												"description",
+												"8K60p Failed"
+											},
+											{
+ 												"models",
+												"set214"
+											}
+										}
+									},
+									{
+ 										"RFE",
+										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+										{
+											{
+ 												"name",
+												"rfe"
+											},
+											{
+ 												"description",
+												"Cable Test Ready"
+											},
+											{
+ 												"models",
+												"set53"
+											}
+										}
+									},
+									{
+ 										"RFF",
+										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+										{
+											{
+ 												"name",
+												"rff"
+											},
+											{
+ 												"description",
+												"Cable Test Complete"
+											},
+											{
+ 												"models",
+												"set53"
+											}
+										}
+									},
+									{
+ 										"S01",
+										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+										{
+											{
+ 												"name",
+												"s01"
+											},
+											{
+ 												"description",
+												"480p Started"
+											},
+											{
+ 												"models",
+												"set53"
+											}
+										}
+									},
+									{
+ 										"S02",
+										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+										{
+											{
+ 												"name",
+												"s02"
+											},
+											{
+ 												"description",
+												"720p Started"
+											},
+											{
+ 												"models",
+												"set53"
+											}
+										}
+									},
+									{
+ 										"S03",
+										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+										{
+											{
+ 												"name",
+												"s03"
+											},
+											{
+ 												"description",
+												"1080p Started"
+											},
+											{
+ 												"models",
+												"set53"
+											}
+										}
+									},
+									{
+ 										"S04",
+										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+										{
+											{
+ 												"name",
+												"s04"
+											},
+											{
+ 												"description",
+												"4K24p Started"
+											},
+											{
+ 												"models",
+												"set53"
+											}
+										}
+									},
+									{
+ 										"S05",
+										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+										{
+											{
+ 												"name",
+												"s05"
+											},
+											{
+ 												"description",
+												"4K60p Started"
+											},
+											{
+ 												"models",
+												"set53"
+											}
+										}
+									},
+									{
+ 										"S06",
+										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+										{
+											{
+ 												"name",
+												"s06"
+											},
+											{
+ 												"description",
+												"8K24p Started"
+											},
+											{
+ 												"models",
+												"set215"
+											}
+										}
+									},
+									{
+ 										"S07",
+										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+										{
+											{
+ 												"name",
+												"s07"
+											},
+											{
+ 												"description",
+												"8K60p Started"
+											},
+											{
+ 												"models",
+												"set215"
+											}
+										}
+									},
+									{
+ 										"QSTN",
+										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+										{
+											{
+ 												"name",
+												"query"
+											},
+											{
+ 												"description",
+												"gets Cable Test Result"
+											},
+											{
+ 												"models",
+												"set53"
+											}
+										}
+									}
+								}
+							}
+						}
+					},
+					{
+ 						"HSI",
+						new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+						{
+							{
+ 								"name",
+								"hdmi-diagnostic-sink-test"
+							},
+							{
+ 								"description",
+								"HDMI Diagnostic Sink Test"
+							},
+							{
+ 								"aliases",
+								null
+							},
+							{
+ 								"values",
+								new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+								{
+									{
+ 										"T00",
+										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+										{
+											{
+ 												"name",
+												"t00"
+											},
+											{
+ 												"description",
+												"Sink Test Stop"
+											},
+											{
+ 												"models",
+												"set53"
+											}
+										}
+									},
+									{
+ 										"T01",
+										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+										{
+											{
+ 												"name",
+												"t01"
+											},
+											{
+ 												"description",
+												"Sink Test Ready"
+											},
+											{
+ 												"models",
+												"set53"
+											}
+										}
+									},
+									{
+ 										"T02",
+										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+										{
+											{
+ 												"name",
+												"t02"
+											},
+											{
+ 												"description",
+												"Sink Test Start(480p)"
+											},
+											{
+ 												"models",
+												"set53"
+											}
+										}
+									},
+									{
+ 										"T03",
+										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+										{
+											{
+ 												"name",
+												"t03"
+											},
+											{
+ 												"description",
+												"Sink Test Start(720p)"
+											},
+											{
+ 												"models",
+												"set53"
+											}
+										}
+									},
+									{
+ 										"T04",
+										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+										{
+											{
+ 												"name",
+												"t04"
+											},
+											{
+ 												"description",
+												"Sink Test Start(1080p)"
+											},
+											{
+ 												"models",
+												"set53"
+											}
+										}
+									},
+									{
+ 										"T05",
+										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+										{
+											{
+ 												"name",
+												"t05"
+											},
+											{
+ 												"description",
+												"Sink Test Start(4K24p)"
+											},
+											{
+ 												"models",
+												"set53"
+											}
+										}
+									},
+									{
+ 										"T06",
+										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+										{
+											{
+ 												"name",
+												"t06"
+											},
+											{
+ 												"description",
+												"Sink Test Start(4K60p)"
+											},
+											{
+ 												"models",
+												"set53"
+											}
+										}
+									},
+									{
+ 										"T07",
+										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+										{
+											{
+ 												"name",
+												"t07"
+											},
+											{
+ 												"description",
+												"Sink Test Start(8K24p)"
+											},
+											{
+ 												"models",
+												"set215"
+											}
+										}
+									},
+									{
+ 										"T08",
+										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+										{
+											{
+ 												"name",
+												"t08"
+											},
+											{
+ 												"description",
+												"Sink Test Start(8K60p)"
+											},
+											{
+ 												"models",
+												"set215"
+											}
+										}
+									},
+									{
+ 										"S01",
+										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+										{
+											{
+ 												"name",
+												"s01"
+											},
+											{
+ 												"description",
+												"480p Started"
+											},
+											{
+ 												"models",
+												"set53"
+											}
+										}
+									},
+									{
+ 										"S02",
+										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+										{
+											{
+ 												"name",
+												"s02"
+											},
+											{
+ 												"description",
+												"720p Started"
+											},
+											{
+ 												"models",
+												"set53"
+											}
+										}
+									},
+									{
+ 										"S03",
+										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+										{
+											{
+ 												"name",
+												"s03"
+											},
+											{
+ 												"description",
+												"1080p Started"
+											},
+											{
+ 												"models",
+												"set53"
+											}
+										}
+									},
+									{
+ 										"S04",
+										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+										{
+											{
+ 												"name",
+												"s04"
+											},
+											{
+ 												"description",
+												"4K24p Started"
+											},
+											{
+ 												"models",
+												"set53"
+											}
+										}
+									},
+									{
+ 										"S05",
+										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+										{
+											{
+ 												"name",
+												"s05"
+											},
+											{
+ 												"description",
+												"4K60p Started"
+											},
+											{
+ 												"models",
+												"set53"
+											}
+										}
+									},
+									{
+ 										"S06",
+										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+										{
+											{
+ 												"name",
+												"s06"
+											},
+											{
+ 												"description",
+												"8k24p/32Gbps Started"
+											},
+											{
+ 												"models",
+												"set214"
+											}
+										}
+									},
+									{
+ 										"S07",
+										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+										{
+											{
+ 												"name",
+												"s07"
+											},
+											{
+ 												"description",
+												"8k24p/40Gbps Started"
+											},
+											{
+ 												"models",
+												"set214"
+											}
+										}
+									},
+									{
+ 										"S08",
+										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+										{
+											{
+ 												"name",
+												"s08"
+											},
+											{
+ 												"description",
+												"8k60p/32Gbps Started"
+											},
+											{
+ 												"models",
+												"set214"
+											}
+										}
+									},
+									{
+ 										"S09",
+										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+										{
+											{
+ 												"name",
+												"s09"
+											},
+											{
+ 												"description",
+												"8k60p/40Gbps Started"
+											},
+											{
+ 												"models",
+												"set214"
+											}
+										}
+									},
+									{
+ 										"R00",
+										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+										{
+											{
+ 												"name",
+												"r00"
+											},
+											{
+ 												"description",
+												"Sink Test NG"
+											},
+											{
+ 												"models",
+												"set182"
+											}
+										}
+									},
+									{
+ 										"RFE",
+										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+										{
+											{
+ 												"name",
+												"rfe"
+											},
+											{
+ 												"description",
+												"Sink Test Ready"
+											},
+											{
+ 												"models",
+												"set53"
+											}
+										}
+									},
+									{
+ 										"RFF",
+										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+										{
+											{
+ 												"name",
+												"rff"
+											},
+											{
+ 												"description",
+												"Sink Test OK"
+											},
+											{
+ 												"models",
+												"set53"
+											}
+										}
+									},
+									{
+ 										"QSTN",
+										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+										{
+											{
+ 												"name",
+												"query"
+											},
+											{
+ 												"description",
+												"gets Sink Test Result"
+											},
+											{
+ 												"models",
+												"set53"
+											}
+										}
+									}
+								}
+							}
+						}
+					},
+					{
+ 						"HSO",
+						new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+						{
+							{
+ 								"name",
+								"hdmi-diagnostic-source-test"
+							},
+							{
+ 								"description",
+								"HDMI Diagnostic Source Test"
+							},
+							{
+ 								"aliases",
+								null
+							},
+							{
+ 								"values",
+								new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+								{
+									{
+ 										"T00",
+										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+										{
+											{
+ 												"name",
+												"t00"
+											},
+											{
+ 												"description",
+												"Source Test Stop"
+											},
+											{
+ 												"models",
+												"set53"
+											}
+										}
+									},
+									{
+ 										"T01",
+										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+										{
+											{
+ 												"name",
+												"t01"
+											},
+											{
+ 												"description",
+												"Source Test Ready"
+											},
+											{
+ 												"models",
+												"set53"
+											}
+										}
+									},
+									{
+ 										"T02",
+										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+										{
+											{
+ 												"name",
+												"t02"
+											},
+											{
+ 												"description",
+												"Source Test Start(HDMI1.4)"
+											},
+											{
+ 												"models",
+												"set53"
+											}
+										}
+									},
+									{
+ 										"T03",
+										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+										{
+											{
+ 												"name",
+												"t03"
+											},
+											{
+ 												"description",
+												"Source Test Start(HDMI2.0)"
+											},
+											{
+ 												"models",
+												"set53"
+											}
+										}
+									},
+									{
+ 										"T04",
+										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+										{
+											{
+ 												"name",
+												"t04"
+											},
+											{
+ 												"description",
+												"Source Test Start(HDMI2.1)"
+											},
+											{
+ 												"models",
+												"set53"
+											}
+										}
+									},
+									{
+ 										"R00",
+										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+										{
+											{
+ 												"name",
+												"r00"
+											},
+											{
+ 												"description",
+												"Cable Connection Error"
+											},
+											{
+ 												"models",
+												"set53"
+											}
+										}
+									},
+									{
+ 										"R01",
+										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+										{
+											{
+ 												"name",
+												"r01"
+											},
+											{
+ 												"description",
+												"Signal No Detected"
+											},
+											{
+ 												"models",
+												"set53"
+											}
+										}
+									},
+									{
+ 										"RFE",
+										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+										{
+											{
+ 												"name",
+												"rfe"
+											},
+											{
+ 												"description",
+												"Source Test Ready"
+											},
+											{
+ 												"models",
+												"set53"
+											}
+										}
+									},
+									{
+ 										"RFF",
+										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+										{
+											{
+ 												"name",
+												"rff"
+											},
+											{
+ 												"description",
+												"Signal Detected"
+											},
+											{
+ 												"models",
+												"set53"
+											}
+										}
+									},
+									{
+ 										"QSTN",
+										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+										{
+											{
+ 												"name",
+												"query"
+											},
+											{
+ 												"description",
+												"gets Source Test Result"
+											},
+											{
+ 												"models",
+												"set53"
+											}
+										}
+									}
+								}
+							}
+						}
+					},
+					{
+ 						"AEM",
+						new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+						{
+							{
+ 								"name",
+								"discrete-audio-path-mode-audio-exclusive-mode"
+							},
+							{
+ 								"description",
+								"Discrete Audio Path Mode/Audio Exclusive Mode"
+							},
+							{
+ 								"aliases",
+								null
+							},
+							{
+ 								"values",
+								new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+								{
+									{
+ 										"00",
+										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+										{
+											{
+ 												"name",
+												"off"
+											},
+											{
+ 												"description",
+												"sets Discrete Audio Path Mode/Audio Exclusive Mode Off"
+											},
+											{
+ 												"models",
+												"set165"
+											}
+										}
+									},
+									{
+ 										"01",
+										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+										{
+											{
+ 												"name",
+												"on"
+											},
+											{
+ 												"description",
+												"sets Discrete Audio Path Mode/Audio Exclusive Mode On"
+											},
+											{
+ 												"models",
+												"set165"
+											}
+										}
+									},
+									{
+ 										"UP",
+										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+										{
+											{
+ 												"name",
+												"up"
+											},
+											{
+ 												"description",
+												"sets Discrete Audio Path Mode/Audio Exclusive Mode Wrap-Around Up"
+											},
+											{
+ 												"models",
+												"set165"
+											}
+										}
+									},
+									{
+ 										"QSTN",
+										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+										{
+											{
+ 												"name",
+												"query"
+											},
+											{
+ 												"description",
+												"gets The Discrete Audio Path Mode/Audio Exclusive Mode State"
+											},
+											{
+ 												"models",
+												"set165"
+											}
+										}
+									}
+								}
+							}
+						}
+					},
+					{
+ 						"VSL",
+						new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+						{
+							{
+ 								"name",
+								"video-select"
+							},
+							{
+ 								"description",
+								"Video Select"
+							},
+							{
+ 								"aliases",
+								null
+							},
+							{
+ 								"values",
+								new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+								{
+									{
+ 										"xx",
+										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+										{
+											{
+ 												"name",
+												"xx-sli-number"
+											},
+											{
+ 												"description",
+												"sets Video Select xx=SLI Number"
+											},
+											{
+ 												"models",
+												"set53"
+											}
+										}
+									},
+									{
+ 										"LAST",
+										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+										{
+											{
+ 												"name",
+												"last"
+											},
+											{
+ 												"description",
+												"sets Video Select Last"
+											},
+											{
+ 												"models",
+												"set53"
+											}
+										}
+									},
+									{
+ 										"UP",
+										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+										{
+											{
+ 												"name",
+												"up"
+											},
+											{
+ 												"description",
+												"sets Video Select Wrap-Around"
+											},
+											{
+ 												"models",
+												"set53"
+											}
+										}
+									},
+									{
+ 										"QSTN",
+										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+										{
+											{
+ 												"name",
+												"query"
+											},
+											{
+ 												"description",
+												"gets Video Select State"
+											},
+											{
+ 												"models",
+												"set53"
+											}
+										}
+									}
+								}
+							}
+						}
+					},
+					{
+ 						"ISS",
+						new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+						{
+							{
+ 								"name",
+								"input-selector-skip"
+							},
+							{
+ 								"description",
+								"Input Selector Skip"
+							},
+							{
+ 								"aliases",
+								null
+							},
+							{
+ 								"values",
+								new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+								{
+									{
+ 										"iixx",
+										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+										{
+											{
+ 												"name",
+												new string[]
+												{
+													"ii-number-the-same-as-for-sli-command-xx-00-use",
+													"01"
+												}
+											},
+											{
+ 												"description",
+												"sets Input Skip Setting\nii: Selector Number (the same as for SLI command)\nxx: 00 " +
+    "= Use, 01 = Skip"
+											},
+											{
+ 												"models",
+												"set53"
+											}
+										}
+									}
+								}
+							}
+						}
+					},
+					{
+ 						"HTA",
+						new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+						{
+							{
+ 								"name",
+								"hdcp-timing-adjust"
+							},
+							{
+ 								"description",
+								"HDCP Timing Adjust"
+							},
+							{
+ 								"aliases",
+								null
+							},
+							{
+ 								"values",
+								new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+								{
+									{
+ 										new RangedKey(-4,6),
+										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+										{
+											{
+ 												"name",
+												null
+											},
+											{
+ 												"description",
+												"sets HDMI Timing Adjust -4 - 0 - +6"
+											},
+											{
+ 												"models",
+												"set53"
+											}
+										}
+									},
+									{
+ 										"UP",
+										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+										{
+											{
+ 												"name",
+												"up"
+											},
+											{
+ 												"description",
+												"HDMI Timing Adjust +"
+											},
+											{
+ 												"models",
+												"set53"
+											}
+										}
+									},
+									{
+ 										"DOWN",
+										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+										{
+											{
+ 												"name",
+												"down"
+											},
+											{
+ 												"description",
+												"HDMI Timing Adjust -"
+											},
+											{
+ 												"models",
+												"set53"
+											}
+										}
+									},
+									{
+ 										"QSTN",
+										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+										{
+											{
+ 												"name",
+												"query"
+											},
+											{
+ 												"description",
+												"gets the HDMI Timing Adjust"
+											},
+											{
+ 												"models",
+												"set53"
+											}
+										}
+									}
+								}
+							}
+						}
+					},
+					{
+ 						"DBC",
+						new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+						{
+							{
+ 								"name",
+								"dirac-live-bass-control"
+							},
+							{
+ 								"description",
+								"Dirac Live Bass Control"
+							},
+							{
+ 								"aliases",
+								null
+							},
+							{
+ 								"values",
+								new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+								{
+									{
+ 										"00",
+										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+										{
+											{
+ 												"name",
+												"off"
+											},
+											{
+ 												"description",
+												"sets Dirac Live Bass Control Off"
+											},
+											{
+ 												"models",
+												"set216"
+											}
+										}
+									},
+									{
+ 										"01",
+										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+										{
+											{
+ 												"name",
+												"on"
+											},
+											{
+ 												"description",
+												"sets Dirac Live Bass Control On"
+											},
+											{
+ 												"models",
+												"set216"
+											}
+										}
+									},
+									{
+ 										"UP",
+										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+										{
+											{
+ 												"name",
+												"up"
+											},
+											{
+ 												"description",
+												"sets Dirac Live Bass Control Wrap-Around Up"
+											},
+											{
+ 												"models",
+												"set216"
+											}
+										}
+									},
+									{
+ 										"QSTN",
+										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+										{
+											{
+ 												"name",
+												"query"
+											},
+											{
+ 												"description",
+												"gets Dirac Live Bass Control State"
+											},
+											{
+ 												"models",
+												"set216"
+											}
+										}
+									}
+								}
+							}
+						}
+					},
+					{
+ 						"KYL",
+						new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+						{
+							{
+ 								"name",
+								"front-key-lock-control"
+							},
+							{
+ 								"description",
+								"Front Key Lock Control"
+							},
+							{
+ 								"aliases",
+								null
+							},
+							{
+ 								"values",
+								new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+								{
+									{
+ 										"00",
+										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+										{
+											{
+ 												"name",
+												"off"
+											},
+											{
+ 												"description",
+												"sets Front Key Lock Off"
+											},
+											{
+ 												"models",
+												"set182"
+											}
+										}
+									},
+									{
+ 										"01",
+										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+										{
+											{
+ 												"name",
+												"on"
+											},
+											{
+ 												"description",
+												"sets Front Key Lock On"
+											},
+											{
+ 												"models",
+												"set182"
+											}
+										}
+									},
+									{
+ 										"UP",
+										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+										{
+											{
+ 												"name",
+												"up"
+											},
+											{
+ 												"description",
+												"sets Front Key Lock Wrap-Around Up"
+											},
+											{
+ 												"models",
+												"set182"
+											}
+										}
+									},
+									{
+ 										"QSTN",
+										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+										{
+											{
+ 												"name",
+												"query"
+											},
+											{
+ 												"description",
+												"gets Front Key Lock State"
+											},
+											{
+ 												"models",
+												"set182"
+											}
+										}
+									}
+								}
+							}
+						}
+					},
+					{
+ 						"IRL",
+						new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+						{
+							{
+ 								"name",
+								"ir-lock-control"
+							},
+							{
+ 								"description",
+								"IR Lock Control"
+							},
+							{
+ 								"aliases",
+								null
+							},
+							{
+ 								"values",
+								new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+								{
+									{
+ 										"00",
+										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+										{
+											{
+ 												"name",
+												"off"
+											},
+											{
+ 												"description",
+												"sets IR Lock Off"
+											},
+											{
+ 												"models",
+												"set182"
+											}
+										}
+									},
+									{
+ 										"01",
+										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+										{
+											{
+ 												"name",
+												"on"
+											},
+											{
+ 												"description",
+												"sets IR Lock On"
+											},
+											{
+ 												"models",
+												"set182"
+											}
+										}
+									},
+									{
+ 										"UP",
+										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+										{
+											{
+ 												"name",
+												"up"
+											},
+											{
+ 												"description",
+												"sets IR Lock Wrap-Around Up"
+											},
+											{
+ 												"models",
+												"set182"
+											}
+										}
+									},
+									{
+ 										"QSTN",
+										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+										{
+											{
+ 												"name",
+												"query"
+											},
+											{
+ 												"description",
+												"gets IR Lock State"
+											},
+											{
+ 												"models",
+												"set182"
 											}
 										}
 									}
@@ -17888,7 +19613,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set202"
+												"set217"
 											}
 										}
 									},
@@ -17906,7 +19631,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set202"
+												"set217"
 											}
 										}
 									},
@@ -17924,7 +19649,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set202"
+												"set217"
 											}
 										}
 									}
@@ -17966,7 +19691,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set204"
+												"set219"
 											}
 										}
 									},
@@ -17984,7 +19709,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set204"
+												"set219"
 											}
 										}
 									},
@@ -18002,7 +19727,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set204"
+												"set219"
 											}
 										}
 									},
@@ -18020,7 +19745,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set204"
+												"set219"
 											}
 										}
 									}
@@ -18062,7 +19787,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set205"
+												"set220"
 											}
 										}
 									},
@@ -18080,7 +19805,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set206"
+												"set221"
 											}
 										}
 									},
@@ -18098,7 +19823,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set207"
+												"set222"
 											}
 										}
 									},
@@ -18116,7 +19841,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set208"
+												"set223"
 											}
 										}
 									},
@@ -18134,7 +19859,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set208"
+												"set223"
 											}
 										}
 									},
@@ -18152,7 +19877,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set205"
+												"set220"
 											}
 										}
 									},
@@ -18170,7 +19895,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set205"
+												"set220"
 											}
 										}
 									},
@@ -18188,7 +19913,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set208"
+												"set223"
 											}
 										}
 									}
@@ -18230,7 +19955,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set210"
+												"set225"
 											}
 										}
 									},
@@ -18248,7 +19973,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set210"
+												"set225"
 											}
 										}
 									},
@@ -18266,7 +19991,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set210"
+												"set225"
 											}
 										}
 									},
@@ -18284,7 +20009,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set210"
+												"set225"
 											}
 										}
 									},
@@ -18302,7 +20027,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set210"
+												"set225"
 											}
 										}
 									},
@@ -18320,7 +20045,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set210"
+												"set225"
 											}
 										}
 									},
@@ -18338,7 +20063,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set211"
+												"set226"
 											}
 										}
 									}
@@ -18380,7 +20105,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set210"
+												"set225"
 											}
 										}
 									},
@@ -18398,7 +20123,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set210"
+												"set225"
 											}
 										}
 									},
@@ -18416,7 +20141,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set210"
+												"set225"
 											}
 										}
 									},
@@ -18434,7 +20159,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set211"
+												"set226"
 											}
 										}
 									}
@@ -18483,7 +20208,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set212"
+												"set227"
 											}
 										}
 									},
@@ -18506,7 +20231,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set213"
+												"set228"
 											}
 										}
 									},
@@ -18531,7 +20256,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set213"
+												"set228"
 											}
 										}
 									},
@@ -18553,7 +20278,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set214"
+												"set229"
 											}
 										}
 									},
@@ -18576,7 +20301,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set215"
+												"set230"
 											}
 										}
 									},
@@ -18598,7 +20323,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set216"
+												"set231"
 											}
 										}
 									},
@@ -18616,7 +20341,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set56"
+												"set58"
 											}
 										}
 									},
@@ -18638,7 +20363,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set217"
+												"set232"
 											}
 										}
 									},
@@ -18660,7 +20385,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set217"
+												"set232"
 											}
 										}
 									},
@@ -18682,7 +20407,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set217"
+												"set232"
 											}
 										}
 									},
@@ -18705,7 +20430,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set213"
+												"set228"
 											}
 										}
 									},
@@ -18723,7 +20448,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set218"
+												"set233"
 											}
 										}
 									},
@@ -18741,7 +20466,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set218"
+												"set233"
 											}
 										}
 									},
@@ -18763,7 +20488,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set219"
+												"set234"
 											}
 										}
 									},
@@ -18781,7 +20506,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set42"
+												"set43"
 											}
 										}
 									},
@@ -18799,7 +20524,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set220"
+												"set235"
 											}
 										}
 									},
@@ -18822,7 +20547,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set213"
+												"set228"
 											}
 										}
 									},
@@ -18840,7 +20565,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set213"
+												"set228"
 											}
 										}
 									},
@@ -18858,7 +20583,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set213"
+												"set228"
 											}
 										}
 									},
@@ -18876,7 +20601,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set221"
+												"set236"
 											}
 										}
 									},
@@ -18899,7 +20624,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set222"
+												"set237"
 											}
 										}
 									},
@@ -18921,7 +20646,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set222"
+												"set237"
 											}
 										}
 									},
@@ -18943,7 +20668,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set223"
+												"set238"
 											}
 										}
 									},
@@ -18961,7 +20686,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set64"
+												"set66"
 											}
 										}
 									},
@@ -18983,7 +20708,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set224"
+												"set239"
 											}
 										}
 									},
@@ -19001,7 +20726,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set225"
+												"set240"
 											}
 										}
 									},
@@ -19019,7 +20744,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set66"
+												"set68"
 											}
 										}
 									},
@@ -19037,7 +20762,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set226"
+												"set241"
 											}
 										}
 									},
@@ -19055,7 +20780,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set68"
+												"set70"
 											}
 										}
 									},
@@ -19073,7 +20798,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set227"
+												"set242"
 											}
 										}
 									},
@@ -19091,7 +20816,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set228"
+												"set243"
 											}
 										}
 									},
@@ -19109,7 +20834,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set229"
+												"set244"
 											}
 										}
 									},
@@ -19127,7 +20852,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set230"
+												"set245"
 											}
 										}
 									},
@@ -19145,7 +20870,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set4"
+												"set165"
 											}
 										}
 									},
@@ -19163,7 +20888,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set4"
+												"set165"
 											}
 										}
 									},
@@ -19199,7 +20924,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set231"
+												"set246"
 											}
 										}
 									},
@@ -19217,7 +20942,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set213"
+												"set228"
 											}
 										}
 									},
@@ -19235,7 +20960,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set225"
+												"set240"
 											}
 										}
 									},
@@ -19253,7 +20978,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set225"
+												"set240"
 											}
 										}
 									},
@@ -19271,7 +20996,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set213"
+												"set228"
 											}
 										}
 									}
@@ -19313,7 +21038,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set232"
+												"set247"
 											}
 										}
 									},
@@ -19331,7 +21056,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set232"
+												"set247"
 											}
 										}
 									},
@@ -19349,7 +21074,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set232"
+												"set247"
 											}
 										}
 									},
@@ -19367,7 +21092,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set232"
+												"set247"
 											}
 										}
 									}
@@ -19385,7 +21110,7 @@ m: Microphone Status
 							},
 							{
  								"description",
-								"Tuning Command"
+								"Tuning Command (Include Tuner Pack Model Only)"
 							},
 							{
  								"aliases",
@@ -19409,7 +21134,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set233"
+												"set248"
 											}
 										}
 									},
@@ -19427,7 +21152,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set234"
+												"set249"
 											}
 										}
 									},
@@ -19445,7 +21170,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set235"
+												"set250"
 											}
 										}
 									},
@@ -19463,7 +21188,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set234"
+												"set249"
 											}
 										}
 									},
@@ -19481,7 +21206,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set234"
+												"set249"
 											}
 										}
 									},
@@ -19499,7 +21224,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set234"
+												"set249"
 											}
 										}
 									},
@@ -19517,7 +21242,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set234"
+												"set249"
 											}
 										}
 									},
@@ -19535,7 +21260,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set234"
+												"set249"
 											}
 										}
 									},
@@ -19553,7 +21278,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set234"
+												"set249"
 											}
 										}
 									},
@@ -19571,7 +21296,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set234"
+												"set249"
 											}
 										}
 									},
@@ -19589,7 +21314,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set234"
+												"set249"
 											}
 										}
 									},
@@ -19607,7 +21332,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set234"
+												"set249"
 											}
 										}
 									},
@@ -19625,7 +21350,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set234"
+												"set249"
 											}
 										}
 									},
@@ -19643,7 +21368,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set233"
+												"set248"
 											}
 										}
 									},
@@ -19661,7 +21386,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set233"
+												"set248"
 											}
 										}
 									},
@@ -19679,7 +21404,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set233"
+												"set248"
 											}
 										}
 									}
@@ -19721,7 +21446,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set232"
+												"set247"
 											}
 										}
 									},
@@ -19757,7 +21482,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set232"
+												"set247"
 											}
 										}
 									},
@@ -19775,7 +21500,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set232"
+												"set247"
 											}
 										}
 									},
@@ -19793,7 +21518,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set232"
+												"set247"
 											}
 										}
 									}
@@ -19811,7 +21536,7 @@ m: Microphone Status
 							},
 							{
  								"description",
-								"Preset Command"
+								"Preset Command (Include Tuner Pack Model Only)"
 							},
 							{
  								"aliases",
@@ -19835,7 +21560,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set233"
+												"set248"
 											}
 										}
 									},
@@ -19871,7 +21596,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set233"
+												"set248"
 											}
 										}
 									},
@@ -19889,7 +21614,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set233"
+												"set248"
 											}
 										}
 									},
@@ -19907,7 +21632,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set233"
+												"set248"
 											}
 										}
 									}
@@ -19949,7 +21674,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set78"
+												"set80"
 											}
 										}
 									},
@@ -19967,7 +21692,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set78"
+												"set80"
 											}
 										}
 									},
@@ -19985,7 +21710,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set78"
+												"set80"
 											}
 										}
 									},
@@ -20003,7 +21728,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set78"
+												"set80"
 											}
 										}
 									},
@@ -20021,7 +21746,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set78"
+												"set80"
 											}
 										}
 									}
@@ -20063,7 +21788,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set236"
+												"set251"
 											}
 										}
 									},
@@ -20081,7 +21806,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set236"
+												"set251"
 											}
 										}
 									},
@@ -20099,7 +21824,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set237"
+												"set252"
 											}
 										}
 									},
@@ -20117,7 +21842,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set235"
+												"set250"
 											}
 										}
 									},
@@ -20135,7 +21860,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set236"
+												"set251"
 											}
 										}
 									},
@@ -20153,7 +21878,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set236"
+												"set251"
 											}
 										}
 									},
@@ -20171,7 +21896,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set237"
+												"set252"
 											}
 										}
 									},
@@ -20189,7 +21914,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set237"
+												"set252"
 											}
 										}
 									},
@@ -20207,7 +21932,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set238"
+												"set253"
 											}
 										}
 									},
@@ -20225,7 +21950,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set238"
+												"set253"
 											}
 										}
 									},
@@ -20243,7 +21968,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set239"
+												"set254"
 											}
 										}
 									},
@@ -20261,7 +21986,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set239"
+												"set254"
 											}
 										}
 									},
@@ -20279,7 +22004,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set235"
+												"set250"
 											}
 										}
 									},
@@ -20297,7 +22022,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set239"
+												"set254"
 											}
 										}
 									},
@@ -20315,7 +22040,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set235"
+												"set250"
 											}
 										}
 									},
@@ -20333,7 +22058,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set235"
+												"set250"
 											}
 										}
 									},
@@ -20351,7 +22076,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set239"
+												"set254"
 											}
 										}
 									},
@@ -20369,7 +22094,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set239"
+												"set254"
 											}
 										}
 									},
@@ -20387,7 +22112,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set239"
+												"set254"
 											}
 										}
 									},
@@ -20405,7 +22130,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set239"
+												"set254"
 											}
 										}
 									},
@@ -20423,7 +22148,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set239"
+												"set254"
 											}
 										}
 									},
@@ -20441,7 +22166,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set239"
+												"set254"
 											}
 										}
 									}
@@ -20483,7 +22208,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set240"
+												"set255"
 											}
 										}
 									}
@@ -20525,7 +22250,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set56"
+												"set58"
 											}
 										}
 									},
@@ -20543,7 +22268,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set56"
+												"set58"
 											}
 										}
 									},
@@ -20561,7 +22286,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set56"
+												"set58"
 											}
 										}
 									},
@@ -20579,7 +22304,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set56"
+												"set58"
 											}
 										}
 									},
@@ -20597,7 +22322,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set56"
+												"set58"
 											}
 										}
 									},
@@ -20615,7 +22340,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set56"
+												"set58"
 											}
 										}
 									}
@@ -20657,7 +22382,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set56"
+												"set58"
 											}
 										}
 									},
@@ -20675,7 +22400,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set56"
+												"set58"
 											}
 										}
 									},
@@ -20693,7 +22418,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set56"
+												"set58"
 											}
 										}
 									},
@@ -20711,7 +22436,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set56"
+												"set58"
 											}
 										}
 									},
@@ -20729,7 +22454,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set56"
+												"set58"
 											}
 										}
 									}
@@ -20771,7 +22496,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set56"
+												"set58"
 											}
 										}
 									},
@@ -20789,7 +22514,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set56"
+												"set58"
 											}
 										}
 									},
@@ -20807,7 +22532,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set56"
+												"set58"
 											}
 										}
 									},
@@ -20825,7 +22550,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set56"
+												"set58"
 											}
 										}
 									},
@@ -20843,7 +22568,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set56"
+												"set58"
 											}
 										}
 									}
@@ -20885,7 +22610,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set174"
+												"set178"
 											}
 										}
 									},
@@ -20903,7 +22628,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set174"
+												"set178"
 											}
 										}
 									},
@@ -20921,7 +22646,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set174"
+												"set178"
 											}
 										}
 									},
@@ -20939,7 +22664,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set241"
+												"set256"
 											}
 										}
 									}
@@ -20981,7 +22706,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set203"
+												"set218"
 											}
 										}
 									},
@@ -20999,7 +22724,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set203"
+												"set218"
 											}
 										}
 									},
@@ -21017,7 +22742,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set203"
+												"set218"
 											}
 										}
 									}
@@ -21059,7 +22784,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set203"
+												"set218"
 											}
 										}
 									},
@@ -21077,7 +22802,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set203"
+												"set218"
 											}
 										}
 									},
@@ -21095,7 +22820,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set203"
+												"set218"
 											}
 										}
 									}
@@ -21143,7 +22868,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set242"
+												"set257"
 											}
 										}
 									},
@@ -21161,7 +22886,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set242"
+												"set257"
 											}
 										}
 									},
@@ -21179,7 +22904,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set242"
+												"set257"
 											}
 										}
 									}
@@ -21221,7 +22946,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set242"
+												"set257"
 											}
 										}
 									},
@@ -21239,7 +22964,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set242"
+												"set257"
 											}
 										}
 									},
@@ -21257,7 +22982,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set242"
+												"set257"
 											}
 										}
 									},
@@ -21275,7 +23000,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set242"
+												"set257"
 											}
 										}
 									}
@@ -21317,7 +23042,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set243"
+												"set258"
 											}
 										}
 									},
@@ -21335,7 +23060,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set244"
+												"set259"
 											}
 										}
 									},
@@ -21371,7 +23096,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set245"
+												"set260"
 											}
 										}
 									},
@@ -21389,7 +23114,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set245"
+												"set260"
 											}
 										}
 									},
@@ -21407,7 +23132,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set246"
+												"set261"
 											}
 										}
 									},
@@ -21425,7 +23150,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set246"
+												"set261"
 											}
 										}
 									},
@@ -21443,7 +23168,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set245"
+												"set260"
 											}
 										}
 									}
@@ -21485,7 +23210,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set248"
+												"set263"
 											}
 										}
 									},
@@ -21503,7 +23228,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set248"
+												"set263"
 											}
 										}
 									},
@@ -21521,7 +23246,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set248"
+												"set263"
 											}
 										}
 									},
@@ -21539,7 +23264,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set248"
+												"set263"
 											}
 										}
 									},
@@ -21557,7 +23282,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set248"
+												"set263"
 											}
 										}
 									},
@@ -21575,7 +23300,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set248"
+												"set263"
 											}
 										}
 									},
@@ -21593,7 +23318,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set249"
+												"set264"
 											}
 										}
 									}
@@ -21635,7 +23360,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set248"
+												"set263"
 											}
 										}
 									},
@@ -21653,7 +23378,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set248"
+												"set263"
 											}
 										}
 									},
@@ -21671,7 +23396,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set248"
+												"set263"
 											}
 										}
 									},
@@ -21689,7 +23414,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set249"
+												"set264"
 											}
 										}
 									}
@@ -21738,7 +23463,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set250"
+												"set265"
 											}
 										}
 									},
@@ -21761,7 +23486,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set242"
+												"set257"
 											}
 										}
 									},
@@ -21786,7 +23511,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set242"
+												"set257"
 											}
 										}
 									},
@@ -21808,7 +23533,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set251"
+												"set266"
 											}
 										}
 									},
@@ -21831,7 +23556,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set252"
+												"set267"
 											}
 										}
 									},
@@ -21853,7 +23578,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set253"
+												"set268"
 											}
 										}
 									},
@@ -21871,7 +23596,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set56"
+												"set58"
 											}
 										}
 									},
@@ -21893,7 +23618,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set254"
+												"set269"
 											}
 										}
 									},
@@ -21915,7 +23640,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set254"
+												"set269"
 											}
 										}
 									},
@@ -21937,7 +23662,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set254"
+												"set269"
 											}
 										}
 									},
@@ -21955,7 +23680,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set242"
+												"set257"
 											}
 										}
 									},
@@ -21973,7 +23698,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set255"
+												"set270"
 											}
 										}
 									},
@@ -21991,7 +23716,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set255"
+												"set270"
 											}
 										}
 									},
@@ -22009,7 +23734,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set256"
+												"set271"
 											}
 										}
 									},
@@ -22027,7 +23752,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set56"
+												"set58"
 											}
 										}
 									},
@@ -22045,7 +23770,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set257"
+												"set272"
 											}
 										}
 									},
@@ -22068,7 +23793,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set242"
+												"set257"
 											}
 										}
 									},
@@ -22086,7 +23811,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set242"
+												"set257"
 											}
 										}
 									},
@@ -22104,7 +23829,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set242"
+												"set257"
 											}
 										}
 									},
@@ -22122,7 +23847,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set242"
+												"set257"
 											}
 										}
 									},
@@ -22145,7 +23870,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set258"
+												"set273"
 											}
 										}
 									},
@@ -22167,7 +23892,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set258"
+												"set273"
 											}
 										}
 									},
@@ -22189,7 +23914,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set259"
+												"set274"
 											}
 										}
 									},
@@ -22207,7 +23932,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set260"
+												"set275"
 											}
 										}
 									},
@@ -22229,7 +23954,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set261"
+												"set276"
 											}
 										}
 									},
@@ -22247,7 +23972,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set261"
+												"set276"
 											}
 										}
 									},
@@ -22265,7 +23990,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set262"
+												"set277"
 											}
 										}
 									},
@@ -22283,7 +24008,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set263"
+												"set278"
 											}
 										}
 									},
@@ -22301,7 +24026,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set264"
+												"set279"
 											}
 										}
 									},
@@ -22337,7 +24062,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set265"
+												"set280"
 											}
 										}
 									},
@@ -22355,7 +24080,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set266"
+												"set281"
 											}
 										}
 									},
@@ -22373,7 +24098,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set267"
+												"set282"
 											}
 										}
 									},
@@ -22391,7 +24116,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set242"
+												"set257"
 											}
 										}
 									},
@@ -22409,7 +24134,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set261"
+												"set276"
 											}
 										}
 									},
@@ -22427,7 +24152,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set261"
+												"set276"
 											}
 										}
 									},
@@ -22445,7 +24170,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set242"
+												"set257"
 											}
 										}
 									}
@@ -22487,7 +24212,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set56"
+												"set58"
 											}
 										}
 									},
@@ -22505,7 +24230,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set56"
+												"set58"
 											}
 										}
 									},
@@ -22523,7 +24248,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set56"
+												"set58"
 											}
 										}
 									},
@@ -22541,7 +24266,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set56"
+												"set58"
 											}
 										}
 									}
@@ -22559,7 +24284,7 @@ m: Microphone Status
 							},
 							{
  								"description",
-								"Tuning Command"
+								"Tuning Command  (Include Tuner Pack Model Only)"
 							},
 							{
  								"aliases",
@@ -22583,7 +24308,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set268"
+												"set283"
 											}
 										}
 									},
@@ -22601,7 +24326,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set243"
+												"set258"
 											}
 										}
 									},
@@ -22619,7 +24344,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set269"
+												"set284"
 											}
 										}
 									},
@@ -22637,7 +24362,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set269"
+												"set284"
 											}
 										}
 									},
@@ -22655,7 +24380,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set269"
+												"set284"
 											}
 										}
 									},
@@ -22673,7 +24398,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set269"
+												"set284"
 											}
 										}
 									},
@@ -22691,7 +24416,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set269"
+												"set284"
 											}
 										}
 									},
@@ -22709,7 +24434,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set269"
+												"set284"
 											}
 										}
 									},
@@ -22727,7 +24452,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set269"
+												"set284"
 											}
 										}
 									},
@@ -22745,7 +24470,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set269"
+												"set284"
 											}
 										}
 									},
@@ -22763,7 +24488,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set269"
+												"set284"
 											}
 										}
 									},
@@ -22781,7 +24506,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set269"
+												"set284"
 											}
 										}
 									},
@@ -22799,7 +24524,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set269"
+												"set284"
 											}
 										}
 									},
@@ -22817,7 +24542,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set268"
+												"set283"
 											}
 										}
 									},
@@ -22835,7 +24560,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set268"
+												"set283"
 											}
 										}
 									},
@@ -22853,7 +24578,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set268"
+												"set283"
 											}
 										}
 									}
@@ -22895,7 +24620,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set56"
+												"set58"
 											}
 										}
 									},
@@ -22931,7 +24656,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set56"
+												"set58"
 											}
 										}
 									},
@@ -22949,7 +24674,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set56"
+												"set58"
 											}
 										}
 									},
@@ -22967,7 +24692,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set56"
+												"set58"
 											}
 										}
 									}
@@ -22985,7 +24710,7 @@ m: Microphone Status
 							},
 							{
  								"description",
-								"Preset Command"
+								"Preset Command  (Include Tuner Pack Model Only)"
 							},
 							{
  								"aliases",
@@ -23009,7 +24734,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set268"
+												"set283"
 											}
 										}
 									},
@@ -23045,7 +24770,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set268"
+												"set283"
 											}
 										}
 									},
@@ -23063,7 +24788,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set268"
+												"set283"
 											}
 										}
 									},
@@ -23081,7 +24806,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set268"
+												"set283"
 											}
 										}
 									}
@@ -23123,7 +24848,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set56"
+												"set58"
 											}
 										}
 									},
@@ -23141,7 +24866,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set56"
+												"set58"
 											}
 										}
 									},
@@ -23159,7 +24884,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set56"
+												"set58"
 											}
 										}
 									},
@@ -23177,7 +24902,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set56"
+												"set58"
 											}
 										}
 									},
@@ -23195,7 +24920,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set56"
+												"set58"
 											}
 										}
 									}
@@ -23237,7 +24962,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set270"
+												"set285"
 											}
 										}
 									},
@@ -23255,7 +24980,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set270"
+												"set285"
 											}
 										}
 									},
@@ -23273,7 +24998,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set271"
+												"set286"
 											}
 										}
 									},
@@ -23291,7 +25016,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set243"
+												"set258"
 											}
 										}
 									},
@@ -23309,7 +25034,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set270"
+												"set285"
 											}
 										}
 									},
@@ -23327,7 +25052,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set270"
+												"set285"
 											}
 										}
 									},
@@ -23345,7 +25070,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set271"
+												"set286"
 											}
 										}
 									},
@@ -23363,7 +25088,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set271"
+												"set286"
 											}
 										}
 									},
@@ -23381,7 +25106,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set272"
+												"set287"
 											}
 										}
 									},
@@ -23399,7 +25124,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set272"
+												"set287"
 											}
 										}
 									},
@@ -23417,7 +25142,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set273"
+												"set288"
 											}
 										}
 									},
@@ -23435,7 +25160,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set273"
+												"set288"
 											}
 										}
 									},
@@ -23453,7 +25178,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set243"
+												"set258"
 											}
 										}
 									},
@@ -23471,7 +25196,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set273"
+												"set288"
 											}
 										}
 									},
@@ -23489,7 +25214,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set243"
+												"set258"
 											}
 										}
 									},
@@ -23507,7 +25232,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set273"
+												"set288"
 											}
 										}
 									},
@@ -23525,7 +25250,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set273"
+												"set288"
 											}
 										}
 									},
@@ -23543,7 +25268,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set273"
+												"set288"
 											}
 										}
 									},
@@ -23561,7 +25286,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set273"
+												"set288"
 											}
 										}
 									},
@@ -23579,7 +25304,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set273"
+												"set288"
 											}
 										}
 									},
@@ -23597,7 +25322,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set273"
+												"set288"
 											}
 										}
 									}
@@ -23639,7 +25364,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set274"
+												"set289"
 											}
 										}
 									}
@@ -23687,7 +25412,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set275"
+												"set290"
 											}
 										}
 									},
@@ -23705,7 +25430,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set275"
+												"set290"
 											}
 										}
 									},
@@ -23723,7 +25448,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set275"
+												"set290"
 											}
 										}
 									}
@@ -23765,7 +25490,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set275"
+												"set290"
 											}
 										}
 									},
@@ -23783,7 +25508,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set275"
+												"set290"
 											}
 										}
 									},
@@ -23801,7 +25526,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set275"
+												"set290"
 											}
 										}
 									},
@@ -23819,7 +25544,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set275"
+												"set290"
 											}
 										}
 									}
@@ -23861,7 +25586,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set275"
+												"set290"
 											}
 										}
 									},
@@ -23897,7 +25622,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set275"
+												"set290"
 											}
 										}
 									},
@@ -23915,7 +25640,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set275"
+												"set290"
 											}
 										}
 									},
@@ -23933,7 +25658,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set275"
+												"set290"
 											}
 										}
 									}
@@ -23982,7 +25707,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set275"
+												"set290"
 											}
 										}
 									},
@@ -24005,7 +25730,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set275"
+												"set290"
 											}
 										}
 									},
@@ -24030,7 +25755,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set275"
+												"set290"
 											}
 										}
 									},
@@ -24052,7 +25777,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set275"
+												"set290"
 											}
 										}
 									},
@@ -24075,7 +25800,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set276"
+												"set291"
 											}
 										}
 									},
@@ -24097,7 +25822,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set277"
+												"set292"
 											}
 										}
 									},
@@ -24137,7 +25862,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set278"
+												"set293"
 											}
 										}
 									},
@@ -24159,7 +25884,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set278"
+												"set293"
 											}
 										}
 									},
@@ -24181,7 +25906,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set278"
+												"set293"
 											}
 										}
 									},
@@ -24204,7 +25929,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set275"
+												"set290"
 											}
 										}
 									},
@@ -24227,7 +25952,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set275"
+												"set290"
 											}
 										}
 									},
@@ -24263,7 +25988,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set275"
+												"set290"
 											}
 										}
 									},
@@ -24286,7 +26011,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set275"
+												"set290"
 											}
 										}
 									},
@@ -24304,7 +26029,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set275"
+												"set290"
 											}
 										}
 									},
@@ -24322,7 +26047,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set275"
+												"set290"
 											}
 										}
 									},
@@ -24340,7 +26065,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set275"
+												"set290"
 											}
 										}
 									},
@@ -24363,7 +26088,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set275"
+												"set290"
 											}
 										}
 									},
@@ -24385,7 +26110,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set275"
+												"set290"
 											}
 										}
 									},
@@ -24407,7 +26132,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set275"
+												"set290"
 											}
 										}
 									},
@@ -24425,7 +26150,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set279"
+												"set294"
 											}
 										}
 									},
@@ -24447,7 +26172,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set278"
+												"set293"
 											}
 										}
 									},
@@ -24465,7 +26190,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set278"
+												"set293"
 											}
 										}
 									},
@@ -24519,7 +26244,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set280"
+												"set295"
 											}
 										}
 									},
@@ -24573,7 +26298,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set281"
+												"set296"
 											}
 										}
 									},
@@ -24609,7 +26334,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set275"
+												"set290"
 											}
 										}
 									},
@@ -24627,7 +26352,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set278"
+												"set293"
 											}
 										}
 									},
@@ -24645,7 +26370,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set278"
+												"set293"
 											}
 										}
 									},
@@ -24663,7 +26388,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set275"
+												"set290"
 											}
 										}
 									}
@@ -24801,7 +26526,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set275"
+												"set290"
 											}
 										}
 									},
@@ -24819,7 +26544,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set277"
+												"set292"
 											}
 										}
 									},
@@ -24837,7 +26562,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set277"
+												"set292"
 											}
 										}
 									},
@@ -24855,7 +26580,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set277"
+												"set292"
 											}
 										}
 									},
@@ -24873,7 +26598,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set277"
+												"set292"
 											}
 										}
 									},
@@ -24891,7 +26616,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set277"
+												"set292"
 											}
 										}
 									},
@@ -24909,7 +26634,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set277"
+												"set292"
 											}
 										}
 									},
@@ -24927,7 +26652,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set277"
+												"set292"
 											}
 										}
 									},
@@ -24945,7 +26670,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set277"
+												"set292"
 											}
 										}
 									},
@@ -24963,7 +26688,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set277"
+												"set292"
 											}
 										}
 									},
@@ -24981,7 +26706,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set277"
+												"set292"
 											}
 										}
 									},
@@ -24999,7 +26724,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set277"
+												"set292"
 											}
 										}
 									},
@@ -25017,7 +26742,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set275"
+												"set290"
 											}
 										}
 									},
@@ -25035,7 +26760,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set275"
+												"set290"
 											}
 										}
 									},
@@ -25053,7 +26778,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set275"
+												"set290"
 											}
 										}
 									}
@@ -25209,7 +26934,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set275"
+												"set290"
 											}
 										}
 									},
@@ -25245,7 +26970,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set275"
+												"set290"
 											}
 										}
 									},
@@ -25263,7 +26988,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set275"
+												"set290"
 											}
 										}
 									},
@@ -25281,7 +27006,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set275"
+												"set290"
 											}
 										}
 									}
@@ -25437,7 +27162,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set275"
+												"set290"
 											}
 										}
 									},
@@ -25455,7 +27180,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set275"
+												"set290"
 											}
 										}
 									},
@@ -25473,7 +27198,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set275"
+												"set290"
 											}
 										}
 									},
@@ -25491,7 +27216,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set275"
+												"set290"
 											}
 										}
 									},
@@ -25509,7 +27234,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set275"
+												"set290"
 											}
 										}
 									},
@@ -25527,7 +27252,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set277"
+												"set292"
 											}
 										}
 									},
@@ -25545,7 +27270,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set277"
+												"set292"
 											}
 										}
 									},
@@ -25563,7 +27288,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set277"
+												"set292"
 											}
 										}
 									},
@@ -25581,7 +27306,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set277"
+												"set292"
 											}
 										}
 									},
@@ -25599,7 +27324,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set277"
+												"set292"
 											}
 										}
 									},
@@ -25617,7 +27342,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set277"
+												"set292"
 											}
 										}
 									},
@@ -25635,7 +27360,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set277"
+												"set292"
 											}
 										}
 									},
@@ -25653,7 +27378,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set277"
+												"set292"
 											}
 										}
 									},
@@ -25671,7 +27396,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set277"
+												"set292"
 											}
 										}
 									},
@@ -25689,7 +27414,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set277"
+												"set292"
 											}
 										}
 									},
@@ -25707,7 +27432,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set277"
+												"set292"
 											}
 										}
 									}
@@ -25749,7 +27474,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set275"
+												"set290"
 											}
 										}
 									}
@@ -25797,7 +27522,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set282"
+												"set297"
 											}
 										}
 									},
@@ -25815,7 +27540,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set282"
+												"set297"
 											}
 										}
 									},
@@ -25833,7 +27558,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set283"
+												"set298"
 											}
 										}
 									},
@@ -25851,7 +27576,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set284"
+												"set299"
 											}
 										}
 									},
@@ -25869,7 +27594,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set282"
+												"set297"
 											}
 										}
 									},
@@ -25887,7 +27612,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set282"
+												"set297"
 											}
 										}
 									},
@@ -25905,7 +27630,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set285"
+												"set300"
 											}
 										}
 									},
@@ -25923,7 +27648,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set285"
+												"set300"
 											}
 										}
 									},
@@ -25941,7 +27666,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set282"
+												"set297"
 											}
 										}
 									},
@@ -25959,7 +27684,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set282"
+												"set297"
 											}
 										}
 									},
@@ -25977,7 +27702,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set284"
+												"set299"
 											}
 										}
 									},
@@ -25995,7 +27720,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set283"
+												"set298"
 											}
 										}
 									},
@@ -26013,7 +27738,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set78"
+												"set80"
 											}
 										}
 									},
@@ -26031,7 +27756,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set78"
+												"set80"
 											}
 										}
 									},
@@ -26049,7 +27774,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set78"
+												"set80"
 											}
 										}
 									},
@@ -26067,7 +27792,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set78"
+												"set80"
 											}
 										}
 									},
@@ -26085,7 +27810,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set282"
+												"set297"
 											}
 										}
 									},
@@ -26103,7 +27828,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set282"
+												"set297"
 											}
 										}
 									},
@@ -26121,7 +27846,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set282"
+												"set297"
 											}
 										}
 									},
@@ -26139,7 +27864,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set282"
+												"set297"
 											}
 										}
 									},
@@ -26157,7 +27882,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set282"
+												"set297"
 											}
 										}
 									},
@@ -26175,7 +27900,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set282"
+												"set297"
 											}
 										}
 									},
@@ -26193,7 +27918,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set282"
+												"set297"
 											}
 										}
 									},
@@ -26211,7 +27936,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set282"
+												"set297"
 											}
 										}
 									},
@@ -26229,7 +27954,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set282"
+												"set297"
 											}
 										}
 									},
@@ -26247,7 +27972,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set282"
+												"set297"
 											}
 										}
 									},
@@ -26265,7 +27990,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set282"
+												"set297"
 											}
 										}
 									},
@@ -26283,7 +28008,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set282"
+												"set297"
 											}
 										}
 									},
@@ -26301,7 +28026,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set282"
+												"set297"
 											}
 										}
 									},
@@ -26319,7 +28044,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set282"
+												"set297"
 											}
 										}
 									},
@@ -26337,7 +28062,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set282"
+												"set297"
 											}
 										}
 									},
@@ -26355,7 +28080,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set286"
+												"set301"
 											}
 										}
 									},
@@ -26373,7 +28098,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set286"
+												"set301"
 											}
 										}
 									},
@@ -26391,7 +28116,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set287"
+												"set302"
 											}
 										}
 									},
@@ -26409,7 +28134,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set287"
+												"set302"
 											}
 										}
 									},
@@ -26427,7 +28152,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set288"
+												"set303"
 											}
 										}
 									},
@@ -26445,7 +28170,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set289"
+												"set304"
 											}
 										}
 									},
@@ -26463,7 +28188,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set290"
+												"set305"
 											}
 										}
 									},
@@ -26481,7 +28206,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set290"
+												"set305"
 											}
 										}
 									},
@@ -26499,7 +28224,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set291"
+												"set306"
 											}
 										}
 									},
@@ -26517,7 +28242,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set291"
+												"set306"
 											}
 										}
 									},
@@ -26535,7 +28260,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set292"
+												"set307"
 											}
 										}
 									},
@@ -26553,7 +28278,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set292"
+												"set307"
 											}
 										}
 									},
@@ -26571,7 +28296,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set284"
+												"set299"
 											}
 										}
 									},
@@ -26589,7 +28314,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set293"
+												"set308"
 											}
 										}
 									},
@@ -26607,7 +28332,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set293"
+												"set308"
 											}
 										}
 									},
@@ -26625,7 +28350,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set284"
+												"set299"
 											}
 										}
 									}
@@ -26667,7 +28392,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set294"
+												"set309"
 											}
 										}
 									},
@@ -26685,7 +28410,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set294"
+												"set309"
 											}
 										}
 									},
@@ -26703,7 +28428,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set240"
+												"set255"
 											}
 										}
 									}
@@ -26745,7 +28470,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set294"
+												"set309"
 											}
 										}
 									},
@@ -26763,7 +28488,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set294"
+												"set309"
 											}
 										}
 									}
@@ -26806,7 +28531,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set296"
+												"set311"
 											}
 										}
 									},
@@ -26824,7 +28549,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set290"
+												"set305"
 											}
 										}
 									}
@@ -26867,7 +28592,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set296"
+												"set311"
 											}
 										}
 									},
@@ -26885,7 +28610,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set290"
+												"set305"
 											}
 										}
 									}
@@ -26928,7 +28653,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set296"
+												"set311"
 											}
 										}
 									},
@@ -26946,7 +28671,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set290"
+												"set305"
 											}
 										}
 									}
@@ -26989,7 +28714,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set297"
+												"set312"
 											}
 										}
 									},
@@ -27008,7 +28733,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set298"
+												"set313"
 											}
 										}
 									},
@@ -27026,7 +28751,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set290"
+												"set305"
 											}
 										}
 									}
@@ -27069,7 +28794,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set290"
+												"set305"
 											}
 										}
 									},
@@ -27087,7 +28812,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set290"
+												"set305"
 											}
 										}
 									}
@@ -27131,7 +28856,7 @@ m: Microphone Status
 											},
 											{
  												"models",
-												"set299"
+												"set314"
 											}
 										}
 									},
@@ -27153,7 +28878,7 @@ t -> Tx Status: ""1"": Speaker, ""2"": Bluetooth, ""3"": Bluetooth+Speaker"
 											},
 											{
  												"models",
-												"set293"
+												"set308"
 											}
 										}
 									},
@@ -27171,7 +28896,7 @@ t -> Tx Status: ""1"": Speaker, ""2"": Bluetooth, ""3"": Bluetooth+Speaker"
 											},
 											{
  												"models",
-												"set290"
+												"set305"
 											}
 										}
 									}
@@ -27227,13 +28952,13 @@ ii-> Service icon
       ""11"":Home Media, ""12"":Deezer, ""13"":iHeartRadio, ""18"":Airplay,
       “1A”: onkyo Music, “1B”:TIDAL, ""1C"":Amazon Music, ""1D"":PlayQueue,
       “40”:Chromecast built-in, “41”:FireConnect, ""42"":Play-Fi,
-      ""43"":FlareConnect, ""44"":Airplay2, ""45"":Alexa, ""46"":Alexa MRM,
+      ""43"":FlareConnect, ""44"":Airplay2, ""45"":Alexa, ""46"":Alexa MRM, ""47"":RoonReady,
       ""F0"": USB/USB(Front), ""F1: USB(Rear), 
       ""F2"":Internet Radio, ""F3"":NET, ""F4"":Bluetooth"
 											},
 											{
  												"models",
-												"set293"
+												"set308"
 											}
 										}
 									},
@@ -27251,7 +28976,7 @@ ii-> Service icon
 											},
 											{
  												"models",
-												"set293"
+												"set308"
 											}
 										}
 									}
@@ -27294,7 +29019,7 @@ ii-> Service icon
 											},
 											{
  												"models",
-												"set300"
+												"set315"
 											}
 										}
 									},
@@ -27313,7 +29038,7 @@ ii-> Service icon
 											},
 											{
  												"models",
-												"set298"
+												"set313"
 											}
 										}
 									}
@@ -27355,7 +29080,7 @@ ii-> Service icon
 											},
 											{
  												"models",
-												"set240"
+												"set255"
 											}
 										}
 									},
@@ -27373,7 +29098,7 @@ ii-> Service icon
 											},
 											{
  												"models",
-												"set238"
+												"set316"
 											}
 										}
 									}
@@ -27422,7 +29147,7 @@ r -> Rear USB(USB2) Device Status: ""-"": no device, ""i"": iPod/iPhone,
 											},
 											{
  												"models",
-												"set293"
+												"set308"
 											}
 										}
 									},
@@ -27440,7 +29165,7 @@ r -> Rear USB(USB2) Device Status: ""-"": no device, ""i"": iPod/iPhone,
 											},
 											{
  												"models",
-												"set290"
+												"set305"
 											}
 										}
 									}
@@ -27502,7 +29227,7 @@ when t = U, (for Network Control Only)
 											},
 											{
  												"models",
-												"set292"
+												"set307"
 											}
 										}
 									},
@@ -27522,7 +29247,7 @@ when t = U, (for Network Control Only)
 											},
 											{
  												"models",
-												"set292"
+												"set307"
 											}
 										}
 									}
@@ -27594,7 +29319,7 @@ bbb...bbb : Title"
 											},
 											{
  												"models",
-												"set284"
+												"set299"
 											}
 										}
 									},
@@ -27616,7 +29341,7 @@ yyyy -> number of items (0000-FFFF : 1 to 65536 Items [4 HEX digits] )"
 											},
 											{
  												"models",
-												"set304"
+												"set320"
 											}
 										}
 									},
@@ -27636,7 +29361,7 @@ yyyy -> number of items (0000-FFFF : 1 to 65536 Items [4 HEX digits] )"
 											},
 											{
  												"models",
-												"set304"
+												"set320"
 											}
 										}
 									}
@@ -27680,7 +29405,7 @@ yyyy -> number of items (0000-FFFF : 1 to 65536 Items [4 HEX digits] )"
 											},
 											{
  												"models",
-												"set298"
+												"set313"
 											}
 										}
 									},
@@ -27698,7 +29423,7 @@ yyyy -> number of items (0000-FFFF : 1 to 65536 Items [4 HEX digits] )"
 											},
 											{
  												"models",
-												"set293"
+												"set308"
 											}
 										}
 									},
@@ -27734,7 +29459,7 @@ yyyy -> number of items (0000-FFFF : 1 to 65536 Items [4 HEX digits] )"
 											},
 											{
  												"models",
-												"set293"
+												"set308"
 											}
 										}
 									},
@@ -27752,7 +29477,7 @@ yyyy -> number of items (0000-FFFF : 1 to 65536 Items [4 HEX digits] )"
 											},
 											{
  												"models",
-												"set293"
+												"set308"
 											}
 										}
 									},
@@ -27770,7 +29495,7 @@ yyyy -> number of items (0000-FFFF : 1 to 65536 Items [4 HEX digits] )"
 											},
 											{
  												"models",
-												"set293"
+												"set308"
 											}
 										}
 									},
@@ -27788,7 +29513,7 @@ yyyy -> number of items (0000-FFFF : 1 to 65536 Items [4 HEX digits] )"
 											},
 											{
  												"models",
-												"set306"
+												"set322"
 											}
 										}
 									},
@@ -27806,7 +29531,7 @@ yyyy -> number of items (0000-FFFF : 1 to 65536 Items [4 HEX digits] )"
 											},
 											{
  												"models",
-												"set293"
+												"set308"
 											}
 										}
 									}
@@ -27848,7 +29573,7 @@ yyyy -> number of items (0000-FFFF : 1 to 65536 Items [4 HEX digits] )"
 ss -> Network Service
  00:Music Server (DLNA), 01:Favorite, 02:vTuner, 03:SiriusXM, 04:Pandora, 05:Rhapsody, 06:Last.fm,
  07:Napster, 08:Slacker, 09:Mediafly, 0A:Spotify, 0B:AUPEO!, 0C:Radiko, 0D:e-onkyo,
- 0E:TuneIn Radio, 0F:mp3tunes, 10:Simfy, 11:Home Media, 12:Deezer, 13:iHeartRadio, 18:Airplay, 1A:onkyo music, 1B:TIDAL, 1C:Amazon Music, 1D:PlayQueue, 40:Chromecast built-in, 41:FireConnect, 42:Play-Fi, 43:FlareConnect, 44:Airplay2, 45:Alexa, F0;USB/USB(Front), F1:USB(Rear)
+ 0E:TuneIn Radio, 0F:mp3tunes, 10:Simfy, 11:Home Media, 12:Deezer, 13:iHeartRadio, 18:Airplay, 1A:onkyo music, 1B:TIDAL, 1C:Amazon Music, 1D:PlayQueue, 40:Chromecast built-in, 41:FireConnect, 42:Play-Fi, 43:FlareConnect, 44:Airplay2, 45:Alexa, 47:RoonReady, F0;USB/USB(Front), F1:USB(Rear)
 i-> Account Info
  0: No
  1: Yes
@@ -27857,7 +29582,7 @@ i-> Account Info
 											},
 											{
  												"models",
-												"set292"
+												"set307"
 											}
 										}
 									}
@@ -27914,7 +29639,7 @@ ll -> category
 											},
 											{
  												"models",
-												"set307"
+												"set323"
 											}
 										}
 									},
@@ -27933,7 +29658,7 @@ ll -> category
 											},
 											{
  												"models",
-												"set307"
+												"set323"
 											}
 										}
 									}
@@ -27996,7 +29721,7 @@ bbb...bbb -> Text of Button
 											},
 											{
  												"models",
-												"set307"
+												"set323"
 											}
 										}
 									}
@@ -28061,7 +29786,7 @@ bbb...bbb -> Text of Button
 											},
 											{
  												"models",
-												"set308"
+												"set324"
 											}
 										}
 									},
@@ -28081,33 +29806,33 @@ bbb...bbb -> Text of Button
     " : e-onkyo,\n 0E : TuneIn Radio, 0F : MP3tunes, 10 : Simfy, 11:Home Media, 12:Dee" +
     "zer, 13:iHeartRadio, 18:Airplay, 1A:onkyo music, 1B:TIDAL, 1C:Amazon Music, 1D:P" +
     "layQueue, 40:Chromecast built-in, 41:FireConnect, 42:Play-Fi, 43:FlareConnect, 4" +
-    "4:Airplay2, 45:Alexa,\n F0 : USB/USB(Front) F1 : USB(Rear), F2 : Internet Radio, " +
-    "F3 : NET, FF : None\nu : UI Type\n 0 : List, 1 : Menu, 2 : Playback, 3 : Popup, 4 " +
-    ": Keyboard, \"5\" : Menu List\ny : Layer Info\n 0 : NET TOP, 1 : Service Top,DLNA/US" +
-    "B/iPod Top, 2 : under 2nd Layer\ncccc : Current Cursor Position (HEX 4 letters)\ni" +
-    "iii : Number of List Items (HEX 4 letters)\nll : Number of Layer(HEX 2 letters)\ns" +
-    " : Start Flag\n 0 : Not First, 1 : First\nr : Reserved (1 letters, don\'t care)\naa " +
-    ": Icon on Left of Title Bar\n 00 : Internet Radio, 01 : Server, 02 : USB, 03 : iP" +
-    "od, 04 : DLNA, 05 : WiFi, 06 : Favorite\n 10 : Account(Spotify), 11 : Album(Spoti" +
-    "fy), 12 : Playlist(Spotify), 13 : Playlist-C(Spotify)\n 14 : Starred(Spotify), 15" +
-    " : What\'s New(Spotify), 16 : Track(Spotify), 17 : Artist(Spotify)\n 18 : Play(Spo" +
-    "tify), 19 : Search(Spotify), 1A : Folder(Spotify)\n FF : None\nbb : Icon on Right " +
-    "of Title Bar\n 00 : Music Server (DLNA), 01 : Favorite, 02 : vTuner, 03 : SiriusX" +
-    "M, 04 : Pandora, 05 : Rhapsody, 06 : Last.fm,\n 07 : Napster, 08 : Slacker, 09 : " +
-    "Mediafly, 0A : Spotify, 0B : AUPEO!, 0C : radiko, 0D : e-onkyo,\n 0E : TuneIn Rad" +
-    "io, 0F : MP3tunes, 10 : Simfy, 11:Home Media, 12:Deezer, 13:iHeartRadio, 18:Airp" +
-    "lay, 1A:onkyo music, 1B:TIDAL, 1C:Amazon Music, 1D:PlayQueue,  40:Chromecast bui" +
-    "lt-in, 41:FireConnect, 42:Play-Fi \nF0:USB/USB(Front), F1:USB(Rear),\n FF : None\ns" +
-    "s : Status Info\n 00 : None, 01 : Connecting, 02 : Acquiring License, 03 : Buffer" +
-    "ing\n 04 : Cannot Play, 05 : Searching, 06 : Profile update, 07 : Operation disab" +
-    "led\n 08 : Server Start-up, 09 : Song rated as Favorite, 0A : Song banned from st" +
-    "ation,\n 0B : Authentication Failed, 0C : Spotify Paused(max 1 device), 0D : Trac" +
-    "k Not Available, 0E : Cannot Skip\nnnn...nnn : Character of Title Bar (variable-l" +
-    "ength, 64 Unicode letters [UTF-8 encoded] max)"
+    "4:Airplay2, 45:Alexa, 47:RoonReady, \n F0 : USB/USB(Front) F1 : USB(Rear), F2 : I" +
+    "nternet Radio, F3 : NET, FF : None\nu : UI Type\n 0 : List, 1 : Menu, 2 : Playback" +
+    ", 3 : Popup, 4 : Keyboard, \"5\" : Menu List\ny : Layer Info\n 0 : NET TOP, 1 : Serv" +
+    "ice Top,DLNA/USB/iPod Top, 2 : under 2nd Layer\ncccc : Current Cursor Position (H" +
+    "EX 4 letters)\niiii : Number of List Items (HEX 4 letters)\nll : Number of Layer(H" +
+    "EX 2 letters)\ns : Start Flag\n 0 : Not First, 1 : First\nr : Reserved (1 letters, " +
+    "don\'t care)\naa : Icon on Left of Title Bar\n 00 : Internet Radio, 01 : Server, 02" +
+    " : USB, 03 : iPod, 04 : DLNA, 05 : WiFi, 06 : Favorite\n 10 : Account(Spotify), 1" +
+    "1 : Album(Spotify), 12 : Playlist(Spotify), 13 : Playlist-C(Spotify)\n 14 : Starr" +
+    "ed(Spotify), 15 : What\'s New(Spotify), 16 : Track(Spotify), 17 : Artist(Spotify)" +
+    "\n 18 : Play(Spotify), 19 : Search(Spotify), 1A : Folder(Spotify)\n FF : None\nbb :" +
+    " Icon on Right of Title Bar\n 00 : Music Server (DLNA), 01 : Favorite, 02 : vTune" +
+    "r, 03 : SiriusXM, 04 : Pandora, 05 : Rhapsody, 06 : Last.fm,\n 07 : Napster, 08 :" +
+    " Slacker, 09 : Mediafly, 0A : Spotify, 0B : AUPEO!, 0C : radiko, 0D : e-onkyo,\n " +
+    "0E : TuneIn Radio, 0F : MP3tunes, 10 : Simfy, 11:Home Media, 12:Deezer, 13:iHear" +
+    "tRadio, 18:Airplay, 1A:onkyo music, 1B:TIDAL, 1C:Amazon Music, 1D:PlayQueue,  40" +
+    ":Chromecast built-in, 41:FireConnect, 42:Play-Fi \nF0:USB/USB(Front), F1:USB(Rear" +
+    "),\n FF : None\nss : Status Info\n 00 : None, 01 : Connecting, 02 : Acquiring Licen" +
+    "se, 03 : Buffering\n 04 : Cannot Play, 05 : Searching, 06 : Profile update, 07 : " +
+    "Operation disabled\n 08 : Server Start-up, 09 : Song rated as Favorite, 0A : Song" +
+    " banned from station,\n 0B : Authentication Failed, 0C : Spotify Paused(max 1 dev" +
+    "ice), 0D : Track Not Available, 0E : Cannot Skip\nnnn...nnn : Character of Title " +
+    "Bar (variable-length, 64 Unicode letters [UTF-8 encoded] max)"
 											},
 											{
  												"models",
-												"set298"
+												"set313"
 											}
 										}
 									},
@@ -28125,7 +29850,7 @@ bbb...bbb -> Text of Button
 											},
 											{
  												"models",
-												"set298"
+												"set313"
 											}
 										}
 									}
@@ -28167,7 +29892,7 @@ bbb...bbb -> Text of Button
 											},
 											{
  												"models",
-												"set309"
+												"set325"
 											}
 										}
 									},
@@ -28185,7 +29910,7 @@ bbb...bbb -> Text of Button
 											},
 											{
  												"models",
-												"set309"
+												"set325"
 											}
 										}
 									},
@@ -28203,7 +29928,7 @@ bbb...bbb -> Text of Button
 											},
 											{
  												"models",
-												"set310"
+												"set326"
 											}
 										}
 									},
@@ -28221,7 +29946,7 @@ bbb...bbb -> Text of Button
 											},
 											{
  												"models",
-												"set309"
+												"set325"
 											}
 										}
 									}
@@ -28264,7 +29989,7 @@ bbb...bbb -> Text of Button
 											},
 											{
  												"models",
-												"set304"
+												"set320"
 											}
 										}
 									},
@@ -28282,7 +30007,7 @@ bbb...bbb -> Text of Button
 											},
 											{
  												"models",
-												"set304"
+												"set320"
 											}
 										}
 									},
@@ -28300,7 +30025,7 @@ bbb...bbb -> Text of Button
 											},
 											{
  												"models",
-												"set304"
+												"set320"
 											}
 										}
 									}
@@ -28342,7 +30067,7 @@ bbb...bbb -> Text of Button
 											},
 											{
  												"models",
-												"set293"
+												"set308"
 											}
 										}
 									},
@@ -28360,7 +30085,7 @@ bbb...bbb -> Text of Button
 											},
 											{
  												"models",
-												"set293"
+												"set308"
 											}
 										}
 									}
@@ -28403,7 +30128,7 @@ bbb...bbb -> Text of Button
 											},
 											{
  												"models",
-												"set298"
+												"set327"
 											}
 										}
 									},
@@ -28423,7 +30148,7 @@ bbb...bbb -> Text of Button
 											},
 											{
  												"models",
-												"set298"
+												"set327"
 											}
 										}
 									}
@@ -28465,7 +30190,7 @@ bbb...bbb -> Text of Button
 											},
 											{
  												"models",
-												"set293"
+												"set328"
 											}
 										}
 									}
@@ -28510,7 +30235,7 @@ nnn...nnn : Character of update information file path (variable-length, Unicode 
 											},
 											{
  												"models",
-												"set311"
+												"set329"
 											}
 										}
 									},
@@ -28529,7 +30254,7 @@ nnn...nnn : Character of update information file path (variable-length, Unicode 
 											},
 											{
  												"models",
-												"set312"
+												"set331"
 											}
 										}
 									},
@@ -28547,7 +30272,7 @@ nnn...nnn : Character of update information file path (variable-length, Unicode 
 											},
 											{
  												"models",
-												"set312"
+												"set332"
 											}
 										}
 									}
@@ -28591,7 +30316,7 @@ yyy...yyy : Character of device name for Alexa service (variable-length, Unicode
 											},
 											{
  												"models",
-												"set312"
+												"set331"
 											}
 										}
 									},
@@ -28609,7 +30334,7 @@ yyy...yyy : Character of device name for Alexa service (variable-length, Unicode
 											},
 											{
  												"models",
-												"set312"
+												"set332"
 											}
 										}
 									}
@@ -28653,7 +30378,7 @@ yyy...yyy : Character of device name for Alexa service (variable-length, Unicode
 											},
 											{
  												"models",
-												"set298"
+												"set313"
 											}
 										}
 									}
@@ -28706,7 +30431,7 @@ rrr-> reserved"
 											},
 											{
  												"models",
-												"set284"
+												"set333"
 											}
 										}
 									},
@@ -28873,7 +30598,7 @@ note: Separate each parameter with '/' and do not omit '/' even if there is no i
 											},
 											{
  												"models",
-												"set4"
+												"set330"
 											}
 										}
 									}
@@ -28915,7 +30640,7 @@ note: Separate each parameter with '/' and do not omit '/' even if there is no i
 											},
 											{
  												"models",
-												"set293"
+												"set328"
 											}
 										}
 									}
@@ -28957,7 +30682,7 @@ note: Separate each parameter with '/' and do not omit '/' even if there is no i
 											},
 											{
  												"models",
-												"set284"
+												"set333"
 											}
 										}
 									},
@@ -28975,7 +30700,7 @@ note: Separate each parameter with '/' and do not omit '/' even if there is no i
 											},
 											{
  												"models",
-												"set284"
+												"set299"
 											}
 										}
 									}
@@ -29017,7 +30742,7 @@ note: Separate each parameter with '/' and do not omit '/' even if there is no i
 											},
 											{
  												"models",
-												"set284"
+												"set333"
 											}
 										}
 									},
@@ -29035,7 +30760,7 @@ note: Separate each parameter with '/' and do not omit '/' even if there is no i
 											},
 											{
  												"models",
-												"set284"
+												"set333"
 											}
 										}
 									}
@@ -29077,7 +30802,7 @@ note: Separate each parameter with '/' and do not omit '/' even if there is no i
 											},
 											{
  												"models",
-												"set284"
+												"set299"
 											}
 										}
 									}
@@ -29119,7 +30844,7 @@ note: Separate each parameter with '/' and do not omit '/' even if there is no i
 											},
 											{
  												"models",
-												"set284"
+												"set299"
 											}
 										}
 									}
@@ -29161,7 +30886,7 @@ note: Separate each parameter with '/' and do not omit '/' even if there is no i
 											},
 											{
  												"models",
-												"set284"
+												"set333"
 											}
 										}
 									}
@@ -29203,7 +30928,7 @@ note: Separate each parameter with '/' and do not omit '/' even if there is no i
 											},
 											{
  												"models",
-												"set4"
+												"set330"
 											}
 										}
 									}
@@ -29245,7 +30970,7 @@ note: Separate each parameter with '/' and do not omit '/' even if there is no i
 											},
 											{
  												"models",
-												"set284"
+												"set299"
 											}
 										}
 									}
@@ -29291,7 +31016,8 @@ note: Separate each parameter with '/' and do not omit '/' even if there is no i
 4                 Reserve
 5                 Amazon Alexa
 6                 Bluetooth Sender
-7～E       Reserve
+7                 Roon Ready
+8～E       Reserve
 F                 Canceled from Flare Connect changed
 
 b:
@@ -29307,7 +31033,7 @@ ex.:MRM00       Flare Connet canceled"
 											},
 											{
  												"models",
-												"set284"
+												"set299"
 											}
 										}
 									}
@@ -29358,7 +31084,7 @@ ex.:MRM00       Flare Connet canceled"
 											},
 											{
  												"models",
-												"set313"
+												"set334"
 											}
 										}
 									},
@@ -29376,7 +31102,7 @@ ex.:MRM00       Flare Connet canceled"
 											},
 											{
  												"models",
-												"set284"
+												"set299"
 											}
 										}
 									}
@@ -29418,7 +31144,7 @@ ex.:MRM00       Flare Connet canceled"
 											},
 											{
  												"models",
-												"set284"
+												"set333"
 											}
 										}
 									}
@@ -29744,7 +31470,7 @@ ex.:MRM00       Flare Connet canceled"
 											},
 											{
  												"models",
-												"set314"
+												"set335"
 											}
 										}
 									},
@@ -29973,7 +31699,7 @@ ex.:MRM00       Flare Connet canceled"
 											},
 											{
  												"models",
-												"set4"
+												"set330"
 											}
 										}
 									}
@@ -30021,7 +31747,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set284"
+												"set299"
 											}
 										}
 									}
@@ -30067,7 +31793,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set284"
+												"set299"
 											}
 										}
 									}
@@ -30111,7 +31837,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set284"
+												"set333"
 											}
 										}
 									}
@@ -30154,7 +31880,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set316"
+												"set337"
 											}
 										}
 									},
@@ -30172,7 +31898,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set317"
+												"set338"
 											}
 										}
 									}
@@ -30215,7 +31941,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set316"
+												"set337"
 											}
 										}
 									},
@@ -30233,7 +31959,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set317"
+												"set338"
 											}
 										}
 									}
@@ -30276,7 +32002,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set316"
+												"set337"
 											}
 										}
 									},
@@ -30294,7 +32020,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set317"
+												"set338"
 											}
 										}
 									}
@@ -30336,7 +32062,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set317"
+												"set338"
 											}
 										}
 									},
@@ -30354,7 +32080,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set317"
+												"set338"
 											}
 										}
 									}
@@ -30397,7 +32123,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set317"
+												"set338"
 											}
 										}
 									},
@@ -30415,7 +32141,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set317"
+												"set338"
 											}
 										}
 									}
@@ -30444,22 +32170,22 @@ y : Add Type
 								new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 								{
 									{
- 										"abc",
+ 										"abcd",
 										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 										{
 											{
  												"name",
-												"abc"
+												"abcd"
 											},
 											{
  												"description",
 												"a = Privacy Policy Status: \"0\" = Disagree / \"1\" = Agree\nb = Google Cast License: " +
     "\"0\" = Disagree / \"1\" = Agree\nc = SUE - Privacy Policy: \"0\" = Disagree / \"1\" = Ag" +
-    "ree"
+    "ree\nd = Usage Datga: \"0\" = Disagree / \"1\" = Agree"
 											},
 											{
  												"models",
-												"set284"
+												"set333"
 											}
 										}
 									},
@@ -30477,7 +32203,75 @@ y : Add Type
 											},
 											{
  												"models",
-												"set284"
+												"set299"
+											}
+										}
+									}
+								}
+							}
+						}
+					},
+					{
+ 						"PPD",
+						new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+						{
+							{
+ 								"name",
+								"privacy-policy-display"
+							},
+							{
+ 								"description",
+								"Privacy Policy Display Command"
+							},
+							{
+ 								"aliases",
+								null
+							},
+							{
+ 								"values",
+								new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+								{
+									{
+ 										"ab",
+										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+										{
+											{
+ 												"name",
+												"ab"
+											},
+											{
+ 												"description",
+												@"a: Display Type   
+0              Privacy Policy
+1                 UsageData
+
+b: Display Method
+0              NCP
+1                 NCP Force (Forced display regardless of settings)
+2                 NCP and OSD
+3                 NCP and OSD Force (Forced display regardless of settings)"
+											},
+											{
+ 												"models",
+												"set333"
+											}
+										}
+									},
+									{
+ 										"NON",
+										new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+										{
+											{
+ 												"name",
+												"non"
+											},
+											{
+ 												"description",
+												"response command to the application side, sent back when not displayed by NCP."
+											},
+											{
+ 												"models",
+												"set195"
 											}
 										}
 									}
@@ -30519,7 +32313,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set284"
+												"set299"
 											}
 										}
 									},
@@ -30537,7 +32331,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set284"
+												"set333"
 											}
 										}
 									},
@@ -30555,7 +32349,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set284"
+												"set299"
 											}
 										}
 									}
@@ -30597,7 +32391,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set284"
+												"set333"
 											}
 										}
 									},
@@ -30615,7 +32409,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set284"
+												"set299"
 											}
 										}
 									}
@@ -30657,7 +32451,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set284"
+												"set333"
 											}
 										}
 									},
@@ -30675,7 +32469,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set284"
+												"set299"
 											}
 										}
 									}
@@ -30717,7 +32511,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set284"
+												"set333"
 											}
 										}
 									},
@@ -30735,7 +32529,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set284"
+												"set299"
 											}
 										}
 									}
@@ -30778,7 +32572,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set284"
+												"set333"
 											}
 										}
 									},
@@ -30796,7 +32590,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set284"
+												"set299"
 											}
 										}
 									}
@@ -30838,7 +32632,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set284"
+												"set299"
 											}
 										}
 									}
@@ -30880,7 +32674,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set284"
+												"set333"
 											}
 										}
 									},
@@ -30898,7 +32692,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set284"
+												"set333"
 											}
 										}
 									}
@@ -30946,7 +32740,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -30964,7 +32758,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -30982,7 +32776,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -31000,7 +32794,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -31018,7 +32812,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -31036,7 +32830,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -31054,7 +32848,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -31072,7 +32866,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -31090,7 +32884,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -31108,7 +32902,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -31126,7 +32920,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -31144,7 +32938,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -31162,7 +32956,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -31180,7 +32974,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -31198,7 +32992,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -31216,7 +33010,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -31234,7 +33028,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -31252,7 +33046,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -31270,7 +33064,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -31288,7 +33082,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -31306,7 +33100,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -31324,7 +33118,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -31342,7 +33136,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -31360,7 +33154,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									}
@@ -31402,7 +33196,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -31420,7 +33214,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -31438,7 +33232,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -31456,7 +33250,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -31474,7 +33268,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -31492,7 +33286,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -31510,7 +33304,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -31528,7 +33322,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -31546,7 +33340,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -31564,7 +33358,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -31582,7 +33376,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -31600,7 +33394,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -31618,7 +33412,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -31636,7 +33430,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -31654,7 +33448,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -31672,7 +33466,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -31690,7 +33484,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -31708,7 +33502,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -31726,7 +33520,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -31744,7 +33538,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -31762,7 +33556,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -31780,7 +33574,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -31798,7 +33592,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -31816,7 +33610,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -31834,7 +33628,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -31870,7 +33664,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -31906,7 +33700,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -31924,7 +33718,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -31942,7 +33736,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -31960,7 +33754,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -31978,7 +33772,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -31996,7 +33790,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -32014,7 +33808,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -32032,7 +33826,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -32050,7 +33844,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -32068,7 +33862,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									}
@@ -32110,7 +33904,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -32128,7 +33922,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -32146,7 +33940,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -32164,7 +33958,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -32182,7 +33976,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -32200,7 +33994,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									}
@@ -32242,7 +34036,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -32260,7 +34054,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -32278,7 +34072,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -32296,7 +34090,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -32314,7 +34108,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -32332,7 +34126,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -32350,7 +34144,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -32368,7 +34162,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -32386,7 +34180,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -32404,7 +34198,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									}
@@ -32656,7 +34450,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -32674,7 +34468,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -32692,7 +34486,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -32710,7 +34504,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -32728,7 +34522,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -32746,7 +34540,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -32764,7 +34558,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -32782,7 +34576,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -32800,7 +34594,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -32818,7 +34612,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -32836,7 +34630,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -32854,7 +34648,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -32872,7 +34666,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -32890,7 +34684,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -32908,7 +34702,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -32926,7 +34720,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -32944,7 +34738,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -32962,7 +34756,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -32980,7 +34774,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -32998,7 +34792,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -33016,7 +34810,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -33034,7 +34828,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -33052,7 +34846,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -33070,7 +34864,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -33088,7 +34882,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -33106,7 +34900,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -33124,7 +34918,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -33142,7 +34936,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -33160,7 +34954,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -33178,7 +34972,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -33196,7 +34990,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -33214,7 +35008,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -33232,7 +35026,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -33250,7 +35044,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -33268,7 +35062,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -33286,7 +35080,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -33304,7 +35098,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -33322,7 +35116,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -33340,7 +35134,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -33358,7 +35152,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -33376,7 +35170,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -33394,7 +35188,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -33412,7 +35206,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -33430,7 +35224,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -33448,7 +35242,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -33466,7 +35260,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -33484,7 +35278,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -33502,7 +35296,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -33520,7 +35314,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -33538,7 +35332,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -33556,7 +35350,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -33574,7 +35368,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -33592,7 +35386,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -33610,7 +35404,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -33628,7 +35422,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -33646,7 +35440,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -33664,7 +35458,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -33682,7 +35476,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -33700,7 +35494,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -33718,7 +35512,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -33736,7 +35530,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -33754,7 +35548,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -33772,7 +35566,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -33790,7 +35584,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -33808,7 +35602,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -33826,7 +35620,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -33844,7 +35638,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -33862,7 +35656,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -33880,7 +35674,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -33898,7 +35692,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set318"
+												"set339"
 											}
 										}
 									},
@@ -33916,7 +35710,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set320"
+												"set341"
 											}
 										}
 									}
@@ -33958,7 +35752,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -33976,7 +35770,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -33994,7 +35788,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -34012,7 +35806,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -34030,7 +35824,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -34048,7 +35842,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -34066,7 +35860,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -34084,7 +35878,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -34102,7 +35896,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -34120,7 +35914,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -34138,7 +35932,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -34156,7 +35950,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -34174,7 +35968,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -34192,7 +35986,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -34210,7 +36004,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -34228,7 +36022,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -34246,7 +36040,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -34264,7 +36058,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -34282,7 +36076,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -34300,7 +36094,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -34318,7 +36112,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -34336,7 +36130,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -34354,7 +36148,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -34372,7 +36166,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -34390,7 +36184,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -34408,7 +36202,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -34426,7 +36220,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -34444,7 +36238,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -34462,7 +36256,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -34480,7 +36274,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -34498,7 +36292,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -34516,7 +36310,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -34534,7 +36328,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									}
@@ -34576,7 +36370,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -34594,7 +36388,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -34612,7 +36406,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -34630,7 +36424,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -34648,7 +36442,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -34666,7 +36460,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -34684,7 +36478,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -34702,7 +36496,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -34720,7 +36514,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -34738,7 +36532,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -34756,7 +36550,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -34774,7 +36568,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -34792,7 +36586,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -34810,7 +36604,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -34828,7 +36622,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -34846,7 +36640,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -34864,7 +36658,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -34882,7 +36676,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -34900,7 +36694,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -34918,7 +36712,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -34936,7 +36730,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -34954,7 +36748,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -34972,7 +36766,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -34990,7 +36784,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -35008,7 +36802,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -35026,7 +36820,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -35044,7 +36838,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -35062,7 +36856,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									},
@@ -35080,7 +36874,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set319"
+												"set340"
 											}
 										}
 									}
@@ -35340,7 +37134,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set68"
+												"set70"
 											}
 										}
 									},
@@ -35358,7 +37152,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set68"
+												"set70"
 											}
 										}
 									},
@@ -35376,7 +37170,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set68"
+												"set70"
 											}
 										}
 									},
@@ -35394,7 +37188,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set68"
+												"set70"
 											}
 										}
 									},
@@ -35412,7 +37206,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set68"
+												"set70"
 											}
 										}
 									},
@@ -35430,7 +37224,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set68"
+												"set70"
 											}
 										}
 									},
@@ -35448,7 +37242,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set68"
+												"set70"
 											}
 										}
 									},
@@ -35466,7 +37260,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set68"
+												"set70"
 											}
 										}
 									},
@@ -35484,7 +37278,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set68"
+												"set70"
 											}
 										}
 									},
@@ -35502,7 +37296,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set68"
+												"set70"
 											}
 										}
 									},
@@ -35520,7 +37314,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set68"
+												"set70"
 											}
 										}
 									},
@@ -35538,7 +37332,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set68"
+												"set70"
 											}
 										}
 									},
@@ -35556,7 +37350,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set68"
+												"set70"
 											}
 										}
 									},
@@ -35574,7 +37368,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set68"
+												"set70"
 											}
 										}
 									},
@@ -35592,7 +37386,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set68"
+												"set70"
 											}
 										}
 									},
@@ -35610,7 +37404,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set68"
+												"set70"
 											}
 										}
 									},
@@ -35628,7 +37422,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set68"
+												"set70"
 											}
 										}
 									},
@@ -35646,7 +37440,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set68"
+												"set70"
 											}
 										}
 									},
@@ -35664,7 +37458,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set68"
+												"set70"
 											}
 										}
 									},
@@ -35682,7 +37476,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set68"
+												"set70"
 											}
 										}
 									},
@@ -35700,7 +37494,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set68"
+												"set70"
 											}
 										}
 									},
@@ -35718,7 +37512,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set68"
+												"set70"
 											}
 										}
 									},
@@ -35736,7 +37530,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set68"
+												"set70"
 											}
 										}
 									},
@@ -35754,7 +37548,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set68"
+												"set70"
 											}
 										}
 									},
@@ -35772,7 +37566,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set68"
+												"set70"
 											}
 										}
 									},
@@ -35790,7 +37584,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set68"
+												"set70"
 											}
 										}
 									},
@@ -35808,7 +37602,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set68"
+												"set70"
 											}
 										}
 									},
@@ -35826,7 +37620,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set68"
+												"set70"
 											}
 										}
 									},
@@ -35844,7 +37638,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set68"
+												"set70"
 											}
 										}
 									},
@@ -35862,7 +37656,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set68"
+												"set70"
 											}
 										}
 									}
@@ -35904,7 +37698,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set68"
+												"set70"
 											}
 										}
 									},
@@ -35922,7 +37716,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set68"
+												"set70"
 											}
 										}
 									}
@@ -35964,7 +37758,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set68"
+												"set70"
 											}
 										}
 									},
@@ -35982,7 +37776,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set68"
+												"set70"
 											}
 										}
 									}
@@ -36024,7 +37818,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set68"
+												"set70"
 											}
 										}
 									},
@@ -36042,7 +37836,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set68"
+												"set70"
 											}
 										}
 									}
@@ -36084,7 +37878,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set68"
+												"set70"
 											}
 										}
 									},
@@ -36102,7 +37896,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set68"
+												"set70"
 											}
 										}
 									}
@@ -36144,7 +37938,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set68"
+												"set70"
 											}
 										}
 									},
@@ -36162,7 +37956,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set68"
+												"set70"
 											}
 										}
 									}
@@ -36206,7 +38000,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set68"
+												"set70"
 											}
 										}
 									},
@@ -36224,7 +38018,7 @@ y : Add Type
 											},
 											{
  												"models",
-												"set68"
+												"set70"
 											}
 										}
 									}
@@ -36274,7 +38068,7 @@ when t = C,
 											},
 											{
  												"models",
-												"set321"
+												"set342"
 											}
 										}
 									}
@@ -36316,7 +38110,7 @@ when t = C,
 											},
 											{
  												"models",
-												"set322"
+												"set343"
 											}
 										}
 									},
@@ -36334,7 +38128,7 @@ when t = C,
 											},
 											{
  												"models",
-												"set322"
+												"set343"
 											}
 										}
 									},
@@ -36352,7 +38146,7 @@ when t = C,
 											},
 											{
  												"models",
-												"set323"
+												"set344"
 											}
 										}
 									},
@@ -36370,7 +38164,7 @@ when t = C,
 											},
 											{
  												"models",
-												"set322"
+												"set343"
 											}
 										}
 									}
@@ -36412,7 +38206,7 @@ when t = C,
 											},
 											{
  												"models",
-												"set68"
+												"set70"
 											}
 										}
 									},
@@ -36430,7 +38224,7 @@ when t = C,
 											},
 											{
  												"models",
-												"set68"
+												"set70"
 											}
 										}
 									},
@@ -36448,7 +38242,7 @@ when t = C,
 											},
 											{
  												"models",
-												"set68"
+												"set70"
 											}
 										}
 									},
@@ -36466,7 +38260,7 @@ when t = C,
 											},
 											{
  												"models",
-												"set68"
+												"set70"
 											}
 										}
 									}
@@ -36508,7 +38302,7 @@ when t = C,
 											},
 											{
  												"models",
-												"set68"
+												"set70"
 											}
 										}
 									},
@@ -36526,7 +38320,7 @@ when t = C,
 											},
 											{
  												"models",
-												"set68"
+												"set70"
 											}
 										}
 									},
@@ -36544,7 +38338,7 @@ when t = C,
 											},
 											{
  												"models",
-												"set68"
+												"set70"
 											}
 										}
 									},
@@ -36562,7 +38356,7 @@ when t = C,
 											},
 											{
  												"models",
-												"set68"
+												"set70"
 											}
 										}
 									}
@@ -36604,7 +38398,7 @@ when t = C,
 											},
 											{
  												"models",
-												"set68"
+												"set70"
 											}
 										}
 									}
@@ -36646,7 +38440,7 @@ when t = C,
 											},
 											{
  												"models",
-												"set68"
+												"set70"
 											}
 										}
 									},
@@ -36664,7 +38458,7 @@ when t = C,
 											},
 											{
  												"models",
-												"set68"
+												"set70"
 											}
 										}
 									}
@@ -36706,7 +38500,7 @@ when t = C,
 											},
 											{
  												"models",
-												"set68"
+												"set70"
 											}
 										}
 									},
@@ -36724,7 +38518,7 @@ when t = C,
 											},
 											{
  												"models",
-												"set68"
+												"set70"
 											}
 										}
 									},
@@ -36742,7 +38536,7 @@ when t = C,
 											},
 											{
  												"models",
-												"set68"
+												"set70"
 											}
 										}
 									}
@@ -36784,7 +38578,7 @@ when t = C,
 											},
 											{
  												"models",
-												"set68"
+												"set70"
 											}
 										}
 									},
@@ -36802,7 +38596,7 @@ when t = C,
 											},
 											{
  												"models",
-												"set68"
+												"set70"
 											}
 										}
 									}
@@ -36844,7 +38638,7 @@ when t = C,
 											},
 											{
  												"models",
-												"set68"
+												"set70"
 											}
 										}
 									},
@@ -36862,7 +38656,7 @@ when t = C,
 											},
 											{
  												"models",
-												"set68"
+												"set70"
 											}
 										}
 									}
@@ -36904,7 +38698,7 @@ when t = C,
 											},
 											{
  												"models",
-												"set68"
+												"set70"
 											}
 										}
 									},
@@ -36922,7 +38716,7 @@ when t = C,
 											},
 											{
  												"models",
-												"set68"
+												"set70"
 											}
 										}
 									}
@@ -36964,7 +38758,7 @@ when t = C,
 											},
 											{
  												"models",
-												"set68"
+												"set70"
 											}
 										}
 									},
@@ -36982,7 +38776,7 @@ when t = C,
 											},
 											{
  												"models",
-												"set68"
+												"set70"
 											}
 										}
 									}
@@ -37026,7 +38820,7 @@ when t = C,
 											},
 											{
  												"models",
-												"set68"
+												"set70"
 											}
 										}
 									},
@@ -37044,7 +38838,7 @@ when t = C,
 											},
 											{
  												"models",
-												"set68"
+												"set70"
 											}
 										}
 									}
@@ -37086,7 +38880,7 @@ when t = C,
 											},
 											{
  												"models",
-												"set68"
+												"set70"
 											}
 										}
 									},
@@ -37104,7 +38898,7 @@ when t = C,
 											},
 											{
  												"models",
-												"set68"
+												"set70"
 											}
 										}
 									}
@@ -37146,7 +38940,7 @@ when t = C,
 											},
 											{
  												"models",
-												"set68"
+												"set70"
 											}
 										}
 									},
@@ -37164,7 +38958,7 @@ when t = C,
 											},
 											{
  												"models",
-												"set68"
+												"set70"
 											}
 										}
 									},
@@ -37182,7 +38976,7 @@ when t = C,
 											},
 											{
  												"models",
-												"set68"
+												"set70"
 											}
 										}
 									},
@@ -37200,7 +38994,7 @@ when t = C,
 											},
 											{
  												"models",
-												"set68"
+												"set70"
 											}
 										}
 									},
@@ -37218,7 +39012,7 @@ when t = C,
 											},
 											{
  												"models",
-												"set68"
+												"set70"
 											}
 										}
 									},
@@ -37236,7 +39030,7 @@ when t = C,
 											},
 											{
  												"models",
-												"set68"
+												"set70"
 											}
 										}
 									},
@@ -37254,7 +39048,7 @@ when t = C,
 											},
 											{
  												"models",
-												"set68"
+												"set70"
 											}
 										}
 									},
@@ -37272,7 +39066,7 @@ when t = C,
 											},
 											{
  												"models",
-												"set68"
+												"set70"
 											}
 										}
 									},
@@ -37290,7 +39084,7 @@ when t = C,
 											},
 											{
  												"models",
-												"set68"
+												"set70"
 											}
 										}
 									}
@@ -37914,7 +39708,7 @@ when t = C,
 											},
 											{
  												"models",
-												"set24"
+												"set48"
 											}
 										}
 									},
@@ -37932,7 +39726,7 @@ when t = C,
 											},
 											{
  												"models",
-												"set24"
+												"set48"
 											}
 										}
 									},
@@ -37950,7 +39744,7 @@ when t = C,
 											},
 											{
  												"models",
-												"set24"
+												"set48"
 											}
 										}
 									},
@@ -37968,7 +39762,7 @@ when t = C,
 											},
 											{
  												"models",
-												"set24"
+												"set48"
 											}
 										}
 									}
@@ -38016,7 +39810,7 @@ when t = C,
 											},
 											{
  												"models",
-												"set24"
+												"set48"
 											}
 										}
 									},
@@ -38034,7 +39828,7 @@ when t = C,
 											},
 											{
  												"models",
-												"set24"
+												"set48"
 											}
 										}
 									},
@@ -38052,7 +39846,7 @@ when t = C,
 											},
 											{
  												"models",
-												"set24"
+												"set48"
 											}
 										}
 									},
@@ -38070,7 +39864,7 @@ when t = C,
 											},
 											{
  												"models",
-												"set24"
+												"set48"
 											}
 										}
 									},
@@ -38088,7 +39882,7 @@ when t = C,
 											},
 											{
  												"models",
-												"set24"
+												"set48"
 											}
 										}
 									},
@@ -38106,7 +39900,7 @@ when t = C,
 											},
 											{
  												"models",
-												"set24"
+												"set48"
 											}
 										}
 									},
@@ -38124,7 +39918,7 @@ when t = C,
 											},
 											{
  												"models",
-												"set24"
+												"set48"
 											}
 										}
 									},
@@ -38142,7 +39936,7 @@ when t = C,
 											},
 											{
  												"models",
-												"set24"
+												"set48"
 											}
 										}
 									},
@@ -38160,7 +39954,7 @@ when t = C,
 											},
 											{
  												"models",
-												"set24"
+												"set48"
 											}
 										}
 									},
@@ -38178,7 +39972,7 @@ when t = C,
 											},
 											{
  												"models",
-												"set24"
+												"set48"
 											}
 										}
 									},
@@ -38196,7 +39990,7 @@ when t = C,
 											},
 											{
  												"models",
-												"set24"
+												"set48"
 											}
 										}
 									},
@@ -38214,7 +40008,7 @@ when t = C,
 											},
 											{
  												"models",
-												"set24"
+												"set48"
 											}
 										}
 									},
@@ -38232,7 +40026,7 @@ when t = C,
 											},
 											{
  												"models",
-												"set24"
+												"set48"
 											}
 										}
 									},
@@ -38250,7 +40044,7 @@ when t = C,
 											},
 											{
  												"models",
-												"set24"
+												"set48"
 											}
 										}
 									},
@@ -38268,7 +40062,7 @@ when t = C,
 											},
 											{
  												"models",
-												"set24"
+												"set48"
 											}
 										}
 									},
@@ -38286,7 +40080,7 @@ when t = C,
 											},
 											{
  												"models",
-												"set24"
+												"set48"
 											}
 										}
 									},
@@ -38304,7 +40098,7 @@ when t = C,
 											},
 											{
  												"models",
-												"set24"
+												"set48"
 											}
 										}
 									},
@@ -38322,7 +40116,7 @@ when t = C,
 											},
 											{
  												"models",
-												"set24"
+												"set48"
 											}
 										}
 									},
@@ -38340,7 +40134,7 @@ when t = C,
 											},
 											{
  												"models",
-												"set24"
+												"set48"
 											}
 										}
 									},
@@ -38358,7 +40152,7 @@ when t = C,
 											},
 											{
  												"models",
-												"set24"
+												"set48"
 											}
 										}
 									},
@@ -38376,7 +40170,7 @@ when t = C,
 											},
 											{
  												"models",
-												"set24"
+												"set48"
 											}
 										}
 									},
@@ -38394,7 +40188,7 @@ when t = C,
 											},
 											{
  												"models",
-												"set24"
+												"set48"
 											}
 										}
 									},
@@ -38412,7 +40206,7 @@ when t = C,
 											},
 											{
  												"models",
-												"set24"
+												"set48"
 											}
 										}
 									},
@@ -38430,7 +40224,7 @@ when t = C,
 											},
 											{
  												"models",
-												"set24"
+												"set48"
 											}
 										}
 									},
@@ -38448,7 +40242,7 @@ when t = C,
 											},
 											{
  												"models",
-												"set24"
+												"set48"
 											}
 										}
 									},
@@ -38466,7 +40260,7 @@ when t = C,
 											},
 											{
  												"models",
-												"set24"
+												"set48"
 											}
 										}
 									},
@@ -38484,7 +40278,7 @@ when t = C,
 											},
 											{
  												"models",
-												"set24"
+												"set48"
 											}
 										}
 									},
@@ -38502,7 +40296,7 @@ when t = C,
 											},
 											{
  												"models",
-												"set24"
+												"set48"
 											}
 										}
 									},
@@ -38520,7 +40314,7 @@ when t = C,
 											},
 											{
  												"models",
-												"set24"
+												"set48"
 											}
 										}
 									},
@@ -38538,7 +40332,7 @@ when t = C,
 											},
 											{
  												"models",
-												"set24"
+												"set48"
 											}
 										}
 									},
@@ -38556,7 +40350,7 @@ when t = C,
 											},
 											{
  												"models",
-												"set24"
+												"set48"
 											}
 										}
 									},
@@ -38574,7 +40368,7 @@ when t = C,
 											},
 											{
  												"models",
-												"set24"
+												"set48"
 											}
 										}
 									},
@@ -38592,7 +40386,7 @@ when t = C,
 											},
 											{
  												"models",
-												"set24"
+												"set48"
 											}
 										}
 									},
@@ -38610,7 +40404,7 @@ when t = C,
 											},
 											{
  												"models",
-												"set24"
+												"set48"
 											}
 										}
 									}
@@ -39209,6 +41003,46 @@ when t = C,
 						"APS"
 					},
 					{
+ 						"hdmi-diagnostic-cable-test",
+						"HCA"
+					},
+					{
+ 						"hdmi-diagnostic-sink-test",
+						"HSI"
+					},
+					{
+ 						"hdmi-diagnostic-source-test",
+						"HSO"
+					},
+					{
+ 						"discrete-audio-path-mode-audio-exclusive-mode",
+						"AEM"
+					},
+					{
+ 						"video-select",
+						"VSL"
+					},
+					{
+ 						"input-selector-skip",
+						"ISS"
+					},
+					{
+ 						"hdcp-timing-adjust",
+						"HTA"
+					},
+					{
+ 						"dirac-live-bass-control",
+						"DBC"
+					},
+					{
+ 						"front-key-lock-control",
+						"KYL"
+					},
+					{
+ 						"ir-lock-control",
+						"IRL"
+					},
+					{
  						"speaker-a",
 						"SPA"
 					},
@@ -39595,6 +41429,10 @@ when t = C,
 					{
  						"privacy-policy-status",
 						"PPS"
+					},
+					{
+ 						"privacy-policy-display",
+						"PPD"
 					},
 					{
  						"google-cast-share-usage-data",
@@ -41793,6 +43631,14 @@ when t = C,
 								"A7"
 							},
 							{
+ 								"auro-3d",
+								"B0"
+							},
+							{
+ 								"auro-surround",
+								"B1"
+							},
+							{
  								"auto-surround",
 								"FF"
 							},
@@ -42897,8 +44743,8 @@ when t = C,
 						new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 						{
 							{
- 								"urxyy",
-								"urxyy"
+ 								"urrrr",
+								"urrrr"
 							},
 							{
  								"query",
@@ -42973,6 +44819,10 @@ when t = C,
 							{
  								"f-99c-99-f999c999",
 								"F-99C-99\"-\n\"F999C999"
+							},
+							{
+ 								"xx",
+								"{xx}"
 							},
 							{
  								"query",
@@ -43686,6 +45536,10 @@ when t = C,
 								"A03"
 							},
 							{
+ 								"toggle",
+								"TG"
+							},
+							{
  								"query",
 								"QSTN"
 							}
@@ -43693,6 +45547,378 @@ when t = C,
 					},
 					{
  						"APS",
+						new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+						{
+							{
+ 								"off",
+								"00"
+							},
+							{
+ 								"on",
+								"01"
+							},
+							{
+ 								"up",
+								"UP"
+							},
+							{
+ 								"query",
+								"QSTN"
+							}
+						}
+					},
+					{
+ 						"HCA",
+						new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+						{
+							{
+ 								"t00",
+								"T00"
+							},
+							{
+ 								"t01",
+								"T01"
+							},
+							{
+ 								"t02",
+								"T02"
+							},
+							{
+ 								"r00",
+								"R00"
+							},
+							{
+ 								"r01",
+								"R01"
+							},
+							{
+ 								"r02",
+								"R02"
+							},
+							{
+ 								"r03",
+								"R03"
+							},
+							{
+ 								"r04",
+								"R04"
+							},
+							{
+ 								"r05",
+								"R05"
+							},
+							{
+ 								"r06",
+								"R06"
+							},
+							{
+ 								"r07",
+								"R07"
+							},
+							{
+ 								"rfe",
+								"RFE"
+							},
+							{
+ 								"rff",
+								"RFF"
+							},
+							{
+ 								"s01",
+								"S01"
+							},
+							{
+ 								"s02",
+								"S02"
+							},
+							{
+ 								"s03",
+								"S03"
+							},
+							{
+ 								"s04",
+								"S04"
+							},
+							{
+ 								"s05",
+								"S05"
+							},
+							{
+ 								"s06",
+								"S06"
+							},
+							{
+ 								"s07",
+								"S07"
+							},
+							{
+ 								"query",
+								"QSTN"
+							}
+						}
+					},
+					{
+ 						"HSI",
+						new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+						{
+							{
+ 								"t00",
+								"T00"
+							},
+							{
+ 								"t01",
+								"T01"
+							},
+							{
+ 								"t02",
+								"T02"
+							},
+							{
+ 								"t03",
+								"T03"
+							},
+							{
+ 								"t04",
+								"T04"
+							},
+							{
+ 								"t05",
+								"T05"
+							},
+							{
+ 								"t06",
+								"T06"
+							},
+							{
+ 								"t07",
+								"T07"
+							},
+							{
+ 								"t08",
+								"T08"
+							},
+							{
+ 								"s01",
+								"S01"
+							},
+							{
+ 								"s02",
+								"S02"
+							},
+							{
+ 								"s03",
+								"S03"
+							},
+							{
+ 								"s04",
+								"S04"
+							},
+							{
+ 								"s05",
+								"S05"
+							},
+							{
+ 								"s06",
+								"S06"
+							},
+							{
+ 								"s07",
+								"S07"
+							},
+							{
+ 								"s08",
+								"S08"
+							},
+							{
+ 								"s09",
+								"S09"
+							},
+							{
+ 								"r00",
+								"R00"
+							},
+							{
+ 								"rfe",
+								"RFE"
+							},
+							{
+ 								"rff",
+								"RFF"
+							},
+							{
+ 								"query",
+								"QSTN"
+							}
+						}
+					},
+					{
+ 						"HSO",
+						new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+						{
+							{
+ 								"t00",
+								"T00"
+							},
+							{
+ 								"t01",
+								"T01"
+							},
+							{
+ 								"t02",
+								"T02"
+							},
+							{
+ 								"t03",
+								"T03"
+							},
+							{
+ 								"t04",
+								"T04"
+							},
+							{
+ 								"r00",
+								"R00"
+							},
+							{
+ 								"r01",
+								"R01"
+							},
+							{
+ 								"rfe",
+								"RFE"
+							},
+							{
+ 								"rff",
+								"RFF"
+							},
+							{
+ 								"query",
+								"QSTN"
+							}
+						}
+					},
+					{
+ 						"AEM",
+						new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+						{
+							{
+ 								"off",
+								"00"
+							},
+							{
+ 								"on",
+								"01"
+							},
+							{
+ 								"up",
+								"UP"
+							},
+							{
+ 								"query",
+								"QSTN"
+							}
+						}
+					},
+					{
+ 						"VSL",
+						new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+						{
+							{
+ 								"xx-sli-number",
+								"xx"
+							},
+							{
+ 								"last",
+								"LAST"
+							},
+							{
+ 								"up",
+								"UP"
+							},
+							{
+ 								"query",
+								"QSTN"
+							}
+						}
+					},
+					{
+ 						"ISS",
+						new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+						{
+							{
+ 								"ii-number-the-same-as-for-sli-command-xx-00-use",
+								"iixx"
+							},
+							{
+ 								"01",
+								"iixx"
+							}
+						}
+					},
+					{
+ 						"HTA",
+						new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+						{
+							{
+ 								"up",
+								"UP"
+							},
+							{
+ 								"down",
+								"DOWN"
+							},
+							{
+ 								"query",
+								"QSTN"
+							}
+						}
+					},
+					{
+ 						"DBC",
+						new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+						{
+							{
+ 								"off",
+								"00"
+							},
+							{
+ 								"on",
+								"01"
+							},
+							{
+ 								"up",
+								"UP"
+							},
+							{
+ 								"query",
+								"QSTN"
+							}
+						}
+					},
+					{
+ 						"KYL",
+						new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+						{
+							{
+ 								"off",
+								"00"
+							},
+							{
+ 								"on",
+								"01"
+							},
+							{
+ 								"up",
+								"UP"
+							},
+							{
+ 								"query",
+								"QSTN"
+							}
+						}
+					},
+					{
+ 						"IRL",
 						new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 						{
 							{
@@ -46552,12 +48778,26 @@ when t = C,
 						new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
 						{
 							{
- 								"abc",
-								"abc"
+ 								"abcd",
+								"abcd"
 							},
 							{
  								"query",
 								"QSTN"
+							}
+						}
+					},
+					{
+ 						"PPD",
+						new OrderedDictionary(StructuralComparisons.StructuralEqualityComparer)
+						{
+							{
+ 								"ab",
+								"ab"
+							},
+							{
+ 								"non",
+								"NON"
 							}
 						}
 					},
@@ -48317,12 +50557,12 @@ when t = C,
 
 		public static readonly Dictionary<string,HashSet<string>> ModelSets = new Dictionary<string, HashSet<string>>()
 		{
-			{ "set1",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-7", "DTC-9.1", "DTC-9.4", "DTC-9.8", "DTM-7", "DTR-10.5", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-4.5", "DTR-4.6", "DTR-4.9", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.2", "DTR-5.3", "DTR-5.4", "DTR-5.5", "DTR-5.6", "DTR-5.8", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.2", "DTR-6.3", "DTR-6.4", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.1", "DTR-7.2", "DTR-7.3", "DTR-7.4", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.2", "DTR-8.3", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.1", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "RDC-7", "RDC-7(Ver2.0)", "RDC-7.1", "TX-8270", "TX-8390", "TX-DS787", "TX-DS797", "TX-DS898", "TX-DS989", "TX-NA900", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR900", "TX-NR901", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
-			{ "set2",new HashSet<string>( new string[] { "DRC-R1.1", "DRC-R1.3", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4.2", "DRX-4.3", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7.1", "DRX-7.3", "DRX-R1.1", "DRX-R1.3", "DTM-7", "TX-8270", "TX-8390", "TX-NR474", "TX-NR5100", "TX-NR575", "TX-NR575E", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR6100", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR7100", "TX-NR777", "TX-NR787", "TX-NR797", "TX-RZ3400", "TX-RZ50", "TX-RZ620", "TX-RZ630", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ920" } ) },
-			{ "set3",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-7", "DTC-9.4", "DTC-9.8", "DTM-7", "DTR-10.5", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-4.5", "DTR-4.6", "DTR-4.9", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.4", "DTR-5.5", "DTR-5.6", "DTR-5.8", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.4", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.3", "DTR-7.4", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.3", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "RDC-7.1", "TX-8270", "TX-8390", "TX-NA900", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR900", "TX-NR901", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
+			{ "set1",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-7", "DTC-9.1", "DTC-9.4", "DTC-9.8", "DTM-7", "DTM-7.4", "DTR-10.5", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-4.5", "DTR-4.6", "DTR-4.9", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.2", "DTR-5.3", "DTR-5.4", "DTR-5.5", "DTR-5.6", "DTR-5.8", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.2", "DTR-6.3", "DTR-6.4", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.1", "DTR-7.2", "DTR-7.3", "DTR-7.4", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.2", "DTR-8.3", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.1", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "RDC-7", "RDC-7(Ver2.0)", "RDC-7.1", "TX-8270", "TX-8390", "TX-8470", "TX-DS787", "TX-DS797", "TX-DS898", "TX-DS989", "TX-NA900", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR900", "TX-NR901", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
+			{ "set2",new HashSet<string>( new string[] { "DRC-R1.1", "DRC-R1.3", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4.2", "DRX-4.3", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1.1", "DRX-R1.3", "DTM-7", "DTM-7.4", "TX-8270", "TX-8390", "TX-8470", "TX-NR474", "TX-NR5100", "TX-NR575", "TX-NR575E", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR6100", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR7100", "TX-NR777", "TX-NR787", "TX-NR797", "TX-RZ30", "TX-RZ3400", "TX-RZ50", "TX-RZ620", "TX-RZ630", "TX-RZ70", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ920" } ) },
+			{ "set3",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-7", "DTC-9.4", "DTC-9.8", "DTM-7", "DTM-7.4", "DTR-10.5", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-4.5", "DTR-4.6", "DTR-4.9", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.4", "DTR-5.5", "DTR-5.6", "DTR-5.8", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.4", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.3", "DTR-7.4", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.3", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "RDC-7.1", "TX-8270", "TX-8390", "TX-8470", "TX-NA900", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR900", "TX-NR901", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
 			{ "set4",new HashSet<string>( new string[] {  } ) },
-			{ "set5",new HashSet<string>( new string[] { "DTM-7", "DTR-10.5", "DTR-5.2", "ETX-NA1000", "RDC-7.1", "TX-8270", "TX-8390", "TX-NR1000", "TX-NR5000" } ) },
-			{ "set6",new HashSet<string>( new string[] { "DTM-7", "DTR-10.5", "DTR-5.2", "ETX-NA1000", "RDC-7.1", "TX-8270", "TX-8390", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR905", "TX-NR906" } ) },
+			{ "set5",new HashSet<string>( new string[] { "DTM-7", "DTM-7.4", "DTR-10.5", "DTR-5.2", "ETX-NA1000", "RDC-7.1", "TX-8270", "TX-8390", "TX-8470", "TX-NR1000", "TX-NR5000" } ) },
+			{ "set6",new HashSet<string>( new string[] { "DTM-7", "DTM-7.4", "DTR-10.5", "DTR-5.2", "ETX-NA1000", "RDC-7.1", "TX-8270", "TX-8390", "TX-8470", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR905", "TX-NR906" } ) },
 			{ "set7",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DRX-5", "DTR-30.1", "DTR-30.2", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "TX-NR1010", "TX-NR1030", "TX-NR708", "TX-NR709", "TX-NR717", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR929", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ900", "TX-SR707" } ) },
 			{ "set8",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DTR-30.1", "DTR-30.2", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-60.5", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-80.1", "DTR-80.2", "DTR-80.3", "PR-SC5507", "PR-SC5508", "PR-SC5509", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR708", "TX-NR709", "TX-NR717", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR929", "TX-SR707" } ) },
 			{ "set9",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DTR-30.2", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-60.5", "DTR-60.6", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-80.1", "DTR-80.2", "DTR-80.3", "PR-SC5507", "PR-SC5508", "PR-SC5509", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR708", "TX-NR709", "TX-NR717", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR929", "TX-SR707" } ) },
@@ -48330,316 +50570,337 @@ when t = C,
 			{ "set11",new HashSet<string>( new string[] { "DHC-60.7", "DRX-5", "DTR-50.6", "DTR-50.7", "DTR-60.6", "DTR-60.7", "TX-NR1030", "TX-NR838", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ900" } ) },
 			{ "set12",new HashSet<string>( new string[] { "DTR-60.6", "TX-NR1030" } ) },
 			{ "set13",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DRX-5", "DTR-30.1", "DTR-30.2", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-80.1", "DTR-80.2", "DTR-80.3", "PR-SC5507", "PR-SC5508", "PR-SC5509", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR708", "TX-NR709", "TX-NR717", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR929", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ900", "TX-SR707" } ) },
-			{ "set14",new HashSet<string>( new string[] { "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2.4", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTM-7", "PR-RZ5100", "TX-8270", "TX-8390", "TX-NR5100", "TX-NR6050", "TX-NR6100", "TX-NR7100", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ920" } ) },
+			{ "set14",new HashSet<string>( new string[] { "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2.4", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTM-7", "DTM-7.4", "PR-RZ5100", "TX-8270", "TX-8390", "TX-8470", "TX-NR5100", "TX-NR6050", "TX-NR6100", "TX-NR7100", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ920" } ) },
 			{ "set15",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DTC-7", "DTC-9.1", "DTC-9.4", "DTC-9.8", "DTR-10.5", "DTR-20.2", "DTR-20.3", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-4.5", "DTR-4.6", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.3", "DTR-5.4", "DTR-5.5", "DTR-5.6", "DTR-5.8", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.3", "DTR-6.4", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.1", "DTR-7.2", "DTR-7.3", "DTR-7.4", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.2", "DTR-8.3", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.1", "DTR-9.9", "DTX-5.8", "DTX-7", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "HT-R993", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "RDC-7", "RDC-7(Ver2.0)", "RDC-7.1", "TX-DS787", "TX-DS797", "TX-DS898", "TX-DS989", "TX-NA900", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR474", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR585", "TX-NR595", "TX-NR609", "TX-NR616", "TX-NR616AE", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR900", "TX-NR901", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ800", "TX-RZ900", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
 			{ "set16",new HashSet<string>( new string[] { "DTR-20.1", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-4.9", "DTR-5.2", "DTR-5.9", "DTR-6.2", "DTX-5.9", "HT-R693", "HT-RC550", "HT-RC560", "HT-RC660", "TX-NR414", "TX-NR509", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR579", "TX-NR626", "TX-NR636", "TX-NR646" } ) },
-			{ "set17",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2.4", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-80.1", "DTR-80.2", "DTR-80.3", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR5100", "TX-NR6050", "TX-NR6100", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SR707" } ) },
+			{ "set17",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2.4", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTM-7.4", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-80.1", "DTR-80.2", "DTR-80.3", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "TX-8470", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR5100", "TX-NR6050", "TX-NR6100", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SR707" } ) },
 			{ "set18",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-80.1", "DTR-80.2", "DTR-80.3", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR579", "TX-NR609", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR708", "TX-NR709", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR929", "TX-RZ800", "TX-RZ900", "TX-SR707" } ) },
-			{ "set19",new HashSet<string>( new string[] { "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTM-7", "PR-RZ5100", "TX-8270", "TX-8390", "TX-NR474", "TX-NR5100", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR6100", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR7100", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ920" } ) },
-			{ "set20",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTM-7", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-80.1", "DTR-80.2", "DTR-80.3", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "TX-8270", "TX-8390", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SR707" } ) },
+			{ "set19",new HashSet<string>( new string[] { "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTM-7", "DTM-7.4", "PR-RZ5100", "TX-8270", "TX-8390", "TX-8470", "TX-NR474", "TX-NR5100", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR6100", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR7100", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ920" } ) },
+			{ "set20",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTM-7", "DTM-7.4", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-80.1", "DTR-80.2", "DTR-80.3", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "TX-8270", "TX-8390", "TX-8470", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SR707" } ) },
 			{ "set21",new HashSet<string>( new string[] { "DHC-80.1", "DHC-80.2", "DHC-80.3", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-80.1", "DTR-80.2", "DTR-80.3", "PR-SC5507", "PR-SC5508", "PR-SC5509", "TX-NR1007", "TX-NR1010", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010" } ) },
 			{ "set22",new HashSet<string>( new string[] { "DHC-60.5", "DHC-60.7", "DHC-80.6", "DTR-20.7", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.6", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-SC5530", "TX-NR1030", "TX-NR3030", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR828", "TX-NR838", "TX-NR929", "TX-RZ800", "TX-RZ900" } ) },
-			{ "set23",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-7", "DTC-9.4", "DTC-9.8", "DTM-7", "DTR-10.5", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-4.5", "DTR-4.6", "DTR-4.9", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.3", "DTR-5.4", "DTR-5.5", "DTR-5.6", "DTR-5.8", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.3", "DTR-6.4", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.2", "DTR-7.3", "DTR-7.4", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.2", "DTR-8.3", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "RDC-7.1", "TX-8270", "TX-8390", "TX-DS797", "TX-DS898", "TX-NA900", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR900", "TX-NR901", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
-			{ "set24",new HashSet<string>( new string[] { "DHC-60.5", "DHC-60.7", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTM-7", "DTR-20.4", "DTR-20.7", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.4", "DTR-70.6", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5530", "TX-8270", "TX-8390", "TX-NR1010", "TX-NR1030", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5010", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
-			{ "set25",new HashSet<string>( new string[] { "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2.4", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "PR-RZ5100", "TX-NR5100", "TX-NR6050", "TX-NR6100", "TX-NR7100", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ920" } ) },
-			{ "set26",new HashSet<string>( new string[] { "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DTM-7", "TX-8270", "TX-8390", "TX-NR474", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR585", "TX-NR595", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-RZ610", "TX-RZ620", "TX-RZ630" } ) },
-			{ "set27",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DTC-9.8", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-4.9", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.8", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR579", "TX-NR609", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR708", "TX-NR709", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ800", "TX-RZ900", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
-			{ "set28",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-9.8", "DTM-7", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-4.9", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.8", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "TX-8270", "TX-8390", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
-			{ "set29",new HashSet<string>( new string[] { "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "PR-RZ5100", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ920" } ) },
-			{ "set30",new HashSet<string>( new string[] { "DHC-80.6", "DTR-60.6", "DTR-70.6", "PR-SC5530", "TX-NR1030", "TX-NR3030" } ) },
-			{ "set31",new HashSet<string>( new string[] { "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTR-60.6", "DTR-70.6", "PR-RZ5100", "PR-SC5530", "TX-NR1030", "TX-NR3030", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ920" } ) },
-			{ "set32",new HashSet<string>( new string[] { "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "TX-NR474", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR585", "TX-NR595", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-RZ610", "TX-RZ620", "TX-RZ630" } ) },
-			{ "set33",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-4.9", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-5.9", "DTX-8.9", "DTX-9.9", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC886", "TX-NA906", "TX-NA906X", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR579", "TX-NR609", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR708", "TX-NR709", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR906", "TX-NR929", "TX-RZ800", "TX-RZ900", "TX-SA706", "TX-SA706X", "TX-SA806", "TX-SA806X", "TX-SA876", "TX-SR706", "TX-SR707", "TX-SR806", "TX-SR876" } ) },
-			{ "set34",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-4.9", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-5.9", "DTX-8.9", "DTX-9.9", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC886", "TX-NA906", "TX-NA906X", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA706", "TX-SA706X", "TX-SA806", "TX-SA806X", "TX-SA876", "TX-SR706", "TX-SR707", "TX-SR806", "TX-SR876" } ) },
-			{ "set35",new HashSet<string>( new string[] { "DRC-R1.3", "DRX-2.3", "DRX-2.4", "DRX-3.3", "DRX-3.4", "DRX-4.3", "DRX-5.3", "DRX-5.4", "DRX-7.3", "DRX-R1.3", "TX-8390", "TX-NR5100", "TX-NR595", "TX-NR6050", "TX-NR6100", "TX-NR696", "TX-NR7100", "TX-NR797", "TX-RZ3400", "TX-RZ50", "TX-RZ740", "TX-RZ840" } ) },
-			{ "set36",new HashSet<string>( new string[] { "DTC-9.1", "DTR-7.1", "DTR-9.1", "RDC-7", "RDC-7(Ver2.0)", "TX-DS787", "TX-DS989" } ) },
-			{ "set37",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-7", "DTC-9.4", "DTC-9.8", "DTM-7", "DTR-10.5", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-4.5", "DTR-4.6", "DTR-4.9", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.2", "DTR-5.3", "DTR-5.4", "DTR-5.5", "DTR-5.6", "DTR-5.8", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.2", "DTR-6.3", "DTR-6.4", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.2", "DTR-7.3", "DTR-7.4", "DTR-7.6", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.2", "DTR-8.3", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "RDC-7.1", "TX-8270", "TX-8390", "TX-DS797", "TX-DS898", "TX-NA900", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR900", "TX-NR901", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR803", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
-			{ "set38",new HashSet<string>( new string[] { "DTC-7", "DTC-9.4", "DTR-10.5", "DTR-20.1", "DTR-20.2", "DTR-30.1", "DTR-30.2", "DTR-4.5", "DTR-4.6", "DTR-4.9", "DTR-5.2", "DTR-5.3", "DTR-5.4", "DTR-5.5", "DTR-5.6", "DTR-5.8", "DTR-5.9", "DTR-6.2", "DTR-6.3", "DTR-6.4", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-7.2", "DTR-7.3", "DTR-7.4", "DTR-7.6", "DTR-8.2", "DTR-8.3", "DTR-8.4", "DTX-5.8", "DTX-5.9", "DTX-7", "ETX-NA1000", "RDC-7.1", "TX-DS797", "TX-DS898", "TX-NA900", "TX-NR1000", "TX-NR5000", "TX-NR900", "TX-NR901", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR803" } ) },
-			{ "set39",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-9.1", "DTC-9.8", "DTM-7", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-4.9", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.8", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.1", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.1", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "RDC-7", "RDC-7(Ver2.0)", "TX-8270", "TX-8390", "TX-DS787", "TX-DS989", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
-			{ "set40",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTM-7", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-80.1", "DTR-80.2", "DTR-80.3", "HT-R693", "HT-R993", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "TX-8270", "TX-8390", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR474", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SR707" } ) },
-			{ "set41",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-7", "DTC-9.4", "DTC-9.8", "DTM-7", "DTR-10.5", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-4.5", "DTR-4.6", "DTR-4.9", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.2", "DTR-5.3", "DTR-5.4", "DTR-5.5", "DTR-5.6", "DTR-5.8", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.2", "DTR-6.3", "DTR-6.4", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.2", "DTR-7.3", "DTR-7.4", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.2", "DTR-8.3", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "RDC-7.1", "TX-8270", "TX-8390", "TX-DS797", "TX-DS898", "TX-NA900", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR900", "TX-NR901", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
-			{ "set42",new HashSet<string>( new string[] { "DTC-9.1", "DTR-10.5", "DTR-7.1", "DTR-9.1", "ETX-NA1000", "RDC-7", "RDC-7(Ver2.0)", "RDC-7.1", "TX-DS787", "TX-DS989", "TX-NR1000", "TX-NR5000" } ) },
-			{ "set43",new HashSet<string>( new string[] { "DTR-4.6", "DTR-5.6", "DTR-6.6", "DTR-7.6", "DTR-7.7", "DTX-7.7", "PR-SC5507", "PR-SC5508", "PR-SC5509", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR609", "TX-NR616", "TX-NR616AE", "TX-NR708", "TX-NR709", "TX-NR717", "TX-NR727", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR905", "TX-NR906", "TX-NR929", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
-			{ "set44",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-80.1", "DHC-80.2", "DTR-20.1", "DTR-20.2", "DTR-30.1", "DTR-30.2", "DTR-4.9", "DTR-40.1", "DTR-40.2", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-6.9", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-80.1", "DTR-80.2", "DTX-5.9", "PR-SC5507", "PR-SC5508", "TX-NR1007", "TX-NR1008", "TX-NR3007", "TX-NR3008", "TX-NR5007", "TX-NR5008", "TX-NR708", "TX-NR807", "TX-NR808", "TX-SA706", "TX-SA706X", "TX-SA806", "TX-SR706", "TX-SR707", "TX-SR806" } ) },
-			{ "set45",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-80.1", "DHC-80.2", "DTR-20.2", "DTR-30.1", "DTR-30.2", "DTR-40.1", "DTR-40.2", "DTR-50.1", "DTR-50.2", "DTR-6.9", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-80.1", "DTR-80.2", "PR-SC5507", "PR-SC5508", "TX-NR1007", "TX-NR1008", "TX-NR3007", "TX-NR3008", "TX-NR5007", "TX-NR5008", "TX-NR708", "TX-NR807", "TX-NR808", "TX-SA706", "TX-SA706X", "TX-SA806", "TX-SR706", "TX-SR707", "TX-SR806" } ) },
-			{ "set46",new HashSet<string>( new string[] { "DHC-40.2", "DHC-60.5", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-60.5", "DTR-60.6", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-80.2", "DTR-80.3", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-SC5508", "PR-SC5509", "PR-SC5530", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR579", "TX-NR609", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR708", "TX-NR709", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR929" } ) },
-			{ "set47",new HashSet<string>( new string[] { "DHC-60.5", "DHC-80.6", "DTR-20.4", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-60.5", "DTR-60.6", "DTR-70.4", "DTR-70.6", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-SC5530", "TX-NR1010", "TX-NR1030", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR5010", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR929" } ) },
-			{ "set48",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-9.8", "DTM-7", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-4.6", "DTR-4.9", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.6", "DTR-5.8", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "TX-8270", "TX-8390", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA805", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR703", "TX-SR707", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR875", "TX-SR876" } ) },
-			{ "set49",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-9.8", "DTM-7", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-4.6", "DTR-4.9", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.6", "DTR-5.8", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "HT-R693", "HT-R993", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "TX-8270", "TX-8390", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR474", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
-			{ "set50",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTM-7", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-80.1", "DTR-80.2", "DTR-80.3", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "TX-8270", "TX-8390", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SR707" } ) },
-			{ "set51",new HashSet<string>( new string[] { "DRX-2.4", "DRX-3.4", "DRX-5.4", "TX-NR5100", "TX-NR6050", "TX-NR6100", "TX-NR7100", "TX-RZ50" } ) },
-			{ "set52",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DTC-7", "DTC-9.1", "DTC-9.4", "DTC-9.8", "DTR-10.5", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.6", "DTR-4.5", "DTR-4.6", "DTR-4.9", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-5.2", "DTR-5.3", "DTR-5.4", "DTR-5.5", "DTR-5.6", "DTR-5.8", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-6.2", "DTR-6.3", "DTR-6.4", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-7.1", "DTR-7.2", "DTR-7.3", "DTR-7.4", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.2", "DTR-8.3", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.1", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "HT-R693", "HT-R993", "HT-RC660", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "RDC-7", "RDC-7(Ver2.0)", "RDC-7.1", "TX-DS787", "TX-DS797", "TX-DS898", "TX-DS989", "TX-NA900", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR535", "TX-NR579", "TX-NR609", "TX-NR616", "TX-NR616AE", "TX-NR636", "TX-NR708", "TX-NR709", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR900", "TX-NR901", "TX-NR905", "TX-NR906", "TX-NR929", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
-			{ "set53",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-7", "DTC-9.1", "DTC-9.4", "DTC-9.8", "DTR-10.5", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-4.6", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.3", "DTR-5.4", "DTR-5.5", "DTR-5.6", "DTR-5.8", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.2", "DTR-6.3", "DTR-6.4", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.1", "DTR-7.2", "DTR-7.3", "DTR-7.4", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.2", "DTR-8.3", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.1", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "RDC-7", "RDC-7(Ver2.0)", "RDC-7.1", "TX-DS787", "TX-DS797", "TX-DS898", "TX-DS989", "TX-NA900", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR900", "TX-NR901", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
-			{ "set54",new HashSet<string>( new string[] { "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-9.9", "DTC-7", "DTC-9.1", "DTC-9.4", "DTC-9.8", "DTR-10.5", "DTR-50.4", "DTR-50.5", "DTR-50.7", "DTR-60.5", "DTR-60.7", "DTR-7.1", "DTR-7.2", "DTR-7.3", "DTR-7.4", "DTR-7.8", "DTR-70.1", "DTR-70.4", "DTR-8.2", "DTR-8.3", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-9.1", "DTR-9.9", "DTX-7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "PR-SC5507", "PR-SC885", "PR-SC886", "RDC-7", "RDC-7(Ver2.0)", "RDC-7.1", "TX-DS787", "TX-DS797", "TX-DS898", "TX-DS989", "TX-NA900", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1010", "TX-NR3007", "TX-NR3010", "TX-NR5000", "TX-NR5007", "TX-NR5010", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR900", "TX-NR901", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ800", "TX-RZ900", "TX-SA805", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR805", "TX-SR875", "TX-SR876" } ) },
-			{ "set55",new HashSet<string>( new string[] { "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTM-7", "DTR-10.5", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-80.2", "DTR-80.3", "ETX-NA1000", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5508", "PR-SC5509", "PR-SC5530", "RDC-7.1", "TX-8270", "TX-8390", "TX-NR1000", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5000", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
-			{ "set56",new HashSet<string>( new string[] { "DTR-10.5", "ETX-NA1000", "RDC-7.1", "TX-NR1000", "TX-NR5000" } ) },
-			{ "set57",new HashSet<string>( new string[] { "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-80.2", "DTR-80.3", "PR-SC5508", "PR-SC5509", "TX-NR515", "TX-NR515AE", "TX-NR616", "TX-NR616AE" } ) },
-			{ "set58",new HashSet<string>( new string[] { "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-80.2", "DTR-80.3", "PR-SC5508", "PR-SC5509" } ) },
-			{ "set59",new HashSet<string>( new string[] { "DHC-60.7", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTR-20.7", "DTR-30.7", "DTR-40.7", "DTR-50.7", "DTR-60.7", "PR-RZ5100", "TX-NR474", "TX-NR5100", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR6100", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR7100", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
-			{ "set60",new HashSet<string>( new string[] { "DHC-40.1", "DHC-80.1", "DHC-80.2", "DHC-9.9", "DTC-7", "DTC-9.1", "DTC-9.4", "DTC-9.8", "DTM-7", "DTR-10.5", "DTR-20.1", "DTR-30.1", "DTR-4.5", "DTR-4.6", "DTR-4.9", "DTR-40.1", "DTR-5.2", "DTR-5.3", "DTR-5.4", "DTR-5.5", "DTR-5.6", "DTR-5.8", "DTR-5.9", "DTR-50.1", "DTR-6.2", "DTR-6.3", "DTR-6.4", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-7.1", "DTR-7.2", "DTR-7.3", "DTR-7.4", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-8.2", "DTR-8.3", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-9.1", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "PR-SC5507", "PR-SC5508", "PR-SC885", "PR-SC886", "RDC-7", "RDC-7(Ver2.0)", "RDC-7.1", "TX-8270", "TX-8390", "TX-DS787", "TX-DS797", "TX-DS898", "TX-DS989", "TX-NA900", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR3007", "TX-NR3008", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR807", "TX-NR900", "TX-NR901", "TX-NR905", "TX-NR906", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
-			{ "set61",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-7", "DTC-9.1", "DTC-9.4", "DTC-9.8", "DTM-7", "DTR-10.5", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-4.6", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.2", "DTR-5.3", "DTR-5.6", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.2", "DTR-6.3", "DTR-6.4", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.1", "DTR-7.2", "DTR-7.3", "DTR-7.4", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.2", "DTR-8.3", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.1", "DTR-9.9", "DTX-7", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "HT-R693", "HT-R993", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "RDC-7", "RDC-7(Ver2.0)", "RDC-7.1", "TX-8270", "TX-8390", "TX-DS787", "TX-DS797", "TX-DS898", "TX-DS989", "TX-NA900", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR6100", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR900", "TX-NR901", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
-			{ "set62",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DTC-7", "DTC-9.4", "DTR-10.5", "DTR-20.3", "DTR-20.4", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-60.5", "DTR-7.3", "DTR-7.4", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-8.3", "DTR-8.4", "DTR-8.8", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-7", "DTX-8.8", "DTX-9.9", "ETX-NA1000", "HT-RC550", "HT-RC560", "PR-SC5507", "PR-SC5508", "PR-SC5509", "RDC-7.1", "TX-NA900", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR414", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR579", "TX-NR609", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR708", "TX-NR709", "TX-NR717", "TX-NR727", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR900", "TX-NR901", "TX-NR905", "TX-NR906", "TX-NR929" } ) },
-			{ "set63",new HashSet<string>( new string[] { "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTM-7", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.8", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-8.8", "DTX-9.9", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "TX-8270", "TX-8390", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
-			{ "set64",new HashSet<string>( new string[] { "DHC-80.1", "DHC-80.2", "DHC-80.3", "DTM-7", "DTR-20.4", "DTR-30.4", "DTR-40.4", "DTR-50.3", "DTR-50.4", "DTR-70.3", "DTR-70.4", "DTR-80.1", "DTR-80.2", "DTR-80.3", "HT-RC550", "PR-SC5507", "PR-SC5508", "PR-SC5509", "TX-8270", "TX-8390", "TX-NR1009", "TX-NR1010", "TX-NR3009", "TX-NR3010", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR616", "TX-NR616AE", "TX-NR717", "TX-NR809", "TX-NR818", "TX-NR818AE" } ) },
-			{ "set65",new HashSet<string>( new string[] { "DHC-60.5", "DHC-60.7", "DHC-80.3", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTM-7", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-80.3", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5509", "PR-SC5530", "TX-8270", "TX-8390", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
-			{ "set66",new HashSet<string>( new string[] { "TX-NR515", "TX-NR515AE", "TX-NR616", "TX-NR616AE", "TX-NR818", "TX-NR818AE" } ) },
-			{ "set67",new HashSet<string>( new string[] { "DHC-60.5", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4.3", "DRX-5.3", "DRX-5.4", "DRX-7.3", "DRX-R1.3", "DTM-7", "DTR-20.7", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.5", "DTR-50.5", "DTR-60.5", "HT-R693", "HT-R993", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5530", "TX-8270", "TX-8390", "TX-NR1030", "TX-NR3030", "TX-NR474", "TX-NR5100", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR6100", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR7100", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR828", "TX-NR838", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
-			{ "set68",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-80.1", "DTR-80.2", "DTR-80.3", "PR-SC5507", "PR-SC5508", "PR-SC5509", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR509", "TX-NR579", "TX-NR609", "TX-NR708", "TX-NR709", "TX-NR807", "TX-NR808", "TX-NR809", "TX-SR707" } ) },
-			{ "set69",new HashSet<string>( new string[] { "DTR-4.5", "DTR-4.6", "DTR-4.9", "DTR-5.5", "DTR-5.6", "DTR-5.8", "DTR-5.9", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-7.6", "DTR-7.7", "DTR-7.9", "DTX-5.8", "DTX-5.9", "DTX-7.7", "TX-SA706", "TX-SA706X", "TX-SA806", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR803", "TX-SR804", "TX-SR806" } ) },
-			{ "set70",new HashSet<string>( new string[] { "DHC-9.9", "DTC-9.8", "DTR-4.6", "DTR-5.6", "DTR-5.8", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-8.8", "DTR-8.9", "DTR-9.9", "DTX-5.8", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "PR-SC885", "PR-SC886", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR905", "TX-NR906", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
-			{ "set71",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-80.1", "DHC-80.2", "DHC-9.9", "DTC-9.8", "DTR-30.1", "DTR-30.2", "DTR-40.1", "DTR-40.2", "DTR-5.8", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-6.8", "DTR-6.9", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "PR-SC5507", "PR-SC5508", "PR-SC885", "PR-SC886", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1007", "TX-NR1008", "TX-NR3007", "TX-NR3008", "TX-NR5007", "TX-NR5008", "TX-NR708", "TX-NR807", "TX-NR808", "TX-NR905", "TX-NR906", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
-			{ "set72",new HashSet<string>( new string[] { "DRC-R1.3", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4.2", "DRX-4.3", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7.3", "DRX-R1.3", "DTR-70.4", "TX-8270", "TX-8390", "TX-NR1010", "TX-NR3010", "TX-NR474", "TX-NR5010", "TX-NR575", "TX-NR575E", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR6100", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR7100", "TX-NR777", "TX-NR787", "TX-NR797", "TX-RZ3400", "TX-RZ50", "TX-RZ620", "TX-RZ630", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ820", "TX-RZ830", "TX-RZ840" } ) },
-			{ "set73",new HashSet<string>( new string[] { "DTC-7", "DTC-9.1", "DTC-9.4", "DTR-10.5", "DTR-4.5", "DTR-5.4", "DTR-5.5", "DTR-6.2", "DTR-6.3", "DTR-6.4", "DTR-6.5", "DTR-7.1", "DTR-7.2", "DTR-7.3", "DTR-7.4", "DTR-8.2", "DTR-8.3", "DTR-8.4", "DTR-9.1", "DTX-7", "ETX-NA1000", "RDC-7", "RDC-7(Ver2.0)", "RDC-7.1", "TX-DS787", "TX-DS797", "TX-DS898", "TX-DS989", "TX-NA900", "TX-NR1000", "TX-NR5000", "TX-NR900", "TX-NR901", "TX-SR702" } ) },
-			{ "set74",new HashSet<string>( new string[] { "DTC-7", "DTC-9.1", "DTC-9.4", "DTR-10.5", "DTR-5.4", "DTR-5.5", "DTR-6.2", "DTR-6.3", "DTR-6.4", "DTR-6.5", "DTR-7.1", "DTR-7.2", "DTR-7.3", "DTR-7.4", "DTR-8.2", "DTR-8.3", "DTR-8.4", "DTR-9.1", "DTX-7", "ETX-NA1000", "RDC-7", "RDC-7(Ver2.0)", "RDC-7.1", "TX-DS787", "TX-DS797", "TX-DS898", "TX-DS989", "TX-NA900", "TX-NR1000", "TX-NR5000", "TX-NR900", "TX-NR901", "TX-SR702" } ) },
-			{ "set75",new HashSet<string>( new string[] { "DTC-7", "DTC-9.1", "DTC-9.4", "DTR-10.5", "DTR-7.1", "DTR-7.2", "DTR-7.3", "DTR-7.4", "DTR-8.2", "DTR-8.3", "DTR-8.4", "DTR-9.1", "DTX-7", "ETX-NA1000", "RDC-7", "RDC-7(Ver2.0)", "RDC-7.1", "TX-DS787", "TX-DS797", "TX-DS898", "TX-DS989", "TX-NA900", "TX-NR1000", "TX-NR5000", "TX-NR900", "TX-NR901" } ) },
-			{ "set76",new HashSet<string>( new string[] { "DTC-7", "DTC-9.1", "DTC-9.4", "DTR-10.5", "DTR-6.2", "DTR-6.3", "DTR-6.4", "DTR-6.5", "DTR-7.1", "DTR-7.2", "DTR-7.3", "DTR-7.4", "DTR-8.2", "DTR-8.3", "DTR-8.4", "DTR-9.1", "DTX-7", "ETX-NA1000", "RDC-7", "RDC-7(Ver2.0)", "RDC-7.1", "TX-DS787", "TX-DS797", "TX-DS898", "TX-DS989", "TX-NA900", "TX-NR1000", "TX-NR5000", "TX-NR900", "TX-NR901", "TX-SR702" } ) },
-			{ "set77",new HashSet<string>( new string[] { "DTC-7", "DTC-9.4", "DTR-10.5", "DTR-4.5", "DTR-5.4", "DTR-5.5", "DTR-6.4", "DTR-6.5", "DTR-7.3", "DTR-7.4", "DTR-8.3", "DTR-8.4", "DTX-7", "ETX-NA1000", "RDC-7.1", "TX-NA900", "TX-NR1000", "TX-NR5000", "TX-NR900", "TX-NR901", "TX-SR702" } ) },
-			{ "set78",new HashSet<string>( new string[] { "DTC-7", "DTC-9.4", "DTR-10.5", "DTR-7.3", "DTR-7.4", "DTR-8.3", "DTR-8.4", "DTX-7", "ETX-NA1000", "RDC-7.1", "TX-NA900", "TX-NR1000", "TX-NR5000", "TX-NR900", "TX-NR901" } ) },
-			{ "set79",new HashSet<string>( new string[] { "DTR-10.5", "DTR-4.5", "DTR-5.5", "DTR-6.5", "ETX-NA1000", "RDC-7.1", "TX-NR1000", "TX-NR5000", "TX-SR702" } ) },
-			{ "set80",new HashSet<string>( new string[] { "DHC-40.1", "DHC-80.1", "DHC-9.9", "DTC-7", "DTC-9.4", "DTC-9.8", "DTR-10.5", "DTR-20.1", "DTR-30.1", "DTR-40.1", "DTR-5.3", "DTR-5.4", "DTR-50.1", "DTR-6.3", "DTR-6.4", "DTR-6.9", "DTR-7.2", "DTR-7.3", "DTR-7.4", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-8.2", "DTR-8.3", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-9.9", "DTX-7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "PR-SC5507", "PR-SC885", "PR-SC886", "RDC-7.1", "TX-DS797", "TX-DS898", "TX-NA900", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR3007", "TX-NR5000", "TX-NR5007", "TX-NR807", "TX-NR900", "TX-NR901", "TX-NR905", "TX-NR906", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR706", "TX-SR707", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
-			{ "set81",new HashSet<string>( new string[] { "DHC-40.2", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-9.9", "DTC-7", "DTC-9.4", "DTC-9.8", "DTR-10.5", "DTR-40.2", "DTR-40.3", "DTR-5.3", "DTR-5.4", "DTR-50.2", "DTR-50.3", "DTR-6.3", "DTR-6.4", "DTR-7.2", "DTR-7.3", "DTR-7.4", "DTR-7.8", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-8.2", "DTR-8.3", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC885", "PR-SC886", "RDC-7.1", "TX-DS797", "TX-DS898", "TX-NA900", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1008", "TX-NR1009", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR708", "TX-NR709", "TX-NR808", "TX-NR809", "TX-NR900", "TX-NR901", "TX-NR905", "TX-NR906", "TX-SA805", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR805", "TX-SR875", "TX-SR876" } ) },
-			{ "set82",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-7", "DTC-9.4", "DTC-9.8", "DTM-7", "DTR-10.5", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.3", "DTR-5.4", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.3", "DTR-6.4", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.2", "DTR-7.3", "DTR-7.4", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.2", "DTR-8.3", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "RDC-7.1", "TX-8270", "TX-8390", "TX-DS797", "TX-DS898", "TX-NA900", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR900", "TX-NR901", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR706", "TX-SR707", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
-			{ "set83",new HashSet<string>( new string[] { "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-9.8", "DTM-7", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.8", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.8", "DTR-8.9", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "TX-8270", "TX-8390", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA805", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR805", "TX-SR875", "TX-SR876" } ) },
-			{ "set84",new HashSet<string>( new string[] { "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530" } ) },
-			{ "set85",new HashSet<string>( new string[] { "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTM-7", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-80.2", "DTR-80.3", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5508", "PR-SC5509", "PR-SC5530", "TX-8270", "TX-8390", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
-			{ "set86",new HashSet<string>( new string[] { "DHC-60.5", "DHC-60.7", "DHC-80.6", "PR-SC5530" } ) },
-			{ "set87",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-7", "DTC-9.4", "DTC-9.8", "DTM-7", "DTR-10.5", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.3", "DTR-5.4", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.3", "DTR-6.4", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.2", "DTR-7.3", "DTR-7.4", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.2", "DTR-8.3", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "RDC-7.1", "TX-8270", "TX-8390", "TX-DS797", "TX-DS898", "TX-NA900", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR900", "TX-NR901", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR706", "TX-SR707", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
-			{ "set88",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-9.9", "DRC-R1.3", "DRX-2.3", "DRX-2.4", "DRX-3.3", "DRX-3.4", "DRX-4.3", "DRX-5.3", "DRX-5.4", "DRX-7.3", "DRX-R1.3", "DTC-9.8", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-4.5", "DTR-4.6", "DTR-4.9", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-5.5", "DTR-5.6", "DTR-5.8", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-7.4", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC885", "PR-SC886", "TX-NR7100", "TX-NR797", "TX-RZ3400", "TX-RZ50", "TX-RZ740", "TX-RZ840", "TX-SR703", "TX-SR803" } ) },
-			{ "set89",new HashSet<string>( new string[] { "DHC-60.7", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRX-2", "DRX-2.1", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-4", "DRX-4.2", "DRX-5", "DRX-5.2", "DRX-7", "DRX-7.1", "DRX-R1", "DRX-R1.1", "DTM-7", "DTR-20.7", "DTR-30.6", "DTR-30.7", "DTR-40.6", "DTR-40.7", "DTR-50.6", "DTR-50.7", "DTR-60.6", "DTR-60.7", "DTR-70.6", "PR-RZ5100", "PR-SC5530", "TX-NR757", "TX-NR777", "TX-NR787", "TX-RZ1100", "TX-RZ3100", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ920" } ) },
-			{ "set90",new HashSet<string>( new string[] { "DHC-60.5", "DHC-60.7", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTM-7", "DTR-20.4", "DTR-20.7", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.4", "DTR-70.6", "PR-RZ5100", "PR-SC5530", "TX-NR7100", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ920" } ) },
-			{ "set91",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-9.9", "DRC-R1.3", "DRX-2.3", "DRX-2.4", "DRX-3.3", "DRX-3.4", "DRX-4.3", "DRX-5.3", "DRX-5.4", "DRX-7.3", "DRX-R1.3", "DTC-9.8", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-4.5", "DTR-4.6", "DTR-4.9", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-5.5", "DTR-5.6", "DTR-5.8", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-7.4", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC885", "PR-SC886", "TX-SR703", "TX-SR803" } ) },
-			{ "set92",new HashSet<string>( new string[] { "DHC-60.7", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRX-2", "DRX-2.1", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-4", "DRX-4.2", "DRX-5", "DRX-5.2", "DRX-7", "DRX-7.1", "DRX-R1", "DRX-R1.1", "DTM-7", "DTR-20.7", "DTR-30.6", "DTR-30.7", "DTR-40.6", "DTR-40.7", "DTR-50.6", "DTR-50.7", "DTR-60.6", "DTR-60.7", "DTR-70.6", "PR-SC5530", "TX-RZ920" } ) },
-			{ "set93",new HashSet<string>( new string[] { "DHC-60.5", "DHC-60.7", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTM-7", "DTR-20.4", "DTR-20.7", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.4", "DTR-70.6", "PR-SC5530", "TX-RZ920" } ) },
-			{ "set94",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-9.9", "DRC-R1.3", "DRX-2.3", "DRX-2.4", "DRX-3.3", "DRX-3.4", "DRX-4.3", "DRX-5.3", "DRX-5.4", "DRX-R1.3", "DTC-9.8", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-4.5", "DTR-4.6", "DTR-4.9", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-5.5", "DTR-5.6", "DTR-5.8", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC885", "PR-SC886", "TX-SR703", "TX-SR803" } ) },
-			{ "set95",new HashSet<string>( new string[] { "DHC-60.7", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRX-2", "DRX-2.1", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-4", "DRX-4.2", "DRX-5", "DRX-5.2", "DRX-7", "DRX-7.1", "DRX-R1", "DRX-R1.1", "DTR-20.7", "DTR-30.6", "DTR-30.7", "DTR-40.6", "DTR-40.7", "DTR-50.6", "DTR-50.7", "DTR-60.6", "DTR-60.7", "DTR-70.6", "PR-SC5530" } ) },
-			{ "set96",new HashSet<string>( new string[] { "DHC-60.5", "DHC-60.7", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTR-20.4", "DTR-20.7", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.4", "DTR-70.6", "PR-SC5530" } ) },
-			{ "set97",new HashSet<string>( new string[] { "DTR-4.6", "DTR-5.6", "DTR-6.6", "DTR-7.6", "TX-SR703", "TX-SR803" } ) },
-			{ "set98",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-9.9", "DTC-9.8", "DTR-5.8", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-6.8", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-5.8", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC885", "PR-SC886", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1007", "TX-NR1008", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR807", "TX-NR808", "TX-NR905", "TX-NR906", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR705", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
-			{ "set99",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-9.8", "DTR-30.4", "DTR-30.6", "DTR-30.7", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.8", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.8", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-5.8", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "HT-R693", "HT-R993", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "TX-8390", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR595", "TX-NR6050", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR705", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
-			{ "set100",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-9.8", "DTR-30.4", "DTR-30.6", "DTR-30.7", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-8.8", "DTX-8.9", "DTX-9.9", "HT-R693", "HT-R993", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "TX-8390", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR595", "TX-NR6050", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA806X", "TX-SA876", "TX-SR876" } ) },
-			{ "set101",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTR-30.4", "DTR-30.6", "DTR-30.7", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-80.1", "DTR-80.2", "DTR-80.3", "HT-R693", "HT-R993", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "TX-8390", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR595", "TX-NR6050", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
-			{ "set102",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DTR-40.2", "DTR-40.3", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-80.1", "DTR-80.2", "DTR-80.3", "PR-SC5507", "PR-SC5508", "PR-SC5509", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR709", "TX-NR808", "TX-NR809" } ) },
-			{ "set103",new HashSet<string>( new string[] { "DHC-60.5", "DHC-60.7", "DHC-80.6", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.6", "HT-R693", "HT-R993", "HT-RC560", "HT-RC660", "PR-SC5530", "TX-NR1030", "TX-NR3030", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR828", "TX-NR838", "TX-NR929", "TX-RZ800", "TX-RZ900" } ) },
-			{ "set104",new HashSet<string>( new string[] { "DHC-60.5", "DHC-60.7", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTM-7", "DTR-20.7", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.6", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5530", "TX-8270", "TX-8390", "TX-NR1030", "TX-NR3030", "TX-NR474", "TX-NR5100", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR6100", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR7100", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR828", "TX-NR838", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
-			{ "set105",new HashSet<string>( new string[] { "DHC-60.7", "DHC-80.6", "DTR-50.7", "DTR-60.6", "DTR-60.7", "DTR-70.6", "PR-SC5530", "TX-NR1030", "TX-NR3030", "TX-RZ800", "TX-RZ900" } ) },
-			{ "set106",new HashSet<string>( new string[] { "DHC-60.7", "DTR-50.7", "DTR-60.7", "TX-RZ800", "TX-RZ900" } ) },
-			{ "set107",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRX-2", "DRX-3", "DRX-4", "DRX-5", "DRX-7", "DRX-R1", "DTC-9.8", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-5.9", "DTX-8.8", "DTX-8.9", "DTX-9.9", "HT-R693", "HT-R993", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR515", "TX-NR515AE", "TX-NR555", "TX-NR579", "TX-NR609", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR656", "TX-NR708", "TX-NR709", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR757", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ610", "TX-RZ710", "TX-RZ810", "TX-SA706", "TX-SA706X", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR706", "TX-SR707", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
-			{ "set108",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DTC-9.8", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-5.9", "DTX-8.8", "DTX-8.9", "DTX-9.9", "HT-R693", "HT-R993", "HT-RC560", "HT-RC660", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR515", "TX-NR515AE", "TX-NR579", "TX-NR609", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR708", "TX-NR709", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR905", "TX-NR906", "TX-NR929", "TX-SA706", "TX-SA706X", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR706", "TX-SR707", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
-			{ "set109",new HashSet<string>( new string[] { "DHC-80.6", "DTR-30.6", "DTR-40.6", "DTR-50.6", "DTR-60.6", "DTR-70.6", "HT-R693", "HT-R993", "HT-RC660", "PR-SC5530", "TX-NR1030", "TX-NR3030", "TX-NR636", "TX-NR737", "TX-NR838" } ) },
-			{ "set110",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DTC-9.8", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-8.8", "DTX-8.9", "DTX-9.9", "HT-R693", "HT-R993", "HT-RC560", "HT-RC660", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR515", "TX-NR515AE", "TX-NR579", "TX-NR609", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR708", "TX-NR709", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR905", "TX-NR906", "TX-NR929", "TX-SA706", "TX-SA706X", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR706", "TX-SR707", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
-			{ "set111",new HashSet<string>( new string[] { "DHC-80.1", "DHC-80.2", "DHC-80.3", "DTR-20.4", "DTR-30.4", "DTR-40.4", "DTR-50.4", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-80.1", "DTR-80.2", "DTR-80.3", "PR-SC5507", "PR-SC5508", "PR-SC5509", "TX-NR1010", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR515", "TX-NR515AE", "TX-NR616", "TX-NR616AE", "TX-NR717", "TX-NR818", "TX-NR818AE" } ) },
-			{ "set112",new HashSet<string>( new string[] { "DHC-60.5", "DHC-80.3", "DHC-80.6", "DTR-20.3", "DTR-20.4", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-60.5", "DTR-60.6", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-80.3", "HT-R693", "HT-R993", "HT-RC560", "HT-RC660", "PR-SC5509", "PR-SC5530", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5009", "TX-NR5010", "TX-NR515", "TX-NR515AE", "TX-NR579", "TX-NR609", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR709", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR929" } ) },
-			{ "set113",new HashSet<string>( new string[] { "DHC-40.2", "DHC-60.5", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DTR-30.6", "DTR-40.6", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.6", "DTR-60.5", "DTR-60.6", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-8.9", "DTX-9.9", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC886", "TX-NA906", "TX-NA906X", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR906", "TX-NR929", "TX-SA806X", "TX-SA876", "TX-SR876" } ) },
-			{ "set114",new HashSet<string>( new string[] { "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.3", "DRX-5", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTM-7", "PR-RZ5100", "TX-8270", "TX-NR474", "TX-NR5100", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR595", "TX-NR6050", "TX-NR6100", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR696", "TX-NR7100", "TX-NR757", "TX-NR777", "TX-NR797", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ710", "TX-RZ720", "TX-RZ740", "TX-RZ810", "TX-RZ820", "TX-RZ840", "TX-RZ920" } ) },
-			{ "set115",new HashSet<string>( new string[] { "DHC-40.1", "DHC-80.1", "DHC-9.9", "DTR-50.1", "DTR-70.1", "DTR-8.9", "DTR-80.1", "DTR-9.9", "DTX-8.9", "DTX-9.9", "PR-SC5507", "PR-SC886", "TX-NA906", "TX-NA906X", "TX-NR3007", "TX-NR5007", "TX-NR906", "TX-SA806X", "TX-SA876", "TX-SR876" } ) },
-			{ "set116",new HashSet<string>( new string[] { "DHC-40.2", "DHC-60.5", "DHC-80.3", "DHC-80.6", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-60.5", "DTR-60.6", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-80.3", "HT-R693", "HT-R993", "HT-RC560", "HT-RC660", "PR-SC5509", "PR-SC5530", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5009", "TX-NR5010", "TX-NR515", "TX-NR515AE", "TX-NR579", "TX-NR609", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR708", "TX-NR709", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR929" } ) },
-			{ "set117",new HashSet<string>( new string[] { "DHC-40.2", "DHC-60.5", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-60.5", "DTR-60.6", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-80.2", "DTR-80.3", "HT-R693", "HT-R993", "HT-RC560", "HT-RC660", "PR-SC5508", "PR-SC5509", "PR-SC5530", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR515", "TX-NR515AE", "TX-NR579", "TX-NR609", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR708", "TX-NR709", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR929" } ) },
-			{ "set118",new HashSet<string>( new string[] { "DHC-80.2", "DTR-70.2", "DTR-80.2", "PR-SC5508", "TX-NR3008", "TX-NR5008" } ) },
-			{ "set119",new HashSet<string>( new string[] { "DHC-40.2", "DHC-60.5", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DTR-30.6", "DTR-40.6", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.6", "DTR-60.5", "DTR-60.6", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-80.2", "DTR-80.3", "PR-SC5508", "PR-SC5509", "PR-SC5530", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR929" } ) },
-			{ "set120",new HashSet<string>( new string[] { "DHC-80.3", "DTR-50.3", "DTR-50.4", "DTR-70.3", "DTR-70.4", "DTR-80.3", "PR-SC5509", "TX-NR1009", "TX-NR1010", "TX-NR3009", "TX-NR3010", "TX-NR5009", "TX-NR5010", "TX-NR809", "TX-NR818", "TX-NR818AE" } ) },
-			{ "set121",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-7", "DTC-9.1", "DTC-9.4", "DTC-9.8", "DTR-10.5", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-4.5", "DTR-4.6", "DTR-4.9", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.2", "DTR-5.3", "DTR-5.4", "DTR-5.5", "DTR-5.6", "DTR-5.8", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.2", "DTR-6.3", "DTR-6.4", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.1", "DTR-7.2", "DTR-7.3", "DTR-7.4", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.2", "DTR-8.3", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.1", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "RDC-7", "RDC-7(Ver2.0)", "RDC-7.1", "TX-DS787", "TX-DS797", "TX-DS898", "TX-DS989", "TX-NA900", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR900", "TX-NR901", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
-			{ "set122",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.1", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.1", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "RDC-7", "TX-DS787", "TX-DS989", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SR707" } ) },
-			{ "set123",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-7", "DTC-9.1", "DTC-9.4", "DTC-9.8", "DTR-10.5", "DTR-20.3", "DTR-30.3", "DTR-30.4", "DTR-4.6", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.6", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.4", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.1", "DTR-7.2", "DTR-7.3", "DTR-7.4", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.2", "DTR-8.3", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.1", "DTR-9.9", "DTX-7", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "HT-R993", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "RDC-7", "RDC-7(Ver2.0)", "RDC-7.1", "TX-DS787", "TX-DS797", "TX-DS898", "TX-DS989", "TX-NA900", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR900", "TX-NR901", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
-			{ "set124",new HashSet<string>( new string[] { "DHC-9.9", "DTC-7", "DTC-9.1", "DTC-9.4", "DTC-9.8", "DTR-10.5", "DTR-4.5", "DTR-4.6", "DTR-4.9", "DTR-5.4", "DTR-5.5", "DTR-5.6", "DTR-5.8", "DTR-5.9", "DTR-6.4", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-7.1", "DTR-7.2", "DTR-7.3", "DTR-7.4", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-8.2", "DTR-8.3", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-9.1", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "PR-SC885", "PR-SC886", "RDC-7", "RDC-7(Ver2.0)", "RDC-7.1", "TX-DS787", "TX-DS797", "TX-DS898", "TX-DS989", "TX-NA900", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR5000", "TX-NR900", "TX-NR901", "TX-NR905", "TX-NR906", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
-			{ "set125",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-7", "DTC-9.1", "DTC-9.4", "DTC-9.8", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-4.5", "DTR-4.9", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.4", "DTR-5.5", "DTR-5.8", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.4", "DTR-6.5", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.1", "DTR-7.2", "DTR-7.3", "DTR-7.4", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.2", "DTR-8.3", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.1", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "RDC-7", "RDC-7(Ver2.0)", "TX-DS787", "TX-DS797", "TX-DS898", "TX-DS989", "TX-NA900", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR900", "TX-NR901", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR702", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
-			{ "set126",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-7", "DTC-9.1", "DTC-9.4", "DTR-10.5", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-4.5", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.4", "DTR-5.5", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.4", "DTR-6.5", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.1", "DTR-7.2", "DTR-7.3", "DTR-7.4", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.2", "DTR-8.3", "DTR-8.4", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.1", "DTX-7", "ETX-NA1000", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "RDC-7", "RDC-7(Ver2.0)", "RDC-7.1", "TX-DS787", "TX-DS797", "TX-DS898", "TX-DS989", "TX-NA900", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR900", "TX-NR901", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SR702", "TX-SR707" } ) },
-			{ "set127",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-7", "DTC-9.1", "DTC-9.4", "DTC-9.8", "DTR-10.5", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-4.5", "DTR-4.6", "DTR-4.9", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.4", "DTR-5.5", "DTR-5.6", "DTR-5.8", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.4", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.1", "DTR-7.2", "DTR-7.3", "DTR-7.4", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.2", "DTR-8.3", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.1", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "RDC-7", "RDC-7(Ver2.0)", "RDC-7.1", "TX-DS787", "TX-DS797", "TX-DS898", "TX-DS989", "TX-NA900", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR900", "TX-NR901", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
-			{ "set128",new HashSet<string>( new string[] { "DTC-7", "DTC-9.4", "DTM-7", "DTR-10.5", "DTR-4.6", "DTR-5.5", "DTR-5.6", "DTR-6.3", "DTR-6.4", "DTR-6.5", "DTR-6.6", "DTR-7.3", "DTR-7.4", "DTR-7.6", "DTR-8.3", "DTR-8.4", "DTX-7", "ETX-NA1000", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "RDC-7.1", "TX-8270", "TX-8390", "TX-NA900", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR900", "TX-NR901", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
-			{ "set129",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-9.8", "DTR-10.5", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-4.5", "DTR-4.6", "DTR-4.9", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.5", "DTR-5.6", "DTR-5.8", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "RDC-7.1", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
-			{ "set130",new HashSet<string>( new string[] { "PR-SC5507", "TX-NR1007", "TX-NR3007", "TX-NR5007", "TX-NR807", "TX-SR707" } ) },
-			{ "set131",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-60.5", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-80.1", "DTR-80.2", "DTR-80.3", "PR-SC5507", "PR-SC5508", "PR-SC5509", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR609", "TX-NR616", "TX-NR616AE", "TX-NR708", "TX-NR709", "TX-NR717", "TX-NR727", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR929", "TX-SR707" } ) },
-			{ "set132",new HashSet<string>( new string[] { "DRX-2.3", "DRX-2.4", "TX-NR5100", "TX-NR595", "TX-NR6050", "TX-NR6100", "TX-NR696" } ) },
-			{ "set133",new HashSet<string>( new string[] { "DHC-60.5", "DHC-60.7", "DHC-80.3", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTR-30.4", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-80.3", "HT-R993", "PR-RZ5100", "PR-SC5509", "PR-SC5530", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5009", "TX-NR5010", "TX-NR616", "TX-NR616AE", "TX-NR709", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
-			{ "set134",new HashSet<string>( new string[] { "DHC-60.5", "DHC-60.7", "DHC-80.6", "DTR-20.7", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.4", "DTR-70.6", "HT-R693", "HT-R993", "HT-RC560", "HT-RC660", "PR-SC5530", "TX-NR1010", "TX-NR1030", "TX-NR3030", "TX-NR5010", "TX-NR515", "TX-NR515AE", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR929", "TX-RZ800", "TX-RZ900" } ) },
-			{ "set135",new HashSet<string>( new string[] { "DTR-10.5", "DTR-4.5", "DTR-4.6", "DTR-5.5", "DTR-5.6", "DTR-6.5", "DTR-6.6", "DTR-7.6", "DTR-7.7", "DTX-7.7", "ETX-NA1000", "RDC-7.1", "TX-NR1000", "TX-NR5000", "TX-SR702", "TX-SR703", "TX-SR803", "TX-SR804" } ) },
-			{ "set136",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-9.8", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-4.9", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.8", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
-			{ "set137",new HashSet<string>( new string[] { "DTR-10.5", "DTR-4.6", "DTR-5.5", "DTR-5.6", "DTR-6.5", "DTR-6.6", "DTR-7.6", "DTR-7.7", "DTX-7.7", "ETX-NA1000", "RDC-7.1", "TX-NR1000", "TX-NR5000", "TX-SR702", "TX-SR703", "TX-SR803", "TX-SR804" } ) },
-			{ "set138",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-9.9", "DTC-9.8", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-4.9", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-5.8", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "HT-R693", "HT-RC560", "HT-RC660", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC885", "PR-SC886", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR515", "TX-NR515AE", "TX-NR579", "TX-NR609", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR708", "TX-NR709", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR905", "TX-NR906", "TX-NR929", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
-			{ "set139",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-9.8", "DTR-10.5", "DTR-20.2", "DTR-20.3", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-4.6", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.6", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "HT-R993", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "RDC-7.1", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
-			{ "set140",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRX-4", "DRX-5", "DTC-9.8", "DTR-10.5", "DTR-20.2", "DTR-20.3", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-4.6", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.6", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "HT-R993", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "RDC-7.1", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR609", "TX-NR616", "TX-NR616AE", "TX-NR708", "TX-NR709", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ710", "TX-RZ800", "TX-RZ810", "TX-RZ900", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
-			{ "set141",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTR-20.2", "DTR-20.3", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-8.9", "DTX-9.9", "HT-R993", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC886", "TX-NA906", "TX-NA906X", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA706", "TX-SA706X", "TX-SA806", "TX-SA806X", "TX-SA876", "TX-SR706", "TX-SR707", "TX-SR806", "TX-SR876" } ) },
-			{ "set142",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-9.8", "DTR-10.5", "DTR-20.2", "DTR-20.3", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-4.6", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.6", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "HT-R993", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "RDC-7.1", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
-			{ "set143",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-9.8", "DTR-10.5", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-4.5", "DTR-4.6", "DTR-4.9", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.4", "DTR-5.5", "DTR-5.6", "DTR-5.8", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.4", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.4", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "RDC-7.1", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR901", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
-			{ "set144",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-9.9", "DTC-9.8", "DTR-10.5", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-4.5", "DTR-4.6", "DTR-4.9", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-5.4", "DTR-5.5", "DTR-5.6", "DTR-5.8", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-6.4", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-7.4", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "HT-R693", "HT-RC550", "HT-RC560", "HT-RC660", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC885", "PR-SC886", "RDC-7.1", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR414", "TX-NR474", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR579", "TX-NR609", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR708", "TX-NR709", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR901", "TX-NR905", "TX-NR906", "TX-NR929", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
-			{ "set145",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-9.8", "DTR-10.5", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-4.6", "DTR-4.9", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.4", "DTR-5.5", "DTR-5.6", "DTR-5.8", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.4", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.4", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "RDC-7.1", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR901", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
-			{ "set146",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRX-2", "DRX-3", "DRX-4", "DRX-5", "DTC-9.8", "DTR-10.5", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-4.6", "DTR-4.9", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.4", "DTR-5.5", "DTR-5.6", "DTR-5.8", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.4", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.4", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "RDC-7.1", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR579", "TX-NR609", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR708", "TX-NR709", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR901", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ610", "TX-RZ710", "TX-RZ800", "TX-RZ810", "TX-RZ900", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
-			{ "set147",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-9.8", "DTR-10.5", "DTR-20.2", "DTR-20.3", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-4.6", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.6", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.4", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.7", "DTR-7.4", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-7", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC885", "PR-SC886", "RDC-7.1", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR901", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
-			{ "set148",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-9.8", "DTR-10.5", "DTR-20.2", "DTR-20.3", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-4.6", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.6", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.4", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.4", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-7", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "HT-R993", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "RDC-7.1", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR901", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
-			{ "set149",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-9.9", "DTC-9.8", "DTR-10.5", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-4.5", "DTR-4.6", "DTR-4.9", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-5.5", "DTR-5.6", "DTR-5.8", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "HT-R693", "HT-RC550", "HT-RC560", "HT-RC660", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC885", "PR-SC886", "RDC-7.1", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR414", "TX-NR474", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR579", "TX-NR609", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR708", "TX-NR709", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR905", "TX-NR906", "TX-NR929", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
-			{ "set150",new HashSet<string>( new string[] { "DTR-5.8", "DTX-5.8" } ) },
-			{ "set151",new HashSet<string>( new string[] { "DHC-80.1", "DHC-80.2", "DHC-9.9", "DTC-9.8", "DTR-6.8", "DTR-7.8", "DTR-70.1", "DTR-70.2", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-9.9", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "PR-SC5507", "PR-SC5508", "PR-SC885", "PR-SC886", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1007", "TX-NR3007", "TX-NR3008", "TX-NR5007", "TX-NR5008", "TX-NR905", "TX-NR906", "TX-SA805", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR705", "TX-SR805", "TX-SR875", "TX-SR876" } ) },
-			{ "set152",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-9.8", "DTR-20.2", "DTR-20.3", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC885", "PR-SC886", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
-			{ "set153",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-9.8", "DTR-20.2", "DTR-20.3", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "HT-R993", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
-			{ "set154",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTR-20.2", "DTR-20.3", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.9", "DTR-60.5", "DTR-60.7", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-8.9", "DTX-9.9", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC886", "TX-NA906", "TX-NA906X", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA706", "TX-SA706X", "TX-SA806", "TX-SA806X", "TX-SA876", "TX-SR706", "TX-SR707", "TX-SR806", "TX-SR876" } ) },
-			{ "set155",new HashSet<string>( new string[] { "DHC-80.1", "DHC-80.2", "DHC-9.9", "DTR-70.1", "DTR-70.2", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-9.9", "DTX-8.9", "DTX-9.9", "PR-SC5507", "PR-SC5508", "PR-SC886", "TX-NA906", "TX-NA906X", "TX-NR1007", "TX-NR3007", "TX-NR3008", "TX-NR5007", "TX-NR5008", "TX-NR906", "TX-SA806X", "TX-SA876", "TX-SR876" } ) },
-			{ "set156",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DTR-20.4", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-60.5", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-80.1", "DTR-80.2", "DTR-80.3", "HT-R693", "HT-RC560", "HT-RC660", "PR-SC5507", "PR-SC5508", "PR-SC5509", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR515", "TX-NR515AE", "TX-NR579", "TX-NR609", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR708", "TX-NR709", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR929", "TX-SR707" } ) },
-			{ "set157",new HashSet<string>( new string[] { "DHC-80.1", "DHC-80.2", "DTR-70.1", "DTR-70.2", "DTR-80.1", "DTR-80.2", "PR-SC5507", "PR-SC5508", "TX-NR1007", "TX-NR3007", "TX-NR3008", "TX-NR5007", "TX-NR5008" } ) },
-			{ "set158",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-60.5", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-80.1", "DTR-80.2", "DTR-80.3", "PR-SC5507", "PR-SC5508", "PR-SC5509", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR609", "TX-NR616", "TX-NR616AE", "TX-NR708", "TX-NR709", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR929", "TX-SR707" } ) },
-			{ "set159",new HashSet<string>( new string[] { "DHC-40.1", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DTR-40.1", "DTR-50.1", "DTR-50.4", "DTR-60.5", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-80.1", "DTR-80.2", "DTR-80.3", "PR-SC5507", "PR-SC5508", "PR-SC5509", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR807", "TX-NR818", "TX-NR818AE", "TX-NR929", "TX-SR707" } ) },
-			{ "set160",new HashSet<string>( new string[] { "DHC-80.3", "DHC-80.6", "DTR-50.4", "DTR-60.5", "DTR-60.6", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-80.3", "PR-SC5509", "PR-SC5530", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5009", "TX-NR5010", "TX-NR818", "TX-NR818AE", "TX-NR929" } ) },
-			{ "set161",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-80.1", "DHC-80.2", "DTR-30.2", "DTR-40.1", "DTR-40.2", "DTR-50.1", "DTR-50.2", "DTR-70.1", "DTR-70.2", "DTR-80.1", "DTR-80.2", "PR-SC5507", "PR-SC5508", "TX-NR1007", "TX-NR1008", "TX-NR3007", "TX-NR3008", "TX-NR5007", "TX-NR5008", "TX-NR708", "TX-NR807", "TX-NR808", "TX-SR707" } ) },
-			{ "set162",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-4.9", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTX-5.9", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA706", "TX-SA706X", "TX-SA806", "TX-SR706", "TX-SR707", "TX-SR806" } ) },
-			{ "set163",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DTC-7", "DTC-9.1", "DTC-9.4", "DTC-9.8", "DTR-10.5", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-4.5", "DTR-4.6", "DTR-4.9", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.2", "DTR-5.3", "DTR-5.4", "DTR-5.5", "DTR-5.6", "DTR-5.8", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.2", "DTR-6.3", "DTR-6.4", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.1", "DTR-7.2", "DTR-7.3", "DTR-7.4", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.2", "DTR-8.3", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.1", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "RDC-7", "RDC-7(Ver2.0)", "RDC-7.1", "TX-DS787", "TX-DS797", "TX-DS898", "TX-DS989", "TX-NA900", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR579", "TX-NR609", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR708", "TX-NR709", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR900", "TX-NR901", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ800", "TX-RZ900", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
-			{ "set164",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-5.9", "DTX-8.9", "DTX-9.9", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC886", "TX-NA906", "TX-NA906X", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA706", "TX-SA706X", "TX-SA806", "TX-SA806X", "TX-SA876", "TX-SR706", "TX-SR707", "TX-SR806", "TX-SR876" } ) },
-			{ "set165",new HashSet<string>( new string[] { "DTC-9.1", "DTR-10.5", "DTR-6.4", "DTR-7.1", "DTR-9.1", "ETX-NA1000", "RDC-7", "RDC-7(Ver2.0)", "RDC-7.1", "TX-DS787", "TX-DS989", "TX-NR1000", "TX-NR5000" } ) },
-			{ "set166",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-7", "DTC-9.4", "DTC-9.8", "DTR-20.2", "DTR-20.3", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-4.6", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.2", "DTR-5.6", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.2", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.2", "DTR-7.3", "DTR-7.4", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.2", "DTR-8.3", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-7", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "HT-R993", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "TX-DS797", "TX-DS898", "TX-NA900", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR5100", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR900", "TX-NR901", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
-			{ "set167",new HashSet<string>( new string[] { "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DTR-20.1", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-4.5", "DTR-4.9", "DTR-5.3", "DTR-5.4", "DTR-5.5", "DTR-5.8", "DTR-5.9", "DTR-6.3", "DTX-5.8", "DTX-5.9", "HT-R693", "HT-RC550", "HT-RC560", "HT-RC660", "TX-NR414", "TX-NR474", "TX-NR509", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-RZ610", "TX-RZ620", "TX-RZ630" } ) },
-			{ "set168",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-9.9", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-60.5", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-8.9", "DTX-9.9", "HT-RC550", "HT-RC560", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC886", "TX-NA906", "TX-NA906X", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR579", "TX-NR609", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR708", "TX-NR709", "TX-NR717", "TX-NR727", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR906", "TX-NR929", "TX-SA806X", "TX-SA876", "TX-SR707", "TX-SR876" } ) },
-			{ "set169",new HashSet<string>( new string[] { "DHC-60.5", "DHC-80.3", "DTR-20.3", "DTR-20.4", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-60.5", "DTR-70.3", "DTR-70.4", "DTR-80.3", "HT-RC550", "HT-RC560", "PR-SC5509", "TX-NR1009", "TX-NR1010", "TX-NR3009", "TX-NR3010", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR579", "TX-NR609", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR709", "TX-NR717", "TX-NR727", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR929" } ) },
-			{ "set170",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-60.5", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-80.1", "DTR-80.2", "DTR-80.3", "HT-RC550", "HT-RC560", "PR-SC5507", "PR-SC5508", "PR-SC5509", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR579", "TX-NR609", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR708", "TX-NR709", "TX-NR717", "TX-NR727", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR929", "TX-SR707" } ) },
-			{ "set171",new HashSet<string>( new string[] { "DHC-80.1", "DHC-80.2", "DHC-80.3", "DTR-40.3", "DTR-50.3", "DTR-50.4", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-80.1", "DTR-80.2", "DTR-80.3", "PR-SC5507", "PR-SC5508", "PR-SC5509", "TX-NR1009", "TX-NR1010", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR709", "TX-NR809", "TX-NR818", "TX-NR818AE" } ) },
-			{ "set172",new HashSet<string>( new string[] { "DHC-80.1", "DTR-70.1", "DTR-80.1", "PR-SC5507", "TX-NR3007", "TX-NR5007" } ) },
-			{ "set173",new HashSet<string>( new string[] { "DHC-60.7", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTR-20.7", "DTR-30.6", "DTR-30.7", "DTR-40.6", "DTR-40.7", "DTR-50.6", "DTR-50.7", "DTR-60.6", "DTR-60.7", "DTR-70.6", "HT-R693", "HT-R993", "HT-RC660", "PR-RZ5100", "PR-SC5530", "TX-8390", "TX-NR1030", "TX-NR3030", "TX-NR474", "TX-NR5100", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR6100", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR7100", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR838", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
-			{ "set174",new HashSet<string>( new string[] { "DRC-R1.3", "DRX-7.3", "DRX-R1.3", "TX-RZ3400" } ) },
-			{ "set175",new HashSet<string>( new string[] { "DRC-R1.1", "DRC-R1.3", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4.2", "DRX-4.3", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7.1", "DRX-7.3", "DRX-R1.1", "DRX-R1.3", "TX-8390", "TX-NR474", "TX-NR5100", "TX-NR575", "TX-NR575E", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR6100", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR7100", "TX-NR777", "TX-NR787", "TX-NR797", "TX-RZ3400", "TX-RZ50", "TX-RZ620", "TX-RZ630", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ920" } ) },
-			{ "set176",new HashSet<string>( new string[] { "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4.2", "DRX-4.3", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "PR-RZ5100", "TX-NR7100", "TX-NR787", "TX-NR797", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ630", "TX-RZ730", "TX-RZ740", "TX-RZ830", "TX-RZ840", "TX-RZ920" } ) },
-			{ "set177",new HashSet<string>( new string[] { "DRC-R1.1", "DRC-R1.3", "DRX-7.1", "DRX-7.3", "DRX-R1.1", "DRX-R1.3", "TX-RZ3400" } ) },
-			{ "set178",new HashSet<string>( new string[] { "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "PR-RZ5100", "TX-8390", "TX-NR5100", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR585", "TX-NR6050", "TX-NR6100", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR7100", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ920" } ) },
-			{ "set179",new HashSet<string>( new string[] { "TX-NR474" } ) },
-			{ "set180",new HashSet<string>( new string[] { "DRX-2", "DRX-3", "DRX-4", "DRX-5", "TX-NR555", "TX-NR656", "TX-NR757", "TX-RZ610", "TX-RZ710", "TX-RZ810" } ) },
-			{ "set181",new HashSet<string>( new string[] { "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4.2", "DRX-4.3", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "PR-RZ5100", "TX-NR474", "TX-NR5100", "TX-NR575", "TX-NR575E", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR6100", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR7100", "TX-NR777", "TX-NR787", "TX-NR797", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ620", "TX-RZ630", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ920" } ) },
-			{ "set182",new HashSet<string>( new string[] { "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTM-7", "PR-RZ5100", "TX-8270", "TX-NR474", "TX-NR5100", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR6100", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR7100", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ920" } ) },
-			{ "set183",new HashSet<string>( new string[] { "DRX-7.3", "DRX-R1.3", "TX-RZ3400" } ) },
-			{ "set184",new HashSet<string>( new string[] { "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4.2", "DRX-4.3", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTM-7", "PR-RZ5100", "TX-8270", "TX-8390", "TX-NR474", "TX-NR5100", "TX-NR575", "TX-NR575E", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR6100", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR7100", "TX-NR777", "TX-NR787", "TX-NR797", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ620", "TX-RZ630", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ920" } ) },
-			{ "set185",new HashSet<string>( new string[] { "DHC-60.7", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTM-7", "DTR-20.7", "DTR-30.6", "DTR-30.7", "DTR-40.6", "DTR-40.7", "DTR-50.6", "DTR-50.7", "DTR-60.6", "DTR-60.7", "DTR-70.6", "HT-R693", "HT-R993", "HT-RC660", "PR-RZ5100", "PR-SC5530", "TX-8270", "TX-8390", "TX-NR1030", "TX-NR3030", "TX-NR474", "TX-NR5100", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR6100", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR7100", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR838", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
-			{ "set186",new HashSet<string>( new string[] { "DRC-R1.3", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4.2", "DRX-4.3", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7.1", "DRX-7.3", "DRX-R1.1", "DTM-7", "TX-8270", "TX-8390", "TX-NR474", "TX-NR5100", "TX-NR575", "TX-NR575E", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR6100", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR7100", "TX-NR777", "TX-NR787", "TX-NR797", "TX-RZ3400", "TX-RZ50", "TX-RZ620", "TX-RZ630", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ920" } ) },
-			{ "set187",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-7", "DTC-9.1", "DTC-9.4", "DTC-9.8", "DTM-7", "DTR-10.5", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-4.5", "DTR-4.6", "DTR-4.9", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.3", "DTR-5.4", "DTR-5.5", "DTR-5.6", "DTR-5.8", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.3", "DTR-6.4", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.1", "DTR-7.2", "DTR-7.3", "DTR-7.4", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.2", "DTR-8.3", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.1", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "RDC-7", "RDC-7(Ver2.0)", "RDC-7.1", "TX-8270", "TX-8390", "TX-DS787", "TX-DS797", "TX-DS898", "TX-DS989", "TX-NA900", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR900", "TX-NR901", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
-			{ "set188",new HashSet<string>( new string[] { "DTR-5.2", "DTR-6.2" } ) },
-			{ "set189",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTM-7", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-4.9", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-5.9", "DTX-8.9", "DTX-9.9", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC886", "TX-8270", "TX-8390", "TX-NA906", "TX-NA906X", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA706", "TX-SA706X", "TX-SA806", "TX-SA806X", "TX-SA876", "TX-SR706", "TX-SR707", "TX-SR806", "TX-SR876" } ) },
-			{ "set190",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-7", "DTC-9.1", "DTC-9.4", "DTC-9.8", "DTM-7", "DTR-10.5", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-4.5", "DTR-4.6", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.4", "DTR-5.5", "DTR-5.6", "DTR-5.8", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.4", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.1", "DTR-7.2", "DTR-7.3", "DTR-7.4", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.2", "DTR-8.3", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.1", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "RDC-7", "RDC-7(Ver2.0)", "RDC-7.1", "TX-8270", "TX-8390", "TX-DS787", "TX-DS797", "TX-DS898", "TX-DS989", "TX-NA900", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR900", "TX-NR901", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
-			{ "set191",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DTC-7", "DTC-9.1", "DTC-9.4", "DTC-9.8", "DTR-10.5", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-4.5", "DTR-4.6", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.4", "DTR-5.5", "DTR-5.6", "DTR-5.8", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.4", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.1", "DTR-7.2", "DTR-7.3", "DTR-7.4", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.2", "DTR-8.3", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.1", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "RDC-7", "RDC-7(Ver2.0)", "RDC-7.1", "TX-DS787", "TX-DS797", "TX-DS898", "TX-DS989", "TX-NA900", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR579", "TX-NR609", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR708", "TX-NR709", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR900", "TX-NR901", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ800", "TX-RZ900", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
-			{ "set192",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-7", "DTC-9.4", "DTC-9.8", "DTM-7", "DTR-10.5", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-4.5", "DTR-4.6", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.4", "DTR-5.5", "DTR-5.6", "DTR-5.8", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.4", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.3", "DTR-7.4", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.3", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "RDC-7.1", "TX-8270", "TX-8390", "TX-NA900", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR900", "TX-NR901", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
-			{ "set193",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DTC-7", "DTC-9.4", "DTC-9.8", "DTR-10.5", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-4.5", "DTR-4.6", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.4", "DTR-5.5", "DTR-5.6", "DTR-5.8", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.4", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.3", "DTR-7.4", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.3", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "RDC-7.1", "TX-NA900", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR579", "TX-NR609", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR708", "TX-NR709", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR900", "TX-NR901", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ800", "TX-RZ900", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
-			{ "set194",new HashSet<string>( new string[] { "DHC-9.9", "DTC-9.8", "DTR-5.8", "DTR-6.8", "DTR-6.9", "DTR-7.8", "DTR-7.9", "DTR-8.8", "DTR-8.9", "DTR-9.9", "DTX-5.8", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "PR-SC885", "PR-SC886", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR905", "TX-NR906", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR705", "TX-SR706", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
-			{ "set195",new HashSet<string>( new string[] { "DHC-9.9", "DTC-9.8", "DTR-70.4", "DTR-8.8", "DTR-8.9", "DTR-9.9", "DTX-8.8", "DTX-8.9", "DTX-9.9", "PR-SC885", "PR-SC886", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1010", "TX-NR3010", "TX-NR5010", "TX-NR905", "TX-NR906", "TX-SA806X", "TX-SA876", "TX-SR876" } ) },
-			{ "set196",new HashSet<string>( new string[] { "DTR-9.1", "RDC-7", "TX-DS989" } ) },
-			{ "set197",new HashSet<string>( new string[] { "TX-8270", "TX-8390" } ) },
-			{ "set198",new HashSet<string>( new string[] { "TX-8390" } ) },
-			{ "set199",new HashSet<string>( new string[] { "DRC-R1.3", "DRX-3.3", "DRX-3.4", "DRX-4.3", "DRX-5.3", "DRX-5.4", "DRX-7.3", "DRX-R1.3", "TX-NR6050", "TX-NR6100", "TX-NR696", "TX-NR7100", "TX-NR797", "TX-RZ3400", "TX-RZ50", "TX-RZ740", "TX-RZ840" } ) },
-			{ "set200",new HashSet<string>( new string[] { "DRC-R1.3", "DRX-3.3", "DRX-3.4", "DRX-4.3", "DRX-5.3", "DRX-5.4", "DRX-7.3", "DRX-R1.3", "TX-NR7100", "TX-NR797", "TX-RZ3400", "TX-RZ50", "TX-RZ740", "TX-RZ840" } ) },
-			{ "set201",new HashSet<string>( new string[] { "DRX-3.4", "DRX-5.4", "TX-NR7100", "TX-RZ50" } ) },
-			{ "set202",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-7", "DTC-9.4", "DTC-9.8", "DTM-7", "DTR-10.5", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-4.5", "DTR-4.6", "DTR-4.9", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.3", "DTR-5.4", "DTR-5.5", "DTR-5.6", "DTR-5.8", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.3", "DTR-6.4", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.3", "DTR-7.4", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.3", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "RDC-7.1", "TX-8270", "TX-8390", "TX-NA900", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR900", "TX-NR901", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA706", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
-			{ "set203",new HashSet<string>( new string[] { "DRX-4", "DRX-5", "TX-NR757", "TX-NR777", "TX-RZ710", "TX-RZ720", "TX-RZ810", "TX-RZ820" } ) },
-			{ "set204",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-9.8", "DTM-7", "DTR-10.5", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-4.5", "DTR-4.6", "DTR-4.9", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.4", "DTR-5.5", "DTR-5.6", "DTR-5.8", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.4", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.4", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "RDC-7.1", "TX-8270", "TX-8390", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR901", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA706", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
-			{ "set205",new HashSet<string>( new string[] { "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2.4", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "PR-RZ5100", "TX-NR6050", "TX-NR6100", "TX-NR7100", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ920" } ) },
-			{ "set206",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DTC-7", "DTC-9.4", "DTC-9.8", "DTR-10.5", "DTR-20.2", "DTR-20.3", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-4.5", "DTR-4.6", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.3", "DTR-5.4", "DTR-5.5", "DTR-5.6", "DTR-5.8", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.3", "DTR-6.4", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.3", "DTR-7.4", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.2", "DTR-8.3", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-5.8", "DTX-7", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "HT-R993", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "RDC-7.1", "TX-DS898", "TX-NA900", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR585", "TX-NR595", "TX-NR609", "TX-NR616", "TX-NR616AE", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR900", "TX-NR901", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ800", "TX-RZ900", "TX-SA706", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
-			{ "set207",new HashSet<string>( new string[] { "DTR-20.1", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-4.9", "DTR-5.9", "DTR-6.2", "DTX-5.9", "HT-R693", "HT-RC560", "HT-RC660", "TX-NR515", "TX-NR515AE", "TX-NR545", "TX-NR579", "TX-NR626", "TX-NR636", "TX-NR646" } ) },
-			{ "set208",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-7", "DTC-9.4", "DTC-9.8", "DTR-10.5", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-4.5", "DTR-4.6", "DTR-4.9", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.3", "DTR-5.4", "DTR-5.5", "DTR-5.6", "DTR-5.8", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.2", "DTR-6.3", "DTR-6.4", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.3", "DTR-7.4", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.2", "DTR-8.3", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "HT-R693", "HT-R993", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "RDC-7.1", "TX-DS898", "TX-NA900", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR515", "TX-NR515AE", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR900", "TX-NR901", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA706", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
-			{ "set209",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-80.1", "DTR-80.2", "DTR-80.3", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3030", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR838", "TX-RZ800", "TX-RZ900" } ) },
-			{ "set210",new HashSet<string>( new string[] { "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "PR-RZ5100", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ920" } ) },
-			{ "set211",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-80.1", "DTR-80.2", "DTR-80.3", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3030", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR838", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
-			{ "set212",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DTC-7", "DTC-9.1", "DTC-9.4", "DTC-9.8", "DTR-10.5", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.6", "DTR-4.5", "DTR-4.6", "DTR-4.9", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-5.3", "DTR-5.4", "DTR-5.5", "DTR-5.6", "DTR-5.8", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-6.2", "DTR-6.3", "DTR-6.4", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-7.1", "DTR-7.2", "DTR-7.3", "DTR-7.4", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.2", "DTR-8.3", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.1", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "HT-R693", "HT-R993", "HT-RC660", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "RDC-7", "RDC-7(Ver2.0)", "RDC-7.1", "TX-DS787", "TX-DS797", "TX-DS898", "TX-DS989", "TX-NA900", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR535", "TX-NR579", "TX-NR609", "TX-NR616", "TX-NR616AE", "TX-NR636", "TX-NR708", "TX-NR709", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR900", "TX-NR901", "TX-NR905", "TX-NR906", "TX-NR929", "TX-SA706", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
-			{ "set213",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-7", "DTC-9.1", "DTC-9.4", "DTC-9.8", "DTM-7", "DTR-10.5", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-4.5", "DTR-4.6", "DTR-4.9", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.3", "DTR-5.4", "DTR-5.5", "DTR-5.6", "DTR-5.8", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.2", "DTR-6.3", "DTR-6.4", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.1", "DTR-7.2", "DTR-7.3", "DTR-7.4", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.2", "DTR-8.3", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.1", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "RDC-7", "RDC-7(Ver2.0)", "RDC-7.1", "TX-8270", "TX-8390", "TX-DS787", "TX-DS797", "TX-DS898", "TX-DS989", "TX-NA900", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR900", "TX-NR901", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA706", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
-			{ "set214",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DTC-7", "DTC-9.1", "DTC-9.4", "DTC-9.8", "DTR-10.5", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-4.6", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-5.3", "DTR-5.4", "DTR-5.5", "DTR-5.6", "DTR-5.8", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.2", "DTR-6.3", "DTR-6.4", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.1", "DTR-7.2", "DTR-7.3", "DTR-7.4", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.2", "DTR-8.3", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.1", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "RDC-7", "RDC-7(Ver2.0)", "RDC-7.1", "TX-DS787", "TX-DS797", "TX-DS898", "TX-DS989", "TX-NA900", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR6100", "TX-NR626", "TX-NR636", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR7100", "TX-NR717", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR900", "TX-NR901", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ900", "TX-SA706", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
-			{ "set215",new HashSet<string>( new string[] { "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-9.9", "DTC-7", "DTC-9.1", "DTC-9.4", "DTC-9.8", "DTR-10.5", "DTR-50.4", "DTR-50.7", "DTR-60.5", "DTR-60.7", "DTR-7.1", "DTR-7.2", "DTR-7.3", "DTR-7.4", "DTR-7.8", "DTR-70.1", "DTR-70.4", "DTR-8.2", "DTR-8.3", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-9.1", "DTR-9.9", "DTX-7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "PR-SC5507", "PR-SC885", "PR-SC886", "RDC-7", "RDC-7(Ver2.0)", "RDC-7.1", "TX-DS787", "TX-DS797", "TX-DS898", "TX-DS989", "TX-NA900", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1010", "TX-NR3007", "TX-NR3010", "TX-NR5000", "TX-NR5007", "TX-NR5010", "TX-NR818", "TX-NR818AE", "TX-NR900", "TX-NR901", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ800", "TX-RZ900", "TX-SA805", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR805", "TX-SR875", "TX-SR876" } ) },
-			{ "set216",new HashSet<string>( new string[] { "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTM-7", "DTR-10.5", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-80.2", "DTR-80.3", "ETX-NA1000", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5508", "PR-SC5509", "PR-SC5530", "RDC-7.1", "TX-8270", "TX-8390", "TX-NR1000", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR5000", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
-			{ "set217",new HashSet<string>( new string[] { "DHC-60.5", "DHC-60.7", "DHC-80.3", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-80.3", "PR-SC5509" } ) },
-			{ "set218",new HashSet<string>( new string[] { "DHC-60.7", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTR-20.7", "DTR-30.7", "DTR-40.7", "DTR-50.7", "DTR-60.7", "PR-RZ5100", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR6100", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR7100", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
-			{ "set219",new HashSet<string>( new string[] { "DHC-40.1", "DHC-80.1", "DHC-80.2", "DHC-9.9", "DTC-7", "DTC-9.1", "DTC-9.4", "DTC-9.8", "DTM-7", "DTR-10.5", "DTR-20.1", "DTR-30.1", "DTR-4.5", "DTR-4.6", "DTR-4.9", "DTR-40.1", "DTR-5.3", "DTR-5.4", "DTR-5.5", "DTR-5.6", "DTR-5.8", "DTR-5.9", "DTR-50.1", "DTR-6.2", "DTR-6.3", "DTR-6.4", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-7.1", "DTR-7.2", "DTR-7.3", "DTR-7.4", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-8.2", "DTR-8.3", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-9.1", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "PR-SC5507", "PR-SC5508", "PR-SC885", "PR-SC886", "RDC-7", "RDC-7(Ver2.0)", "RDC-7.1", "TX-8270", "TX-8390", "TX-DS787", "TX-DS797", "TX-DS898", "TX-DS989", "TX-NA900", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR3007", "TX-NR3008", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR807", "TX-NR900", "TX-NR901", "TX-NR905", "TX-NR906", "TX-SA706", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
-			{ "set220",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-7", "DTC-9.1", "DTC-9.4", "DTC-9.8", "DTM-7", "DTR-10.5", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-4.6", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.3", "DTR-5.6", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.2", "DTR-6.3", "DTR-6.4", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.1", "DTR-7.2", "DTR-7.3", "DTR-7.4", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.2", "DTR-8.3", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.1", "DTR-9.9", "DTX-7", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "HT-R693", "HT-R993", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "RDC-7", "RDC-7(Ver2.0)", "RDC-7.1", "TX-8270", "TX-8390", "TX-DS787", "TX-DS797", "TX-DS898", "TX-DS989", "TX-NA900", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR6100", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR900", "TX-NR901", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA706", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
-			{ "set221",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-7", "DTC-9.4", "DTC-9.8", "DTM-7", "DTR-10.5", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-4.5", "DTR-4.6", "DTR-4.9", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.4", "DTR-5.5", "DTR-5.6", "DTR-5.8", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.4", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.3", "DTR-7.4", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.3", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "RDC-7.1", "TX-8270", "TX-8390", "TX-NA900", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR900", "TX-NR901", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA706", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
-			{ "set222",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DTC-7", "DTC-9.4", "DTR-10.5", "DTR-20.3", "DTR-20.4", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-60.5", "DTR-7.3", "DTR-7.4", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-8.3", "DTR-8.4", "DTR-8.8", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-7", "DTX-8.8", "DTX-9.9", "ETX-NA1000", "HT-RC550", "HT-RC560", "PR-SC5507", "PR-SC5508", "PR-SC5509", "RDC-7.1", "TX-NA900", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR414", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR579", "TX-NR609", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR708", "TX-NR709", "TX-NR717", "TX-NR727", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR900", "TX-NR901", "TX-NR905", "TX-NR906", "TX-NR929" } ) },
-			{ "set223",new HashSet<string>( new string[] { "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTM-7", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.8", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-8.8", "DTX-9.9", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "TX-8270", "TX-8390", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
-			{ "set224",new HashSet<string>( new string[] { "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.3", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTM-7", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-80.1", "DTR-80.3", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5509", "PR-SC5530", "TX-8270", "TX-8390", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR5007", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
-			{ "set225",new HashSet<string>( new string[] { "DHC-60.5", "DHC-60.7", "DHC-80.3", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTM-7", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-80.3", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5509", "PR-SC5530", "TX-8270", "TX-8390", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
-			{ "set226",new HashSet<string>( new string[] { "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4.3", "DRX-5.3", "DRX-5.4", "DRX-7.3", "DRX-R1.3", "DTM-7", "DTR-20.7", "DTR-30.6", "DTR-30.7", "HT-R693", "HT-R993", "HT-RC660", "PR-RZ5100", "PR-SC5530", "TX-8270", "TX-8390", "TX-NR1030", "TX-NR3030", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR6100", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR7100", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR838", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
-			{ "set227",new HashSet<string>( new string[] { "DTR-4.5", "DTR-4.6", "DTR-5.5", "DTR-5.6", "DTR-6.5", "DTR-6.6", "DTR-7.6", "TX-SR702", "TX-SR703", "TX-SR803" } ) },
-			{ "set228",new HashSet<string>( new string[] { "DHC-9.9", "DTC-9.8", "DTR-4.6", "DTR-5.6", "DTR-5.8", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-8.8", "DTR-8.9", "DTR-9.9", "DTX-5.8", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "PR-SC885", "PR-SC886", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR905", "TX-NR906", "TX-SA706", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
-			{ "set229",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-80.1", "DHC-80.2", "DHC-9.9", "DTC-9.8", "DTR-30.1", "DTR-30.2", "DTR-40.1", "DTR-40.2", "DTR-5.8", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-6.8", "DTR-6.9", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "PR-SC5507", "PR-SC5508", "PR-SC885", "PR-SC886", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1007", "TX-NR1008", "TX-NR3007", "TX-NR3008", "TX-NR5007", "TX-NR5008", "TX-NR708", "TX-NR807", "TX-NR808", "TX-NR905", "TX-NR906", "TX-SA706", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
-			{ "set230",new HashSet<string>( new string[] { "DRC-R1.3", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4.2", "DRX-4.3", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7.3", "DRX-R1.3", "TX-8270", "TX-8390", "TX-NR575", "TX-NR575E", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR6100", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR7100", "TX-NR777", "TX-NR787", "TX-NR797", "TX-RZ3400", "TX-RZ50", "TX-RZ620", "TX-RZ630", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ820", "TX-RZ830", "TX-RZ840" } ) },
-			{ "set231",new HashSet<string>( new string[] { "DHC-9.9", "DTC-7", "DTC-9.1", "DTC-9.4", "DTC-9.8", "DTR-10.5", "DTR-4.5", "DTR-4.6", "DTR-4.9", "DTR-5.3", "DTR-5.4", "DTR-5.5", "DTR-5.6", "DTR-5.8", "DTR-5.9", "DTR-6.2", "DTR-6.3", "DTR-6.4", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-7.1", "DTR-7.2", "DTR-7.3", "DTR-7.4", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-8.2", "DTR-8.3", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-9.1", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "PR-SC885", "PR-SC886", "RDC-7", "RDC-7(Ver2.0)", "RDC-7.1", "TX-DS787", "TX-DS797", "TX-DS898", "TX-DS989", "TX-NA900", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR5000", "TX-NR900", "TX-NR901", "TX-NR905", "TX-NR906", "TX-SA706", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
-			{ "set232",new HashSet<string>( new string[] { "DTC-7", "DTC-9.4", "DTR-10.5", "DTR-20.1", "DTR-30.1", "DTR-4.5", "DTR-4.6", "DTR-4.9", "DTR-5.3", "DTR-5.4", "DTR-5.5", "DTR-5.6", "DTR-5.8", "DTR-5.9", "DTR-6.3", "DTR-6.4", "DTR-6.5", "DTR-6.6", "DTR-7.3", "DTR-7.4", "DTR-7.6", "DTR-7.7", "DTR-8.3", "DTR-8.4", "DTX-5.8", "DTX-5.9", "DTX-7", "DTX-7.7", "ETX-NA1000", "RDC-7.1", "TX-NA900", "TX-NR1000", "TX-NR5000", "TX-NR900", "TX-NR901", "TX-SR702", "TX-SR703", "TX-SR803", "TX-SR804" } ) },
-			{ "set233",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-9.8", "DTM-7", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "TX-8270", "TX-8390", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA706", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
-			{ "set234",new HashSet<string>( new string[] { "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTM-7", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-80.2", "DTR-80.3", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5508", "PR-SC5509", "PR-SC5530", "TX-8270", "TX-8390", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
-			{ "set235",new HashSet<string>( new string[] { "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTM-7", "PR-RZ5100", "TX-8270", "TX-8390", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR6100", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR7100", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ920" } ) },
-			{ "set236",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTM-7", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.8", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-8.8", "DTX-9.9", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "TX-8270", "TX-8390", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
-			{ "set237",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTM-7", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-80.1", "DTR-80.2", "DTR-80.3", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "TX-8270", "TX-8390", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
-			{ "set238",new HashSet<string>( new string[] { "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-80.2", "DTR-80.3", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-SC5508", "PR-SC5509", "PR-SC5530", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR579", "TX-NR609", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR708", "TX-NR709", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR929", "TX-RZ800", "TX-RZ900" } ) },
-			{ "set239",new HashSet<string>( new string[] { "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTM-7", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-80.2", "DTR-80.3", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5508", "PR-SC5509", "PR-SC5530", "TX-8270", "TX-8390", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
-			{ "set240",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-80.1", "DTR-80.2", "DTR-80.3", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR579", "TX-NR609", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR708", "TX-NR709", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR929", "TX-RZ800", "TX-RZ900" } ) },
-			{ "set241",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-4", "DRX-4.2", "DRX-5", "DRX-5.2", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-9.8", "DTM-7", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "TX-8270", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR609", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR708", "TX-NR709", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ900", "TX-RZ920", "TX-SA706", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
-			{ "set242",new HashSet<string>( new string[] { "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-9.8", "DTR-10.5", "DTR-30.4", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.8", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "RDC-7.1", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR616", "TX-NR616AE", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ630", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA805", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR805", "TX-SR875", "TX-SR876" } ) },
-			{ "set243",new HashSet<string>( new string[] { "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "PR-RZ5100", "TX-NR7100", "TX-NR787", "TX-NR797", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ630", "TX-RZ730", "TX-RZ740", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ920" } ) },
-			{ "set244",new HashSet<string>( new string[] { "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DTC-9.8", "DTR-10.5", "DTR-30.4", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.8", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "RDC-7.1", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR717", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR838", "TX-NR905", "TX-NR906", "TX-NR929", "TX-SA805", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR805", "TX-SR875", "TX-SR876" } ) },
-			{ "set245",new HashSet<string>( new string[] { "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-9.8", "DTR-10.5", "DTR-30.4", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.8", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "RDC-7.1", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR7100", "TX-NR717", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR838", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ630", "TX-RZ730", "TX-RZ740", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ920", "TX-SA805", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR805", "TX-SR875", "TX-SR876" } ) },
-			{ "set246",new HashSet<string>( new string[] { "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-3.4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "PR-RZ5100", "TX-NR7100", "TX-NR787", "TX-NR797", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ730", "TX-RZ740", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ920" } ) },
-			{ "set247",new HashSet<string>( new string[] { "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.7", "DTR-60.7", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-80.1", "DTR-80.2", "DTR-80.3", "PR-SC5507", "PR-SC5508", "PR-SC5509", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR807", "TX-NR808", "TX-NR809" } ) },
-			{ "set248",new HashSet<string>( new string[] { "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-5", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "PR-RZ5100", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ810", "TX-RZ820", "TX-RZ920" } ) },
-			{ "set249",new HashSet<string>( new string[] { "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-5", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.7", "DTR-60.7", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-80.1", "DTR-80.2", "DTR-80.3", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR807", "TX-NR808", "TX-NR809", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ810", "TX-RZ820", "TX-RZ920" } ) },
-			{ "set250",new HashSet<string>( new string[] { "DHC-60.5", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DTC-9.8", "DTR-10.5", "DTR-30.4", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-60.5", "DTR-60.6", "DTR-7.8", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "RDC-7.1", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR616", "TX-NR616AE", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR905", "TX-NR906", "TX-NR929", "TX-SA805", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR805", "TX-SR875", "TX-SR876" } ) },
-			{ "set251",new HashSet<string>( new string[] { "DHC-60.5", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4.2", "DRX-4.3", "DTC-9.8", "DTR-10.5", "DTR-30.4", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-60.5", "DTR-60.6", "DTR-7.8", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "RDC-7.1", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR7100", "TX-NR717", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ630", "TX-RZ730", "TX-RZ740", "TX-SA805", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR805", "TX-SR875", "TX-SR876" } ) },
-			{ "set252",new HashSet<string>( new string[] { "DHC-60.5", "DHC-80.1", "DHC-9.9", "DTC-9.8", "DTR-10.5", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-60.5", "DTR-7.8", "DTR-70.1", "DTR-70.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-9.9", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "PR-SC5507", "PR-SC885", "PR-SC886", "RDC-7.1", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR3007", "TX-NR3010", "TX-NR5000", "TX-NR5007", "TX-NR5010", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR905", "TX-NR906", "TX-NR929", "TX-SA805", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR805", "TX-SR875", "TX-SR876" } ) },
-			{ "set253",new HashSet<string>( new string[] { "DHC-60.5", "DHC-60.7", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTR-10.5", "DTR-30.4", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-80.2", "DTR-80.3", "ETX-NA1000", "PR-RZ5100", "PR-SC5508", "PR-SC5509", "PR-SC5530", "RDC-7.1", "TX-NR1000", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5000", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR616", "TX-NR616AE", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR787", "TX-NR797", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ630", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
-			{ "set254",new HashSet<string>( new string[] { "DHC-60.5", "DHC-60.7", "DHC-80.3", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-3.4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTR-30.4", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-80.3", "PR-SC5509", "TX-NR1009", "TX-NR3009", "TX-NR5009", "TX-NR809" } ) },
-			{ "set255",new HashSet<string>( new string[] { "DHC-60.7", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTR-50.7", "DTR-60.7", "PR-RZ5100", "TX-NR7100", "TX-NR787", "TX-NR797", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ630", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
-			{ "set256",new HashSet<string>( new string[] { "DHC-80.1", "DHC-80.2", "DHC-9.9", "DTC-9.8", "DTR-10.5", "DTR-50.1", "DTR-7.8", "DTR-70.1", "DTR-70.2", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-9.9", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "PR-SC5507", "PR-SC5508", "PR-SC885", "PR-SC886", "RDC-7.1", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR3007", "TX-NR3008", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR807", "TX-NR905", "TX-NR906", "TX-SA805", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR805", "TX-SR875", "TX-SR876" } ) },
-			{ "set257",new HashSet<string>( new string[] { "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-9.8", "DTR-10.5", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.8", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "RDC-7.1", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ630", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA805", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR805", "TX-SR875", "TX-SR876" } ) },
-			{ "set258",new HashSet<string>( new string[] { "DHC-60.5", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DTR-10.5", "DTR-30.4", "DTR-40.4", "DTR-40.5", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-60.5", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-8.8", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-8.8", "DTX-9.9", "ETX-NA1000", "PR-SC5507", "PR-SC5508", "PR-SC5509", "RDC-7.1", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR616", "TX-NR616AE", "TX-NR717", "TX-NR727", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR905", "TX-NR906", "TX-NR929" } ) },
-			{ "set259",new HashSet<string>( new string[] { "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTR-30.4", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.8", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-8.8", "DTX-9.9", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR616", "TX-NR616AE", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR787", "TX-NR797", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ630", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
-			{ "set260",new HashSet<string>( new string[] { "DHC-80.1", "DHC-80.2", "DHC-80.3", "DTR-30.4", "DTR-40.4", "DTR-50.3", "DTR-50.4", "DTR-70.3", "DTR-70.4", "DTR-80.1", "DTR-80.2", "DTR-80.3", "PR-SC5507", "PR-SC5508", "PR-SC5509", "TX-NR1009", "TX-NR1010", "TX-NR3009", "TX-NR3010", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR616", "TX-NR616AE", "TX-NR717", "TX-NR809", "TX-NR818", "TX-NR818AE" } ) },
-			{ "set261",new HashSet<string>( new string[] { "DHC-60.5", "DHC-60.7", "DHC-80.3", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTR-30.4", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-80.3", "PR-RZ5100", "PR-SC5509", "PR-SC5530", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5009", "TX-NR5010", "TX-NR616", "TX-NR616AE", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR787", "TX-NR797", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ630", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
-			{ "set262",new HashSet<string>( new string[] { "TX-NR616", "TX-NR616AE", "TX-NR818", "TX-NR818AE" } ) },
-			{ "set263",new HashSet<string>( new string[] { "DRC-R1.3", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4.3", "DRX-5.3", "DRX-5.4", "DRX-7.3", "DRX-R1.3", "PR-RZ5100", "PR-SC5530", "TX-NR1030", "TX-NR3030", "TX-NR7100", "TX-NR737", "TX-NR787", "TX-NR797", "TX-NR838", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ630", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
-			{ "set264",new HashSet<string>( new string[] { "DHC-80.1", "DHC-80.2", "DHC-80.3", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-80.1", "DTR-80.2", "DTR-80.3", "PR-SC5507", "PR-SC5508", "PR-SC5509", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR807", "TX-NR808", "TX-NR809" } ) },
-			{ "set265",new HashSet<string>( new string[] { "DHC-9.9", "DTC-9.8", "DTR-7.8", "DTR-8.8", "DTR-8.9", "DTR-9.9", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "PR-SC885", "PR-SC886", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR905", "TX-NR906", "TX-SA805", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR805", "TX-SR875", "TX-SR876" } ) },
-			{ "set266",new HashSet<string>( new string[] { "DHC-80.1", "DHC-80.2", "DHC-9.9", "DTC-9.8", "DTR-50.1", "DTR-50.2", "DTR-7.8", "DTR-70.1", "DTR-70.2", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-9.9", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "PR-SC5507", "PR-SC5508", "PR-SC885", "PR-SC886", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1007", "TX-NR1008", "TX-NR3007", "TX-NR3008", "TX-NR5007", "TX-NR5008", "TX-NR807", "TX-NR808", "TX-NR905", "TX-NR906", "TX-SA805", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR805", "TX-SR875", "TX-SR876" } ) },
-			{ "set267",new HashSet<string>( new string[] { "DRC-R1.3", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4.2", "DRX-4.3", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7.3", "DRX-R1.3", "TX-NR7100", "TX-NR787", "TX-NR797", "TX-RZ3400", "TX-RZ50", "TX-RZ630", "TX-RZ730", "TX-RZ740", "TX-RZ820", "TX-RZ830", "TX-RZ840" } ) },
-			{ "set268",new HashSet<string>( new string[] { "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-9.8", "DTR-30.4", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.8", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR616", "TX-NR616AE", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ630", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA805", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR805", "TX-SR875", "TX-SR876" } ) },
-			{ "set269",new HashSet<string>( new string[] { "DHC-60.5", "DHC-60.7", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTR-30.4", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-80.2", "DTR-80.3", "PR-RZ5100", "PR-SC5508", "PR-SC5509", "PR-SC5530", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR616", "TX-NR616AE", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR787", "TX-NR797", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ630", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
-			{ "set270",new HashSet<string>( new string[] { "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTR-30.4", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.8", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-8.8", "DTX-9.9", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR616", "TX-NR616AE", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ630", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
-			{ "set271",new HashSet<string>( new string[] { "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTR-30.4", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-9.9", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "TX-NA906", "TX-NA906X", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR616", "TX-NR616AE", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ630", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
-			{ "set272",new HashSet<string>( new string[] { "DHC-60.5", "DHC-60.7", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DTR-30.4", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-9.9", "PR-SC5508", "PR-SC5509", "PR-SC5530", "TX-NA906", "TX-NA906X", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR616", "TX-NR616AE", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR906", "TX-NR929", "TX-RZ800", "TX-RZ900" } ) },
-			{ "set273",new HashSet<string>( new string[] { "DHC-60.5", "DHC-60.7", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTR-30.4", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-9.9", "PR-RZ5100", "PR-SC5508", "PR-SC5509", "PR-SC5530", "TX-NA906", "TX-NA906X", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR616", "TX-NR616AE", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR787", "TX-NR797", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ630", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
-			{ "set274",new HashSet<string>( new string[] { "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DTR-30.4", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-9.9", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "TX-NA906", "TX-NA906X", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR616", "TX-NR616AE", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR906", "TX-NR929", "TX-RZ800", "TX-RZ900" } ) },
-			{ "set275",new HashSet<string>( new string[] { "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-80.1", "DTR-80.2", "DTR-80.3" } ) },
-			{ "set276",new HashSet<string>( new string[] { "DTR-70.1", "DTR-70.4", "DTR-80.1" } ) },
-			{ "set277",new HashSet<string>( new string[] { "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-80.2", "DTR-80.3" } ) },
-			{ "set278",new HashSet<string>( new string[] { "DTR-70.3", "DTR-70.4", "DTR-80.3" } ) },
-			{ "set279",new HashSet<string>( new string[] { "DTR-70.3", "DTR-70.4", "DTR-80.1", "DTR-80.2", "DTR-80.3" } ) },
-			{ "set280",new HashSet<string>( new string[] { "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-80.1", "DTR-80.2", "DTR-80.3" } ) },
-			{ "set281",new HashSet<string>( new string[] { "DTR-70.1", "DTR-70.2", "DTR-80.1", "DTR-80.2" } ) },
-			{ "set282",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-7", "DTC-9.4", "DTM-7", "DTR-10.5", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.3", "DTR-7.4", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.3", "DTR-8.4", "DTR-8.8", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-7", "DTX-8.8", "DTX-9.9", "ETX-NA1000", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "RDC-7.1", "TX-8270", "TX-8390", "TX-NA900", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR900", "TX-NR901", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
-			{ "set283",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-7", "DTC-9.4", "DTM-7", "DTR-10.5", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.3", "DTR-7.4", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.3", "DTR-8.4", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTX-7", "ETX-NA1000", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "RDC-7.1", "TX-8270", "TX-8390", "TX-NA900", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR900", "TX-NR901", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
-			{ "set284",new HashSet<string>( new string[] { "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTM-7", "PR-RZ5100", "TX-8270", "TX-8390", "TX-NR474", "TX-NR5100", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR6100", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR7100", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ920" } ) },
-			{ "set285",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DTC-7", "DTC-9.4", "DTR-10.5", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.3", "DTR-7.4", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.3", "DTR-8.4", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTX-7", "ETX-NA1000", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "RDC-7.1", "TX-NA900", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR579", "TX-NR609", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR708", "TX-NR709", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR900", "TX-NR901", "TX-NR929", "TX-RZ800", "TX-RZ900" } ) },
-			{ "set286",new HashSet<string>( new string[] { "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-7", "DTC-9.4", "DTM-7", "DTR-10.5", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.3", "DTR-7.4", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.3", "DTR-8.4", "DTR-80.2", "DTR-80.3", "DTX-7", "ETX-NA1000", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5508", "PR-SC5509", "PR-SC5530", "RDC-7.1", "TX-8270", "TX-8390", "TX-NA900", "TX-NR1000", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5000", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR900", "TX-NR901", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
-			{ "set287",new HashSet<string>( new string[] { "DTR-10.5", "DTR-7.4", "DTR-8.4", "DTX-7", "ETX-NA1000", "RDC-7.1", "TX-NR1000", "TX-NR5000", "TX-NR901" } ) },
-			{ "set288",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-80.1", "DHC-80.2", "DTR-40.1", "DTR-40.2", "DTR-50.1", "DTR-50.2", "DTR-70.1", "DTR-70.2", "DTR-8.8", "DTR-80.1", "DTR-80.2", "DTR-9.9", "DTX-8.8", "DTX-9.9", "PR-SC5507", "PR-SC5508", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1007", "TX-NR1008", "TX-NR3007", "TX-NR3008", "TX-NR5007", "TX-NR5008", "TX-NR708", "TX-NR807", "TX-NR808", "TX-NR905", "TX-NR906" } ) },
-			{ "set289",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTM-7", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.8", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-8.8", "DTX-9.9", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "TX-8270", "TX-8390", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
-			{ "set290",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTM-7", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-80.1", "DTR-80.2", "DTR-80.3", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "TX-8270", "TX-8390", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
-			{ "set291",new HashSet<string>( new string[] { "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTM-7", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-80.2", "DTR-80.3", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5508", "PR-SC5509", "PR-SC5530", "TX-8270", "TX-8390", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
-			{ "set292",new HashSet<string>( new string[] { "DHC-60.5", "DHC-60.7", "DHC-80.3", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTM-7", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-80.3", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5509", "PR-SC5530", "TX-8270", "TX-8390", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
-			{ "set293",new HashSet<string>( new string[] { "DHC-60.5", "DHC-60.7", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTM-7", "DTR-20.7", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.6", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5530", "TX-8270", "TX-8390", "TX-NR1030", "TX-NR3030", "TX-NR474", "TX-NR5100", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR6100", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR7100", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR828", "TX-NR838", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
-			{ "set294",new HashSet<string>( new string[] { "DHC-60.5", "DTR-30.5", "DTR-40.5", "DTR-50.5", "DTR-60.5", "HT-RC560", "TX-NR626", "TX-NR727", "TX-NR828", "TX-NR929" } ) },
-			{ "set295",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-80.1", "DTR-80.2", "DTR-80.3", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR708", "TX-NR709", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR929", "TX-RZ900" } ) },
-			{ "set296",new HashSet<string>( new string[] { "DHC-40.1", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.3", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTM-7", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.1", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.1", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.1", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-80.1", "DTR-80.3", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5509", "PR-SC5530", "TX-8270", "TX-8390", "TX-NR1007", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5007", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
-			{ "set297",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DTR-20.3", "DTR-20.4", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-60.5", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-80.1", "DTR-80.2", "DTR-80.3", "HT-RC550", "HT-RC560", "PR-SC5507", "PR-SC5508", "PR-SC5509", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR414", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR579", "TX-NR609", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR708", "TX-NR709", "TX-NR717", "TX-NR727", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR929" } ) },
-			{ "set298",new HashSet<string>( new string[] { "DHC-60.7", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTM-7", "DTR-20.7", "DTR-30.6", "DTR-30.7", "DTR-40.6", "DTR-40.7", "DTR-50.6", "DTR-50.7", "DTR-60.6", "DTR-60.7", "DTR-70.6", "HT-R693", "HT-R993", "HT-RC660", "PR-RZ5100", "PR-SC5530", "TX-8270", "TX-8390", "TX-NR1030", "TX-NR3030", "TX-NR474", "TX-NR5100", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR6100", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR7100", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR838", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
-			{ "set299",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DTR-20.3", "DTR-20.4", "DTR-30.3", "DTR-30.4", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-80.1", "DTR-80.2", "DTR-80.3", "PR-SC5507", "PR-SC5508", "PR-SC5509", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR414", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR515", "TX-NR515AE", "TX-NR579", "TX-NR609", "TX-NR616", "TX-NR616AE", "TX-NR708", "TX-NR709", "TX-NR717", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE" } ) },
-			{ "set300",new HashSet<string>( new string[] { "DHC-60.5", "DTR-30.5", "DTR-40.5", "DTR-50.5", "DTR-60.5", "HT-RC550", "HT-RC560", "TX-NR525", "TX-NR626", "TX-NR727", "TX-NR828", "TX-NR929" } ) },
-			{ "set301",new HashSet<string>( new string[] { "DHC-40.2", "DHC-80.2", "DTR-40.2", "DTR-50.2", "DTR-70.2", "DTR-80.2", "PR-SC5508", "TX-NR1008", "TX-NR3008", "TX-NR5008", "TX-NR708", "TX-NR808" } ) },
-			{ "set302",new HashSet<string>( new string[] { "DTR-20.4", "DTR-30.4", "DTR-40.4", "DTR-50.4", "DTR-70.4", "TX-NR1010", "TX-NR3010", "TX-NR414", "TX-NR5010", "TX-NR515", "TX-NR515AE", "TX-NR616", "TX-NR616AE", "TX-NR717", "TX-NR818", "TX-NR818AE" } ) },
-			{ "set303",new HashSet<string>( new string[] { "DHC-60.5", "DHC-60.7", "DHC-80.6", "DTR-20.4", "DTR-20.7", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.4", "DTR-70.6", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-SC5530", "TX-NR1010", "TX-NR1030", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR5010", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR929", "TX-RZ800", "TX-RZ900" } ) },
-			{ "set304",new HashSet<string>( new string[] { "DHC-60.5", "DHC-60.7", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTM-7", "DTR-20.4", "DTR-20.7", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.4", "DTR-70.6", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5530", "TX-8270", "TX-8390", "TX-NR1010", "TX-NR1030", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5010", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
-			{ "set305",new HashSet<string>( new string[] { "DHC-40.2", "DHC-60.5", "DHC-80.2", "DHC-80.3", "DTR-20.3", "DTR-20.4", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-60.5", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-80.2", "DTR-80.3", "HT-RC550", "HT-RC560", "PR-SC5508", "PR-SC5509", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR414", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR579", "TX-NR609", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR708", "TX-NR709", "TX-NR717", "TX-NR727", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR929" } ) },
-			{ "set306",new HashSet<string>( new string[] { "DHC-60.7", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTM-7", "DTR-20.7", "DTR-30.7", "DTR-40.7", "DTR-50.7", "DTR-60.7", "PR-RZ5100", "TX-8270", "TX-8390", "TX-NR474", "TX-NR5100", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR6100", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR7100", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
-			{ "set307",new HashSet<string>( new string[] { "DHC-60.5", "DHC-80.3", "DTR-20.3", "DTR-20.4", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-60.5", "DTR-70.3", "DTR-70.4", "DTR-80.3", "HT-RC550", "HT-RC560", "PR-SC5509", "TX-NR1009", "TX-NR1010", "TX-NR3009", "TX-NR3010", "TX-NR414", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR579", "TX-NR609", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR709", "TX-NR717", "TX-NR727", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR929" } ) },
-			{ "set308",new HashSet<string>( new string[] { "DHC-40.2", "DHC-60.5", "DHC-80.2", "DHC-80.3", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-60.5", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-80.2", "DTR-80.3", "HT-RC550", "HT-RC560", "PR-SC5508", "PR-SC5509", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR414", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR579", "TX-NR609", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR708", "TX-NR709", "TX-NR717", "TX-NR727", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR929" } ) },
-			{ "set309",new HashSet<string>( new string[] { "DHC-80.3", "DTR-20.3", "DTR-20.4", "DTR-30.3", "DTR-30.4", "DTR-40.3", "DTR-40.4", "DTR-50.3", "DTR-50.4", "DTR-70.3", "DTR-70.4", "DTR-80.3", "PR-SC5509", "TX-NR1009", "TX-NR1010", "TX-NR3009", "TX-NR3010", "TX-NR414", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR515", "TX-NR515AE", "TX-NR579", "TX-NR609", "TX-NR616", "TX-NR616AE", "TX-NR709", "TX-NR717", "TX-NR809", "TX-NR818", "TX-NR818AE" } ) },
-			{ "set310",new HashSet<string>( new string[] { "DHC-80.3", "DTR-20.4", "DTR-30.3", "DTR-30.4", "DTR-40.3", "DTR-40.4", "DTR-50.3", "DTR-50.4", "DTR-70.3", "DTR-70.4", "DTR-80.3", "PR-SC5509", "TX-NR1009", "TX-NR1010", "TX-NR3009", "TX-NR3010", "TX-NR5009", "TX-NR5010", "TX-NR515", "TX-NR515AE", "TX-NR579", "TX-NR609", "TX-NR616", "TX-NR616AE", "TX-NR709", "TX-NR717", "TX-NR809", "TX-NR818", "TX-NR818AE" } ) },
-			{ "set311",new HashSet<string>( new string[] { "DRC-R1.1", "DRC-R1.3", "DRX-2.1", "DRX-3.1", "DRX-3.3", "DRX-3.4", "DRX-4.3", "DRX-5.3", "DRX-5.4", "DRX-7.1", "DRX-7.3", "DRX-R1.1", "DRX-R1.3", "DTM-7", "TX-8270", "TX-8390", "TX-NR474", "TX-NR5100", "TX-NR575", "TX-NR575E", "TX-NR6050", "TX-NR6100", "TX-NR676", "TX-NR676E", "TX-NR696", "TX-NR7100", "TX-NR777", "TX-NR797", "TX-RZ3400", "TX-RZ50", "TX-RZ620", "TX-RZ720", "TX-RZ740", "TX-RZ820", "TX-RZ840", "TX-RZ920" } ) },
-			{ "set312",new HashSet<string>( new string[] { "DRC-R1.3", "DRX-3.3", "DRX-3.4", "DRX-4.3", "DRX-5.3", "DRX-5.4", "DRX-7.3", "DRX-R1.3", "TX-8390", "TX-NR5100", "TX-NR6050", "TX-NR6100", "TX-NR696", "TX-NR7100", "TX-NR797", "TX-RZ3400", "TX-RZ50", "TX-RZ740", "TX-RZ840" } ) },
-			{ "set313",new HashSet<string>( new string[] { "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTM-7", "DTR-5.2", "PR-RZ5100", "TX-8270", "TX-8390", "TX-NR474", "TX-NR5100", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR6100", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR7100", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ920" } ) },
-			{ "set314",new HashSet<string>( new string[] { "DTR-8.2", "DTR-9.1", "RDC-7", "TX-DS898", "TX-DS989" } ) },
-			{ "set315",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-80.1", "DHC-80.2", "DTR-40.1", "DTR-40.2", "DTR-50.1", "DTR-50.2", "DTR-70.1", "DTR-70.2", "DTR-80.1", "DTR-80.2", "PR-SC5507", "TX-NR1007", "TX-NR1008", "TX-NR3007", "TX-NR3008", "TX-NR5007", "TX-NR5008", "TX-NR708", "TX-NR807", "TX-NR808", "TX-NR818", "TX-NR818AE" } ) },
-			{ "set316",new HashSet<string>( new string[] { "DHC-40.1", "DHC-80.1", "DTR-40.1", "DTR-50.1", "DTR-70.1", "DTR-80.1", "PR-SC5507", "TX-NR1007", "TX-NR3007", "TX-NR5007", "TX-NR515", "TX-NR515AE", "TX-NR616", "TX-NR616AE", "TX-NR807", "TX-NR818", "TX-NR818AE" } ) },
-			{ "set317",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-80.1", "DHC-80.2", "DTR-40.1", "DTR-40.2", "DTR-50.1", "DTR-50.2", "DTR-70.1", "DTR-70.2", "DTR-80.1", "DTR-80.2", "PR-SC5507", "TX-NR1007", "TX-NR1008", "TX-NR3007", "TX-NR3008", "TX-NR5007", "TX-NR5008", "TX-NR515", "TX-NR515AE", "TX-NR616", "TX-NR616AE", "TX-NR708", "TX-NR807", "TX-NR808", "TX-NR818", "TX-NR818AE" } ) },
-			{ "set318",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DTC-9.8", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-4.6", "DTR-4.9", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.6", "DTR-5.8", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR579", "TX-NR609", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR708", "TX-NR709", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ800", "TX-RZ900", "TX-SA706", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
-			{ "set319",new HashSet<string>( new string[] { "DTC-9.8", "DTR-4.6", "DTR-5.6", "DTR-5.8", "DTR-6.6", "DTR-6.8", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-8.8", "DTX-5.8", "DTX-7.7", "DTX-7.8", "DTX-8.8", "PR-SC885", "TX-NA905", "TX-NR905", "TX-SA805", "TX-SA875", "TX-SR703", "TX-SR705", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR875" } ) },
-			{ "set320",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-4.9", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-5.9", "DTX-8.9", "DTX-9.9", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC886", "TX-NA906", "TX-NA906X", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR579", "TX-NR609", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR708", "TX-NR709", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR906", "TX-NR929", "TX-RZ800", "TX-RZ900", "TX-SA706", "TX-SA806", "TX-SA806X", "TX-SA876", "TX-SR706", "TX-SR707", "TX-SR806", "TX-SR876" } ) },
-			{ "set321",new HashSet<string>( new string[] { "DHC-40.2", "DHC-80.2", "DHC-80.3", "DTR-20.2", "DTR-20.3", "DTR-30.2", "DTR-30.3", "DTR-40.2", "DTR-40.3", "DTR-50.2", "DTR-50.3", "DTR-70.2", "DTR-70.3", "DTR-80.2", "DTR-80.3", "PR-SC5508", "PR-SC5509", "TX-NR1008", "TX-NR1009", "TX-NR3008", "TX-NR3009", "TX-NR5008", "TX-NR5009", "TX-NR509", "TX-NR579", "TX-NR609", "TX-NR708", "TX-NR709", "TX-NR808", "TX-NR809" } ) },
-			{ "set322",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DTR-20.2", "DTR-20.3", "DTR-30.2", "DTR-30.3", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-80.1", "DTR-80.2", "DTR-80.3", "PR-SC5507", "PR-SC5508", "PR-SC5509", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR509", "TX-NR579", "TX-NR609", "TX-NR708", "TX-NR709", "TX-NR807", "TX-NR808", "TX-NR809", "TX-SR707" } ) },
-			{ "set323",new HashSet<string>( new string[] { "DHC-40.2", "DHC-80.2", "DHC-80.3", "DTR-20.2", "DTR-20.3", "DTR-30.2", "DTR-30.3", "DTR-40.2", "DTR-40.3", "DTR-50.2", "DTR-50.3", "DTR-70.2", "DTR-70.3", "DTR-80.2", "DTR-80.3", "PR-SC5508", "PR-SC5509", "TX-NR1008", "TX-NR1009", "TX-NR3008", "TX-NR3009", "TX-NR5008", "TX-NR5009", "TX-NR579", "TX-NR609", "TX-NR708", "TX-NR709", "TX-NR808", "TX-NR809" } ) }
+			{ "set23",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-7", "DTC-9.4", "DTC-9.8", "DTM-7", "DTM-7.4", "DTR-10.5", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-4.5", "DTR-4.6", "DTR-4.9", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.3", "DTR-5.4", "DTR-5.5", "DTR-5.6", "DTR-5.8", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.3", "DTR-6.4", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.2", "DTR-7.3", "DTR-7.4", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.2", "DTR-8.3", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "RDC-7.1", "TX-8270", "TX-8390", "TX-8470", "TX-DS797", "TX-DS898", "TX-NA900", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR900", "TX-NR901", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
+			{ "set24",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-7", "DTC-9.4", "DTC-9.8", "DTM-7", "DTR-10.5", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-4.5", "DTR-4.6", "DTR-4.9", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.3", "DTR-5.4", "DTR-5.5", "DTR-5.6", "DTR-5.8", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.3", "DTR-6.4", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.2", "DTR-7.3", "DTR-7.4", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.2", "DTR-8.3", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "RDC-7.1", "TX-8270", "TX-8390", "TX-DS797", "TX-DS898", "TX-NA900", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR900", "TX-NR901", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
+			{ "set25",new HashSet<string>( new string[] { "DHC-60.5", "DHC-60.7", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTM-7", "DTR-20.4", "DTR-20.7", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.4", "DTR-70.6", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5530", "TX-8270", "TX-8390", "TX-NR1010", "TX-NR1030", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5010", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
+			{ "set26",new HashSet<string>( new string[] { "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2.4", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "PR-RZ5100", "TX-NR5100", "TX-NR6050", "TX-NR6100", "TX-NR7100", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ920" } ) },
+			{ "set27",new HashSet<string>( new string[] { "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DTM-7", "TX-8270", "TX-8390", "TX-NR474", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR585", "TX-NR595", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-RZ610", "TX-RZ620", "TX-RZ630" } ) },
+			{ "set28",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DTC-9.8", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-4.9", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.8", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR579", "TX-NR609", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR708", "TX-NR709", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ800", "TX-RZ900", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
+			{ "set29",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-9.8", "DTM-7", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-4.9", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.8", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "TX-8270", "TX-8390", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
+			{ "set30",new HashSet<string>( new string[] { "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "PR-RZ5100", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ70", "TX-RZ920" } ) },
+			{ "set31",new HashSet<string>( new string[] { "DHC-80.6", "DTR-60.6", "DTR-70.6", "PR-SC5530", "TX-NR1030", "TX-NR3030" } ) },
+			{ "set32",new HashSet<string>( new string[] { "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTR-60.6", "DTR-70.6", "PR-RZ5100", "PR-SC5530", "TX-NR1030", "TX-NR3030", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ70", "TX-RZ920" } ) },
+			{ "set33",new HashSet<string>( new string[] { "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "TX-NR474", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR585", "TX-NR595", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-RZ610", "TX-RZ620", "TX-RZ630" } ) },
+			{ "set34",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-4.9", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-5.9", "DTX-8.9", "DTX-9.9", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC886", "TX-NA906", "TX-NA906X", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR579", "TX-NR609", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR708", "TX-NR709", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR906", "TX-NR929", "TX-RZ800", "TX-RZ900", "TX-SA706", "TX-SA706X", "TX-SA806", "TX-SA806X", "TX-SA876", "TX-SR706", "TX-SR707", "TX-SR806", "TX-SR876" } ) },
+			{ "set35",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-4.9", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-5.9", "DTX-8.9", "DTX-9.9", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC886", "TX-NA906", "TX-NA906X", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA706", "TX-SA706X", "TX-SA806", "TX-SA806X", "TX-SA876", "TX-SR706", "TX-SR707", "TX-SR806", "TX-SR876" } ) },
+			{ "set36",new HashSet<string>( new string[] { "DRC-R1.3", "DRX-2.3", "DRX-2.4", "DRX-3.3", "DRX-3.4", "DRX-4.3", "DRX-5.3", "DRX-5.4", "DRX-7.3", "DRX-8.4", "DRX-R1.3", "TX-NR5100", "TX-NR595", "TX-NR6050", "TX-NR6100", "TX-NR696", "TX-NR7100", "TX-NR797", "TX-RZ30", "TX-RZ3400", "TX-RZ50", "TX-RZ70", "TX-RZ740", "TX-RZ840" } ) },
+			{ "set37",new HashSet<string>( new string[] { "DTC-9.1", "DTR-7.1", "DTR-9.1", "RDC-7", "RDC-7(Ver2.0)", "TX-DS787", "TX-DS989" } ) },
+			{ "set38",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-7", "DTC-9.4", "DTC-9.8", "DTM-7", "DTM-7.4", "DTR-10.5", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-4.5", "DTR-4.6", "DTR-4.9", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.2", "DTR-5.3", "DTR-5.4", "DTR-5.5", "DTR-5.6", "DTR-5.8", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.2", "DTR-6.3", "DTR-6.4", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.2", "DTR-7.3", "DTR-7.4", "DTR-7.6", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.2", "DTR-8.3", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "RDC-7.1", "TX-8270", "TX-8390", "TX-8470", "TX-DS797", "TX-DS898", "TX-NA900", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR900", "TX-NR901", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR803", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
+			{ "set39",new HashSet<string>( new string[] { "DTC-7", "DTC-9.4", "DTR-10.5", "DTR-20.1", "DTR-20.2", "DTR-30.1", "DTR-30.2", "DTR-4.5", "DTR-4.6", "DTR-4.9", "DTR-5.2", "DTR-5.3", "DTR-5.4", "DTR-5.5", "DTR-5.6", "DTR-5.8", "DTR-5.9", "DTR-6.2", "DTR-6.3", "DTR-6.4", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-7.2", "DTR-7.3", "DTR-7.4", "DTR-7.6", "DTR-8.2", "DTR-8.3", "DTR-8.4", "DTX-5.8", "DTX-5.9", "DTX-7", "ETX-NA1000", "RDC-7.1", "TX-DS797", "TX-DS898", "TX-NA900", "TX-NR1000", "TX-NR5000", "TX-NR900", "TX-NR901", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR803" } ) },
+			{ "set40",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-9.1", "DTC-9.8", "DTM-7", "DTM-7.4", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-4.9", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.8", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.1", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.1", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "RDC-7", "RDC-7(Ver2.0)", "TX-8270", "TX-8390", "TX-8470", "TX-DS787", "TX-DS989", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
+			{ "set41",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTM-7", "DTM-7.4", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-80.1", "DTR-80.2", "DTR-80.3", "HT-R693", "HT-R993", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "TX-8270", "TX-8390", "TX-8470", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR474", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SR707" } ) },
+			{ "set42",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-7", "DTC-9.4", "DTC-9.8", "DTM-7", "DTM-7.4", "DTR-10.5", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-4.5", "DTR-4.6", "DTR-4.9", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.2", "DTR-5.3", "DTR-5.4", "DTR-5.5", "DTR-5.6", "DTR-5.8", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.2", "DTR-6.3", "DTR-6.4", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.2", "DTR-7.3", "DTR-7.4", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.2", "DTR-8.3", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "RDC-7.1", "TX-8270", "TX-8390", "TX-8470", "TX-DS797", "TX-DS898", "TX-NA900", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR900", "TX-NR901", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
+			{ "set43",new HashSet<string>( new string[] { "DTC-9.1", "DTR-10.5", "DTR-7.1", "DTR-9.1", "ETX-NA1000", "RDC-7", "RDC-7(Ver2.0)", "RDC-7.1", "TX-DS787", "TX-DS989", "TX-NR1000", "TX-NR5000" } ) },
+			{ "set44",new HashSet<string>( new string[] { "DTR-4.6", "DTR-5.6", "DTR-6.6", "DTR-7.6", "DTR-7.7", "DTX-7.7", "PR-SC5507", "PR-SC5508", "PR-SC5509", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR609", "TX-NR616", "TX-NR616AE", "TX-NR708", "TX-NR709", "TX-NR717", "TX-NR727", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR905", "TX-NR906", "TX-NR929", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
+			{ "set45",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-80.1", "DHC-80.2", "DTR-20.1", "DTR-20.2", "DTR-30.1", "DTR-30.2", "DTR-4.9", "DTR-40.1", "DTR-40.2", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-6.9", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-80.1", "DTR-80.2", "DTX-5.9", "PR-SC5507", "PR-SC5508", "TX-NR1007", "TX-NR1008", "TX-NR3007", "TX-NR3008", "TX-NR5007", "TX-NR5008", "TX-NR708", "TX-NR807", "TX-NR808", "TX-SA706", "TX-SA706X", "TX-SA806", "TX-SR706", "TX-SR707", "TX-SR806" } ) },
+			{ "set46",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-80.1", "DHC-80.2", "DTR-20.2", "DTR-30.1", "DTR-30.2", "DTR-40.1", "DTR-40.2", "DTR-50.1", "DTR-50.2", "DTR-6.9", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-80.1", "DTR-80.2", "PR-SC5507", "PR-SC5508", "TX-NR1007", "TX-NR1008", "TX-NR3007", "TX-NR3008", "TX-NR5007", "TX-NR5008", "TX-NR708", "TX-NR807", "TX-NR808", "TX-SA706", "TX-SA706X", "TX-SA806", "TX-SR706", "TX-SR707", "TX-SR806" } ) },
+			{ "set47",new HashSet<string>( new string[] { "DHC-40.2", "DHC-60.5", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-60.5", "DTR-60.6", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-80.2", "DTR-80.3", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-SC5508", "PR-SC5509", "PR-SC5530", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR579", "TX-NR609", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR708", "TX-NR709", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR929" } ) },
+			{ "set48",new HashSet<string>( new string[] { "DHC-60.5", "DHC-60.7", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTM-7", "DTM-7.4", "DTR-20.4", "DTR-20.7", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.4", "DTR-70.6", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5530", "TX-8270", "TX-8390", "TX-8470", "TX-NR1010", "TX-NR1030", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5010", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
+			{ "set49",new HashSet<string>( new string[] { "DHC-60.5", "DHC-80.6", "DTR-20.4", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-60.5", "DTR-60.6", "DTR-70.4", "DTR-70.6", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-SC5530", "TX-NR1010", "TX-NR1030", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR5010", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR929" } ) },
+			{ "set50",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-9.8", "DTM-7", "DTM-7.4", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-4.6", "DTR-4.9", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.6", "DTR-5.8", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "TX-8270", "TX-8390", "TX-8470", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA805", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR703", "TX-SR707", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR875", "TX-SR876" } ) },
+			{ "set51",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-9.8", "DTM-7", "DTM-7.4", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-4.6", "DTR-4.9", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.6", "DTR-5.8", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "HT-R693", "HT-R993", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "TX-8270", "TX-8390", "TX-8470", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR474", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
+			{ "set52",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTM-7", "DTM-7.4", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-80.1", "DTR-80.2", "DTR-80.3", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "TX-8270", "TX-8390", "TX-8470", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SR707" } ) },
+			{ "set53",new HashSet<string>( new string[] { "DRX-2.4", "DRX-3.4", "DRX-5.4", "DRX-8.4", "DTM-7.4", "TX-8470", "TX-NR5100", "TX-NR6050", "TX-NR6100", "TX-NR7100", "TX-RZ30", "TX-RZ50", "TX-RZ70" } ) },
+			{ "set54",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DTC-7", "DTC-9.1", "DTC-9.4", "DTC-9.8", "DTR-10.5", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.6", "DTR-4.5", "DTR-4.6", "DTR-4.9", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-5.2", "DTR-5.3", "DTR-5.4", "DTR-5.5", "DTR-5.6", "DTR-5.8", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-6.2", "DTR-6.3", "DTR-6.4", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-7.1", "DTR-7.2", "DTR-7.3", "DTR-7.4", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.2", "DTR-8.3", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.1", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "HT-R693", "HT-R993", "HT-RC660", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "RDC-7", "RDC-7(Ver2.0)", "RDC-7.1", "TX-DS787", "TX-DS797", "TX-DS898", "TX-DS989", "TX-NA900", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR535", "TX-NR579", "TX-NR609", "TX-NR616", "TX-NR616AE", "TX-NR636", "TX-NR708", "TX-NR709", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR900", "TX-NR901", "TX-NR905", "TX-NR906", "TX-NR929", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
+			{ "set55",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-7", "DTC-9.1", "DTC-9.4", "DTC-9.8", "DTR-10.5", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-4.6", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.3", "DTR-5.4", "DTR-5.5", "DTR-5.6", "DTR-5.8", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.2", "DTR-6.3", "DTR-6.4", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.1", "DTR-7.2", "DTR-7.3", "DTR-7.4", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.2", "DTR-8.3", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.1", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "RDC-7", "RDC-7(Ver2.0)", "RDC-7.1", "TX-DS787", "TX-DS797", "TX-DS898", "TX-DS989", "TX-NA900", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR900", "TX-NR901", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
+			{ "set56",new HashSet<string>( new string[] { "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-9.9", "DTC-7", "DTC-9.1", "DTC-9.4", "DTC-9.8", "DTR-10.5", "DTR-50.4", "DTR-50.5", "DTR-50.7", "DTR-60.5", "DTR-60.7", "DTR-7.1", "DTR-7.2", "DTR-7.3", "DTR-7.4", "DTR-7.8", "DTR-70.1", "DTR-70.4", "DTR-8.2", "DTR-8.3", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-9.1", "DTR-9.9", "DTX-7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "PR-SC5507", "PR-SC885", "PR-SC886", "RDC-7", "RDC-7(Ver2.0)", "RDC-7.1", "TX-DS787", "TX-DS797", "TX-DS898", "TX-DS989", "TX-NA900", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1010", "TX-NR3007", "TX-NR3010", "TX-NR5000", "TX-NR5007", "TX-NR5010", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR900", "TX-NR901", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ800", "TX-RZ900", "TX-SA805", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR805", "TX-SR875", "TX-SR876" } ) },
+			{ "set57",new HashSet<string>( new string[] { "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTM-7", "DTM-7.4", "DTR-10.5", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-80.2", "DTR-80.3", "ETX-NA1000", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5508", "PR-SC5509", "PR-SC5530", "RDC-7.1", "TX-8270", "TX-8390", "TX-8470", "TX-NR1000", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5000", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
+			{ "set58",new HashSet<string>( new string[] { "DTR-10.5", "ETX-NA1000", "RDC-7.1", "TX-NR1000", "TX-NR5000" } ) },
+			{ "set59",new HashSet<string>( new string[] { "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTM-7.4", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-80.2", "DTR-80.3", "PR-SC5508", "PR-SC5509", "TX-NR515", "TX-NR515AE", "TX-NR616", "TX-NR616AE" } ) },
+			{ "set60",new HashSet<string>( new string[] { "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTM-7.4", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-80.2", "DTR-80.3", "PR-SC5508", "PR-SC5509" } ) },
+			{ "set61",new HashSet<string>( new string[] { "DHC-60.7", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTR-20.7", "DTR-30.7", "DTR-40.7", "DTR-50.7", "DTR-60.7", "PR-RZ5100", "TX-NR474", "TX-NR5100", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR6100", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR7100", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
+			{ "set62",new HashSet<string>( new string[] { "DHC-40.1", "DHC-80.1", "DHC-80.2", "DHC-9.9", "DTC-7", "DTC-9.1", "DTC-9.4", "DTC-9.8", "DTM-7", "DTM-7.4", "DTR-10.5", "DTR-20.1", "DTR-30.1", "DTR-4.5", "DTR-4.6", "DTR-4.9", "DTR-40.1", "DTR-5.2", "DTR-5.3", "DTR-5.4", "DTR-5.5", "DTR-5.6", "DTR-5.8", "DTR-5.9", "DTR-50.1", "DTR-6.2", "DTR-6.3", "DTR-6.4", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-7.1", "DTR-7.2", "DTR-7.3", "DTR-7.4", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-8.2", "DTR-8.3", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-9.1", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "PR-SC5507", "PR-SC5508", "PR-SC885", "PR-SC886", "RDC-7", "RDC-7(Ver2.0)", "RDC-7.1", "TX-8270", "TX-8390", "TX-8470", "TX-DS787", "TX-DS797", "TX-DS898", "TX-DS989", "TX-NA900", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR3007", "TX-NR3008", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR807", "TX-NR900", "TX-NR901", "TX-NR905", "TX-NR906", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
+			{ "set63",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-7", "DTC-9.1", "DTC-9.4", "DTC-9.8", "DTM-7", "DTM-7.4", "DTR-10.5", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-4.6", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.2", "DTR-5.3", "DTR-5.6", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.2", "DTR-6.3", "DTR-6.4", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.1", "DTR-7.2", "DTR-7.3", "DTR-7.4", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.2", "DTR-8.3", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.1", "DTR-9.9", "DTX-7", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "HT-R693", "HT-R993", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "RDC-7", "RDC-7(Ver2.0)", "RDC-7.1", "TX-8270", "TX-8390", "TX-8470", "TX-DS787", "TX-DS797", "TX-DS898", "TX-DS989", "TX-NA900", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR6100", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR900", "TX-NR901", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
+			{ "set64",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DTC-7", "DTC-9.4", "DTR-10.5", "DTR-20.3", "DTR-20.4", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-60.5", "DTR-7.3", "DTR-7.4", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-8.3", "DTR-8.4", "DTR-8.8", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-7", "DTX-8.8", "DTX-9.9", "ETX-NA1000", "HT-RC550", "HT-RC560", "PR-SC5507", "PR-SC5508", "PR-SC5509", "RDC-7.1", "TX-NA900", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR414", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR579", "TX-NR609", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR708", "TX-NR709", "TX-NR717", "TX-NR727", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR900", "TX-NR901", "TX-NR905", "TX-NR906", "TX-NR929" } ) },
+			{ "set65",new HashSet<string>( new string[] { "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTM-7", "DTM-7.4", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.8", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-8.8", "DTX-9.9", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "TX-8270", "TX-8390", "TX-8470", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
+			{ "set66",new HashSet<string>( new string[] { "DHC-80.1", "DHC-80.2", "DHC-80.3", "DTM-7", "DTM-7.4", "DTR-20.4", "DTR-30.4", "DTR-40.4", "DTR-50.3", "DTR-50.4", "DTR-70.3", "DTR-70.4", "DTR-80.1", "DTR-80.2", "DTR-80.3", "HT-RC550", "PR-SC5507", "PR-SC5508", "PR-SC5509", "TX-8270", "TX-8390", "TX-8470", "TX-NR1009", "TX-NR1010", "TX-NR3009", "TX-NR3010", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR616", "TX-NR616AE", "TX-NR717", "TX-NR809", "TX-NR818", "TX-NR818AE" } ) },
+			{ "set67",new HashSet<string>( new string[] { "DHC-60.5", "DHC-60.7", "DHC-80.3", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTM-7", "DTM-7.4", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-80.3", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5509", "PR-SC5530", "TX-8270", "TX-8390", "TX-8470", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
+			{ "set68",new HashSet<string>( new string[] { "TX-NR515", "TX-NR515AE", "TX-NR616", "TX-NR616AE", "TX-NR818", "TX-NR818AE" } ) },
+			{ "set69",new HashSet<string>( new string[] { "DHC-60.5", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4.3", "DRX-5.3", "DRX-5.4", "DRX-7.3", "DRX-8.4", "DRX-R1.3", "DTM-7", "DTM-7.4", "DTR-20.7", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.5", "DTR-50.5", "DTR-60.5", "HT-R693", "HT-R993", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5530", "TX-8270", "TX-8390", "TX-8470", "TX-NR1030", "TX-NR3030", "TX-NR474", "TX-NR5100", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR6100", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR7100", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR828", "TX-NR838", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
+			{ "set70",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-80.1", "DTR-80.2", "DTR-80.3", "PR-SC5507", "PR-SC5508", "PR-SC5509", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR509", "TX-NR579", "TX-NR609", "TX-NR708", "TX-NR709", "TX-NR807", "TX-NR808", "TX-NR809", "TX-SR707" } ) },
+			{ "set71",new HashSet<string>( new string[] { "DTR-4.5", "DTR-4.6", "DTR-4.9", "DTR-5.5", "DTR-5.6", "DTR-5.8", "DTR-5.9", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-7.6", "DTR-7.7", "DTR-7.9", "DTX-5.8", "DTX-5.9", "DTX-7.7", "TX-SA706", "TX-SA706X", "TX-SA806", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR803", "TX-SR804", "TX-SR806" } ) },
+			{ "set72",new HashSet<string>( new string[] { "DHC-9.9", "DTC-9.8", "DTR-4.6", "DTR-5.6", "DTR-5.8", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-8.8", "DTR-8.9", "DTR-9.9", "DTX-5.8", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "PR-SC885", "PR-SC886", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR905", "TX-NR906", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
+			{ "set73",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-80.1", "DHC-80.2", "DHC-9.9", "DTC-9.8", "DTR-30.1", "DTR-30.2", "DTR-40.1", "DTR-40.2", "DTR-5.8", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-6.8", "DTR-6.9", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "PR-SC5507", "PR-SC5508", "PR-SC885", "PR-SC886", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1007", "TX-NR1008", "TX-NR3007", "TX-NR3008", "TX-NR5007", "TX-NR5008", "TX-NR708", "TX-NR807", "TX-NR808", "TX-NR905", "TX-NR906", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
+			{ "set74",new HashSet<string>( new string[] { "DRC-R1.3", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4.2", "DRX-4.3", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7.3", "DRX-R1.3", "DTM-7.4", "DTR-70.4", "TX-8270", "TX-8390", "TX-8470", "TX-NR1010", "TX-NR3010", "TX-NR474", "TX-NR5010", "TX-NR575", "TX-NR575E", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR6100", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR7100", "TX-NR777", "TX-NR787", "TX-NR797", "TX-RZ3400", "TX-RZ50", "TX-RZ620", "TX-RZ630", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ820", "TX-RZ830", "TX-RZ840" } ) },
+			{ "set75",new HashSet<string>( new string[] { "DTC-7", "DTC-9.1", "DTC-9.4", "DTR-10.5", "DTR-4.5", "DTR-5.4", "DTR-5.5", "DTR-6.2", "DTR-6.3", "DTR-6.4", "DTR-6.5", "DTR-7.1", "DTR-7.2", "DTR-7.3", "DTR-7.4", "DTR-8.2", "DTR-8.3", "DTR-8.4", "DTR-9.1", "DTX-7", "ETX-NA1000", "RDC-7", "RDC-7(Ver2.0)", "RDC-7.1", "TX-DS787", "TX-DS797", "TX-DS898", "TX-DS989", "TX-NA900", "TX-NR1000", "TX-NR5000", "TX-NR900", "TX-NR901", "TX-SR702" } ) },
+			{ "set76",new HashSet<string>( new string[] { "DTC-7", "DTC-9.1", "DTC-9.4", "DTR-10.5", "DTR-5.4", "DTR-5.5", "DTR-6.2", "DTR-6.3", "DTR-6.4", "DTR-6.5", "DTR-7.1", "DTR-7.2", "DTR-7.3", "DTR-7.4", "DTR-8.2", "DTR-8.3", "DTR-8.4", "DTR-9.1", "DTX-7", "ETX-NA1000", "RDC-7", "RDC-7(Ver2.0)", "RDC-7.1", "TX-DS787", "TX-DS797", "TX-DS898", "TX-DS989", "TX-NA900", "TX-NR1000", "TX-NR5000", "TX-NR900", "TX-NR901", "TX-SR702" } ) },
+			{ "set77",new HashSet<string>( new string[] { "DTC-7", "DTC-9.1", "DTC-9.4", "DTR-10.5", "DTR-7.1", "DTR-7.2", "DTR-7.3", "DTR-7.4", "DTR-8.2", "DTR-8.3", "DTR-8.4", "DTR-9.1", "DTX-7", "ETX-NA1000", "RDC-7", "RDC-7(Ver2.0)", "RDC-7.1", "TX-DS787", "TX-DS797", "TX-DS898", "TX-DS989", "TX-NA900", "TX-NR1000", "TX-NR5000", "TX-NR900", "TX-NR901" } ) },
+			{ "set78",new HashSet<string>( new string[] { "DTC-7", "DTC-9.1", "DTC-9.4", "DTR-10.5", "DTR-6.2", "DTR-6.3", "DTR-6.4", "DTR-6.5", "DTR-7.1", "DTR-7.2", "DTR-7.3", "DTR-7.4", "DTR-8.2", "DTR-8.3", "DTR-8.4", "DTR-9.1", "DTX-7", "ETX-NA1000", "RDC-7", "RDC-7(Ver2.0)", "RDC-7.1", "TX-DS787", "TX-DS797", "TX-DS898", "TX-DS989", "TX-NA900", "TX-NR1000", "TX-NR5000", "TX-NR900", "TX-NR901", "TX-SR702" } ) },
+			{ "set79",new HashSet<string>( new string[] { "DTC-7", "DTC-9.4", "DTR-10.5", "DTR-4.5", "DTR-5.4", "DTR-5.5", "DTR-6.4", "DTR-6.5", "DTR-7.3", "DTR-7.4", "DTR-8.3", "DTR-8.4", "DTX-7", "ETX-NA1000", "RDC-7.1", "TX-NA900", "TX-NR1000", "TX-NR5000", "TX-NR900", "TX-NR901", "TX-SR702" } ) },
+			{ "set80",new HashSet<string>( new string[] { "DTC-7", "DTC-9.4", "DTR-10.5", "DTR-7.3", "DTR-7.4", "DTR-8.3", "DTR-8.4", "DTX-7", "ETX-NA1000", "RDC-7.1", "TX-NA900", "TX-NR1000", "TX-NR5000", "TX-NR900", "TX-NR901" } ) },
+			{ "set81",new HashSet<string>( new string[] { "DTR-10.5", "DTR-4.5", "DTR-5.5", "DTR-6.5", "ETX-NA1000", "RDC-7.1", "TX-NR1000", "TX-NR5000", "TX-SR702" } ) },
+			{ "set82",new HashSet<string>( new string[] { "DHC-40.1", "DHC-80.1", "DHC-9.9", "DTC-7", "DTC-9.4", "DTC-9.8", "DTR-10.5", "DTR-20.1", "DTR-30.1", "DTR-40.1", "DTR-5.3", "DTR-5.4", "DTR-50.1", "DTR-6.3", "DTR-6.4", "DTR-6.9", "DTR-7.2", "DTR-7.3", "DTR-7.4", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-8.2", "DTR-8.3", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-9.9", "DTX-7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "PR-SC5507", "PR-SC885", "PR-SC886", "RDC-7.1", "TX-DS797", "TX-DS898", "TX-NA900", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR3007", "TX-NR5000", "TX-NR5007", "TX-NR807", "TX-NR900", "TX-NR901", "TX-NR905", "TX-NR906", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR706", "TX-SR707", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
+			{ "set83",new HashSet<string>( new string[] { "DHC-40.2", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-9.9", "DTC-7", "DTC-9.4", "DTC-9.8", "DTR-10.5", "DTR-40.2", "DTR-40.3", "DTR-5.3", "DTR-5.4", "DTR-50.2", "DTR-50.3", "DTR-6.3", "DTR-6.4", "DTR-7.2", "DTR-7.3", "DTR-7.4", "DTR-7.8", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-8.2", "DTR-8.3", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC885", "PR-SC886", "RDC-7.1", "TX-DS797", "TX-DS898", "TX-NA900", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1008", "TX-NR1009", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR708", "TX-NR709", "TX-NR808", "TX-NR809", "TX-NR900", "TX-NR901", "TX-NR905", "TX-NR906", "TX-SA805", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR805", "TX-SR875", "TX-SR876" } ) },
+			{ "set84",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-7", "DTC-9.4", "DTC-9.8", "DTM-7", "DTR-10.5", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.3", "DTR-5.4", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.3", "DTR-6.4", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.2", "DTR-7.3", "DTR-7.4", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.2", "DTR-8.3", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "RDC-7.1", "TX-8270", "TX-8390", "TX-DS797", "TX-DS898", "TX-NA900", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR900", "TX-NR901", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR706", "TX-SR707", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
+			{ "set85",new HashSet<string>( new string[] { "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-9.8", "DTM-7", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.8", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.8", "DTR-8.9", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "TX-8270", "TX-8390", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA805", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR805", "TX-SR875", "TX-SR876" } ) },
+			{ "set86",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTM-7", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-80.1", "DTR-80.2", "DTR-80.3", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "TX-8270", "TX-8390", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SR707" } ) },
+			{ "set87",new HashSet<string>( new string[] { "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530" } ) },
+			{ "set88",new HashSet<string>( new string[] { "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTM-7", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-80.2", "DTR-80.3", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5508", "PR-SC5509", "PR-SC5530", "TX-8270", "TX-8390", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
+			{ "set89",new HashSet<string>( new string[] { "DHC-60.5", "DHC-60.7", "DHC-80.6", "PR-SC5530" } ) },
+			{ "set90",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-7", "DTC-9.4", "DTC-9.8", "DTM-7", "DTR-10.5", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.3", "DTR-5.4", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.3", "DTR-6.4", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.2", "DTR-7.3", "DTR-7.4", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.2", "DTR-8.3", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "RDC-7.1", "TX-8270", "TX-8390", "TX-DS797", "TX-DS898", "TX-NA900", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR900", "TX-NR901", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR706", "TX-SR707", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
+			{ "set91",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-9.9", "DRC-R1.3", "DRX-2.3", "DRX-2.4", "DRX-3.3", "DRX-3.4", "DRX-4.3", "DRX-5.3", "DRX-5.4", "DRX-7.3", "DRX-8.4", "DRX-R1.3", "DTC-9.8", "DTM-7.4", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-4.5", "DTR-4.6", "DTR-4.9", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-5.5", "DTR-5.6", "DTR-5.8", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-7.4", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC885", "PR-SC886", "TX-NR7100", "TX-NR797", "TX-RZ30", "TX-RZ3400", "TX-RZ50", "TX-RZ70", "TX-RZ740", "TX-RZ840", "TX-SR703", "TX-SR803" } ) },
+			{ "set92",new HashSet<string>( new string[] { "DHC-60.7", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRX-2", "DRX-2.1", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-4", "DRX-4.2", "DRX-5", "DRX-5.2", "DRX-7", "DRX-7.1", "DRX-R1", "DRX-R1.1", "DTM-7", "DTR-20.7", "DTR-30.6", "DTR-30.7", "DTR-40.6", "DTR-40.7", "DTR-50.6", "DTR-50.7", "DTR-60.6", "DTR-60.7", "DTR-70.6", "PR-RZ5100", "PR-SC5530", "TX-NR757", "TX-NR777", "TX-NR787", "TX-RZ1100", "TX-RZ3100", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ920" } ) },
+			{ "set93",new HashSet<string>( new string[] { "DHC-60.5", "DHC-60.7", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTM-7", "DTM-7.4", "DTR-20.4", "DTR-20.7", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.4", "DTR-70.6", "PR-RZ5100", "PR-SC5530", "TX-NR7100", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ920" } ) },
+			{ "set94",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-9.9", "DRC-R1.3", "DRX-2.3", "DRX-2.4", "DRX-3.3", "DRX-3.4", "DRX-4.3", "DRX-5.3", "DRX-5.4", "DRX-7.3", "DRX-8.4", "DRX-R1.3", "DTC-9.8", "DTM-7.4", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-4.5", "DTR-4.6", "DTR-4.9", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-5.5", "DTR-5.6", "DTR-5.8", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-7.4", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC885", "PR-SC886", "TX-SR703", "TX-SR803" } ) },
+			{ "set95",new HashSet<string>( new string[] { "DHC-60.7", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRX-2", "DRX-2.1", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-4", "DRX-4.2", "DRX-5", "DRX-5.2", "DRX-7", "DRX-7.1", "DRX-R1", "DRX-R1.1", "DTM-7", "DTR-20.7", "DTR-30.6", "DTR-30.7", "DTR-40.6", "DTR-40.7", "DTR-50.6", "DTR-50.7", "DTR-60.6", "DTR-60.7", "DTR-70.6", "PR-SC5530", "TX-RZ920" } ) },
+			{ "set96",new HashSet<string>( new string[] { "DHC-60.5", "DHC-60.7", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTM-7", "DTM-7.4", "DTR-20.4", "DTR-20.7", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.4", "DTR-70.6", "PR-SC5530", "TX-RZ920" } ) },
+			{ "set97",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-9.9", "DRC-R1.3", "DRX-2.3", "DRX-2.4", "DRX-3.3", "DRX-3.4", "DRX-4.3", "DRX-5.3", "DRX-5.4", "DRX-R1.3", "DTC-9.8", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-4.5", "DTR-4.6", "DTR-4.9", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-5.5", "DTR-5.6", "DTR-5.8", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC885", "PR-SC886", "TX-SR703", "TX-SR803" } ) },
+			{ "set98",new HashSet<string>( new string[] { "DHC-60.7", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRX-2", "DRX-2.1", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-4", "DRX-4.2", "DRX-5", "DRX-5.2", "DRX-7", "DRX-7.1", "DRX-R1", "DRX-R1.1", "DTR-20.7", "DTR-30.6", "DTR-30.7", "DTR-40.6", "DTR-40.7", "DTR-50.6", "DTR-50.7", "DTR-60.6", "DTR-60.7", "DTR-70.6", "PR-SC5530" } ) },
+			{ "set99",new HashSet<string>( new string[] { "DHC-60.5", "DHC-60.7", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTR-20.4", "DTR-20.7", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.4", "DTR-70.6", "PR-SC5530" } ) },
+			{ "set100",new HashSet<string>( new string[] { "DTR-4.6", "DTR-5.6", "DTR-6.6", "DTR-7.6", "TX-SR703", "TX-SR803" } ) },
+			{ "set101",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-9.9", "DTC-9.8", "DTR-5.8", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-6.8", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-5.8", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC885", "PR-SC886", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1007", "TX-NR1008", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR807", "TX-NR808", "TX-NR905", "TX-NR906", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR705", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
+			{ "set102",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-9.8", "DTR-30.4", "DTR-30.6", "DTR-30.7", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.8", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.8", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-5.8", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "HT-R693", "HT-R993", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "TX-8390", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR595", "TX-NR6050", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR705", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
+			{ "set103",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-9.8", "DTR-30.4", "DTR-30.6", "DTR-30.7", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-8.8", "DTX-8.9", "DTX-9.9", "HT-R693", "HT-R993", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "TX-8390", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR595", "TX-NR6050", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA806X", "TX-SA876", "TX-SR876" } ) },
+			{ "set104",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTR-30.4", "DTR-30.6", "DTR-30.7", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-80.1", "DTR-80.2", "DTR-80.3", "HT-R693", "HT-R993", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "TX-8390", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR595", "TX-NR6050", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
+			{ "set105",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DTR-40.2", "DTR-40.3", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-80.1", "DTR-80.2", "DTR-80.3", "PR-SC5507", "PR-SC5508", "PR-SC5509", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR709", "TX-NR808", "TX-NR809" } ) },
+			{ "set106",new HashSet<string>( new string[] { "DHC-60.5", "DHC-60.7", "DHC-80.6", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.6", "HT-R693", "HT-R993", "HT-RC560", "HT-RC660", "PR-SC5530", "TX-NR1030", "TX-NR3030", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR828", "TX-NR838", "TX-NR929", "TX-RZ800", "TX-RZ900" } ) },
+			{ "set107",new HashSet<string>( new string[] { "DHC-60.5", "DHC-60.7", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTM-7", "DTM-7.4", "DTR-20.7", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.6", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5530", "TX-8270", "TX-8390", "TX-8470", "TX-NR1030", "TX-NR3030", "TX-NR474", "TX-NR5100", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR6100", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR7100", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR828", "TX-NR838", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
+			{ "set108",new HashSet<string>( new string[] { "DHC-60.7", "DHC-80.6", "DTR-50.7", "DTR-60.6", "DTR-60.7", "DTR-70.6", "PR-SC5530", "TX-NR1030", "TX-NR3030", "TX-RZ800", "TX-RZ900" } ) },
+			{ "set109",new HashSet<string>( new string[] { "DHC-60.7", "DTR-50.7", "DTR-60.7", "TX-RZ800", "TX-RZ900" } ) },
+			{ "set110",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRX-2", "DRX-3", "DRX-4", "DRX-5", "DRX-7", "DRX-R1", "DTC-9.8", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-5.9", "DTX-8.8", "DTX-8.9", "DTX-9.9", "HT-R693", "HT-R993", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR515", "TX-NR515AE", "TX-NR555", "TX-NR579", "TX-NR609", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR656", "TX-NR708", "TX-NR709", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR757", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ610", "TX-RZ710", "TX-RZ810", "TX-SA706", "TX-SA706X", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR706", "TX-SR707", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
+			{ "set111",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DTC-9.8", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-5.9", "DTX-8.8", "DTX-8.9", "DTX-9.9", "HT-R693", "HT-R993", "HT-RC560", "HT-RC660", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR515", "TX-NR515AE", "TX-NR579", "TX-NR609", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR708", "TX-NR709", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR905", "TX-NR906", "TX-NR929", "TX-SA706", "TX-SA706X", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR706", "TX-SR707", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
+			{ "set112",new HashSet<string>( new string[] { "DHC-80.6", "DTR-30.6", "DTR-40.6", "DTR-50.6", "DTR-60.6", "DTR-70.6", "HT-R693", "HT-R993", "HT-RC660", "PR-SC5530", "TX-NR1030", "TX-NR3030", "TX-NR636", "TX-NR737", "TX-NR838" } ) },
+			{ "set113",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DTC-9.8", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-8.8", "DTX-8.9", "DTX-9.9", "HT-R693", "HT-R993", "HT-RC560", "HT-RC660", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR515", "TX-NR515AE", "TX-NR579", "TX-NR609", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR708", "TX-NR709", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR905", "TX-NR906", "TX-NR929", "TX-SA706", "TX-SA706X", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR706", "TX-SR707", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
+			{ "set114",new HashSet<string>( new string[] { "DHC-80.1", "DHC-80.2", "DHC-80.3", "DTR-20.4", "DTR-30.4", "DTR-40.4", "DTR-50.4", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-80.1", "DTR-80.2", "DTR-80.3", "PR-SC5507", "PR-SC5508", "PR-SC5509", "TX-NR1010", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR515", "TX-NR515AE", "TX-NR616", "TX-NR616AE", "TX-NR717", "TX-NR818", "TX-NR818AE" } ) },
+			{ "set115",new HashSet<string>( new string[] { "DHC-60.5", "DHC-80.3", "DHC-80.6", "DTR-20.3", "DTR-20.4", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-60.5", "DTR-60.6", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-80.3", "HT-R693", "HT-R993", "HT-RC560", "HT-RC660", "PR-SC5509", "PR-SC5530", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5009", "TX-NR5010", "TX-NR515", "TX-NR515AE", "TX-NR579", "TX-NR609", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR709", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR929" } ) },
+			{ "set116",new HashSet<string>( new string[] { "DHC-40.2", "DHC-60.5", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DTR-30.6", "DTR-40.6", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.6", "DTR-60.5", "DTR-60.6", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-8.9", "DTX-9.9", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC886", "TX-NA906", "TX-NA906X", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR906", "TX-NR929", "TX-SA806X", "TX-SA876", "TX-SR876" } ) },
+			{ "set117",new HashSet<string>( new string[] { "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.3", "DRX-5", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTM-7", "DTM-7.4", "PR-RZ5100", "TX-8270", "TX-8470", "TX-NR474", "TX-NR5100", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR595", "TX-NR6050", "TX-NR6100", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR696", "TX-NR7100", "TX-NR757", "TX-NR777", "TX-NR797", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ740", "TX-RZ810", "TX-RZ820", "TX-RZ840", "TX-RZ920" } ) },
+			{ "set118",new HashSet<string>( new string[] { "DHC-40.1", "DHC-80.1", "DHC-9.9", "DTR-50.1", "DTR-70.1", "DTR-8.9", "DTR-80.1", "DTR-9.9", "DTX-8.9", "DTX-9.9", "PR-SC5507", "PR-SC886", "TX-NA906", "TX-NA906X", "TX-NR3007", "TX-NR5007", "TX-NR906", "TX-SA806X", "TX-SA876", "TX-SR876" } ) },
+			{ "set119",new HashSet<string>( new string[] { "DHC-40.2", "DHC-60.5", "DHC-80.3", "DHC-80.6", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-60.5", "DTR-60.6", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-80.3", "HT-R693", "HT-R993", "HT-RC560", "HT-RC660", "PR-SC5509", "PR-SC5530", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5009", "TX-NR5010", "TX-NR515", "TX-NR515AE", "TX-NR579", "TX-NR609", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR708", "TX-NR709", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR929" } ) },
+			{ "set120",new HashSet<string>( new string[] { "DHC-40.2", "DHC-60.5", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-60.5", "DTR-60.6", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-80.2", "DTR-80.3", "HT-R693", "HT-R993", "HT-RC560", "HT-RC660", "PR-SC5508", "PR-SC5509", "PR-SC5530", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR515", "TX-NR515AE", "TX-NR579", "TX-NR609", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR708", "TX-NR709", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR929" } ) },
+			{ "set121",new HashSet<string>( new string[] { "DHC-80.2", "DTR-70.2", "DTR-80.2", "PR-SC5508", "TX-NR3008", "TX-NR5008" } ) },
+			{ "set122",new HashSet<string>( new string[] { "DHC-40.2", "DHC-60.5", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DTR-30.6", "DTR-40.6", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.6", "DTR-60.5", "DTR-60.6", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-80.2", "DTR-80.3", "PR-SC5508", "PR-SC5509", "PR-SC5530", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR929" } ) },
+			{ "set123",new HashSet<string>( new string[] { "DHC-80.3", "DTR-50.3", "DTR-50.4", "DTR-70.3", "DTR-70.4", "DTR-80.3", "PR-SC5509", "TX-NR1009", "TX-NR1010", "TX-NR3009", "TX-NR3010", "TX-NR5009", "TX-NR5010", "TX-NR809", "TX-NR818", "TX-NR818AE" } ) },
+			{ "set124",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-7", "DTC-9.1", "DTC-9.4", "DTC-9.8", "DTR-10.5", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-4.5", "DTR-4.6", "DTR-4.9", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.2", "DTR-5.3", "DTR-5.4", "DTR-5.5", "DTR-5.6", "DTR-5.8", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.2", "DTR-6.3", "DTR-6.4", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.1", "DTR-7.2", "DTR-7.3", "DTR-7.4", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.2", "DTR-8.3", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.1", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "RDC-7", "RDC-7(Ver2.0)", "RDC-7.1", "TX-DS787", "TX-DS797", "TX-DS898", "TX-DS989", "TX-NA900", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR900", "TX-NR901", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
+			{ "set125",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.1", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.1", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "RDC-7", "TX-DS787", "TX-DS989", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SR707" } ) },
+			{ "set126",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-7", "DTC-9.1", "DTC-9.4", "DTC-9.8", "DTR-10.5", "DTR-20.3", "DTR-30.3", "DTR-30.4", "DTR-4.6", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.6", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.4", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.1", "DTR-7.2", "DTR-7.3", "DTR-7.4", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.2", "DTR-8.3", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.1", "DTR-9.9", "DTX-7", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "HT-R993", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "RDC-7", "RDC-7(Ver2.0)", "RDC-7.1", "TX-DS787", "TX-DS797", "TX-DS898", "TX-DS989", "TX-NA900", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR900", "TX-NR901", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
+			{ "set127",new HashSet<string>( new string[] { "DHC-9.9", "DTC-7", "DTC-9.1", "DTC-9.4", "DTC-9.8", "DTR-10.5", "DTR-4.5", "DTR-4.6", "DTR-4.9", "DTR-5.4", "DTR-5.5", "DTR-5.6", "DTR-5.8", "DTR-5.9", "DTR-6.4", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-7.1", "DTR-7.2", "DTR-7.3", "DTR-7.4", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-8.2", "DTR-8.3", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-9.1", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "PR-SC885", "PR-SC886", "RDC-7", "RDC-7(Ver2.0)", "RDC-7.1", "TX-DS787", "TX-DS797", "TX-DS898", "TX-DS989", "TX-NA900", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR5000", "TX-NR900", "TX-NR901", "TX-NR905", "TX-NR906", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
+			{ "set128",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-7", "DTC-9.1", "DTC-9.4", "DTC-9.8", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-4.5", "DTR-4.9", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.4", "DTR-5.5", "DTR-5.8", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.4", "DTR-6.5", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.1", "DTR-7.2", "DTR-7.3", "DTR-7.4", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.2", "DTR-8.3", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.1", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "RDC-7", "RDC-7(Ver2.0)", "TX-DS787", "TX-DS797", "TX-DS898", "TX-DS989", "TX-NA900", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR900", "TX-NR901", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR702", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
+			{ "set129",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-7", "DTC-9.1", "DTC-9.4", "DTR-10.5", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-4.5", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.4", "DTR-5.5", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.4", "DTR-6.5", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.1", "DTR-7.2", "DTR-7.3", "DTR-7.4", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.2", "DTR-8.3", "DTR-8.4", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.1", "DTX-7", "ETX-NA1000", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "RDC-7", "RDC-7(Ver2.0)", "RDC-7.1", "TX-DS787", "TX-DS797", "TX-DS898", "TX-DS989", "TX-NA900", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR900", "TX-NR901", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SR702", "TX-SR707" } ) },
+			{ "set130",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-7", "DTC-9.1", "DTC-9.4", "DTC-9.8", "DTR-10.5", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-4.5", "DTR-4.6", "DTR-4.9", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.4", "DTR-5.5", "DTR-5.6", "DTR-5.8", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.4", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.1", "DTR-7.2", "DTR-7.3", "DTR-7.4", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.2", "DTR-8.3", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.1", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "RDC-7", "RDC-7(Ver2.0)", "RDC-7.1", "TX-DS787", "TX-DS797", "TX-DS898", "TX-DS989", "TX-NA900", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR900", "TX-NR901", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
+			{ "set131",new HashSet<string>( new string[] { "DTC-7", "DTC-9.4", "DTM-7", "DTR-10.5", "DTR-4.6", "DTR-5.5", "DTR-5.6", "DTR-6.3", "DTR-6.4", "DTR-6.5", "DTR-6.6", "DTR-7.3", "DTR-7.4", "DTR-7.6", "DTR-8.3", "DTR-8.4", "DTX-7", "ETX-NA1000", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "RDC-7.1", "TX-8270", "TX-8390", "TX-8470", "TX-NA900", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR900", "TX-NR901", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
+			{ "set132",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-9.8", "DTR-10.5", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-4.5", "DTR-4.6", "DTR-4.9", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.5", "DTR-5.6", "DTR-5.8", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "RDC-7.1", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
+			{ "set133",new HashSet<string>( new string[] { "PR-SC5507", "TX-NR1007", "TX-NR3007", "TX-NR5007", "TX-NR807", "TX-SR707" } ) },
+			{ "set134",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-60.5", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-80.1", "DTR-80.2", "DTR-80.3", "PR-SC5507", "PR-SC5508", "PR-SC5509", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR609", "TX-NR616", "TX-NR616AE", "TX-NR708", "TX-NR709", "TX-NR717", "TX-NR727", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR929", "TX-SR707" } ) },
+			{ "set135",new HashSet<string>( new string[] { "DRX-2.3", "DRX-2.4", "TX-NR5100", "TX-NR595", "TX-NR6050", "TX-NR6100", "TX-NR696" } ) },
+			{ "set136",new HashSet<string>( new string[] { "DHC-60.5", "DHC-60.7", "DHC-80.3", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTR-30.4", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-80.3", "HT-R993", "PR-RZ5100", "PR-SC5509", "PR-SC5530", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5009", "TX-NR5010", "TX-NR616", "TX-NR616AE", "TX-NR709", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ70", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
+			{ "set137",new HashSet<string>( new string[] { "DHC-60.5", "DHC-60.7", "DHC-80.6", "DTR-20.7", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.4", "DTR-70.6", "HT-R693", "HT-R993", "HT-RC560", "HT-RC660", "PR-SC5530", "TX-NR1010", "TX-NR1030", "TX-NR3030", "TX-NR5010", "TX-NR515", "TX-NR515AE", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR929", "TX-RZ800", "TX-RZ900" } ) },
+			{ "set138",new HashSet<string>( new string[] { "DTR-10.5", "DTR-4.5", "DTR-4.6", "DTR-5.5", "DTR-5.6", "DTR-6.5", "DTR-6.6", "DTR-7.6", "DTR-7.7", "DTX-7.7", "ETX-NA1000", "RDC-7.1", "TX-NR1000", "TX-NR5000", "TX-SR702", "TX-SR703", "TX-SR803", "TX-SR804" } ) },
+			{ "set139",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-9.8", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-4.9", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.8", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
+			{ "set140",new HashSet<string>( new string[] { "DTR-10.5", "DTR-4.6", "DTR-5.5", "DTR-5.6", "DTR-6.5", "DTR-6.6", "DTR-7.6", "DTR-7.7", "DTX-7.7", "ETX-NA1000", "RDC-7.1", "TX-NR1000", "TX-NR5000", "TX-SR702", "TX-SR703", "TX-SR803", "TX-SR804" } ) },
+			{ "set141",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-9.9", "DTC-9.8", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-4.9", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-5.8", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "HT-R693", "HT-RC560", "HT-RC660", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC885", "PR-SC886", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR515", "TX-NR515AE", "TX-NR579", "TX-NR609", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR708", "TX-NR709", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR905", "TX-NR906", "TX-NR929", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
+			{ "set142",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-9.8", "DTR-10.5", "DTR-20.2", "DTR-20.3", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-4.6", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.6", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "HT-R993", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "RDC-7.1", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
+			{ "set143",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRX-4", "DRX-5", "DTC-9.8", "DTR-10.5", "DTR-20.2", "DTR-20.3", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-4.6", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.6", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "HT-R993", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "RDC-7.1", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR609", "TX-NR616", "TX-NR616AE", "TX-NR708", "TX-NR709", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ710", "TX-RZ800", "TX-RZ810", "TX-RZ900", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
+			{ "set144",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTR-20.2", "DTR-20.3", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-8.9", "DTX-9.9", "HT-R993", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC886", "TX-NA906", "TX-NA906X", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA706", "TX-SA706X", "TX-SA806", "TX-SA806X", "TX-SA876", "TX-SR706", "TX-SR707", "TX-SR806", "TX-SR876" } ) },
+			{ "set145",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-9.8", "DTR-10.5", "DTR-20.2", "DTR-20.3", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-4.6", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.6", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "HT-R993", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "RDC-7.1", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
+			{ "set146",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-9.8", "DTR-10.5", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-4.5", "DTR-4.6", "DTR-4.9", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.4", "DTR-5.5", "DTR-5.6", "DTR-5.8", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.4", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.4", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "RDC-7.1", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR901", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
+			{ "set147",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-9.9", "DTC-9.8", "DTR-10.5", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-4.5", "DTR-4.6", "DTR-4.9", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-5.4", "DTR-5.5", "DTR-5.6", "DTR-5.8", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-6.4", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-7.4", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "HT-R693", "HT-RC550", "HT-RC560", "HT-RC660", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC885", "PR-SC886", "RDC-7.1", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR414", "TX-NR474", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR579", "TX-NR609", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR708", "TX-NR709", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR901", "TX-NR905", "TX-NR906", "TX-NR929", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
+			{ "set148",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-9.8", "DTR-10.5", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-4.6", "DTR-4.9", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.4", "DTR-5.5", "DTR-5.6", "DTR-5.8", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.4", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.4", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "RDC-7.1", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR901", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
+			{ "set149",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRX-2", "DRX-3", "DRX-4", "DRX-5", "DTC-9.8", "DTR-10.5", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-4.6", "DTR-4.9", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.4", "DTR-5.5", "DTR-5.6", "DTR-5.8", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.4", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.4", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "RDC-7.1", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR579", "TX-NR609", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR708", "TX-NR709", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR901", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ610", "TX-RZ710", "TX-RZ800", "TX-RZ810", "TX-RZ900", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
+			{ "set150",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-9.8", "DTR-10.5", "DTR-20.2", "DTR-20.3", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-4.6", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.6", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.4", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.7", "DTR-7.4", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-7", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC885", "PR-SC886", "RDC-7.1", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR901", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
+			{ "set151",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-9.8", "DTR-10.5", "DTR-20.2", "DTR-20.3", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-4.6", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.6", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.4", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.4", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-7", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "HT-R993", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "RDC-7.1", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR901", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
+			{ "set152",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-9.9", "DTC-9.8", "DTR-10.5", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-4.5", "DTR-4.6", "DTR-4.9", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-5.5", "DTR-5.6", "DTR-5.8", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "HT-R693", "HT-RC550", "HT-RC560", "HT-RC660", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC885", "PR-SC886", "RDC-7.1", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR414", "TX-NR474", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR579", "TX-NR609", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR708", "TX-NR709", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR905", "TX-NR906", "TX-NR929", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
+			{ "set153",new HashSet<string>( new string[] { "DTR-5.8", "DTX-5.8" } ) },
+			{ "set154",new HashSet<string>( new string[] { "DHC-80.1", "DHC-80.2", "DHC-9.9", "DTC-9.8", "DTR-6.8", "DTR-7.8", "DTR-70.1", "DTR-70.2", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-9.9", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "PR-SC5507", "PR-SC5508", "PR-SC885", "PR-SC886", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1007", "TX-NR3007", "TX-NR3008", "TX-NR5007", "TX-NR5008", "TX-NR905", "TX-NR906", "TX-SA805", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR705", "TX-SR805", "TX-SR875", "TX-SR876" } ) },
+			{ "set155",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-9.8", "DTR-20.2", "DTR-20.3", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC885", "PR-SC886", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
+			{ "set156",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-9.8", "DTR-20.2", "DTR-20.3", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "HT-R993", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
+			{ "set157",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTR-20.2", "DTR-20.3", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.9", "DTR-60.5", "DTR-60.7", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-8.9", "DTX-9.9", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC886", "TX-NA906", "TX-NA906X", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA706", "TX-SA706X", "TX-SA806", "TX-SA806X", "TX-SA876", "TX-SR706", "TX-SR707", "TX-SR806", "TX-SR876" } ) },
+			{ "set158",new HashSet<string>( new string[] { "DHC-80.1", "DHC-80.2", "DHC-9.9", "DTR-70.1", "DTR-70.2", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-9.9", "DTX-8.9", "DTX-9.9", "PR-SC5507", "PR-SC5508", "PR-SC886", "TX-NA906", "TX-NA906X", "TX-NR1007", "TX-NR3007", "TX-NR3008", "TX-NR5007", "TX-NR5008", "TX-NR906", "TX-SA806X", "TX-SA876", "TX-SR876" } ) },
+			{ "set159",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DTR-20.4", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-60.5", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-80.1", "DTR-80.2", "DTR-80.3", "HT-R693", "HT-RC560", "HT-RC660", "PR-SC5507", "PR-SC5508", "PR-SC5509", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR515", "TX-NR515AE", "TX-NR579", "TX-NR609", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR708", "TX-NR709", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR929", "TX-SR707" } ) },
+			{ "set160",new HashSet<string>( new string[] { "DHC-80.1", "DHC-80.2", "DTR-70.1", "DTR-70.2", "DTR-80.1", "DTR-80.2", "PR-SC5507", "PR-SC5508", "TX-NR1007", "TX-NR3007", "TX-NR3008", "TX-NR5007", "TX-NR5008" } ) },
+			{ "set161",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-60.5", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-80.1", "DTR-80.2", "DTR-80.3", "PR-SC5507", "PR-SC5508", "PR-SC5509", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR609", "TX-NR616", "TX-NR616AE", "TX-NR708", "TX-NR709", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR929", "TX-SR707" } ) },
+			{ "set162",new HashSet<string>( new string[] { "DHC-40.1", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DTR-40.1", "DTR-50.1", "DTR-50.4", "DTR-60.5", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-80.1", "DTR-80.2", "DTR-80.3", "PR-SC5507", "PR-SC5508", "PR-SC5509", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR807", "TX-NR818", "TX-NR818AE", "TX-NR929", "TX-SR707" } ) },
+			{ "set163",new HashSet<string>( new string[] { "DHC-80.3", "DHC-80.6", "DTR-50.4", "DTR-60.5", "DTR-60.6", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-80.3", "PR-SC5509", "PR-SC5530", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5009", "TX-NR5010", "TX-NR818", "TX-NR818AE", "TX-NR929" } ) },
+			{ "set164",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-80.1", "DHC-80.2", "DTR-30.2", "DTR-40.1", "DTR-40.2", "DTR-50.1", "DTR-50.2", "DTR-70.1", "DTR-70.2", "DTR-80.1", "DTR-80.2", "PR-SC5507", "PR-SC5508", "TX-NR1007", "TX-NR1008", "TX-NR3007", "TX-NR3008", "TX-NR5007", "TX-NR5008", "TX-NR708", "TX-NR807", "TX-NR808", "TX-SR707" } ) },
+			{ "set165",new HashSet<string>( new string[] { "DRX-8.4", "TX-RZ70" } ) },
+			{ "set166",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-4.9", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTX-5.9", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA706", "TX-SA706X", "TX-SA806", "TX-SR706", "TX-SR707", "TX-SR806" } ) },
+			{ "set167",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DTC-7", "DTC-9.1", "DTC-9.4", "DTC-9.8", "DTR-10.5", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-4.5", "DTR-4.6", "DTR-4.9", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.2", "DTR-5.3", "DTR-5.4", "DTR-5.5", "DTR-5.6", "DTR-5.8", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.2", "DTR-6.3", "DTR-6.4", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.1", "DTR-7.2", "DTR-7.3", "DTR-7.4", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.2", "DTR-8.3", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.1", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "RDC-7", "RDC-7(Ver2.0)", "RDC-7.1", "TX-DS787", "TX-DS797", "TX-DS898", "TX-DS989", "TX-NA900", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR579", "TX-NR609", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR708", "TX-NR709", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR900", "TX-NR901", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ800", "TX-RZ900", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
+			{ "set168",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-5.9", "DTX-8.9", "DTX-9.9", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC886", "TX-NA906", "TX-NA906X", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA706", "TX-SA706X", "TX-SA806", "TX-SA806X", "TX-SA876", "TX-SR706", "TX-SR707", "TX-SR806", "TX-SR876" } ) },
+			{ "set169",new HashSet<string>( new string[] { "DTC-9.1", "DTR-10.5", "DTR-6.4", "DTR-7.1", "DTR-9.1", "ETX-NA1000", "RDC-7", "RDC-7(Ver2.0)", "RDC-7.1", "TX-DS787", "TX-DS989", "TX-NR1000", "TX-NR5000" } ) },
+			{ "set170",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-7", "DTC-9.4", "DTC-9.8", "DTR-20.2", "DTR-20.3", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-4.6", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.2", "DTR-5.6", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.2", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.2", "DTR-7.3", "DTR-7.4", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.2", "DTR-8.3", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-7", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "HT-R993", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "TX-DS797", "TX-DS898", "TX-NA900", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR5100", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR900", "TX-NR901", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
+			{ "set171",new HashSet<string>( new string[] { "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DTR-20.1", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-4.5", "DTR-4.9", "DTR-5.3", "DTR-5.4", "DTR-5.5", "DTR-5.8", "DTR-5.9", "DTR-6.3", "DTX-5.8", "DTX-5.9", "HT-R693", "HT-RC550", "HT-RC560", "HT-RC660", "TX-NR414", "TX-NR474", "TX-NR509", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-RZ610", "TX-RZ620", "TX-RZ630" } ) },
+			{ "set172",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-9.9", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-60.5", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-8.9", "DTX-9.9", "HT-RC550", "HT-RC560", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC886", "TX-NA906", "TX-NA906X", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR579", "TX-NR609", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR708", "TX-NR709", "TX-NR717", "TX-NR727", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR906", "TX-NR929", "TX-SA806X", "TX-SA876", "TX-SR707", "TX-SR876" } ) },
+			{ "set173",new HashSet<string>( new string[] { "DHC-60.5", "DHC-80.3", "DTR-20.3", "DTR-20.4", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-60.5", "DTR-70.3", "DTR-70.4", "DTR-80.3", "HT-RC550", "HT-RC560", "PR-SC5509", "TX-NR1009", "TX-NR1010", "TX-NR3009", "TX-NR3010", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR579", "TX-NR609", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR709", "TX-NR717", "TX-NR727", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR929" } ) },
+			{ "set174",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-60.5", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-80.1", "DTR-80.2", "DTR-80.3", "HT-RC550", "HT-RC560", "PR-SC5507", "PR-SC5508", "PR-SC5509", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR579", "TX-NR609", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR708", "TX-NR709", "TX-NR717", "TX-NR727", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR929", "TX-SR707" } ) },
+			{ "set175",new HashSet<string>( new string[] { "DHC-80.1", "DHC-80.2", "DHC-80.3", "DTR-40.3", "DTR-50.3", "DTR-50.4", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-80.1", "DTR-80.2", "DTR-80.3", "PR-SC5507", "PR-SC5508", "PR-SC5509", "TX-NR1009", "TX-NR1010", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR709", "TX-NR809", "TX-NR818", "TX-NR818AE" } ) },
+			{ "set176",new HashSet<string>( new string[] { "DHC-80.1", "DTR-70.1", "DTR-80.1", "PR-SC5507", "TX-NR3007", "TX-NR5007" } ) },
+			{ "set177",new HashSet<string>( new string[] { "DHC-60.7", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTR-20.7", "DTR-30.6", "DTR-30.7", "DTR-40.6", "DTR-40.7", "DTR-50.6", "DTR-50.7", "DTR-60.6", "DTR-60.7", "DTR-70.6", "HT-R693", "HT-R993", "HT-RC660", "PR-RZ5100", "PR-SC5530", "TX-8390", "TX-NR1030", "TX-NR3030", "TX-NR474", "TX-NR5100", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR6100", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR7100", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR838", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
+			{ "set178",new HashSet<string>( new string[] { "DRC-R1.3", "DRX-7.3", "DRX-8.4", "DRX-R1.3", "TX-RZ3400", "TX-RZ70" } ) },
+			{ "set179",new HashSet<string>( new string[] { "DRC-R1.1", "DRC-R1.3", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4.2", "DRX-4.3", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1.1", "DRX-R1.3", "TX-8390", "TX-NR474", "TX-NR5100", "TX-NR575", "TX-NR575E", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR6100", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR7100", "TX-NR777", "TX-NR787", "TX-NR797", "TX-RZ30", "TX-RZ3400", "TX-RZ50", "TX-RZ620", "TX-RZ630", "TX-RZ70", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ920" } ) },
+			{ "set180",new HashSet<string>( new string[] { "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4.2", "DRX-4.3", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "PR-RZ5100", "TX-NR7100", "TX-NR787", "TX-NR797", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ630", "TX-RZ70", "TX-RZ730", "TX-RZ740", "TX-RZ830", "TX-RZ840", "TX-RZ920" } ) },
+			{ "set181",new HashSet<string>( new string[] { "DRC-R1.1", "DRC-R1.3", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1.1", "DRX-R1.3", "TX-RZ3400", "TX-RZ70" } ) },
+			{ "set182",new HashSet<string>( new string[] { "DRX-2.4", "DRX-3.4", "DRX-5.4", "DRX-8.4", "TX-NR5100", "TX-NR6050", "TX-NR6100", "TX-NR7100", "TX-RZ30", "TX-RZ50", "TX-RZ70" } ) },
+			{ "set183",new HashSet<string>( new string[] { "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "PR-RZ5100", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ70", "TX-RZ920" } ) },
+			{ "set184",new HashSet<string>( new string[] { "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "PR-RZ5100", "TX-8390", "TX-NR5100", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR585", "TX-NR6050", "TX-NR6100", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR7100", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ920" } ) },
+			{ "set185",new HashSet<string>( new string[] { "TX-NR474" } ) },
+			{ "set186",new HashSet<string>( new string[] { "DRX-2", "DRX-3", "DRX-4", "DRX-5", "TX-NR555", "TX-NR656", "TX-NR757", "TX-RZ610", "TX-RZ710", "TX-RZ810" } ) },
+			{ "set187",new HashSet<string>( new string[] { "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4.2", "DRX-4.3", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "PR-RZ5100", "TX-NR474", "TX-NR5100", "TX-NR575", "TX-NR575E", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR6100", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR7100", "TX-NR777", "TX-NR787", "TX-NR797", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ620", "TX-RZ630", "TX-RZ70", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ920" } ) },
+			{ "set188",new HashSet<string>( new string[] { "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTM-7", "PR-RZ5100", "TX-8270", "TX-8390", "TX-NR474", "TX-NR5100", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR6100", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR7100", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ920" } ) },
+			{ "set189",new HashSet<string>( new string[] { "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTM-7", "DTM-7.4", "PR-RZ5100", "TX-8270", "TX-8470", "TX-NR474", "TX-NR5100", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR6100", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR7100", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ920" } ) },
+			{ "set190",new HashSet<string>( new string[] { "DRX-7.3", "DRX-8.4", "DRX-R1.3", "TX-RZ3400", "TX-RZ70" } ) },
+			{ "set191",new HashSet<string>( new string[] { "DRX-7.3", "DRX-R1.3", "TX-RZ3400" } ) },
+			{ "set192",new HashSet<string>( new string[] { "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4.2", "DRX-4.3", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTM-7", "DTM-7.4", "PR-RZ5100", "TX-8270", "TX-8390", "TX-8470", "TX-NR474", "TX-NR5100", "TX-NR575", "TX-NR575E", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR6100", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR7100", "TX-NR777", "TX-NR787", "TX-NR797", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ620", "TX-RZ630", "TX-RZ70", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ920" } ) },
+			{ "set193",new HashSet<string>( new string[] { "DHC-60.7", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTM-7", "DTM-7.4", "DTR-20.7", "DTR-30.6", "DTR-30.7", "DTR-40.6", "DTR-40.7", "DTR-50.6", "DTR-50.7", "DTR-60.6", "DTR-60.7", "DTR-70.6", "HT-R693", "HT-R993", "HT-RC660", "PR-RZ5100", "PR-SC5530", "TX-8270", "TX-8390", "TX-8470", "TX-NR1030", "TX-NR3030", "TX-NR474", "TX-NR5100", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR6100", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR7100", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR838", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
+			{ "set194",new HashSet<string>( new string[] { "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4.2", "DRX-4.3", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1.1", "DRX-R1.3", "DTM-7", "TX-8270", "TX-8390", "TX-NR474", "TX-NR5100", "TX-NR575", "TX-NR575E", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR6100", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR7100", "TX-NR777", "TX-NR787", "TX-NR797", "TX-RZ30", "TX-RZ3400", "TX-RZ50", "TX-RZ620", "TX-RZ630", "TX-RZ70", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ920" } ) },
+			{ "set195",new HashSet<string>( new string[] { "DTM-7.4", "TX-8470" } ) },
+			{ "set196",new HashSet<string>( new string[] { "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4.2", "DRX-4.3", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1.1", "DRX-R1.3", "DTM-7", "DTM-7.4", "TX-8270", "TX-8390", "TX-8470", "TX-NR474", "TX-NR5100", "TX-NR575", "TX-NR575E", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR6100", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR7100", "TX-NR777", "TX-NR787", "TX-NR797", "TX-RZ30", "TX-RZ3400", "TX-RZ50", "TX-RZ620", "TX-RZ630", "TX-RZ70", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ920" } ) },
+			{ "set197",new HashSet<string>( new string[] { "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTM-7", "DTM-7.4", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-80.2", "DTR-80.3", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5508", "PR-SC5509", "PR-SC5530", "TX-8270", "TX-8390", "TX-8470", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
+			{ "set198",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-7", "DTC-9.1", "DTC-9.4", "DTC-9.8", "DTM-7", "DTM-7.4", "DTR-10.5", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-4.5", "DTR-4.6", "DTR-4.9", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.3", "DTR-5.4", "DTR-5.5", "DTR-5.6", "DTR-5.8", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.3", "DTR-6.4", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.1", "DTR-7.2", "DTR-7.3", "DTR-7.4", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.2", "DTR-8.3", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.1", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "RDC-7", "RDC-7(Ver2.0)", "RDC-7.1", "TX-8270", "TX-8390", "TX-8470", "TX-DS787", "TX-DS797", "TX-DS898", "TX-DS989", "TX-NA900", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR900", "TX-NR901", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
+			{ "set199",new HashSet<string>( new string[] { "DTR-5.2", "DTR-6.2" } ) },
+			{ "set200",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTM-7", "DTM-7.4", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-4.9", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-5.9", "DTX-8.9", "DTX-9.9", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC886", "TX-8270", "TX-8390", "TX-8470", "TX-NA906", "TX-NA906X", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA706", "TX-SA706X", "TX-SA806", "TX-SA806X", "TX-SA876", "TX-SR706", "TX-SR707", "TX-SR806", "TX-SR876" } ) },
+			{ "set201",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-7", "DTC-9.1", "DTC-9.4", "DTC-9.8", "DTM-7", "DTM-7.4", "DTR-10.5", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-4.5", "DTR-4.6", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.4", "DTR-5.5", "DTR-5.6", "DTR-5.8", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.4", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.1", "DTR-7.2", "DTR-7.3", "DTR-7.4", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.2", "DTR-8.3", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.1", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "RDC-7", "RDC-7(Ver2.0)", "RDC-7.1", "TX-8270", "TX-8390", "TX-8470", "TX-DS787", "TX-DS797", "TX-DS898", "TX-DS989", "TX-NA900", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR900", "TX-NR901", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
+			{ "set202",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DTC-7", "DTC-9.1", "DTC-9.4", "DTC-9.8", "DTR-10.5", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-4.5", "DTR-4.6", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.4", "DTR-5.5", "DTR-5.6", "DTR-5.8", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.4", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.1", "DTR-7.2", "DTR-7.3", "DTR-7.4", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.2", "DTR-8.3", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.1", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "RDC-7", "RDC-7(Ver2.0)", "RDC-7.1", "TX-DS787", "TX-DS797", "TX-DS898", "TX-DS989", "TX-NA900", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR579", "TX-NR609", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR708", "TX-NR709", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR900", "TX-NR901", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ800", "TX-RZ900", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
+			{ "set203",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-7", "DTC-9.4", "DTC-9.8", "DTM-7", "DTM-7.4", "DTR-10.5", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-4.5", "DTR-4.6", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.4", "DTR-5.5", "DTR-5.6", "DTR-5.8", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.4", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.3", "DTR-7.4", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.3", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "RDC-7.1", "TX-8270", "TX-8390", "TX-8470", "TX-NA900", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR900", "TX-NR901", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
+			{ "set204",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DTC-7", "DTC-9.4", "DTC-9.8", "DTR-10.5", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-4.5", "DTR-4.6", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.4", "DTR-5.5", "DTR-5.6", "DTR-5.8", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.4", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.3", "DTR-7.4", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.3", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "RDC-7.1", "TX-NA900", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR579", "TX-NR609", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR708", "TX-NR709", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR900", "TX-NR901", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ800", "TX-RZ900", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
+			{ "set205",new HashSet<string>( new string[] { "DHC-9.9", "DTC-9.8", "DTR-5.8", "DTR-6.8", "DTR-6.9", "DTR-7.8", "DTR-7.9", "DTR-8.8", "DTR-8.9", "DTR-9.9", "DTX-5.8", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "PR-SC885", "PR-SC886", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR905", "TX-NR906", "TX-SA706", "TX-SA706X", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR705", "TX-SR706", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
+			{ "set206",new HashSet<string>( new string[] { "DHC-9.9", "DTC-9.8", "DTR-70.4", "DTR-8.8", "DTR-8.9", "DTR-9.9", "DTX-8.8", "DTX-8.9", "DTX-9.9", "PR-SC885", "PR-SC886", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1010", "TX-NR3010", "TX-NR5010", "TX-NR905", "TX-NR906", "TX-SA806X", "TX-SA876", "TX-SR876" } ) },
+			{ "set207",new HashSet<string>( new string[] { "DTR-9.1", "RDC-7", "TX-DS989" } ) },
+			{ "set208",new HashSet<string>( new string[] { "DTM-7.4", "TX-8270", "TX-8390", "TX-8470" } ) },
+			{ "set209",new HashSet<string>( new string[] { "DTM-7.4", "TX-8390", "TX-8470" } ) },
+			{ "set210",new HashSet<string>( new string[] { "DRC-R1.3", "DRX-3.3", "DRX-3.4", "DRX-4.3", "DRX-5.3", "DRX-5.4", "DRX-7.3", "DRX-8.4", "DRX-R1.3", "TX-NR6050", "TX-NR6100", "TX-NR696", "TX-NR7100", "TX-NR797", "TX-RZ30", "TX-RZ3400", "TX-RZ50", "TX-RZ70", "TX-RZ740", "TX-RZ840" } ) },
+			{ "set211",new HashSet<string>( new string[] { "DRC-R1.3", "DRX-3.3", "DRX-3.4", "DRX-4.3", "DRX-5.3", "DRX-5.4", "DRX-7.3", "DRX-8.4", "DRX-R1.3", "TX-NR7100", "TX-NR797", "TX-RZ30", "TX-RZ3400", "TX-RZ50", "TX-RZ70", "TX-RZ740", "TX-RZ840" } ) },
+			{ "set212",new HashSet<string>( new string[] { "DRX-3.4", "DRX-5.4", "DRX-8.4", "DTM-7.4", "TX-8470", "TX-NR7100", "TX-RZ30", "TX-RZ50", "TX-RZ70" } ) },
+			{ "set213",new HashSet<string>( new string[] { "DRX-3.4", "DRX-5.4", "DRX-8.4", "TX-NR7100", "TX-RZ30", "TX-RZ50", "TX-RZ70" } ) },
+			{ "set214",new HashSet<string>( new string[] { "DRX-2.4", "DRX-3.4", "DRX-5.4", "DRX-8.4", "TX-NR6050", "TX-NR6100", "TX-NR7100", "TX-RZ30", "TX-RZ50", "TX-RZ70" } ) },
+			{ "set215",new HashSet<string>( new string[] { "DRX-2.4", "DRX-3.4", "DRX-5.4", "DRX-8.4", "DTM-7.4", "TX-8470", "TX-NR6050", "TX-NR6100", "TX-NR7100", "TX-RZ30", "TX-RZ50", "TX-RZ70" } ) },
+			{ "set216",new HashSet<string>( new string[] { "DRX-5.4", "DRX-8.4", "TX-RZ30", "TX-RZ50", "TX-RZ70" } ) },
+			{ "set217",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-7", "DTC-9.4", "DTC-9.8", "DTM-7", "DTM-7.4", "DTR-10.5", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-4.5", "DTR-4.6", "DTR-4.9", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.3", "DTR-5.4", "DTR-5.5", "DTR-5.6", "DTR-5.8", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.3", "DTR-6.4", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.3", "DTR-7.4", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.3", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "RDC-7.1", "TX-8270", "TX-8390", "TX-8470", "TX-NA900", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR900", "TX-NR901", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA706", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
+			{ "set218",new HashSet<string>( new string[] { "DRX-4", "DRX-5", "TX-NR757", "TX-NR777", "TX-RZ710", "TX-RZ720", "TX-RZ810", "TX-RZ820" } ) },
+			{ "set219",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-9.8", "DTM-7", "DTM-7.4", "DTR-10.5", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-4.5", "DTR-4.6", "DTR-4.9", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.4", "DTR-5.5", "DTR-5.6", "DTR-5.8", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.4", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.4", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "RDC-7.1", "TX-8270", "TX-8390", "TX-8470", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR901", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA706", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
+			{ "set220",new HashSet<string>( new string[] { "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2.4", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTM-7.4", "PR-RZ5100", "TX-8470", "TX-NR6050", "TX-NR6100", "TX-NR7100", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ920" } ) },
+			{ "set221",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DTC-7", "DTC-9.4", "DTC-9.8", "DTR-10.5", "DTR-20.2", "DTR-20.3", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-4.5", "DTR-4.6", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.3", "DTR-5.4", "DTR-5.5", "DTR-5.6", "DTR-5.8", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.3", "DTR-6.4", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.3", "DTR-7.4", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.2", "DTR-8.3", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-5.8", "DTX-7", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "HT-R993", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "RDC-7.1", "TX-DS898", "TX-NA900", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR585", "TX-NR595", "TX-NR609", "TX-NR616", "TX-NR616AE", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR900", "TX-NR901", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ800", "TX-RZ900", "TX-SA706", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
+			{ "set222",new HashSet<string>( new string[] { "DTR-20.1", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-4.9", "DTR-5.9", "DTR-6.2", "DTX-5.9", "HT-R693", "HT-RC560", "HT-RC660", "TX-NR515", "TX-NR515AE", "TX-NR545", "TX-NR579", "TX-NR626", "TX-NR636", "TX-NR646" } ) },
+			{ "set223",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-7", "DTC-9.4", "DTC-9.8", "DTM-7.4", "DTR-10.5", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-4.5", "DTR-4.6", "DTR-4.9", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.3", "DTR-5.4", "DTR-5.5", "DTR-5.6", "DTR-5.8", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.2", "DTR-6.3", "DTR-6.4", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.3", "DTR-7.4", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.2", "DTR-8.3", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "HT-R693", "HT-R993", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "RDC-7.1", "TX-8470", "TX-DS898", "TX-NA900", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR515", "TX-NR515AE", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR900", "TX-NR901", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA706", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
+			{ "set224",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-80.1", "DTR-80.2", "DTR-80.3", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3030", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR838", "TX-RZ800", "TX-RZ900" } ) },
+			{ "set225",new HashSet<string>( new string[] { "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "PR-RZ5100", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ920" } ) },
+			{ "set226",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-80.1", "DTR-80.2", "DTR-80.3", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3030", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR838", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
+			{ "set227",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DTC-7", "DTC-9.1", "DTC-9.4", "DTC-9.8", "DTR-10.5", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.6", "DTR-4.5", "DTR-4.6", "DTR-4.9", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-5.3", "DTR-5.4", "DTR-5.5", "DTR-5.6", "DTR-5.8", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-6.2", "DTR-6.3", "DTR-6.4", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-7.1", "DTR-7.2", "DTR-7.3", "DTR-7.4", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.2", "DTR-8.3", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.1", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "HT-R693", "HT-R993", "HT-RC660", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "RDC-7", "RDC-7(Ver2.0)", "RDC-7.1", "TX-DS787", "TX-DS797", "TX-DS898", "TX-DS989", "TX-NA900", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR535", "TX-NR579", "TX-NR609", "TX-NR616", "TX-NR616AE", "TX-NR636", "TX-NR708", "TX-NR709", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR900", "TX-NR901", "TX-NR905", "TX-NR906", "TX-NR929", "TX-SA706", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
+			{ "set228",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-7", "DTC-9.1", "DTC-9.4", "DTC-9.8", "DTM-7", "DTM-7.4", "DTR-10.5", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-4.5", "DTR-4.6", "DTR-4.9", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.3", "DTR-5.4", "DTR-5.5", "DTR-5.6", "DTR-5.8", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.2", "DTR-6.3", "DTR-6.4", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.1", "DTR-7.2", "DTR-7.3", "DTR-7.4", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.2", "DTR-8.3", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.1", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "RDC-7", "RDC-7(Ver2.0)", "RDC-7.1", "TX-8270", "TX-8390", "TX-8470", "TX-DS787", "TX-DS797", "TX-DS898", "TX-DS989", "TX-NA900", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR900", "TX-NR901", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA706", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
+			{ "set229",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DTC-7", "DTC-9.1", "DTC-9.4", "DTC-9.8", "DTR-10.5", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-4.6", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-5.3", "DTR-5.4", "DTR-5.5", "DTR-5.6", "DTR-5.8", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.2", "DTR-6.3", "DTR-6.4", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.1", "DTR-7.2", "DTR-7.3", "DTR-7.4", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.2", "DTR-8.3", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.1", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "RDC-7", "RDC-7(Ver2.0)", "RDC-7.1", "TX-DS787", "TX-DS797", "TX-DS898", "TX-DS989", "TX-NA900", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR6100", "TX-NR626", "TX-NR636", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR7100", "TX-NR717", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR900", "TX-NR901", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ900", "TX-SA706", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
+			{ "set230",new HashSet<string>( new string[] { "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-9.9", "DTC-7", "DTC-9.1", "DTC-9.4", "DTC-9.8", "DTR-10.5", "DTR-50.4", "DTR-50.7", "DTR-60.5", "DTR-60.7", "DTR-7.1", "DTR-7.2", "DTR-7.3", "DTR-7.4", "DTR-7.8", "DTR-70.1", "DTR-70.4", "DTR-8.2", "DTR-8.3", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-9.1", "DTR-9.9", "DTX-7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "PR-SC5507", "PR-SC885", "PR-SC886", "RDC-7", "RDC-7(Ver2.0)", "RDC-7.1", "TX-DS787", "TX-DS797", "TX-DS898", "TX-DS989", "TX-NA900", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1010", "TX-NR3007", "TX-NR3010", "TX-NR5000", "TX-NR5007", "TX-NR5010", "TX-NR818", "TX-NR818AE", "TX-NR900", "TX-NR901", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ800", "TX-RZ900", "TX-SA805", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR805", "TX-SR875", "TX-SR876" } ) },
+			{ "set231",new HashSet<string>( new string[] { "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTM-7", "DTM-7.4", "DTR-10.5", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-80.2", "DTR-80.3", "ETX-NA1000", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5508", "PR-SC5509", "PR-SC5530", "RDC-7.1", "TX-8270", "TX-8390", "TX-8470", "TX-NR1000", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR5000", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
+			{ "set232",new HashSet<string>( new string[] { "DHC-60.5", "DHC-60.7", "DHC-80.3", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTM-7.4", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-80.3", "PR-SC5509" } ) },
+			{ "set233",new HashSet<string>( new string[] { "DHC-60.7", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTR-20.7", "DTR-30.7", "DTR-40.7", "DTR-50.7", "DTR-60.7", "PR-RZ5100", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR6100", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR7100", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
+			{ "set234",new HashSet<string>( new string[] { "DHC-40.1", "DHC-80.1", "DHC-80.2", "DHC-9.9", "DTC-7", "DTC-9.1", "DTC-9.4", "DTC-9.8", "DTM-7", "DTM-7.4", "DTR-10.5", "DTR-20.1", "DTR-30.1", "DTR-4.5", "DTR-4.6", "DTR-4.9", "DTR-40.1", "DTR-5.3", "DTR-5.4", "DTR-5.5", "DTR-5.6", "DTR-5.8", "DTR-5.9", "DTR-50.1", "DTR-6.2", "DTR-6.3", "DTR-6.4", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-7.1", "DTR-7.2", "DTR-7.3", "DTR-7.4", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-8.2", "DTR-8.3", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-9.1", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "PR-SC5507", "PR-SC5508", "PR-SC885", "PR-SC886", "RDC-7", "RDC-7(Ver2.0)", "RDC-7.1", "TX-8270", "TX-8390", "TX-8470", "TX-DS787", "TX-DS797", "TX-DS898", "TX-DS989", "TX-NA900", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR3007", "TX-NR3008", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR807", "TX-NR900", "TX-NR901", "TX-NR905", "TX-NR906", "TX-SA706", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
+			{ "set235",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-7", "DTC-9.1", "DTC-9.4", "DTC-9.8", "DTM-7", "DTM-7.4", "DTR-10.5", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-4.6", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.3", "DTR-5.6", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.2", "DTR-6.3", "DTR-6.4", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.1", "DTR-7.2", "DTR-7.3", "DTR-7.4", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.2", "DTR-8.3", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.1", "DTR-9.9", "DTX-7", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "HT-R693", "HT-R993", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "RDC-7", "RDC-7(Ver2.0)", "RDC-7.1", "TX-8270", "TX-8390", "TX-8470", "TX-DS787", "TX-DS797", "TX-DS898", "TX-DS989", "TX-NA900", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR6100", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR900", "TX-NR901", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA706", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
+			{ "set236",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-7", "DTC-9.4", "DTC-9.8", "DTM-7", "DTM-7.4", "DTR-10.5", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-4.5", "DTR-4.6", "DTR-4.9", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.4", "DTR-5.5", "DTR-5.6", "DTR-5.8", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.4", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.3", "DTR-7.4", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.3", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "RDC-7.1", "TX-8270", "TX-8390", "TX-8470", "TX-NA900", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR900", "TX-NR901", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA706", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
+			{ "set237",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DTC-7", "DTC-9.4", "DTR-10.5", "DTR-20.3", "DTR-20.4", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-60.5", "DTR-7.3", "DTR-7.4", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-8.3", "DTR-8.4", "DTR-8.8", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-7", "DTX-8.8", "DTX-9.9", "ETX-NA1000", "HT-RC550", "HT-RC560", "PR-SC5507", "PR-SC5508", "PR-SC5509", "RDC-7.1", "TX-NA900", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR414", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR579", "TX-NR609", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR708", "TX-NR709", "TX-NR717", "TX-NR727", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR900", "TX-NR901", "TX-NR905", "TX-NR906", "TX-NR929" } ) },
+			{ "set238",new HashSet<string>( new string[] { "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTM-7", "DTM-7.4", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.8", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-8.8", "DTX-9.9", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "TX-8270", "TX-8390", "TX-8470", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
+			{ "set239",new HashSet<string>( new string[] { "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.3", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTM-7", "DTM-7.4", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-80.1", "DTR-80.3", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5509", "PR-SC5530", "TX-8270", "TX-8390", "TX-8470", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR5007", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
+			{ "set240",new HashSet<string>( new string[] { "DHC-60.5", "DHC-60.7", "DHC-80.3", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTM-7", "DTM-7.4", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-80.3", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5509", "PR-SC5530", "TX-8270", "TX-8390", "TX-8470", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
+			{ "set241",new HashSet<string>( new string[] { "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4.3", "DRX-5.3", "DRX-5.4", "DRX-7.3", "DRX-8.4", "DRX-R1.3", "DTM-7", "DTM-7.4", "DTR-20.7", "DTR-30.6", "DTR-30.7", "HT-R693", "HT-R993", "HT-RC660", "PR-RZ5100", "PR-SC5530", "TX-8270", "TX-8390", "TX-8470", "TX-NR1030", "TX-NR3030", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR6100", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR7100", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR838", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
+			{ "set242",new HashSet<string>( new string[] { "DTR-4.5", "DTR-4.6", "DTR-5.5", "DTR-5.6", "DTR-6.5", "DTR-6.6", "DTR-7.6", "TX-SR702", "TX-SR703", "TX-SR803" } ) },
+			{ "set243",new HashSet<string>( new string[] { "DHC-9.9", "DTC-9.8", "DTR-4.6", "DTR-5.6", "DTR-5.8", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-8.8", "DTR-8.9", "DTR-9.9", "DTX-5.8", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "PR-SC885", "PR-SC886", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR905", "TX-NR906", "TX-SA706", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
+			{ "set244",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-80.1", "DHC-80.2", "DHC-9.9", "DTC-9.8", "DTR-30.1", "DTR-30.2", "DTR-40.1", "DTR-40.2", "DTR-5.8", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-6.8", "DTR-6.9", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "PR-SC5507", "PR-SC5508", "PR-SC885", "PR-SC886", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1007", "TX-NR1008", "TX-NR3007", "TX-NR3008", "TX-NR5007", "TX-NR5008", "TX-NR708", "TX-NR807", "TX-NR808", "TX-NR905", "TX-NR906", "TX-SA706", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
+			{ "set245",new HashSet<string>( new string[] { "DRC-R1.3", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4.2", "DRX-4.3", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7.3", "DRX-R1.3", "DTM-7.4", "TX-8270", "TX-8390", "TX-8470", "TX-NR575", "TX-NR575E", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR6100", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR7100", "TX-NR777", "TX-NR787", "TX-NR797", "TX-RZ3400", "TX-RZ50", "TX-RZ620", "TX-RZ630", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ820", "TX-RZ830", "TX-RZ840" } ) },
+			{ "set246",new HashSet<string>( new string[] { "DHC-9.9", "DTC-7", "DTC-9.1", "DTC-9.4", "DTC-9.8", "DTR-10.5", "DTR-4.5", "DTR-4.6", "DTR-4.9", "DTR-5.3", "DTR-5.4", "DTR-5.5", "DTR-5.6", "DTR-5.8", "DTR-5.9", "DTR-6.2", "DTR-6.3", "DTR-6.4", "DTR-6.5", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-7.1", "DTR-7.2", "DTR-7.3", "DTR-7.4", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-8.2", "DTR-8.3", "DTR-8.4", "DTR-8.8", "DTR-8.9", "DTR-9.1", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "PR-SC885", "PR-SC886", "RDC-7", "RDC-7(Ver2.0)", "RDC-7.1", "TX-DS787", "TX-DS797", "TX-DS898", "TX-DS989", "TX-NA900", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR5000", "TX-NR900", "TX-NR901", "TX-NR905", "TX-NR906", "TX-SA706", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR702", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
+			{ "set247",new HashSet<string>( new string[] { "DTC-7", "DTC-9.4", "DTR-10.5", "DTR-20.1", "DTR-30.1", "DTR-4.5", "DTR-4.6", "DTR-4.9", "DTR-5.3", "DTR-5.4", "DTR-5.5", "DTR-5.6", "DTR-5.8", "DTR-5.9", "DTR-6.3", "DTR-6.4", "DTR-6.5", "DTR-6.6", "DTR-7.3", "DTR-7.4", "DTR-7.6", "DTR-7.7", "DTR-8.3", "DTR-8.4", "DTX-5.8", "DTX-5.9", "DTX-7", "DTX-7.7", "ETX-NA1000", "RDC-7.1", "TX-NA900", "TX-NR1000", "TX-NR5000", "TX-NR900", "TX-NR901", "TX-SR702", "TX-SR703", "TX-SR803", "TX-SR804" } ) },
+			{ "set248",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-9.8", "DTM-7", "DTM-7.4", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "TX-8270", "TX-8390", "TX-8470", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA706", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
+			{ "set249",new HashSet<string>( new string[] { "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTM-7", "DTM-7.4", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-80.2", "DTR-80.3", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5508", "PR-SC5509", "PR-SC5530", "TX-8270", "TX-8390", "TX-8470", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
+			{ "set250",new HashSet<string>( new string[] { "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTM-7", "DTM-7.4", "PR-RZ5100", "TX-8270", "TX-8390", "TX-8470", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR6100", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR7100", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ920" } ) },
+			{ "set251",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTM-7", "DTM-7.4", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.8", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-8.8", "DTX-9.9", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "TX-8270", "TX-8390", "TX-8470", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
+			{ "set252",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTM-7", "DTM-7.4", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-80.1", "DTR-80.2", "DTR-80.3", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "TX-8270", "TX-8390", "TX-8470", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
+			{ "set253",new HashSet<string>( new string[] { "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DTM-7.4", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-80.2", "DTR-80.3", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-SC5508", "PR-SC5509", "PR-SC5530", "TX-8470", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR579", "TX-NR609", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR708", "TX-NR709", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR929", "TX-RZ800", "TX-RZ900" } ) },
+			{ "set254",new HashSet<string>( new string[] { "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTM-7", "DTM-7.4", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-80.2", "DTR-80.3", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5508", "PR-SC5509", "PR-SC5530", "TX-8270", "TX-8390", "TX-8470", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
+			{ "set255",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-80.1", "DTR-80.2", "DTR-80.3", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR579", "TX-NR609", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR708", "TX-NR709", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR929", "TX-RZ800", "TX-RZ900" } ) },
+			{ "set256",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-4", "DRX-4.2", "DRX-5", "DRX-5.2", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-9.8", "DTM-7", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "TX-8270", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR609", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR708", "TX-NR709", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ610", "TX-RZ620", "TX-RZ630", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ900", "TX-RZ920", "TX-SA706", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
+			{ "set257",new HashSet<string>( new string[] { "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-9.8", "DTR-10.5", "DTR-30.4", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.8", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "RDC-7.1", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR616", "TX-NR616AE", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ630", "TX-RZ70", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA805", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR805", "TX-SR875", "TX-SR876" } ) },
+			{ "set258",new HashSet<string>( new string[] { "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "PR-RZ5100", "TX-NR7100", "TX-NR787", "TX-NR797", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ630", "TX-RZ70", "TX-RZ730", "TX-RZ740", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ920" } ) },
+			{ "set259",new HashSet<string>( new string[] { "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DTC-9.8", "DTR-10.5", "DTR-30.4", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.8", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "RDC-7.1", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR717", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR838", "TX-NR905", "TX-NR906", "TX-NR929", "TX-SA805", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR805", "TX-SR875", "TX-SR876" } ) },
+			{ "set260",new HashSet<string>( new string[] { "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-9.8", "DTR-10.5", "DTR-30.4", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.8", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "RDC-7.1", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR7100", "TX-NR717", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR838", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ630", "TX-RZ70", "TX-RZ730", "TX-RZ740", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ920", "TX-SA805", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR805", "TX-SR875", "TX-SR876" } ) },
+			{ "set261",new HashSet<string>( new string[] { "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-3.4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "PR-RZ5100", "TX-NR7100", "TX-NR787", "TX-NR797", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ70", "TX-RZ730", "TX-RZ740", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ920" } ) },
+			{ "set262",new HashSet<string>( new string[] { "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.7", "DTR-60.7", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-80.1", "DTR-80.2", "DTR-80.3", "PR-SC5507", "PR-SC5508", "PR-SC5509", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR807", "TX-NR808", "TX-NR809" } ) },
+			{ "set263",new HashSet<string>( new string[] { "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-5", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "PR-RZ5100", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ70", "TX-RZ810", "TX-RZ820", "TX-RZ920" } ) },
+			{ "set264",new HashSet<string>( new string[] { "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-5", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.7", "DTR-60.7", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-80.1", "DTR-80.2", "DTR-80.3", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR807", "TX-NR808", "TX-NR809", "TX-RZ1100", "TX-RZ3100", "TX-RZ3400", "TX-RZ70", "TX-RZ810", "TX-RZ820", "TX-RZ920" } ) },
+			{ "set265",new HashSet<string>( new string[] { "DHC-60.5", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DTC-9.8", "DTR-10.5", "DTR-30.4", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-60.5", "DTR-60.6", "DTR-7.8", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "RDC-7.1", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR616", "TX-NR616AE", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR905", "TX-NR906", "TX-NR929", "TX-SA805", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR805", "TX-SR875", "TX-SR876" } ) },
+			{ "set266",new HashSet<string>( new string[] { "DHC-60.5", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4.2", "DRX-4.3", "DTC-9.8", "DTR-10.5", "DTR-30.4", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-60.5", "DTR-60.6", "DTR-7.8", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "RDC-7.1", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR7100", "TX-NR717", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ630", "TX-RZ730", "TX-RZ740", "TX-SA805", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR805", "TX-SR875", "TX-SR876" } ) },
+			{ "set267",new HashSet<string>( new string[] { "DHC-60.5", "DHC-80.1", "DHC-9.9", "DTC-9.8", "DTR-10.5", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-60.5", "DTR-7.8", "DTR-70.1", "DTR-70.4", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-9.9", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "PR-SC5507", "PR-SC885", "PR-SC886", "RDC-7.1", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR3007", "TX-NR3010", "TX-NR5000", "TX-NR5007", "TX-NR5010", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR905", "TX-NR906", "TX-NR929", "TX-SA805", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR805", "TX-SR875", "TX-SR876" } ) },
+			{ "set268",new HashSet<string>( new string[] { "DHC-60.5", "DHC-60.7", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTR-10.5", "DTR-30.4", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-80.2", "DTR-80.3", "ETX-NA1000", "PR-RZ5100", "PR-SC5508", "PR-SC5509", "PR-SC5530", "RDC-7.1", "TX-NR1000", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5000", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR616", "TX-NR616AE", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR787", "TX-NR797", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ630", "TX-RZ70", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
+			{ "set269",new HashSet<string>( new string[] { "DHC-60.5", "DHC-60.7", "DHC-80.3", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-3.4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTR-30.4", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-80.3", "PR-SC5509", "TX-NR1009", "TX-NR3009", "TX-NR5009", "TX-NR809" } ) },
+			{ "set270",new HashSet<string>( new string[] { "DHC-60.7", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTR-50.7", "DTR-60.7", "PR-RZ5100", "TX-NR7100", "TX-NR787", "TX-NR797", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ630", "TX-RZ70", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
+			{ "set271",new HashSet<string>( new string[] { "DHC-80.1", "DHC-80.2", "DHC-9.9", "DTC-9.8", "DTR-10.5", "DTR-50.1", "DTR-7.8", "DTR-70.1", "DTR-70.2", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-9.9", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "PR-SC5507", "PR-SC5508", "PR-SC885", "PR-SC886", "RDC-7.1", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR3007", "TX-NR3008", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR807", "TX-NR905", "TX-NR906", "TX-SA805", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR805", "TX-SR875", "TX-SR876" } ) },
+			{ "set272",new HashSet<string>( new string[] { "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-9.8", "DTR-10.5", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.8", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "ETX-NA1000", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "RDC-7.1", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ630", "TX-RZ70", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA805", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR805", "TX-SR875", "TX-SR876" } ) },
+			{ "set273",new HashSet<string>( new string[] { "DHC-60.5", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DTR-10.5", "DTR-30.4", "DTR-40.4", "DTR-40.5", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-60.5", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-8.8", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-8.8", "DTX-9.9", "ETX-NA1000", "PR-SC5507", "PR-SC5508", "PR-SC5509", "RDC-7.1", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR616", "TX-NR616AE", "TX-NR717", "TX-NR727", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR905", "TX-NR906", "TX-NR929" } ) },
+			{ "set274",new HashSet<string>( new string[] { "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTR-30.4", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.8", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-8.8", "DTX-9.9", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR616", "TX-NR616AE", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR787", "TX-NR797", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ630", "TX-RZ70", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
+			{ "set275",new HashSet<string>( new string[] { "DHC-80.1", "DHC-80.2", "DHC-80.3", "DTR-30.4", "DTR-40.4", "DTR-50.3", "DTR-50.4", "DTR-70.3", "DTR-70.4", "DTR-80.1", "DTR-80.2", "DTR-80.3", "PR-SC5507", "PR-SC5508", "PR-SC5509", "TX-NR1009", "TX-NR1010", "TX-NR3009", "TX-NR3010", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR616", "TX-NR616AE", "TX-NR717", "TX-NR809", "TX-NR818", "TX-NR818AE" } ) },
+			{ "set276",new HashSet<string>( new string[] { "DHC-60.5", "DHC-60.7", "DHC-80.3", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTR-30.4", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-80.3", "PR-RZ5100", "PR-SC5509", "PR-SC5530", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5009", "TX-NR5010", "TX-NR616", "TX-NR616AE", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR787", "TX-NR797", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ630", "TX-RZ70", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
+			{ "set277",new HashSet<string>( new string[] { "TX-NR616", "TX-NR616AE", "TX-NR818", "TX-NR818AE" } ) },
+			{ "set278",new HashSet<string>( new string[] { "DRC-R1.3", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4.3", "DRX-5.3", "DRX-5.4", "DRX-7.3", "DRX-8.4", "DRX-R1.3", "PR-RZ5100", "PR-SC5530", "TX-NR1030", "TX-NR3030", "TX-NR7100", "TX-NR737", "TX-NR787", "TX-NR797", "TX-NR838", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ630", "TX-RZ70", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
+			{ "set279",new HashSet<string>( new string[] { "DHC-80.1", "DHC-80.2", "DHC-80.3", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-80.1", "DTR-80.2", "DTR-80.3", "PR-SC5507", "PR-SC5508", "PR-SC5509", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR807", "TX-NR808", "TX-NR809" } ) },
+			{ "set280",new HashSet<string>( new string[] { "DHC-9.9", "DTC-9.8", "DTR-7.8", "DTR-8.8", "DTR-8.9", "DTR-9.9", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "PR-SC885", "PR-SC886", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR905", "TX-NR906", "TX-SA805", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR805", "TX-SR875", "TX-SR876" } ) },
+			{ "set281",new HashSet<string>( new string[] { "DHC-80.1", "DHC-80.2", "DHC-9.9", "DTC-9.8", "DTR-50.1", "DTR-50.2", "DTR-7.8", "DTR-70.1", "DTR-70.2", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-9.9", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "PR-SC5507", "PR-SC5508", "PR-SC885", "PR-SC886", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1007", "TX-NR1008", "TX-NR3007", "TX-NR3008", "TX-NR5007", "TX-NR5008", "TX-NR807", "TX-NR808", "TX-NR905", "TX-NR906", "TX-SA805", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR805", "TX-SR875", "TX-SR876" } ) },
+			{ "set282",new HashSet<string>( new string[] { "DRC-R1.3", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4.2", "DRX-4.3", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7.3", "DRX-R1.3", "TX-NR7100", "TX-NR787", "TX-NR797", "TX-RZ3400", "TX-RZ50", "TX-RZ630", "TX-RZ730", "TX-RZ740", "TX-RZ820", "TX-RZ830", "TX-RZ840" } ) },
+			{ "set283",new HashSet<string>( new string[] { "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-9.8", "DTR-30.4", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.8", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR616", "TX-NR616AE", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ630", "TX-RZ70", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920", "TX-SA805", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR805", "TX-SR875", "TX-SR876" } ) },
+			{ "set284",new HashSet<string>( new string[] { "DHC-60.5", "DHC-60.7", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTR-30.4", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-80.2", "DTR-80.3", "PR-RZ5100", "PR-SC5508", "PR-SC5509", "PR-SC5530", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR616", "TX-NR616AE", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR787", "TX-NR797", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ630", "TX-RZ70", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
+			{ "set285",new HashSet<string>( new string[] { "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTR-30.4", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.8", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-8.8", "DTX-9.9", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR616", "TX-NR616AE", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ630", "TX-RZ70", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
+			{ "set286",new HashSet<string>( new string[] { "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTR-30.4", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-9.9", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "TX-NA906", "TX-NA906X", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR616", "TX-NR616AE", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ630", "TX-RZ70", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
+			{ "set287",new HashSet<string>( new string[] { "DHC-60.5", "DHC-60.7", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DTR-30.4", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-9.9", "PR-SC5508", "PR-SC5509", "PR-SC5530", "TX-NA906", "TX-NA906X", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR616", "TX-NR616AE", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR906", "TX-NR929", "TX-RZ800", "TX-RZ900" } ) },
+			{ "set288",new HashSet<string>( new string[] { "DHC-60.5", "DHC-60.7", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTR-30.4", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-9.9", "PR-RZ5100", "PR-SC5508", "PR-SC5509", "PR-SC5530", "TX-NA906", "TX-NA906X", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR616", "TX-NR616AE", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR787", "TX-NR797", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ630", "TX-RZ70", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
+			{ "set289",new HashSet<string>( new string[] { "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DTR-30.4", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-9.9", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "TX-NA906", "TX-NA906X", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR616", "TX-NR616AE", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR906", "TX-NR929", "TX-RZ800", "TX-RZ900" } ) },
+			{ "set290",new HashSet<string>( new string[] { "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-80.1", "DTR-80.2", "DTR-80.3" } ) },
+			{ "set291",new HashSet<string>( new string[] { "DTR-70.1", "DTR-70.4", "DTR-80.1" } ) },
+			{ "set292",new HashSet<string>( new string[] { "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-80.2", "DTR-80.3" } ) },
+			{ "set293",new HashSet<string>( new string[] { "DTR-70.3", "DTR-70.4", "DTR-80.3" } ) },
+			{ "set294",new HashSet<string>( new string[] { "DTR-70.3", "DTR-70.4", "DTR-80.1", "DTR-80.2", "DTR-80.3" } ) },
+			{ "set295",new HashSet<string>( new string[] { "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-80.1", "DTR-80.2", "DTR-80.3" } ) },
+			{ "set296",new HashSet<string>( new string[] { "DTR-70.1", "DTR-70.2", "DTR-80.1", "DTR-80.2" } ) },
+			{ "set297",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-7", "DTC-9.4", "DTM-7", "DTM-7.4", "DTR-10.5", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.3", "DTR-7.4", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.3", "DTR-8.4", "DTR-8.8", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-7", "DTX-8.8", "DTX-9.9", "ETX-NA1000", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "RDC-7.1", "TX-8270", "TX-8390", "TX-8470", "TX-NA900", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR900", "TX-NR901", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
+			{ "set298",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-7", "DTC-9.4", "DTM-7", "DTM-7.4", "DTR-10.5", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.3", "DTR-7.4", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.3", "DTR-8.4", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTX-7", "ETX-NA1000", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "RDC-7.1", "TX-8270", "TX-8390", "TX-8470", "TX-NA900", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR900", "TX-NR901", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
+			{ "set299",new HashSet<string>( new string[] { "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTM-7", "DTM-7.4", "PR-RZ5100", "TX-8270", "TX-8390", "TX-8470", "TX-NR474", "TX-NR5100", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR6100", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR7100", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ920" } ) },
+			{ "set300",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DTC-7", "DTC-9.4", "DTM-7.4", "DTR-10.5", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.3", "DTR-7.4", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.3", "DTR-8.4", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTX-7", "ETX-NA1000", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "RDC-7.1", "TX-8470", "TX-NA900", "TX-NR1000", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR5000", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR579", "TX-NR609", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR708", "TX-NR709", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR900", "TX-NR901", "TX-NR929", "TX-RZ800", "TX-RZ900" } ) },
+			{ "set301",new HashSet<string>( new string[] { "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTC-7", "DTC-9.4", "DTM-7", "DTM-7.4", "DTR-10.5", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.3", "DTR-7.4", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.3", "DTR-8.4", "DTR-80.2", "DTR-80.3", "DTX-7", "ETX-NA1000", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5508", "PR-SC5509", "PR-SC5530", "RDC-7.1", "TX-8270", "TX-8390", "TX-8470", "TX-NA900", "TX-NR1000", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5000", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR900", "TX-NR901", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
+			{ "set302",new HashSet<string>( new string[] { "DTR-10.5", "DTR-7.4", "DTR-8.4", "DTX-7", "ETX-NA1000", "RDC-7.1", "TX-NR1000", "TX-NR5000", "TX-NR901" } ) },
+			{ "set303",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-80.1", "DHC-80.2", "DTR-40.1", "DTR-40.2", "DTR-50.1", "DTR-50.2", "DTR-70.1", "DTR-70.2", "DTR-8.8", "DTR-80.1", "DTR-80.2", "DTR-9.9", "DTX-8.8", "DTX-9.9", "PR-SC5507", "PR-SC5508", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1007", "TX-NR1008", "TX-NR3007", "TX-NR3008", "TX-NR5007", "TX-NR5008", "TX-NR708", "TX-NR807", "TX-NR808", "TX-NR905", "TX-NR906" } ) },
+			{ "set304",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTM-7", "DTM-7.4", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.8", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-8.8", "DTX-9.9", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "TX-8270", "TX-8390", "TX-8470", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
+			{ "set305",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTM-7", "DTM-7.4", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-80.1", "DTR-80.2", "DTR-80.3", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "TX-8270", "TX-8390", "TX-8470", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
+			{ "set306",new HashSet<string>( new string[] { "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTM-7", "DTM-7.4", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-80.2", "DTR-80.3", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5508", "PR-SC5509", "PR-SC5530", "TX-8270", "TX-8390", "TX-8470", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR708", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
+			{ "set307",new HashSet<string>( new string[] { "DHC-60.5", "DHC-60.7", "DHC-80.3", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTM-7", "DTM-7.4", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-80.3", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5509", "PR-SC5530", "TX-8270", "TX-8390", "TX-8470", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
+			{ "set308",new HashSet<string>( new string[] { "DHC-60.5", "DHC-60.7", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTM-7", "DTM-7.4", "DTR-20.7", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.6", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5530", "TX-8270", "TX-8390", "TX-8470", "TX-NR1030", "TX-NR3030", "TX-NR474", "TX-NR5100", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR6100", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR7100", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR828", "TX-NR838", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
+			{ "set309",new HashSet<string>( new string[] { "DHC-60.5", "DTR-30.5", "DTR-40.5", "DTR-50.5", "DTR-60.5", "HT-RC560", "TX-NR626", "TX-NR727", "TX-NR828", "TX-NR929" } ) },
+			{ "set310",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-80.1", "DTR-80.2", "DTR-80.3", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR708", "TX-NR709", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR929", "TX-RZ900" } ) },
+			{ "set311",new HashSet<string>( new string[] { "DHC-40.1", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.3", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTM-7", "DTM-7.4", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.1", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.1", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.1", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-80.1", "DTR-80.3", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5507", "PR-SC5509", "PR-SC5530", "TX-8270", "TX-8390", "TX-8470", "TX-NR1007", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5007", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR579", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR609", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR709", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR807", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
+			{ "set312",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DTR-20.3", "DTR-20.4", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-60.5", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-80.1", "DTR-80.2", "DTR-80.3", "HT-RC550", "HT-RC560", "PR-SC5507", "PR-SC5508", "PR-SC5509", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR414", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR579", "TX-NR609", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR708", "TX-NR709", "TX-NR717", "TX-NR727", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR929" } ) },
+			{ "set313",new HashSet<string>( new string[] { "DHC-60.7", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTM-7", "DTM-7.4", "DTR-20.7", "DTR-30.6", "DTR-30.7", "DTR-40.6", "DTR-40.7", "DTR-50.6", "DTR-50.7", "DTR-60.6", "DTR-60.7", "DTR-70.6", "HT-R693", "HT-R993", "HT-RC660", "PR-RZ5100", "PR-SC5530", "TX-8270", "TX-8390", "TX-8470", "TX-NR1030", "TX-NR3030", "TX-NR474", "TX-NR5100", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR6100", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR7100", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR838", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
+			{ "set314",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DTR-20.3", "DTR-20.4", "DTR-30.3", "DTR-30.4", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-80.1", "DTR-80.2", "DTR-80.3", "PR-SC5507", "PR-SC5508", "PR-SC5509", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR414", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR515", "TX-NR515AE", "TX-NR579", "TX-NR609", "TX-NR616", "TX-NR616AE", "TX-NR708", "TX-NR709", "TX-NR717", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE" } ) },
+			{ "set315",new HashSet<string>( new string[] { "DHC-60.5", "DTR-30.5", "DTR-40.5", "DTR-50.5", "DTR-60.5", "HT-RC550", "HT-RC560", "TX-NR525", "TX-NR626", "TX-NR727", "TX-NR828", "TX-NR929" } ) },
+			{ "set316",new HashSet<string>( new string[] { "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-80.2", "DTR-80.3", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-SC5508", "PR-SC5509", "PR-SC5530", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR579", "TX-NR609", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR708", "TX-NR709", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR929", "TX-RZ800", "TX-RZ900" } ) },
+			{ "set317",new HashSet<string>( new string[] { "DHC-40.2", "DHC-80.2", "DTR-40.2", "DTR-50.2", "DTR-70.2", "DTR-80.2", "PR-SC5508", "TX-NR1008", "TX-NR3008", "TX-NR5008", "TX-NR708", "TX-NR808" } ) },
+			{ "set318",new HashSet<string>( new string[] { "DTR-20.4", "DTR-30.4", "DTR-40.4", "DTR-50.4", "DTR-70.4", "TX-NR1010", "TX-NR3010", "TX-NR414", "TX-NR5010", "TX-NR515", "TX-NR515AE", "TX-NR616", "TX-NR616AE", "TX-NR717", "TX-NR818", "TX-NR818AE" } ) },
+			{ "set319",new HashSet<string>( new string[] { "DHC-60.5", "DHC-60.7", "DHC-80.6", "DTR-20.4", "DTR-20.7", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.4", "DTR-70.6", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-SC5530", "TX-NR1010", "TX-NR1030", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR5010", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR929", "TX-RZ800", "TX-RZ900" } ) },
+			{ "set320",new HashSet<string>( new string[] { "DHC-60.5", "DHC-60.7", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTM-7", "DTM-7.4", "DTR-20.4", "DTR-20.7", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.4", "DTR-70.6", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5530", "TX-8270", "TX-8390", "TX-8470", "TX-NR1010", "TX-NR1030", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR474", "TX-NR5010", "TX-NR5100", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR6100", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR7100", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
+			{ "set321",new HashSet<string>( new string[] { "DHC-40.2", "DHC-60.5", "DHC-80.2", "DHC-80.3", "DTR-20.3", "DTR-20.4", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-60.5", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-80.2", "DTR-80.3", "HT-RC550", "HT-RC560", "PR-SC5508", "PR-SC5509", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR414", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR579", "TX-NR609", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR708", "TX-NR709", "TX-NR717", "TX-NR727", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR929" } ) },
+			{ "set322",new HashSet<string>( new string[] { "DHC-60.7", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTM-7", "DTM-7.4", "DTR-20.7", "DTR-30.7", "DTR-40.7", "DTR-50.7", "DTR-60.7", "PR-RZ5100", "TX-8270", "TX-8390", "TX-8470", "TX-NR474", "TX-NR5100", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR6100", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR7100", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
+			{ "set323",new HashSet<string>( new string[] { "DHC-60.5", "DHC-80.3", "DTR-20.3", "DTR-20.4", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-60.5", "DTR-70.3", "DTR-70.4", "DTR-80.3", "HT-RC550", "HT-RC560", "PR-SC5509", "TX-NR1009", "TX-NR1010", "TX-NR3009", "TX-NR3010", "TX-NR414", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR579", "TX-NR609", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR709", "TX-NR717", "TX-NR727", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR929" } ) },
+			{ "set324",new HashSet<string>( new string[] { "DHC-40.2", "DHC-60.5", "DHC-80.2", "DHC-80.3", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-60.5", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-80.2", "DTR-80.3", "HT-RC550", "HT-RC560", "PR-SC5508", "PR-SC5509", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR414", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR579", "TX-NR609", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR708", "TX-NR709", "TX-NR717", "TX-NR727", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR929" } ) },
+			{ "set325",new HashSet<string>( new string[] { "DHC-80.3", "DTR-20.3", "DTR-20.4", "DTR-30.3", "DTR-30.4", "DTR-40.3", "DTR-40.4", "DTR-50.3", "DTR-50.4", "DTR-70.3", "DTR-70.4", "DTR-80.3", "PR-SC5509", "TX-NR1009", "TX-NR1010", "TX-NR3009", "TX-NR3010", "TX-NR414", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR515", "TX-NR515AE", "TX-NR579", "TX-NR609", "TX-NR616", "TX-NR616AE", "TX-NR709", "TX-NR717", "TX-NR809", "TX-NR818", "TX-NR818AE" } ) },
+			{ "set326",new HashSet<string>( new string[] { "DHC-80.3", "DTR-20.4", "DTR-30.3", "DTR-30.4", "DTR-40.3", "DTR-40.4", "DTR-50.3", "DTR-50.4", "DTR-70.3", "DTR-70.4", "DTR-80.3", "PR-SC5509", "TX-NR1009", "TX-NR1010", "TX-NR3009", "TX-NR3010", "TX-NR5009", "TX-NR5010", "TX-NR515", "TX-NR515AE", "TX-NR579", "TX-NR609", "TX-NR616", "TX-NR616AE", "TX-NR709", "TX-NR717", "TX-NR809", "TX-NR818", "TX-NR818AE" } ) },
+			{ "set327",new HashSet<string>( new string[] { "DHC-60.7", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTM-7", "DTM-7.4", "DTR-20.7", "DTR-30.6", "DTR-30.7", "DTR-40.6", "DTR-40.7", "DTR-50.6", "DTR-50.7", "DTR-60.6", "DTR-60.7", "DTR-70.6", "HT-R693", "HT-R993", "HT-RC660", "PR-RZ5100", "PR-SC5530", "TX-8270", "TX-8390", "TX-NR1030", "TX-NR3030", "TX-NR474", "TX-NR5100", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR6100", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR7100", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR838", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
+			{ "set328",new HashSet<string>( new string[] { "DHC-60.5", "DHC-60.7", "DHC-80.6", "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTM-7", "DTM-7.4", "DTR-20.7", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-70.6", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-RZ5100", "PR-SC5530", "TX-8270", "TX-8390", "TX-NR1030", "TX-NR3030", "TX-NR474", "TX-NR5100", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR6100", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR7100", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-NR828", "TX-NR838", "TX-NR929", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ800", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ900", "TX-RZ920" } ) },
+			{ "set329",new HashSet<string>( new string[] { "DRC-R1.1", "DRC-R1.3", "DRX-2.1", "DRX-3.1", "DRX-3.3", "DRX-3.4", "DRX-4.3", "DRX-5.3", "DRX-5.4", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1.1", "DRX-R1.3", "DTM-7", "DTM-7.4", "TX-8270", "TX-8390", "TX-NR474", "TX-NR5100", "TX-NR575", "TX-NR575E", "TX-NR6050", "TX-NR6100", "TX-NR676", "TX-NR676E", "TX-NR696", "TX-NR7100", "TX-NR777", "TX-NR797", "TX-RZ30", "TX-RZ3400", "TX-RZ50", "TX-RZ620", "TX-RZ70", "TX-RZ720", "TX-RZ740", "TX-RZ820", "TX-RZ840", "TX-RZ920" } ) },
+			{ "set330",new HashSet<string>( new string[] { "TX-8470" } ) },
+			{ "set331",new HashSet<string>( new string[] { "DRC-R1.3", "DRX-3.3", "DRX-3.4", "DRX-4.3", "DRX-5.3", "DRX-5.4", "DRX-7.3", "DRX-8.4", "DRX-R1.3", "DTM-7.4", "TX-8390", "TX-NR5100", "TX-NR6050", "TX-NR6100", "TX-NR696", "TX-NR7100", "TX-NR797", "TX-RZ30", "TX-RZ3400", "TX-RZ50", "TX-RZ70", "TX-RZ740", "TX-RZ840" } ) },
+			{ "set332",new HashSet<string>( new string[] { "DRC-R1.3", "DRX-3.3", "DRX-3.4", "DRX-4.3", "DRX-5.3", "DRX-5.4", "DRX-7.3", "DRX-8.4", "DRX-R1.3", "DTM-7.4", "TX-8390", "TX-8470", "TX-NR5100", "TX-NR6050", "TX-NR6100", "TX-NR696", "TX-NR7100", "TX-NR797", "TX-RZ30", "TX-RZ3400", "TX-RZ50", "TX-RZ70", "TX-RZ740", "TX-RZ840" } ) },
+			{ "set333",new HashSet<string>( new string[] { "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTM-7", "DTM-7.4", "PR-RZ5100", "TX-8270", "TX-8390", "TX-NR474", "TX-NR5100", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR6100", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR7100", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ920" } ) },
+			{ "set334",new HashSet<string>( new string[] { "DRC-R1", "DRC-R1.1", "DRC-R1.3", "DRX-2", "DRX-2.1", "DRX-2.3", "DRX-2.4", "DRX-3", "DRX-3.1", "DRX-3.2", "DRX-3.3", "DRX-3.4", "DRX-4", "DRX-4.2", "DRX-4.3", "DRX-5", "DRX-5.2", "DRX-5.3", "DRX-5.4", "DRX-7", "DRX-7.1", "DRX-7.3", "DRX-8.4", "DRX-R1", "DRX-R1.1", "DRX-R1.3", "DTM-7", "DTM-7.4", "DTR-5.2", "PR-RZ5100", "TX-8270", "TX-8390", "TX-NR474", "TX-NR5100", "TX-NR555", "TX-NR575", "TX-NR575E", "TX-NR585", "TX-NR595", "TX-NR6050", "TX-NR6100", "TX-NR656", "TX-NR676", "TX-NR676E", "TX-NR686", "TX-NR696", "TX-NR7100", "TX-NR757", "TX-NR777", "TX-NR787", "TX-NR797", "TX-RZ1100", "TX-RZ30", "TX-RZ3100", "TX-RZ3400", "TX-RZ50", "TX-RZ610", "TX-RZ620", "TX-RZ70", "TX-RZ710", "TX-RZ720", "TX-RZ730", "TX-RZ740", "TX-RZ810", "TX-RZ820", "TX-RZ830", "TX-RZ840", "TX-RZ920" } ) },
+			{ "set335",new HashSet<string>( new string[] { "DTR-8.2", "DTR-9.1", "RDC-7", "TX-DS898", "TX-DS989" } ) },
+			{ "set336",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-80.1", "DHC-80.2", "DTR-40.1", "DTR-40.2", "DTR-50.1", "DTR-50.2", "DTR-70.1", "DTR-70.2", "DTR-80.1", "DTR-80.2", "PR-SC5507", "TX-NR1007", "TX-NR1008", "TX-NR3007", "TX-NR3008", "TX-NR5007", "TX-NR5008", "TX-NR708", "TX-NR807", "TX-NR808", "TX-NR818", "TX-NR818AE" } ) },
+			{ "set337",new HashSet<string>( new string[] { "DHC-40.1", "DHC-80.1", "DTR-40.1", "DTR-50.1", "DTR-70.1", "DTR-80.1", "PR-SC5507", "TX-NR1007", "TX-NR3007", "TX-NR5007", "TX-NR515", "TX-NR515AE", "TX-NR616", "TX-NR616AE", "TX-NR807", "TX-NR818", "TX-NR818AE" } ) },
+			{ "set338",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-80.1", "DHC-80.2", "DTR-40.1", "DTR-40.2", "DTR-50.1", "DTR-50.2", "DTR-70.1", "DTR-70.2", "DTR-80.1", "DTR-80.2", "PR-SC5507", "TX-NR1007", "TX-NR1008", "TX-NR3007", "TX-NR3008", "TX-NR5007", "TX-NR5008", "TX-NR515", "TX-NR515AE", "TX-NR616", "TX-NR616AE", "TX-NR708", "TX-NR807", "TX-NR808", "TX-NR818", "TX-NR818AE" } ) },
+			{ "set339",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DTC-9.8", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-4.6", "DTR-4.9", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.6", "DTR-5.8", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.6", "DTR-6.8", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.8", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-5.8", "DTX-5.9", "DTX-7.7", "DTX-7.8", "DTX-8.8", "DTX-8.9", "DTX-9.9", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC885", "PR-SC886", "TX-NA905", "TX-NA906", "TX-NA906X", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR579", "TX-NR609", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR708", "TX-NR709", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR905", "TX-NR906", "TX-NR929", "TX-RZ800", "TX-RZ900", "TX-SA706", "TX-SA805", "TX-SA806", "TX-SA806X", "TX-SA875", "TX-SA876", "TX-SR703", "TX-SR705", "TX-SR706", "TX-SR707", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR806", "TX-SR875", "TX-SR876" } ) },
+			{ "set340",new HashSet<string>( new string[] { "DTC-9.8", "DTR-4.6", "DTR-5.6", "DTR-5.8", "DTR-6.6", "DTR-6.8", "DTR-7.6", "DTR-7.7", "DTR-7.8", "DTR-8.8", "DTX-5.8", "DTX-7.7", "DTX-7.8", "DTX-8.8", "PR-SC885", "TX-NA905", "TX-NR905", "TX-SA805", "TX-SA875", "TX-SR703", "TX-SR705", "TX-SR803", "TX-SR804", "TX-SR805", "TX-SR875" } ) },
+			{ "set341",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-60.5", "DHC-60.7", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DHC-80.6", "DHC-9.9", "DTR-20.1", "DTR-20.2", "DTR-20.3", "DTR-20.4", "DTR-20.7", "DTR-30.1", "DTR-30.2", "DTR-30.3", "DTR-30.4", "DTR-30.5", "DTR-30.6", "DTR-30.7", "DTR-4.9", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-40.4", "DTR-40.5", "DTR-40.6", "DTR-40.7", "DTR-5.9", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-50.4", "DTR-50.5", "DTR-50.6", "DTR-50.7", "DTR-6.9", "DTR-60.5", "DTR-60.6", "DTR-60.7", "DTR-7.9", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-70.4", "DTR-70.6", "DTR-8.9", "DTR-80.1", "DTR-80.2", "DTR-80.3", "DTR-9.9", "DTX-5.9", "DTX-8.9", "DTX-9.9", "HT-R693", "HT-R993", "HT-RC550", "HT-RC560", "HT-RC660", "PR-SC5507", "PR-SC5508", "PR-SC5509", "PR-SC5530", "PR-SC886", "TX-NA906", "TX-NA906X", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR1010", "TX-NR1030", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR3010", "TX-NR3030", "TX-NR414", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR5010", "TX-NR509", "TX-NR515", "TX-NR515AE", "TX-NR525", "TX-NR535", "TX-NR545", "TX-NR579", "TX-NR609", "TX-NR616", "TX-NR616AE", "TX-NR626", "TX-NR636", "TX-NR646", "TX-NR708", "TX-NR709", "TX-NR717", "TX-NR727", "TX-NR737", "TX-NR747", "TX-NR807", "TX-NR808", "TX-NR809", "TX-NR818", "TX-NR818AE", "TX-NR828", "TX-NR838", "TX-NR906", "TX-NR929", "TX-RZ800", "TX-RZ900", "TX-SA706", "TX-SA806", "TX-SA806X", "TX-SA876", "TX-SR706", "TX-SR707", "TX-SR806", "TX-SR876" } ) },
+			{ "set342",new HashSet<string>( new string[] { "DHC-40.2", "DHC-80.2", "DHC-80.3", "DTR-20.2", "DTR-20.3", "DTR-30.2", "DTR-30.3", "DTR-40.2", "DTR-40.3", "DTR-50.2", "DTR-50.3", "DTR-70.2", "DTR-70.3", "DTR-80.2", "DTR-80.3", "PR-SC5508", "PR-SC5509", "TX-NR1008", "TX-NR1009", "TX-NR3008", "TX-NR3009", "TX-NR5008", "TX-NR5009", "TX-NR509", "TX-NR579", "TX-NR609", "TX-NR708", "TX-NR709", "TX-NR808", "TX-NR809" } ) },
+			{ "set343",new HashSet<string>( new string[] { "DHC-40.1", "DHC-40.2", "DHC-80.1", "DHC-80.2", "DHC-80.3", "DTR-20.2", "DTR-20.3", "DTR-30.2", "DTR-30.3", "DTR-40.1", "DTR-40.2", "DTR-40.3", "DTR-50.1", "DTR-50.2", "DTR-50.3", "DTR-70.1", "DTR-70.2", "DTR-70.3", "DTR-80.1", "DTR-80.2", "DTR-80.3", "PR-SC5507", "PR-SC5508", "PR-SC5509", "TX-NR1007", "TX-NR1008", "TX-NR1009", "TX-NR3007", "TX-NR3008", "TX-NR3009", "TX-NR5007", "TX-NR5008", "TX-NR5009", "TX-NR509", "TX-NR579", "TX-NR609", "TX-NR708", "TX-NR709", "TX-NR807", "TX-NR808", "TX-NR809", "TX-SR707" } ) },
+			{ "set344",new HashSet<string>( new string[] { "DHC-40.2", "DHC-80.2", "DHC-80.3", "DTR-20.2", "DTR-20.3", "DTR-30.2", "DTR-30.3", "DTR-40.2", "DTR-40.3", "DTR-50.2", "DTR-50.3", "DTR-70.2", "DTR-70.3", "DTR-80.2", "DTR-80.3", "PR-SC5508", "PR-SC5509", "TX-NR1008", "TX-NR1009", "TX-NR3008", "TX-NR3009", "TX-NR5008", "TX-NR5009", "TX-NR579", "TX-NR609", "TX-NR708", "TX-NR709", "TX-NR808", "TX-NR809" } ) }
 		};
 	}
 }

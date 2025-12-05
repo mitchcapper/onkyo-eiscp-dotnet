@@ -10,3 +10,8 @@ you can use to get started straight away:
     onkyo system-power:on
     
 is all you need.
+
+
+
+## Generating this Library
+While you can normally use the source directly if doing this yourself you need the `eiscp-commands.yaml` file from the python repo above.  The Generate project here converts that into the .CS classes that the onkyo-eiscp project is then used to compile those .net classes into the library dll. onyko executable is the command line tool.
