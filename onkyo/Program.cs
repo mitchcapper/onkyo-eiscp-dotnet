@@ -8,6 +8,7 @@ using System.Net;
 using Eiscp.Core;
 using Mono.Options;
 using System.Net.Sockets;
+using System.Xml.Linq;
 
 namespace Eiscp
 {
@@ -35,6 +36,10 @@ and uses the first one found.
   --discover            List all discoverable receivers, can limit to a specific host with --host
   --help-commands       List available commands.
 
+Special commands (these are not official by implemented by the CLI):
+  dump_xml - Dump the full XML configuration of the receiver (NRI command)
+  list_inputs to see available input sources
+
 Examples:
   onkyo power:on source:pc volume:75
     Turn receiver on, select ""PC"" source, set volume to 75.
@@ -43,6 +48,7 @@ Examples:
 
 		static int Main(string[] args)
 		{
+			// AltDiscoverTry();return 0;
 			if (args.Length == 0)
 			{
 				Console.WriteLine(usage);
@@ -180,7 +186,7 @@ Examples:
 
 			// Determine the receivers the command should run on
 
-			var receivers = new List<IReceiver>();
+			var receivers = new List<EiscpClient>();
 
 			if (host != null && ! discover)
 			{
@@ -214,7 +220,7 @@ Examples:
 			else
 			{
 				var broadcastLimit = String.IsNullOrWhiteSpace(host) == false ?  Dns.GetHostAddresses(host).FirstOrDefault() : null;
-				receivers = EiscpClient.Discover(timeout: 1, broadcastLimit);
+				receivers = EiscpClient.Discover(timeout: 1, broadcastLimit).Cast<EiscpClient>().ToList();
 
 				if (!all)
 				{
@@ -242,6 +248,24 @@ Examples:
 				{
 					foreach (var cmd in command)
 					{
+						if (cmd == "dump_xml" || cmd == "list_inputs"){
+							var xmlStr = receiver.CommandDetailed("NRI=query",zone:"net")?.ValueName;
+							var doc = XDocument.Parse(xmlStr);
+							if (cmd == "list_inputs"){
+								var selectors = doc.Descendants("selector");
+								Console.WriteLine("Available input sources:");
+								foreach (var selector in selectors){
+									var iid = selector.Attribute("id").Value;
+									var iname = selector.Attribute("name").Value;
+									if (String.IsNullOrWhiteSpace(iid) || String.IsNullOrWhiteSpace(iname))
+										continue;
+									Console.WriteLine("  {0} - {1}", iid, iname);
+								}
+							}else if (cmd == "dump_xml"){
+								Console.WriteLine(doc.ToString());	
+							}
+							continue;
+						}
 						string iscpCommand = null;
 						bool rawResponse = false;
 
@@ -297,5 +321,38 @@ Examples:
 
 			return 0;
 		}
+
+		private static void AltDiscoverTry()
+		{
+			Send();
+		}
+		public static void Send(string MCGroup = "239.255.255.250", int RemotePort = 60128, int ReceivePort = 50000)
+        {
+			 string _SEARCH_COMMAND = "!xECNQSTN";
+        string _SEARCH_PACKET = "ISCP\x00\x00\x00\x10\x00\x00\x00{0}\x01\x00\x00\x00{1}\x0D";
+            try
+            {
+                using (Socket udpSend = new Socket(AddressFamily.InterNetwork,
+                                     SocketType.Dgram, ProtocolType.Udp))
+                {
+
+                    IPEndPoint lip = new IPEndPoint(IPAddress.Any, ReceivePort);
+                    /* Bind to the local IP and ReceivePort, this tags the packet with a return port
+                    if we don't the system will choose a random port for us (which we don't want). */
+                    udpSend.Bind(lip);
+                    IPEndPoint iep = new IPEndPoint(IPAddress.Parse(MCGroup), RemotePort);
+
+                    int length = _SEARCH_COMMAND.Length + 1;
+
+                    byte[] data = Encoding.ASCII.GetBytes(String.Format(_SEARCH_PACKET, (char)length, _SEARCH_COMMAND));
+                    udpSend.SendTo(data, iep);
+                    udpSend.Close();
+                }
+            }
+            catch (SocketException ex)
+            {
+                System.Diagnostics.Debug.WriteLine("Error: {0} {1}", ex.ErrorCode, ex.Message);
+            }
+        }
 	}
 }
