@@ -10,6 +10,9 @@ Newer versions of this library are only possible by getting update ISCP_AVR_*.xl
 
  Brand new receivers will generally work with this library out of the box, but the model filtering will not work as it won't know about the new version.  If you want the model filter functions to work, I recommend finding the prior model number and either editing the library adding the new one to its groups, or tell this library that your model is the last model.
 
+ ## Very Special Thanks
+ - [@vslavik](https://github.com/vslavik) for new ISCP_AVR protocol file:)
+
 
  ## Usage / Binary Versions
 
